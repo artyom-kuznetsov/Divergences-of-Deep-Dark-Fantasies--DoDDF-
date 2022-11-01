@@ -4,123 +4,123 @@
 1827 = {
 	aristocrats = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size = 1350
 	}
 
 	bureaucrats = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size = 90
 	}
 
 	officers = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size = 175
 	}
 
 	clergymen = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size = 675
 	}
 
 	artisans = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size = 4525
 	}
 
 	soldiers = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size= 3000
 
 	}
 
 	soldiers = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size= 3000
 
 	}
 
 	farmers = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size = 65150
 	}
 
 	bureaucrats = {
 		culture = misri
-		religion = sunni
+		religion = catholic
 		size = 180
 	}
 
 	officers = {
 		culture = misri
-		religion = sunni
+		religion = catholic
 		size = 200
 	}
 
 	soldiers = {
 		culture = misri
-		religion = sunni
+		religion = catholic
 		size= 3000
 	}
 
 	aristocrats = {
 		culture = bedouin
-		religion = sunni
+		religion = catholic
 		size = 475
 	}
 
 	clergymen = {
 		culture = bedouin
-		religion = sunni
+		religion = catholic
 		size = 350
 	}
 
 	artisans = {
 		culture = bedouin
-		religion = sunni
+		religion = catholic
 		size = 520
 	}
 
 	soldiers = {
 		culture = bedouin
-		religion = sunni
+		religion = catholic
 		size= 2000
 	}
 
 	farmers = {
 		culture = bedouin
-		religion = sunni
+		religion = catholic
 		size = 32650
 	}
 
 	slaves = {
 		culture = nubian
-		religion = sunni
+		religion = catholic
 		size = 43000
 	}
 	
 	slaves = {
 		culture = nubian
-		religion = coptic
+		religion = catholic
 		size = 1500
 	}
 	
 	farmers = {
 		culture = nubian
-		religion = coptic
+		religion = catholic
 		size = 500
 	}
 
 	slaves = {
 		culture = dinka
-		religion = animist
+		religion = catholic
 		size = 22500
 	}
 }
@@ -128,57 +128,57 @@
 1828 = {
 	aristocrats = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size = 475
 	}
 
 	clergymen = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size = 295
 	}
 
 	artisans = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size = 1950
 	}
 
 	soldiers = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size= 3000
 
 	}
 
 	soldiers = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size= 3000
 
 	}
 
 	farmers = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size = 30250
 	}
 
 	slaves = {
 		culture = nubian
-		religion = sunni
+		religion = catholic
 		size = 20000
 	}
 	
 	slaves = {
 		culture = nubian
-		religion = coptic
+		religion = catholic
 		size = 500
 	}
 
 	slaves = {
 		culture = dinka
-		religion = animist
+		religion = catholic
 		size = 10250
 	}
 }
@@ -186,116 +186,116 @@
 1829 = {
 	aristocrats = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size = 450
 	}
 
 	clergymen = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size = 265
 	}
 
 	artisans = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size = 2150
 	}
 
 	soldiers = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size= 3000
 
 	}
 
 	farmers = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size = 24225
 	}
 
 	aristocrats = {
 		culture = nubian
-		religion = sunni
+		religion = catholic
 		size = 695
 	}
 
 	clergymen = {
 		culture = nubian
-		religion = sunni
+		religion = catholic
 		size = 365
 	}
 
 	artisans = {
 		culture = nubian
-		religion = sunni
+		religion = catholic
 		size = 1550
 	}
 
 	artisans = {
 		culture = nubian
-		religion = coptic
+		religion = catholic
 		size = 200
 	}
 
 	soldiers = {
 		culture = nubian
-		religion = sunni
+		religion = catholic
 		size = 740
 	}
 
 	farmers = {
 		culture = nubian
-		religion = sunni
+		religion = catholic
 		size = 31000
 	}
 
 	farmers = {
 		culture = nubian
-		religion = coptic
+		religion = catholic
 		size = 1225
 	}
 
 	slaves = {
 		culture = nubian
-		religion = sunni
+		religion = catholic
 		size = 14500
 	}
 	
 	slaves = {
 		culture = nubian
-		religion = sunni
+		religion = catholic
 		size = 500
 	}
 
 	aristocrats = {
 		culture = beja
-		religion = sunni
+		religion = catholic
 		size = 125
 	}
 
 	clergymen = {
 		culture = beja
-		religion = sunni
+		religion = catholic
 		size = 100
 	}
 
 	artisans = {
 		culture = beja
-		religion = sunni
+		religion = catholic
 		size = 350
 	}
 
 	soldiers = {
 		culture = beja
-		religion = sunni
+		religion = catholic
 		size= 500
 	}
 
 	farmers = {
 		culture = beja
-		religion = sunni
+		religion = catholic
 		size = 14625
 	}
 }
@@ -303,105 +303,105 @@
 1830 = {
 	aristocrats = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size = 675
 	}
 
 	clergymen = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size = 350
 	}
 
 	artisans = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size = 2150
 	}
 
 	soldiers = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size= 3000
 
 	}
 
 	farmers = {
 		culture = nubian
-		religion = coptic
+		religion = catholic
 		size = 200
 	}
 	
 	farmers = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size = 41725
 	}
 
 	aristocrats = {
 		culture = shilluk
-		religion = sunni
+		religion = catholic
 		size = 250
 	}
 
 	clergymen = {
 		culture = shilluk
-		religion = sunni
+		religion = catholic
 		size = 155
 	}
 
 	artisans = {
 		culture = shilluk
-		religion = sunni
+		religion = catholic
 		size = 700
 	}
 
 	soldiers = {
 		culture = shilluk
-		religion = sunni
+		religion = catholic
 		size= 1250
 	}
 
 	farmers = {
 		culture = shilluk
-		religion = sunni
+		religion = catholic
 		size = 19625
 	}
 
 	slaves = {
 		culture = shilluk
-		religion = animist
+		religion = catholic
 		size = 13500
 	}
 
 	aristocrats = {
 		culture = dinka
-		religion = animist
+		religion = catholic
 		size = 300
 	}
 
 	clergymen = {
 		culture = dinka
-		religion = animist
+		religion = catholic
 		size = 180
 	}
 
 	artisans = {
 		culture = dinka
-		religion = animist
+		religion = catholic
 		size = 750
 	}
 
 	soldiers = {
 		culture = dinka
-		religion = animist
+		religion = catholic
 		size= 550
 
 	}
 
 	farmers = {
 		culture = dinka
-		religion = animist
+		religion = catholic
 		size = 20300
 	}
 }
@@ -409,68 +409,68 @@
 1831 = {
 	aristocrats = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size = 520
 	}
 
 	clergymen = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size = 250
 	}
 
 	artisans = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size = 2075
 	}
 
 	soldiers = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size= 3000
 
 	}
 
 	farmers = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size = 28475
 	}
 
 	aristocrats = {
 		culture = dinka
-		religion = animist
+		religion = catholic
 		size = 360
 	}
 
 	clergymen = {
 		culture = dinka
-		religion = animist
+		religion = catholic
 		size = 210
 	}
 
 	artisans = {
 		culture = dinka
-		religion = animist
+		religion = catholic
 		size = 550
 	}
 
 	soldiers = {
 		culture = dinka
-		religion = animist
+		religion = catholic
 		size= 450
 	}
 
 	farmers = {
 		culture = dinka
-		religion = animist
+		religion = catholic
 		size = 20775
 	}
 
 	slaves = {
 		culture = shilluk
-		religion = animist
+		religion = catholic
 		size = 10500
 	}
 }
@@ -478,129 +478,129 @@
 1832 = {
 	aristocrats = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size = 175
 	}
 
 	clergymen = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size = 315
 	}
 
 	artisans = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size = 575
 	}
 
 	soldiers = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size= 2000
 	}
 
 	farmers = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size = 10750
 	}
 
 	aristocrats = {
 		culture = dinka
-		religion = animist
+		religion = catholic
 		size = 625
 	}
 
 	clergymen = {
 		culture = dinka
-		religion = animist
+		religion = catholic
 		size = 280
 	}
 
 	artisans = {
 		culture = dinka
-		religion = animist
+		religion = catholic
 		size = 17650
 	}
 
 	soldiers = {
 		culture = dinka
-		religion = animist
+		religion = catholic
 		size= 2000
 
 	}
 
 	farmers = {
 		culture = dinka
-		religion = animist
+		religion = catholic
 		size = 31275
 	}
 
 	aristocrats = {
 		culture = nuer
-		religion = animist
+		religion = catholic
 		size = 1010
 	}
 
 	clergymen = {
 		culture = nuer
-		religion = animist
+		religion = catholic
 		size = 625
 	}
 
 	artisans = {
 		culture = nuer
-		religion = animist
+		religion = catholic
 		size = 2900
 	}
 
 	soldiers = {
 		culture = nuer
-		religion = animist
+		religion = catholic
 		size= 3000
 
 	}
 
 	farmers = {
 		culture = nuer
-		religion = animist
+		religion = catholic
 		size = 68750
 	}
 
 	aristocrats = {
 		culture = shilluk
-		religion = animist
+		religion = catholic
 		size = 450
 	}
 
 	clergymen = {
 		culture = shilluk
-		religion = animist
+		religion = catholic
 		size = 265
 	}
 
 	artisans = {
 		culture = shilluk
-		religion = animist
+		religion = catholic
 		size = 1055
 	}
 
 	soldiers = {
 		culture = shilluk
-		religion = animist
+		religion = catholic
 		size= 1500
 	}
 
 	farmers = {
 		culture = shilluk
-		religion = animist
+		religion = catholic
 		size = 39565
 	}
 
 	slaves = {
 		culture = shilluk
-		religion = animist
+		religion = catholic
 		size = 24500
 	}
 }
@@ -610,140 +610,140 @@
 1833 = {
 	aristocrats = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size = 125
 	}
 
 	bureaucrats = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size = 50
 	}
 
 	officers = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size = 65
 	}
 
 	clergymen = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size = 75
 	}
 
 	artisans = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size = 315
 	}
 
 	soldiers = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size= 150
 	}
 
 	farmers = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size = 4475
 	}
 
 	farmers = {
 		culture = nubian
-		religion = coptic
+		religion = catholic
 		size = 100
 	}
 
 	aristocrats = {
 		culture = bedouin
-		religion = sunni
+		religion = catholic
 		size = 225
 	}
 
 	clergymen = {
 		culture = bedouin
-		religion = sunni
+		religion = catholic
 		size = 110
 	}
 
 	artisans = {
 		culture = bedouin
-		religion = sunni
+		religion = catholic
 		size = 450
 	}
 
 	soldiers = {
 		culture = bedouin
-		religion = sunni
+		religion = catholic
 		size= 500
 	}
 
 	farmers = {
 		culture = bedouin
-		religion = sunni
+		religion = catholic
 		size = 5675
 	}
 
 	aristocrats = {
 		culture = beja
-		religion = sunni
+		religion = catholic
 		size = 55
 	}
 
 	clergymen = {
 		culture = beja
-		religion = sunni
+		religion = catholic
 		size = 75
 	}
 
 	artisans = {
 		culture = beja
-		religion = sunni
+		religion = catholic
 		size = 155
 	}
 
 	soldiers = {
 		culture = beja
-		religion = sunni
+		religion = catholic
 		size= 300
 
 	}
 
 	farmers = {
 		culture = beja
-		religion = sunni
+		religion = catholic
 		size = 2600
 	}
 
 	farmers = {
 		culture = nubian
-		religion = sunni
+		religion = catholic
 		size = 3075
 	}
 
 	slaves = {
 		culture = nubian
-		religion = sunni
+		religion = catholic
 		size = 3500
 	}
 
 	aristocrats = {
 		culture = turkish
-		religion = sunni
+		religion = catholic
 		size = 125
 	}
 
 	bureaucrats = {
 		culture = turkish
-		religion = sunni
+		religion = catholic
 		size = 75
 	}
 
 	officers = {
 		culture = turkish
-		religion = sunni
+		religion = catholic
 		size = 80
 	}
 }
@@ -751,105 +751,105 @@
 1834 = {
 	aristocrats = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size = 125
 	}
 
 	clergymen = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size = 90
 	}
 
 	artisans = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size = 410
 	}
 
 	soldiers = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size= 150
 
 	}
 
 	farmers = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size = 4575
 	}
 
 	aristocrats = {
 		culture = bedouin
-		religion = sunni
+		religion = catholic
 		size = 80
 	}
 
 	clergymen = {
 		culture = bedouin
-		religion = sunni
+		religion = catholic
 		size = 100
 	}
 
 	artisans = {
 		culture = bedouin
-		religion = sunni
+		religion = catholic
 		size = 205
 	}
 
 	soldiers = {
 		culture = bedouin
-		religion = sunni
+		religion = catholic
 		size= 250
 	}
 
 	farmers = {
 		culture = bedouin
-		religion = sunni
+		religion = catholic
 		size = 3800
 	}
 
 	aristocrats = {
 		culture = beja
-		religion = sunni
+		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
 		culture = beja
-		religion = sunni
+		religion = catholic
 		size = 100
 	}
 
 	artisans = {
 		culture = beja
-		religion = sunni
+		religion = catholic
 		size = 210
 	}
 
 	soldiers = {
 		culture = beja
-		religion = sunni
+		religion = catholic
 		size= 300
 
 	}
 
 	farmers = {
 		culture = beja
-		religion = sunni
+		religion = catholic
 		size = 4100
 	}
 
 	farmers = {
 		culture = nubian
-		religion = sunni
+		religion = catholic
 		size = 3415
 	}
 	
 	farmers = {
 		culture = nubian
-		religion = coptic
+		religion = catholic
 		size = 300
 	}
 }
@@ -859,128 +859,128 @@
 1835 = {
 	aristocrats = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size = 85
 	}
 
 	bureaucrats = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size = 35
 	}
 
 	officers = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size = 70
 	}
 
 	clergymen = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size = 105
 	}
 
 	artisans = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size = 270
 	}
 
 	soldiers = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size= 500
 
 	}
 
 	farmers = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size = 4100
 	}
 
 	aristocrats = {
 		culture = bedouin
-		religion = sunni
+		religion = catholic
 		size = 325
 	}
 
 	clergymen = {
 		culture = bedouin
-		religion = sunni
+		religion = catholic
 		size = 165
 	}
 
 	artisans = {
 		culture = bedouin
-		religion = sunni
+		religion = catholic
 		size = 1100
 	}
 
 	soldiers = {
 		culture = bedouin
-		religion = sunni
+		religion = catholic
 		size= 565
 	}
 
 	farmers = {
 		culture = bedouin
-		religion = sunni
+		religion = catholic
 		size = 6885
 	}
 
 	farmers = {
 		culture = nubian
-		religion = sunni
+		religion = catholic
 		size = 15650
 	}
 
 	slaves = {
 		culture = nubian
-		religion = sunni
+		religion = catholic
 		size = 6225
 	}
 	
 	farmers = {
 		culture = nubian
-		religion = coptic
+		religion = catholic
 		size = 100
 	}
 	
 	slaves = {
 		culture = nubian
-		religion = coptic
+		religion = catholic
 		size = 400
 	}
 
 	aristocrats = {
 		culture = beja
-		religion = sunni
+		religion = catholic
 		size = 30
 	}
 
 	clergymen = {
 		culture = beja
-		religion = sunni
+		religion = catholic
 		size = 45
 	}
 
 	artisans = {
 		culture = beja
-		religion = sunni
+		religion = catholic
 		size = 90
 	}
 
 	soldiers = {
 		culture = beja
-		religion = sunni
+		religion = catholic
 		size= 100
 	}
 
 	farmers = {
 		culture = beja
-		religion = sunni
+		religion = catholic
 		size = 2295
 	}
 }
@@ -988,104 +988,104 @@
 1836 = {
 	aristocrats = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size = 85
 	}
 
 	artisans = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size = 245
 	}
 
 	soldiers = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size= 150
 	}
 
 	farmers = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size = 4725
 	}
 
 	aristocrats = {
 		culture = bedouin
-		religion = sunni
+		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
 		culture = bedouin
-		religion = sunni
+		religion = catholic
 		size = 95
 	}
 
 	artisans = {
 		culture = bedouin
-		religion = sunni
+		religion = catholic
 		size = 265
 	}
 
 	soldiers = {
 		culture = bedouin
-		religion = sunni
+		religion = catholic
 		size= 250
 	}
 
 	farmers = {
 		culture = bedouin
-		religion = sunni
+		religion = catholic
 		size = 4500
 	}
 
 	aristocrats = {
 		culture = beja
-		religion = sunni
+		religion = catholic
 		size = 385
 	}
 
 	clergymen = {
 		culture = beja
-		religion = sunni
+		religion = catholic
 		size = 215
 	}
 
 	artisans = {
 		culture = beja
-		religion = sunni
+		religion = catholic
 		size = 1100
 	}
 
 	soldiers = {
 		culture = beja
-		religion = sunni
+		religion = catholic
 		size= 600
 
 	}
 
 	farmers = {
 		culture = beja
-		religion = sunni
+		religion = catholic
 		size = 22400
 	}
 
 	farmers = {
 		culture = nubian
-		religion = sunni
+		religion = catholic
 		size = 9500
 	}
 	
 	slaves = {
 		culture = nubian
-		religion = coptic
+		religion = catholic
 		size = 100
 	}
 }
@@ -1093,109 +1093,109 @@
 1837 = {
 	aristocrats = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size = 25
 	}
 
 	clergymen = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size = 40
 	}
 
 	artisans = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size = 75
 	}
 
 	soldiers = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size = 175
 	}
 
 	farmers = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size = 1300
 	}
 
 	aristocrats = {
 		culture = bedouin
-		religion = sunni
+		religion = catholic
 		size = 125
 	}
 
 	clergymen = {
 		culture = bedouin
-		religion = sunni
+		religion = catholic
 		size = 85
 	}
 
 	artisans = {
 		culture = bedouin
-		religion = sunni
+		religion = catholic
 		size = 365
 	}
 
 	soldiers = {
 		culture = bedouin
-		religion = sunni
+		religion = catholic
 		size = 250
 	}
 
 	farmers = {
 		culture = bedouin
-		religion = sunni
+		religion = catholic
 		size = 8475
 	}
 
 	aristocrats = {
 		culture = beja
-		religion = sunni
+		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
 		culture = beja
-		religion = sunni
+		religion = catholic
 		size = 115
 	}
 
 	artisans = {
 		culture = beja
-		religion = sunni
+		religion = catholic
 		size = 250
 	}
 
 	soldiers = {
 		culture = beja
-		religion = sunni
+		religion = catholic
 		size = 100
 	}
 
 	farmers = {
 		culture = beja
-		religion = sunni
+		religion = catholic
 		size = 4100
 	}
 
 	farmers = {
 		culture = nubian
-		religion = sunni
+		religion = catholic
 		size = 3630
 	}
 	
 	farmers = {
 		culture = nubian
-		religion = coptic
+		religion = catholic
 		size = 250
 	}
 	
 	slaves = {
 		culture = nubian
-		religion = coptic
+		religion = catholic
 		size = 100
 	}
 }
@@ -1203,31 +1203,31 @@
 2564 = {
 	aristocrats = {
 		culture = bedouin
-		religion = sunni
+		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
 		culture = bedouin
-		religion = sunni
+		religion = catholic
 		size = 75
 	}
 
 	artisans = {
 		culture = bedouin
-		religion = sunni
+		religion = catholic
 		size = 150
 	}
 
 	soldiers = {
 		culture = bedouin
-		religion = sunni
+		religion = catholic
 		size= 100
 	}
 
 	farmers = {
 		culture = bedouin
-		religion = sunni
+		religion = catholic
 		size = 2400
 	}
 }
@@ -1235,31 +1235,31 @@
 1806 = {
 	aristocrats = {
 		culture = beja
-		religion = sunni
+		religion = catholic
 		size = 25
 	}
 
 	clergymen = {
 		culture = beja
-		religion = sunni
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
 		culture = beja
-		religion = sunni
+		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
 		culture = beja
-		religion = sunni
+		religion = catholic
 		size = 25
 	}
 
 	farmers = {
 		culture = beja
-		religion = sunni
+		religion = catholic
 		size = 500
 	}
 }
@@ -1269,90 +1269,90 @@
 1838 = {
 	aristocrats = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size = 660
 	}
 
 	bureaucrats = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size = 55
 	}
 
 	officers = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size = 145
 	}
 
 	clergymen = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size = 295
 	}
 
 	artisans = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size = 1200
 	}
 
 	soldiers = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size= 3000
 	}
 
 	farmers = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size = 26675
 	}
 
 	slaves = {
 		culture = bedouin
-		religion = sunni
+		religion = catholic
 		size = 23500
 	}
 		aristocrats = {
 		culture = fur
-		religion = sunni
+		religion = catholic
 		size = 25
 	}
 
 	officers = {
 		culture = fur
-		religion = sunni
+		religion = catholic
 		size = 25
 	}
 
 	clergymen = {
 		culture = fur
-		religion = sunni
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
 		culture = fur
-		religion = sunni
+		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
 		culture = fur
-		religion = sunni
+		religion = catholic
 		size = 200
 	}
 
 	farmers = {
 		culture = fur
-		religion = sunni
+		religion = catholic
 		size = 500
 	}
 
 	slaves = {
 		culture = fur
-		religion = animist
+		religion = catholic
 		size = 200
 	}
 }
@@ -1360,85 +1360,85 @@
 1839 = {
 	aristocrats = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size = 135
 	}
 	
 	bureaucrats = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size = 45
 	}	
 
 	aristocrats = {
 		culture = dinka
-		religion = animist
+		religion = catholic
 		size = 675
 	}
 
 	clergymen = {
 		culture = dinka
-		religion = animist
+		religion = catholic
 		size = 350
 	}
 
 	artisans = {
 		culture = dinka
-		religion = animist
+		religion = catholic
 		size = 1350
 	}
 
 	soldiers = {
 		culture = dinka
-		religion = animist
+		religion = catholic
 		size= 3000
 	}
 
 	farmers = {
 		culture = dinka
-		religion = animist
+		religion = catholic
 		size = 32950
 	}
 
 	aristocrats = {
 		culture = nuba
-		religion = sunni
+		religion = catholic
 		size = 265
 	}
 
 	clergymen = {
 		culture = nuba
-		religion = sunni
+		religion = catholic
 		size = 155
 	}
 
 	artisans = {
 		culture = nuba
-		religion = sunni
+		religion = catholic
 		size = 775
 	}
 
 	soldiers = {
 		culture = nuba
-		religion = sunni
+		religion = catholic
 		size = 3000
 	}
 
 	soldiers = {
 		culture = nuba
-		religion = sunni
+		religion = catholic
 		size = 1000
 	}
 
 	farmers = {
 		culture = nuba
-		religion = sunni
+		religion = catholic
 		size = 11500
 	}
 
 	slaves = {
 		culture = shilluk
-		religion = animist
+		religion = catholic
 		size = 23750
 	}
 }
@@ -1446,80 +1446,80 @@
 1840 = {
 	aristocrats = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size = 300
 	}
 	
 	bureaucrats = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size = 100
 	}
 	
 	aristocrats = {
 		culture = nuba
-		religion = sunni
+		religion = catholic
 		size = 775
 	}
 
 	clergymen = {
 		culture = nuba
-		religion = sunni
+		religion = catholic
 		size = 305
 	}
 
 	artisans = {
 		culture = nuba
-		religion = sunni
+		religion = catholic
 		size = 2095
 	}
 
 	soldiers = {
 		culture = nuba
-		religion = sunni
+		religion = catholic
 		size= 3000
 
 	}
 
 	farmers = {
 		culture = nuba
-		religion = sunni
+		religion = catholic
 		size = 45450
 	}
 
 	slaves = {
 		culture = nuba
-		religion = sunni
+		religion = catholic
 		size = 19250
 	}
 
 	aristocrats = {
 		culture = shilluk
-		religion = animist
+		religion = catholic
 		size = 445
 	}
 
 	clergymen = {
 		culture = shilluk
-		religion = animist
+		religion = catholic
 		size = 275
 	}
 
 	artisans = {
 		culture = shilluk
-		religion = animist
+		religion = catholic
 		size = 1550
 	}
 
 	soldiers = {
 		culture = shilluk
-		religion = animist
+		religion = catholic
 		size= 1750
 	}
 
 	farmers = {
 		culture = shilluk
-		religion = animist
+		religion = catholic
 		size = 33550
 	}
 }
@@ -1529,113 +1529,113 @@
 1841 = {
 	aristocrats = {
 		culture = fur
-		religion = sunni
+		religion = catholic
 		size = 1350
 	}
 
 	bureaucrats = {
 		culture = fur
-		religion = sunni
+		religion = catholic
 		size = 120
 	}
 
 	officers = {
 		culture = fur
-		religion = sunni
+		religion = catholic
 		size = 265
 	}
 
 	clergymen = {
 		culture = fur
-		religion = sunni
+		religion = catholic
 		size = 1005
 	}
 
 	artisans = {
 		culture = fur
-		religion = sunni
+		religion = catholic
 		size = 3500
 	}
 
 	soldiers = {
 		culture = fur
-		religion = sunni
+		religion = catholic
 		size= 3000
 	}
 
 	farmers = {
 		culture = fur
-		religion = sunni
+		religion = catholic
 		size = 76500
 	}
 	aristocrats = {
 		culture = nuba
-		religion = sunni
+		religion = catholic
 		size = 350
 	}
 
 	clergymen = {
 		culture = nuba
-		religion = sunni
+		religion = catholic
 		size = 235
 	}
 
 	artisans = {
 		culture = nuba
-		religion = sunni
+		religion = catholic
 		size = 595
 	}
 
 	soldiers = {
 		culture = nuba
-		religion = sunni
+		religion = catholic
 		size= 1000
 	}
 
 	farmers = {
 		culture = nuba
-		religion = sunni
+		religion = catholic
 		size = 4875
 	}
 
 	slaves = {
 		culture = nuba
-		religion = sunni
+		religion = catholic
 		size = 9650
 	}
 
 	aristocrats = {
 		culture = shilluk
-		religion = animist
+		religion = catholic
 		size = 195
 	}
 
 	clergymen = {
 		culture = shilluk
-		religion = animist
+		religion = catholic
 		size = 170
 	}
 
 	artisans = {
 		culture = shilluk
-		religion = animist
+		religion = catholic
 		size = 875
 	}
 
 	soldiers = {
 		culture = shilluk
-		religion = animist
+		religion = catholic
 		size= 3000
 	}
 
 	farmers = {
 		culture = shilluk
-		religion = animist
+		religion = catholic
 		size = 15925
 	}
 	slaves = {
 		culture = teda
-		religion = sunni
+		religion = catholic
 		size = 4000
 	}
 }
@@ -1643,66 +1643,66 @@
 1842 = {
 	aristocrats = {
 		culture = fur
-		religion = sunni
+		religion = catholic
 		size = 825
 	}
 
 	clergymen = {
 		culture = fur
-		religion = sunni
+		religion = catholic
 		size = 405
 	}
 
 	artisans = {
 		culture = fur
-		religion = sunni
+		religion = catholic
 		size = 2250
 	}
 
 	soldiers = {
 		culture = fur
-		religion = sunni
+		religion = catholic
 		size= 3000
 
 	}
 
 	farmers = {
 		culture = fur
-		religion = sunni
+		religion = catholic
 		size = 48500
 	}
 	aristocrats = {
 		culture = bedouin
-		religion = sunni
+		religion = catholic
 		size = 175
 	}
 
 	clergymen = {
 		culture = bedouin
-		religion = sunni
+		religion = catholic
 		size = 200
 	}
 
 	artisans = {
 		culture = bedouin
-		religion = sunni
+		religion = catholic
 		size = 400
 	}
 
 	soldiers = {
 		culture = bedouin
-		religion = sunni
+		religion = catholic
 		size= 2000
 	}
 
 	farmers = {
 		culture = bedouin
-		religion = sunni
+		religion = catholic
 		size = 14650
 	}
 	slaves = {
 		culture = teda
-		religion = sunni
+		religion = catholic
 		size = 20400
 	}
 }
@@ -1710,104 +1710,104 @@
 1843 = {
 	aristocrats = {
 		culture = fur
-		religion = sunni
+		religion = catholic
 		size = 165
 	}
 
 	clergymen = {
 		culture = fur
-		religion = sunni
+		religion = catholic
 		size = 150
 	}
 
 	artisans = {
 		culture = fur
-		religion = sunni
+		religion = catholic
 		size = 445
 	}
 
 	soldiers = {
 		culture = fur
-		religion = sunni
+		religion = catholic
 		size= 1000
 
 	}
 
 	farmers = {
 		culture = fur
-		religion = sunni
+		religion = catholic
 		size = 14450
 	}
 
 	aristocrats = {
 		culture = shilluk
-		religion = animist
+		religion = catholic
 		size = 185
 	}
 
 	clergymen = {
 		culture = shilluk
-		religion = animist
+		religion = catholic
 		size = 75
 	}
 
 	artisans = {
 		culture = shilluk
-		religion = animist
+		religion = catholic
 		size = 400
 	}
 
 	soldiers = {
 		culture = shilluk
-		religion = animist
+		religion = catholic
 		size= 750
 	}
 
 	farmers = {
 		culture = shilluk
-		religion = animist
+		religion = catholic
 		size = 12475
 	}
 
 	slaves = {
 		culture = shilluk
-		religion = animist
+		religion = catholic
 		size = 9500
 	}
 
 	aristocrats = {
 		culture = nuba
-		religion = sunni
+		religion = catholic
 		size = 370
 	}
 
 	clergymen = {
 		culture = nuba
-		religion = sunni
+		religion = catholic
 		size = 180
 	}
 
 	artisans = {
 		culture = nuba
-		religion = sunni
+		religion = catholic
 		size = 705
 	}
 
 	soldiers = {
 		culture = nuba
-		religion = sunni
+		religion = catholic
 		size= 1250
 	}
 
 	farmers = {
 		culture = nuba
-		religion = sunni
+		religion = catholic
 		size = 24050
 	}
 
 	slaves = {
 		culture = nuba
-		religion = sunni
+		religion = catholic
 		size = 12700
 	}
 }
@@ -1817,109 +1817,109 @@
 1844 = {
 	aristocrats = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size = 670
 	}
 	
 	bureaucrats = {
 		culture = sudanese
-		religion = sunni
+		religion = catholic
 		size = 225
 	}	
 	
 	aristocrats = {
 		culture = nuer
-		religion = animist
+		religion = catholic
 		size = 495
 	}
 
 	clergymen = {
 		culture = nuer
-		religion = animist
+		religion = catholic
 		size = 390
 	}
 
 	artisans = {
 		culture = nuer
-		religion = animist
+		religion = catholic
 		size = 950
 	}
 
 	soldiers = {
 		culture = nuer
-		religion = animist
+		religion = catholic
 		size= 3000
 	}
 
 	farmers = {
 		culture = nuer
-		religion = animist
+		religion = catholic
 		size = 30675
 	}
 
 	aristocrats = {
 		culture = dinka
-		religion = animist
+		religion = catholic
 		size = 330
 	}
 
 	clergymen = {
 		culture = dinka
-		religion = animist
+		religion = catholic
 		size = 295
 	}
 
 	artisans = {
 		culture = dinka
-		religion = animist
+		religion = catholic
 		size = 825
 	}
 
 	soldiers = {
 		culture = dinka
-		religion = animist
+		religion = catholic
 		size= 1500
 	}
 
 	farmers = {
 		culture = dinka
-		religion = animist
+		religion = catholic
 		size = 18375
 	}
 
 	aristocrats = {
 		culture = shilluk
-		religion = sunni
+		religion = catholic
 		size = 600
 	}
 
 	clergymen = {
 		culture = shilluk
-		religion = sunni
+		religion = catholic
 		size = 265
 	}
 
 	artisans = {
 		culture = shilluk
-		religion = sunni
+		religion = catholic
 		size = 1755
 	}
 
 	soldiers = {
 		culture = shilluk
-		religion = sunni
+		religion = catholic
 		size= 3000
 	}
 
 	soldiers = {
 		culture = shilluk
-		religion = sunni
+		religion = catholic
 		size= 1000
 	}
 
 	farmers = {
 		culture = shilluk
-		religion = sunni
+		religion = catholic
 		size = 30025
 	}
 }
@@ -1927,97 +1927,97 @@
 1845 = {
 	aristocrats = {
 		culture = fur
-		religion = sunni
+		religion = catholic
 		size = 165
 	}
 
 	clergymen = {
 		culture = fur
-		religion = sunni
+		religion = catholic
 		size = 115
 	}
 
 	artisans = {
 		culture = fur
-		religion = sunni
+		religion = catholic
 		size = 225
 	}
 
 	soldiers = {
 		culture = fur
-		religion = sunni
+		religion = catholic
 		size= 2000
 	}
 
 	farmers = {
 		culture = fur
-		religion = sunni
+		religion = catholic
 		size = 15150
 	}
 
 	aristocrats = {
 		culture = azande
-		religion = animist
+		religion = catholic
 		size = 725
 	}
 
 	clergymen = {
 		culture = azande
-		religion = animist
+		religion = catholic
 		size = 895
 	}
 
 	artisans = {
 		culture = azande
-		religion = animist
+		religion = catholic
 		size = 1995
 	}
 
 	soldiers = {
 		culture = azande
-		religion = animist
+		religion = catholic
 		size= 2500
 	}
 
 	farmers = {
 		culture = azande
-		religion = animist
+		religion = catholic
 		size = 52500
 	}
 
 	slaves = {
 		culture = azande
-		religion = animist
+		religion = catholic
 		size = 26600
 	}
 
 	clergymen = {
 		culture = shilluk
-		religion = animist
+		religion = catholic
 		size = 145
 	}
 
 	artisans = {
 		culture = shilluk
-		religion = animist
+		religion = catholic
 		size = 865
 	}
 
 	soldiers = {
 		culture = shilluk
-		religion = animist
+		religion = catholic
 		size= 1000
 	}
 
 	farmers = {
 		culture = shilluk
-		religion = animist
+		religion = catholic
 		size = 7275
 	}
 
 	slaves = {
 		culture = shilluk
-		religion = animist
+		religion = catholic
 		size = 18250
 	}
 }
@@ -2025,98 +2025,98 @@
 1846 = {
 	aristocrats = {
 		culture = azande
-		religion = animist
+		religion = catholic
 		size = 635
 	}
 
 	clergymen = {
 		culture = azande
-		religion = animist
+		religion = catholic
 		size = 340
 	}
 
 	artisans = {
 		culture = azande
-		religion = animist
+		religion = catholic
 		size = 2350
 	}
 
 	soldiers = {
 		culture = azande
-		religion = animist
+		religion = catholic
 		size= 1500
 
 	}
 
 	farmers = {
 		culture = azande
-		religion = animist
+		religion = catholic
 		size = 47850
 	}
 
 	aristocrats = {
 		culture = nuer
-		religion = animist
+		religion = catholic
 		size = 605
 	}
 
 	clergymen = {
 		culture = nuer
-		religion = animist
+		religion = catholic
 		size = 295
 	}
 
 	artisans = {
 		culture = nuer
-		religion = animist
+		religion = catholic
 		size = 1900
 	}
 
 	soldiers = {
 		culture = nuer
-		religion = animist
+		religion = catholic
 		size= 2000
 	}
 
 	farmers = {
 		culture = nuer
-		religion = animist
+		religion = catholic
 		size = 35400
 	}
 
 	aristocrats = {
 		culture = shilluk
-		religion = animist
+		religion = catholic
 		size = 530
 	}
 
 	clergymen = {
 		culture = shilluk
-		religion = animist
+		religion = catholic
 		size = 295
 	}
 
 	artisans = {
 		culture = shilluk
-		religion = animist
+		religion = catholic
 		size = 1290
 	}
 
 	soldiers = {
 		culture = shilluk
-		religion = animist
+		religion = catholic
 		size= 2250
 	}
 
 	farmers = {
 		culture = shilluk
-		religion = animist
+		religion = catholic
 		size = 41150
 	}
 
 	slaves = {
 		culture = shilluk
-		religion = animist
+		religion = catholic
 		size = 5150
 	}
 }
@@ -2124,91 +2124,91 @@
 1847 = {
 	aristocrats = {
 		culture = luo
-		religion = animist
+		religion = catholic
 		size = 645
 	}
 
 	clergymen = {
 		culture = luo
-		religion = animist
+		religion = catholic
 		size = 315
 	}
 
 	artisans = {
 		culture = luo
-		religion = animist
+		religion = catholic
 		size = 2000
 	}
 
 	soldiers = {
 		culture = luo
-		religion = animist
+		religion = catholic
 		size= 2500
 	}
 
 	farmers = {
 		culture = luo
-		religion = animist
+		religion = catholic
 		size = 48250
 	}
 
 	aristocrats = {
 		culture = shilluk
-		religion = animist
+		religion = catholic
 		size = 275
 	}
 
 	clergymen = {
 		culture = shilluk
-		religion = animist
+		religion = catholic
 		size = 170
 	}
 
 	artisans = {
 		culture = shilluk
-		religion = animist
+		religion = catholic
 		size = 1895
 	}
 
 	soldiers = {
 		culture = shilluk
-		religion = animist
+		religion = catholic
 		size= 3000
 	}
 
 	farmers = {
 		culture = shilluk
-		religion = animist
+		religion = catholic
 		size = 28523
 	}
 
 	aristocrats = {
 		culture = azande
-		religion = animist
+		religion = catholic
 		size = 360
 	}
 
 	clergymen = {
 		culture = azande
-		religion = animist
+		religion = catholic
 		size = 110
 	}
 
 	artisans = {
 		culture = azande
-		religion = animist
+		religion = catholic
 		size = 660
 	}
 
 	soldiers = {
 		culture = azande
-		religion = animist
+		religion = catholic
 		size= 1250
 	}
 
 	farmers = {
 		culture = azande
-		religion = animist
+		religion = catholic
 		size = 8250
 	}
 

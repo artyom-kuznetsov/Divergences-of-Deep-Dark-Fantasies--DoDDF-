@@ -1,10 +1,3 @@
-leader = {
-	name = "Grigore Catelli"
-	type = land
-	date = 1836.1.1
-	personality = choleric
-	background = armchair_general
-}
 
 army = {
 	name = "Armata Principatul Moldovei"

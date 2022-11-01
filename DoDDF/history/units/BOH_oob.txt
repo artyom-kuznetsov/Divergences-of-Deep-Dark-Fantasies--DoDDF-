@@ -68,46 +68,6 @@ FRA = {
 	value = 125		#relation
 }
 
-leader = {
-	name = "Petr Voskovec"
-	type = land
-	date = 1836.1.1
-	personality = pisspoor
-	background = armchair_general
-}
-
-leader = {
-	name = "Jan Niklas"
-	type = land
-	date = 1836.1.1
-	personality = efficient
-	background = generals_aide
-}
-
-leader = {
-	name = "Ivan Gellner"
-	type = land
-	date = 1836.1.1
-	personality = resolute
-	background = drillmaster
-}
-
-leader = {
-	name = "Jakub Ivanov"
-	type = land
-	date = 1836.1.1
-	personality = keen
-	background = school_of_offense
-}
-
-leader = {
-	name = "Hans Corinth"
-	type = land
-	date = 1836.1.1
-	personality = skilled
-	background = natural_born_leader
-}
-
 army = {
 	name = "First Army of Bohemia"
 	location = 681

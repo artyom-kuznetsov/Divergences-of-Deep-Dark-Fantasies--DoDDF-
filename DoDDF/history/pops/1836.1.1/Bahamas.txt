@@ -28,7 +28,7 @@
 
 	slaves = {
 		culture = afro_latino
-		religion = sunni
+		religion = catholic
 		size = 5600
 	}
 
@@ -70,7 +70,7 @@
 
 	slaves = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size = 5250
 	}
 }
@@ -102,7 +102,7 @@
 
 	slaves = {
 		culture = afro_latino
-		religion = sunni
+		religion = catholic
 		size = 650
 	}
 
@@ -132,7 +132,7 @@
 
 	slaves = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size = 450
 	}
 

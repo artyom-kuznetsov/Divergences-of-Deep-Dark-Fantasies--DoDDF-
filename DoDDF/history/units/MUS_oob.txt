@@ -1,26 +1,3 @@
-leader = {
-	name = "Nikolay Kurakin"
-	type = land
-	date = 1836.1.1
-	personality = polite
-	background = aristocrat
-}
-
-leader = {
-	name = "Alexander Cherenkov"
-	type = land
-	date = 1836.1.1
-	personality = heroic
-	background = natural_born_leader
-}
-
-leader = {
-	name = "Lazar Lenin"
-	type = land
-	date = 1836.1.1
-	personality = ballsy
-	background = natural_born_leader
-}
 
 army = {
 	name = "Army Corps of the Infantry"

@@ -1,7 +1,7 @@
 capital = 1135
 primary_culture = qashqai
 culture = persian
-religion = sunni
+religion = catholic
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
@@ -34,7 +34,7 @@ child_labor = child_labor_legal
 citizens_rights = culture_voting_only
 border_policy = open_borders
 
-set_country_flag = sunni_country
+set_country_flag = catholic_country
 
 ruling_party = AAA_conservative_5
 upper_house = {

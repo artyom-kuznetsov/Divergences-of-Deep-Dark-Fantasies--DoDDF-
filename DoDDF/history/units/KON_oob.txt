@@ -1,12 +1,4 @@
 
-leader = {
-	name = "Lukeni Inene"
-	type = land
-	date = 1836.1.1
-	personality = careful
-	background = aristocrat
-}
-
 army = {
 	name = "Kongo Army"
 	location = 2001

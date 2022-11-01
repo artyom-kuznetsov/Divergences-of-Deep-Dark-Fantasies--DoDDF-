@@ -1894,31 +1894,6 @@ country_event = { #Kalwatiya Uprising against Kar-Kiya royalists
     }		
 }
 
-country_event = { #Constitutionalists Crush Kalwatiya
-    id = 180049
-    title = "EVTNAME180049"
-    desc = "EVTDESC180049"
-    picture = "majles_iran"
-
-    is_triggered_only = yes
-
-    option = {
-        name = "EVTOPTA180049"
-		set_country_flag = kar_kiya_constitutional_victory
-        any_pop = {
-            limit = { 
-				OR = { 
-					has_pop_religion = sunni
-					has_pop_religion = shiite
-					has_pop_religion = ismaili					
-				}
-			}
-            militancy = -3
-			consciousness = 3
-        }
-    }	
-}
-
 country_event = { #Kalwatiya Triumph over Majles
     id = 180050
     title = "EVTNAME180050"
@@ -1951,11 +1926,7 @@ country_event = { #Kalwatiya Triumph over Majles
         }
         any_pop = {
             limit = { 
-				OR = { 
-					has_pop_religion = sunni
-					has_pop_religion = shiite
-					has_pop_religion = ismaili					
-				}
+				has_pop_religion = catholic
 			}
             militancy = 3
         }		
@@ -2955,7 +2926,7 @@ country_event = { #Ismaili repression in Dehqan land
         name = "EVTOPTA180081"
 		set_country_flag = timurtash_ismaili_repression	
         any_pop = {
-			limit = { has_pop_religion = ismaili }
+			limit = { has_pop_religion = catholic }
             militancy = 1
             consciousness = 3
         }		

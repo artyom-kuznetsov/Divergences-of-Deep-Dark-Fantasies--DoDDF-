@@ -33,7 +33,7 @@ country_event = {
         name = "EVT167000OPTA"
         any_pop = {
             limit = {
-                has_pop_religion = druze
+                has_pop_religion = catholic
                 location = {
                     OR = {
                         province_id = 912
@@ -49,7 +49,7 @@ country_event = {
 
         any_pop = {
             limit = {
-                has_pop_religion = jewish
+                has_pop_religion = catholic
                 location = { province_id = 916 }
             }
             money = -10000
@@ -70,10 +70,7 @@ country_event = {
         OR = {
             tag = TUR
             AND = {
-                OR = {
-                    religion = sunni
-                    religion = shiite
-                }
+                    religion = catholic
                 civilized = yes
             }
         }
@@ -97,7 +94,7 @@ country_event = {
         name = "EVT167030OPTA" #Crush them
         906 = {
             any_pop = {
-                limit = { has_pop_religion = druze }
+                limit = { has_pop_religion = catholic }
 
                 consciousness = 6
                 militancy = 6
@@ -106,7 +103,7 @@ country_event = {
 
             any_pop = {
                 limit = {
-                    has_pop_religion = druze
+                    has_pop_religion = catholic
                     type = soldiers
                 }
 

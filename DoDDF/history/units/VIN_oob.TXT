@@ -10,31 +10,6 @@
 #		83=300
 #	}
 
-
-leader = {
-	name = "Leif Torstensson"
-	type = land
-	date = 1836.1.1
-	personality = resourceful
-	background = womanizer
-}
-
-leader = {
-	name = "Knud Rosenkrantz"
-	type = land
-	date = 1836.1.1
-	personality = harsh
-	background = rising_star
-}
-
-leader = {
-	name = "Hugo Welfer"
-	type = sea
-	date = 1836.1.1
-	personality = bigoted
-	background = sad_sack
-}
-
 army = {
 	name = "Army of Vinland"
 	location = 58

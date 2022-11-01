@@ -1,10 +1,3 @@
-leader = {
-	name = "Hans Keller"
-	type = land
-	date = 1836.1.1
-	personality = unflinching
-	background = old_school
-}
 
 army = {
 	name = "Landwehr I"

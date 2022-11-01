@@ -1,7 +1,7 @@
 capital = 834
 primary_culture = greek
 culture = arvanite
-religion = orthodox
+religion = catholic
 government = democracy
 plurality = 25.0
 nationalvalue = nv_order
@@ -36,7 +36,7 @@ child_labor = child_labor_legal
 citizens_rights = primary_culture_only
 border_policy = quota_immigration
 
-set_country_flag = orthodox_country
+set_country_flag = catholic_country
 
 ruling_party = GRE_conservative
 upper_house = {
@@ -119,7 +119,7 @@ school_reforms = no_schools
 	
 	private_banks = 1
 	no_standard = 1
-	ad_hoc_money_bill_printing = 1
+	ad_hoc_money_bill_prcatholicng = 1
 	early_classical_theory_and_critique = 1
 	freedom_of_trade = 1
 	market_structure = 1

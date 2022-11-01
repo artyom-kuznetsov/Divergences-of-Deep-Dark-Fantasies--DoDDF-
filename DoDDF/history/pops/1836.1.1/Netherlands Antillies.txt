@@ -4,51 +4,51 @@
 2234 = {
 	bureaucrats = {
 		culture = burgundian
-		religion = protestant
+		religion = catholic
 		size = 5
 	}
 
 	soldiers = {
 		culture = burgundian
-		religion = protestant
+		religion = catholic
 		size= 25
 
 	}
 
 	artisans = {
 		culture = burgundian
-		religion = protestant
+		religion = catholic
 		size = 70
 	}
 
 	clergymen = {
 		culture = afro_frankish
-		religion = protestant
+		religion = catholic
 		size = 20
 	}
 
 	artisans = {
 		culture = afro_frankish
-		religion = protestant
+		religion = catholic
 		size = 150
 	}
 
 	soldiers = {
 		culture = afro_frankish
-		religion = protestant
+		religion = catholic
 		size= 30
 
 	}
 
 	farmers = {
 		culture = afro_frankish
-		religion = protestant
+		religion = catholic
 		size = 1400
 	}
 
 	slaves = {
 		culture = afro_frankish
-		religion = protestant
+		religion = catholic
 		size = 1400
 	}
 }
@@ -56,25 +56,25 @@
 2235 = {
 	clergymen = {
 		culture = afro_frankish
-		religion = protestant
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
 		culture = afro_frankish
-		religion = protestant
+		religion = catholic
 		size = 25
 	}
 
 	farmers = {
 		culture = afro_frankish
-		religion = protestant
+		religion = catholic
 		size = 550
 	}
 
 	slaves = {
 		culture = afro_frankish
-		religion = protestant
+		religion = catholic
 		size = 1050
 	}
 }

@@ -30,7 +30,7 @@ country = {
 	BASE_GREATPOWER_DAILY_INFLUENCE = 0.25, -- Influence value which is distributed each day
 	AI_SUPPORT_REFORM = 0.025, -- At least this many % needs to support a reform for the AI to take it
 	BASE_MONTHLY_DIPLOPOINTS = 0.3, -- Base value gain for diplomatic actions each month
-	DIPLOMAT_TRAVEL_TIME = 14,
+	DIPLOMAT_TRAVEL_TIME = -1,
 	PROVINCE_OVERSEAS_PENALTY = 0.015, -- Each province req. this many goods flagged as overseas penalty 
 	NONCORE_TAX_PENALTY = -0.05, -- -5% for each non-core in state
 	BASE_TARIFF_EFFICIENCY = 0.1, -- baseline tariff efficiency
@@ -141,8 +141,8 @@ military = {
 	EXP_GAIN_DIV = 0.05,
 	LEADER_RECRUIT_COST = 20,
 	SUPPLY_RANGE = 50,
-	POP_MIN_SIZE_FOR_REGIMENT_PROTECTORATE_MULTIPLIER = 6,
-	POP_MIN_SIZE_FOR_REGIMENT_COLONY_MULTIPLIER = 4,
+	POP_MIN_SIZE_FOR_REGIMENT_PROTECTORATE_MULTIPLIER = 8,
+	POP_MIN_SIZE_FOR_REGIMENT_COLONY_MULTIPLIER = 6,
 	POP_MIN_SIZE_FOR_REGIMENT_NONCORE_MULTIPLIER = 3, -- VALUE * POP_MIN_SIZE_FOR_REGIMENT is min for noncores
 	GAS_ATTACK_MODIFIER = 3,
 	COMBATLOSS_WAR_EXHAUSTION = 3, -- base war exhaustion in combat
@@ -150,7 +150,7 @@ military = {
 	LEADER_AGE_DEATH_FACTOR = 4, -- higher value means leaders live longer
 	LEADER_PRESTIGE_TO_MORALE_FACTOR = 0.9, -- f.ex. 100% of prestige = +10% morale
 	LEADER_PRESTIGE_TO_MAX_ORG_FACTOR = 0.7, -- f.ex. 100% of prestige = +10 max org
-	LEADER_TRANSFER_PENALTY_ON_COUNTRY_PRESTIGE = 0.05, -- country prestige penalty on unassign leader (f.ex if leader has 100% prestige, the country loose 4% of its prestige)
+	LEADER_TRANSFER_PENALTY_ON_COUNTRY_PRESTIGE = 0.0, -- country prestige penalty on unassign leader (f.ex if leader has 100% prestige, the country loose 4% of its prestige)
 	LEADER_PRESTIGE_LAND_GAIN = 0.3, -- extra speed gain on prestige for land combat
 	LEADER_PRESTIGE_NAVAL_GAIN = 0.3, -- extra speed gain on prestige for naval combat
 	NAVAL_COMBAT_SEEKING_CHANCE = 0.5, -- base chance of picking a target (increased by leader reconnaissance)
@@ -462,8 +462,8 @@ diplomacy = {
 
 	REMOVEFROMSPHERE_RELATION_ON_ACCEPT = -10,
 	REMOVEFROMSPHERE_INFLUENCE_COST = 100,
-	REMOVEFROMSPHERE_PRESTIGE_COST = 10, -- only applied if removing country is sphere leader
-	REMOVEFROMSPHERE_INFAMY_COST = 1, -- only applied if removing country is sphere leader
+	REMOVEFROMSPHERE_PRESTIGE_COST = 0, -- only applied if removing country is sphere leader
+	REMOVEFROMSPHERE_INFAMY_COST = 0, -- only applied if removing country is sphere leader
 
 	INCREASEOPINION_RELATION_ON_ACCEPT = 20,
 	INCREASEOPINION_INFLUENCE_COST = 50,
@@ -505,14 +505,14 @@ diplomacy = {
 	
 	MIN_WARSCORE_TO_INTERVENE = -1,
 	MIN_MONTHS_TO_INTERVENE = 0,
-	MAX_WARSCORE_FROM_BATTLES = 50,
+	MAX_WARSCORE_FROM_BATTLES = 20,
 	
 	GUNBOAT_DIPLOMATIC_COST = 1,
 	GUNBOAT_RELATION_ON_ACCEPT = 1,
 	WARGOAL_JINGOISM_REQUIREMENT = 0.050,
 
 	LIBERATE_STATE_RELATION_INCREASE = 50,
-	DISHONORED_CALLALLY_PRESTIGE_PENALTY = -3,
+	DISHONORED_CALLALLY_PRESTIGE_PENALTY = 0,
 	BASE_TRUCE_MONTHS = 12,
 	MAX_INFLUENCE = 100,
 	WARSUBSIDIES_PERCENT = 0.20, -- How many percent of imports you are going to pay each day(mil. constructions and mil. maintainence)
@@ -523,7 +523,7 @@ diplomacy = {
 	
 	-- effects of manually releasing a nation
 	RELEASE_NATION_PRESTIGE = 0,
-	RELEASE_NATION_INFAMY = -2,
+	RELEASE_NATION_INFAMY = 0,
 	
 	INFAMY_CLEAR_UNION_SPHERE = 0, -- Infamy for asserting hegemony
 	

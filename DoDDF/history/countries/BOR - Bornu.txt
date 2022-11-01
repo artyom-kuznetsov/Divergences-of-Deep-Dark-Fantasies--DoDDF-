@@ -3,7 +3,7 @@ primary_culture = kanuri
 culture = hausa
 culture = bedouin
 culture = fulbe
-religion = sunni
+religion = catholic
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
@@ -49,4 +49,4 @@ upper_house = {
 }
 
 set_country_flag = post_colonial_country
-set_country_flag = sunni_country
+set_country_flag = catholic_country

@@ -1,7 +1,7 @@
 #;;;;;;;;;;;;;x;;;
-abc_will_receive_grant_title;Запрос денег;;;;;;;;;;;;x;;;
+abc_will_receive_grant_title;§YПЕРЕВОДЫ§! §R|§! Запрос денег;;;;;;;;;;;;x;;;
 abc_will_receive_grant_desc;Этот ивент запросит денег у других игроков. Помните, что игрок получит уведомление только если у него они включены. Включить и выключить их можно в любой момент.;;;;;;;;;;;;x;;;
-abc_will_give_grant_title;§GВКЛ§!Уведомления о запросах денег;;;;;;;;;;;;x;;;
+abc_will_give_grant_title;§YПЕРЕВОДЫ§! §R|§! §GВКЛ§! Уведомления о запросах денег;;;;;;;;;;;;x;;;
 abc_will_give_grant_desc;This will allow us to give grants to other player, and for other players to justify Negotiated Transfers against us. It must be activated before a player chooses to request grants, and for other players to justify Negotiated Transfers against us. It can be reversed at any time.;;;;;;;;;;;;x;;;
-abc_will_not_give_grant_title;§RВЫКЛ§! Уведомления о запросах денег;;;;;;;;;;;;x;;;
+abc_will_not_give_grant_title;§YПЕРЕВОДЫ§! §R|§! §RВЫКЛ§! Уведомления о запросах денег;;;;;;;;;;;;x;;;
 abc_will_not_give_grant_desc;This will prevent us from getting events when other players request grants and prevent players from having the ability to justify Negotated Transfer against us. It can be reversed at any time.;;;;;;;;;;;;x;;;

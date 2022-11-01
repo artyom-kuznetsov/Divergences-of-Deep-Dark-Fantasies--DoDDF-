@@ -2,7 +2,7 @@ capital = 1745
 primary_culture = misri
 culture = mashriqi
 culture = bedouin
-religion = sunni
+religion = catholic
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
@@ -47,7 +47,7 @@ upper_house = {
 	communist = 0
 }
 
-set_country_flag = sunni_country
+set_country_flag = catholic_country
 
 finance_reform = yes_finance_reform
 foreign_artillery = yes_foreign_artillery

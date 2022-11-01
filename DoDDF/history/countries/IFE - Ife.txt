@@ -1,7 +1,7 @@
 capital = 1926
 primary_culture = yoruba
 culture = fon
-religion = fetishist
+religion = catholic
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
@@ -46,6 +46,6 @@ upper_house = {
 	communist = 0
 }
 
-set_country_flag = animist_country
+set_country_flag = catholic_country
 
 set_country_flag = post_colonial_country

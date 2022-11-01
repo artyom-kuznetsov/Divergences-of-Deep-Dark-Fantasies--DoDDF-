@@ -1,6 +1,6 @@
 capital = 1181
 primary_culture = kazak
-religion = sunni
+religion = catholic
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
@@ -49,4 +49,4 @@ upper_house = {
 consciousness = 0
 nonstate_consciousness = 0
 
-set_country_flag = sunni_country
+set_country_flag = catholic_country

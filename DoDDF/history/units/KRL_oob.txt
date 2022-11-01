@@ -1,29 +1,4 @@
-leader = {
-	name = "Wilhelm IV"
-	type = land
-	date = 1836.1.1
-	personality = harsh
-	background = rising_star
-}
-
-leader = {
-	name = "Fridrich von Riga"
-	type = sea
-	date = 1836.1.1
-	personality = calm
-	background = war_college
-}
-
-army = {
-	name = "I. Korps"
-	location = 357
-	regiment = {
-		name= "I. Linieninfanteriebrigade"
-		type = infantry
-		home = 1783
-	}
-}
-
+leader 
 army = {
 	name = "Colonial Korps"
 	location = 1785

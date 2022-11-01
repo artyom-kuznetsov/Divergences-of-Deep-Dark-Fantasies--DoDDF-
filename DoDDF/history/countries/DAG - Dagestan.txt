@@ -3,7 +3,7 @@ primary_culture = dagestani
 culture = azerbaijani
 culture = chechen
 culture = circassian
-religion = sunni
+religion = catholic
 government = theocracy
 plurality = 0.0
 nationalvalue = nv_order
@@ -42,7 +42,7 @@ nonstate_consciousness = 0
 
 set_country_flag = theocratic_government
 set_country_flag = theocracy_allowed
-set_country_flag = sunni_country
+set_country_flag = catholic_country
 
 decision = caucasus_muslims_1836_setup
 

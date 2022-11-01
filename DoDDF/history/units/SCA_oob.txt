@@ -53,102 +53,6 @@ SIN = {
 	influence_value = 25
 }
 
-leader = {
-	name = "Lars Lund"
-	type = land
-	date = 1836.1.1
-	personality = impulsive
-	background = old_school
-}
-
-leader = {
-	name = "Olaf Grunwald"
-	type = land
-	date = 1836.1.1
-	personality = reserved
-	background = war_college
-}
-
-leader = {
-	name = "Ulf Lindhart"
-	type = land
-	date = 1836.1.1
-	personality = careful
-	background = engineer
-}
-
-leader = {
-	name = "Viggo Stensgaard"
-	type = land
-	date = 1836.1.1
-	personality = openminded
-	background = colonial_b
-}
-
-leader = {
-	name = "Ulrich Thorsen"
-	type = land
-	date = 1836.1.1
-	personality = romantic
-	background = professor
-}
-
-leader = {
-	name = "Vermund Helgesen"
-	type = land
-	date = 1836.1.1
-	personality = polite
-	background = politician
-}
-
-leader = {
-	name = "Sigger Holst"
-	type = land
-	date = 1836.1.1
-	personality = choleric
-	background = innovative_tactician
-}
-
-leader = {
-	name = "Erik Blom"
-	type = sea
-	date = 1836.1.1
-	personality = lackluster
-	background = powerful_friends
-}
-
-leader = {
-	name = "Christian Knuth"
-	type = sea
-	date = 1836.1.1
-	personality = strange
-	background = uncommonly_young
-}
-
-leader = {
-	name = "Vilhelm Ingels"
-	type = sea
-	date = 1836.1.1
-	personality = inept
-	background = pawn
-}
-
-leader = {
-	name = "Kornelius Mikkelsen"
-	type = sea
-	date = 1836.1.1
-	personality = careful
-	background = armchair_general
-}
-
-leader = {
-	name = "Brynjolf Knutsen"
-	type = sea
-	date = 1836.1.1
-	personality = brash
-	background = butcher
-}
-
 army = {
 	name = "Army of Danemark"
 	location = 528
@@ -795,7 +699,7 @@ navy = {
 	}
 
 	ship = {
-		name= "Hindustan"
+		name= "catholicstan"
 		type = frigate
 	}
 

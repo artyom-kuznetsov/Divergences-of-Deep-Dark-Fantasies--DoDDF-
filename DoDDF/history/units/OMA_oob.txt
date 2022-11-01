@@ -1,18 +1,3 @@
-leader = {
-	name = "Fahd bin Mahmoud"
-	type = land
-	date = 1836.1.1
-	personality = earnest
-	background = bureaucrat_speed
-}
-
-leader = {
-	name = "Said bin Taimur"
-	type = sea
-	date = 1836.1.1
-	personality = vainglorious
-	background = diplomat
-}
 
 army = {
 	name = "Army of the Sultan of Muscat"

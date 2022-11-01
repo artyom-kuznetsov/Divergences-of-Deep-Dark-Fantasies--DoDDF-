@@ -7,14 +7,6 @@ FUN = {
 	value = -25		#relation
 }
 
-leader = {
-	name = "Tekle Giyorgis"
-	type = land
-	date = 1836.1.1
-	personality = aggressive
-	background = cavalry_school
-}
-
 army = {
 	name = "Army of the True Emperor"
 	location = 1852

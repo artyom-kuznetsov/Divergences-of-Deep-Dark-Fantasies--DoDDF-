@@ -1,7 +1,7 @@
 capital = 1225
 primary_culture = kashmiri
 culture = tibetan
-religion = hindu
+religion = catholic
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
@@ -54,7 +54,7 @@ child_labor = child_labor_legal
 citizens_rights = primary_culture_only
 border_policy = open_borders
 
-set_country_flag = hindu_country
+set_country_flag = catholic_country
 
 admin_reform = yes_admin_reform
 monetary_reform = yes_monetary_reform

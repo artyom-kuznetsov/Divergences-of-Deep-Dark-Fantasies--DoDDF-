@@ -1,7 +1,7 @@
 capital = 409
 primary_culture = rheinish
 culture = south_german
-religion = protestant
+religion = catholic
 government = democracy
 plurality = 0.0
 nationalvalue = nv_equality
@@ -35,7 +35,7 @@ child_labor = child_labor_legal
 citizens_rights = culture_voting_only
 border_policy = open_borders
 
-set_country_flag = protestant_country
+set_country_flag = catholic_country
 
 ruling_party = ALS_conservative
 upper_house = {

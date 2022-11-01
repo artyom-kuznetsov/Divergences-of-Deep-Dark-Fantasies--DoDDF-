@@ -4,73 +4,73 @@
 2078 = {
 	aristocrats = {
 		culture = herero
-		religion = animist
+		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
 		culture = herero
-		religion = animist
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
 		culture = herero
-		religion = animist
+		religion = catholic
 		size = 300
 	}
 
 	soldiers = {
 		culture = herero
-		religion = animist
+		religion = catholic
 		size = 75
 	}
 
 	farmers = {
 		culture = herero
-		religion = animist
+		religion = catholic
 		size = 5175
 	}
 	
 	farmers = {
 		culture = herero
-		religion = protestant
+		religion = catholic
 		size = 300
 	}
 
 	aristocrats = {
 		culture = khoisan
-		religion = animist
+		religion = catholic
 		size = 225
 	}
 
 	clergymen = {
 		culture = khoisan
-		religion = animist
+		religion = catholic
 		size = 125
 	}
 
 	artisans = {
 		culture = khoisan
-		religion = animist
+		religion = catholic
 		size = 600
 	}
 
 	soldiers = {
 		culture = khoisan
-		religion = animist
+		religion = catholic
 		size = 125
 	}
 
 	farmers = {
 		culture = khoisan
-		religion = animist
+		religion = catholic
 		size = 10725
 	}
 	
 	farmers = {
 		culture = khoisan
-		religion = protestant
+		religion = catholic
 		size = 200
 	}
 }
@@ -78,61 +78,61 @@
 2079 = {
 	aristocrats = {
 		culture = herero
-		religion = animist
+		religion = catholic
 		size = 150
 	}
 
 	clergymen = {
 		culture = herero
-		religion = animist
+		religion = catholic
 		size = 100
 	}
 
 	artisans = {
 		culture = herero
-		religion = animist
+		religion = catholic
 		size = 450
 	}
 
 	soldiers = {
 		culture = herero
-		religion = animist
+		religion = catholic
 		size = 100
 	}
 
 	farmers = {
 		culture = herero
-		religion = animist
+		religion = catholic
 		size = 8200
 	}
 
 	aristocrats = {
 		culture = kavango
-		religion = animist
+		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
 		culture = kavango
-		religion = animist
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
 		culture = kavango
-		religion = animist
+		religion = catholic
 		size = 200
 	}
 
 	soldiers = {
 		culture = kavango
-		religion = animist
+		religion = catholic
 		size = 50
 	}
 
 	farmers = {
 		culture = kavango
-		religion = animist
+		religion = catholic
 		size = 3650
 	}
 }
@@ -140,31 +140,31 @@
 2080 = {
 	aristocrats = {
 		culture = kavango
-		religion = animist
+		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
 		culture = kavango
-		religion = animist
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
 		culture = kavango
-		religion = animist
+		religion = catholic
 		size = 300
 	}
 
 	soldiers = {
 		culture = kavango
-		religion = animist
+		religion = catholic
 		size = 75
 	}
 
 	farmers = {
 		culture = kavango
-		religion = animist
+		religion = catholic
 		size = 5475
 	}
 }
@@ -172,79 +172,79 @@
 2082 = {
 	aristocrats = {
 		culture = herero
-		religion = animist
+		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
 		culture = herero
-		religion = animist
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
 		culture = herero
-		religion = animist
+		religion = catholic
 		size = 300
 	}
 
 	soldiers = {
 		culture = herero
-		religion = animist
+		religion = catholic
 		size = 75
 	}
 
 	farmers = {
 		culture = herero
-		religion = animist
+		religion = catholic
 		size = 5475
 	}
 
 	aristocrats = {
 		culture = kavango
-		religion = animist
+		religion = catholic
 		size = 75
 	}
 
 	clergymen = {
 		culture = kavango
-		religion = animist
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
 		culture = kavango
-		religion = animist
+		religion = catholic
 		size = 250
 	}
 
 	soldiers = {
 		culture = kavango
-		religion = animist
+		religion = catholic
 		size = 50
 	}
 
 	farmers = {
 		culture = kavango
-		religion = animist
+		religion = catholic
 		size = 4575
 	}
 	
     clergymen = {
         culture = afro_south_african
-        religion = protestant
+        religion = catholic
         size = 100
     }
 
     artisans = {
         culture = afro_south_african
-        religion = protestant
+        religion = catholic
         size = 550
     }
 
     farmers = {
         culture = afro_south_african
-        religion = protestant
+        religion = catholic
         size = 10050
     }	
 }
@@ -254,91 +254,91 @@
 2081 = {
     aristocrats = {
         culture = afro_south_african
-        religion = protestant
+        religion = catholic
         size = 480
     }
 
 	aristocrats = {
 		culture = kavango
-		religion = animist
+		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
 		culture = kavango
-		religion = animist
+		religion = catholic
 		size = 100
 	}
 
 	artisans = {
 		culture = kavango
-		religion = animist
+		religion = catholic
 		size = 150
 	}
 
 	soldiers = {
 		culture = kavango
-		religion = animist
+		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
         culture = afro_south_african
-        religion = protestant
+        religion = catholic
         size = 2960
     }
 	
 	farmers = {
 		culture = kavango
-		religion = animist
+		religion = catholic
 		size = 2700
 	}
 
 	aristocrats = {
 		culture = lunda
-		religion = animist
+		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
 		culture = lunda
-		religion = animist
+		religion = catholic
 		size = 100
 	}
 
 	artisans = {
 		culture = lunda
-		religion = animist
+		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
 		culture = lunda
-		religion = animist
+		religion = catholic
 		size = 100
 	}
 
 	farmers = {
 		culture = lunda
-		religion = animist
+		religion = catholic
 		size = 900
 	}
 	
 	clergymen = {
         culture = afro_south_african
-        religion = protestant
+        religion = catholic
         size = 100
     }
 
     artisans = {
         culture = afro_south_african
-        religion = protestant
+        religion = catholic
         size = 200
     }
 
     farmers = {
         culture = afro_south_african
-        religion = protestant
+        religion = catholic
         size = 3600
     }
 }
@@ -348,43 +348,43 @@
 2083 = {
     aristocrats = {
         culture = khoisan
-        religion = animist
+        religion = catholic
         size = 215
     }
 
     clergymen = {
         culture = khoisan
-        religion = animist
+        religion = catholic
         size = 25
     }
 
     artisans = {
         culture = khoisan
-        religion = animist
+        religion = catholic
         size = 50
     }
 
     soldiers = {
         culture = khoisan
-        religion = animist
+        religion = catholic
         size = 160
     }
 
     farmers = {
         culture = khoisan
-        religion = animist
+        religion = catholic
         size = 900
     }
 
     aristocrats = {
         culture = tswana
-        religion = animist
+        religion = catholic
         size = 30
     }
 
     soldiers = {
         culture = tswana
-        religion = animist
+        religion = catholic
         size = 20
     }
 }
@@ -392,31 +392,31 @@
 2084 = {
 	aristocrats = {
 		culture = khoisan
-		religion = animist
+		religion = catholic
 		size = 125
 	}
 
 	clergymen = {
 		culture = khoisan
-		religion = animist
+		religion = catholic
 		size = 75
 	}
 
 	artisans = {
 		culture = khoisan
-		religion = animist
+		religion = catholic
 		size = 350
 	}
 
 	soldiers = {
 		culture = khoisan
-		religion = animist
+		religion = catholic
 		size = 75
 	}
 
 	farmers = {
 		culture = khoisan
-		religion = animist
+		religion = catholic
 		size = 6375
 	}
 }
@@ -424,61 +424,61 @@
 2085 = {
 	aristocrats = {
 		culture = khoisan
-		religion = animist
+		religion = catholic
 		size = 25
 	}
 
 	clergymen = {
 		culture = khoisan
-		religion = animist
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
 		culture = khoisan
-		religion = animist
+		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
 		culture = khoisan
-		religion = animist
+		religion = catholic
 		size = 25
 	}
 
 	farmers = {
 		culture = khoisan
-		religion = animist
+		religion = catholic
 		size = 1800
 	}
 
 	aristocrats = {
 		culture = tswana
-		religion = animist
+		religion = catholic
 		size = 15
 	}
 
 	clergymen = {
 		culture = tswana
-		religion = animist
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
 		culture = tswana
-		religion = animist
+		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
 		culture = tswana
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	farmers = {
 		culture = tswana
-		religion = animist
+		religion = catholic
 		size = 900
 	}
 }
@@ -486,61 +486,61 @@
 2086 = {
 	aristocrats = {
 		culture = khoisan
-		religion = animist
+		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
 		culture = khoisan
-		religion = animist
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
 		culture = khoisan
-		religion = animist
+		religion = catholic
 		size = 200
 	}
 
 	soldiers = {
 		culture = khoisan
-		religion = animist
+		religion = catholic
 		size = 50
 	}
 
 	farmers = {
 		culture = khoisan
-		religion = animist
+		religion = catholic
 		size = 3650
 	}
 
 	aristocrats = {
 		culture = tswana
-		religion = animist
+		religion = catholic
 		size = 15
 	}
 
 	clergymen = {
 		culture = tswana
-		religion = animist
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
 		culture = tswana
-		religion = animist
+		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
 		culture = tswana
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	farmers = {
 		culture = tswana
-		religion = animist
+		religion = catholic
 		size = 900
 	}
 

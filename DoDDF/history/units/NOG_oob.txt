@@ -1,10 +1,3 @@
-leader = {
-	name = "Arslan Khan Nogai "
-	type = land
-	date = 1836.1.1
-	personality = glory_hound
-	background = powerful_friends
-}
 
 army = {
 	name = "Army of the Nogai Khanate"

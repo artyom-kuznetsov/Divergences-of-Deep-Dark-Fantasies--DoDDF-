@@ -1,10 +1,4 @@
-leader = {
-	name = "Ram Baran Yadav"
-	type = land
-	date = 1836.1.1
-	personality = deeply_religious
-	background = politician
-}
+
 
 army = {
 	name = "Royal Nepalese Army"

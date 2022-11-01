@@ -4,49 +4,49 @@
 336 = {
     bureaucrats = {
         culture = finnish
-        religion = protestant
+        religion = catholic
         size = 150
     }
 
     officers = {
         culture = finnish
-        religion = protestant
+        religion = catholic
         size = 25
     }
 
     clergymen = {
         culture = finnish
-        religion = protestant
+        religion = catholic
         size = 300
     }
 
     artisans = {
         culture = finnish
-        religion = protestant
+        religion = catholic
         size = 800
     }
 
     aristocrats = {
         culture = finnish
-        religion = protestant
+        religion = catholic
         size = 2500
     }
 
     soldiers = {
         culture = finnish
-        religion = protestant
+        religion = catholic
         size = 900
     }
 
     farmers = {
         culture = finnish
-        religion = protestant
+        religion = catholic
         size = 13694
     }
 
     soldiers = {
         culture = finnish
-        religion = orthodox
+        religion = catholic
         size = 10
     }
 }
@@ -54,19 +54,19 @@
 337 = {
     clergymen = {
         culture = finnish
-        religion = protestant
+        religion = catholic
         size = 100
     }
 
     artisans = {
         culture = finnish
-        religion = protestant
+        religion = catholic
         size = 200
     }
 
     farmers = {
         culture = finnish
-        religion = protestant
+        religion = catholic
         size = 3464
     }
 }
@@ -74,25 +74,25 @@
 338 = {
     clergymen = {
         culture = finnish
-        religion = protestant
+        religion = catholic
         size = 150
     }
 
     artisans = {
         culture = finnish
-        religion = protestant
+        religion = catholic
         size = 475
     }
 
     farmers = {
         culture = finnish
-        religion = protestant
+        religion = catholic
         size = 8207
     }
 
     farmers = {
         culture = sami
-        religion = protestant
+        religion = catholic
         size = 465
     }
 }
@@ -102,97 +102,97 @@
 339 = {
     bureaucrats = {
         culture = finnish
-        religion = protestant
+        religion = catholic
         size = 50
     }
 
     officers = {
         culture = finnish
-        religion = protestant
+        religion = catholic
         size = 100
     }
 
     clergymen = {
         culture = finnish
-        religion = protestant
+        religion = catholic
         size = 800
     }
 
     artisans = {
         culture = finnish
-        religion = protestant
+        religion = catholic
         size = 2150
     }
 
     soldiers = {
         culture = finnish
-        religion = protestant
+        religion = catholic
         size = 400
     }
 
     farmers = {
         culture = finnish
-        religion = protestant
+        religion = catholic
         size = 39711
     }
 
     clergymen = {
         culture = finnish
-        religion = orthodox
+        religion = catholic
         size = 100
     }
 
     artisans = {
         culture = finnish
-        religion = orthodox
+        religion = catholic
         size = 250
     }
 
     soldiers = {
         culture = finnish
-        religion = orthodox
+        religion = catholic
         size = 50
     }
 
     farmers = {
         culture = finnish
-        religion = orthodox
+        religion = catholic
         size = 4324
     }
 
     aristocrats = {
         culture = russian
-        religion = orthodox
+        religion = catholic
         size = 50
     }
 
     bureaucrats = {
         culture = russian
-        religion = orthodox
+        religion = catholic
         size = 150
     }
 
     officers = {
         culture = russian
-        religion = orthodox
+        religion = catholic
         size = 50
     }
 
     clergymen = {
         culture = russian
-        religion = orthodox
+        religion = catholic
         size = 50
     }
 
     artisans = {
         culture = russian
-        religion = orthodox
+        religion = catholic
         size = 50
     }
 
     soldiers = {
         culture = russian
-        religion = orthodox
+        religion = catholic
         size = 100
     }
 }
@@ -200,37 +200,37 @@
 340 = {
     clergymen = {
         culture = finnish
-        religion = protestant
+        religion = catholic
         size = 250
     }
 
     artisans = {
         culture = finnish
-        religion = protestant
+        religion = catholic
         size = 750
     }
 
     farmers = {
         culture = finnish
-        religion = protestant
+        religion = catholic
         size = 12997
     }
 
     clergymen = {
         culture = scandinavian
-        religion = protestant
+        religion = catholic
         size = 30
     }
 
     artisans = {
         culture = scandinavian
-        religion = protestant
+        religion = catholic
         size = 50
     }
 
     farmers = {
         culture = scandinavian
-        religion = protestant
+        religion = catholic
         size = 860
     }
 }
@@ -238,19 +238,19 @@
 341 = {
     clergymen = {
         culture = finnish
-        religion = protestant
+        religion = catholic
         size = 550
     }
 
     artisans = {
         culture = finnish
-        religion = protestant
+        religion = catholic
         size = 1450
     }
 
     farmers = {
         culture = finnish
-        religion = protestant
+        religion = catholic
         size = 25133
     }
 }
@@ -258,37 +258,37 @@
 342 = {
     clergymen = {
         culture = finnish
-        religion = protestant
+        religion = catholic
         size = 700
     }
 
     artisans = {
         culture = finnish
-        religion = protestant
+        religion = catholic
         size = 1850
     }
 
     farmers = {
         culture = finnish
-        religion = protestant
+        religion = catholic
         size = 32015
     }
 
     clergymen = {
         culture = finnish
-        religion = orthodox
+        religion = catholic
         size = 30
     }
 
     artisans = {
         culture = finnish
-        religion = orthodox
+        religion = catholic
         size = 50
     }
 
     farmers = {
         culture = finnish
-        religion = orthodox
+        religion = catholic
         size = 860
     }
 }
@@ -298,79 +298,79 @@
 343 = {
     officers = {
         culture = finnish
-        religion = protestant
+        religion = catholic
         size = 50
     }
 
     bureaucrats = {
         culture = finnish
-        religion = protestant
+        religion = catholic
         size = 150
     }
 
     clergymen = {
         culture = finnish
-        religion = protestant
+        religion = catholic
         size = 300
     }
 
     artisans = {
         culture = finnish
-        religion = protestant
+        religion = catholic
         size = 2250
     }
 
     soldiers = {
         culture = finnish
-        religion = protestant
+        religion = catholic
         size = 3455
     }
 
     farmers = {
         culture = finnish
-        religion = protestant
+        religion = catholic
         size = 18042
     }
 
     aristocrats = {
         culture = scandinavian
-        religion = protestant
+        religion = catholic
         size = 2625
     }
 
     bureaucrats = {
         culture = scandinavian
-        religion = protestant
+        religion = catholic
         size = 225
     }
 
     officers = {
         culture = scandinavian
-        religion = protestant
+        religion = catholic
         size = 150
     }
 
     clergymen = {
         culture = scandinavian
-        religion = protestant
+        religion = catholic
         size = 200
     }
 
     artisans = {
         culture = scandinavian
-        religion = protestant
+        religion = catholic
         size = 1750
     }
 
     soldiers = {
         culture = scandinavian
-        religion = protestant
+        religion = catholic
         size = 485
     }
 
     farmers = {
         culture = scandinavian
-        religion = protestant
+        religion = catholic
         size = 6812
     }
 }
@@ -378,37 +378,37 @@
 344 = {
     clergymen = {
         culture = finnish
-        religion = protestant
+        religion = catholic
         size = 100
     }
 
     artisans = {
         culture = finnish
-        religion = protestant
+        religion = catholic
         size = 500
     }
 
     farmers = {
         culture = finnish
-        religion = protestant
+        religion = catholic
         size = 8695
     }
 
     clergymen = {
         culture = scandinavian
-        religion = protestant
+        religion = catholic
         size = 50
     }
 
     artisans = {
         culture = scandinavian
-        religion = protestant
+        religion = catholic
         size = 75
     }
 
     farmers = {
         culture = scandinavian
-        religion = protestant
+        religion = catholic
         size = 744
     }
 }
@@ -416,37 +416,37 @@
 345 = {
     clergymen = {
         culture = finnish
-        religion = protestant
+        religion = catholic
         size = 1150
     }
 
     artisans = {
         culture = finnish
-        religion = protestant
+        religion = catholic
         size = 2950
     }
 
     farmers = {
         culture = finnish
-        religion = protestant
+        religion = catholic
         size = 50662
     }
 
     clergymen = {
         culture = scandinavian
-        religion = protestant
+        religion = catholic
         size = 200
     }
 
     artisans = {
         culture = scandinavian
-        religion = protestant
+        religion = catholic
         size = 550
     }
 
     farmers = {
         culture = scandinavian
-        religion = protestant
+        religion = catholic
         size = 9509
     }
 }
@@ -454,37 +454,37 @@
 346 = {
     clergymen = {
         culture = finnish
-        religion = protestant
+        religion = catholic
         size = 950
     }
 
     artisans = {
         culture = finnish
-        religion = protestant
+        religion = catholic
         size = 2600
     }
 
     farmers = {
         culture = finnish
-        religion = protestant
+        religion = catholic
         size = 44570
     }
 
     clergymen = {
         culture = scandinavian
-        religion = protestant
+        religion = catholic
         size = 300
     }
 
     artisans = {
         culture = scandinavian
-        religion = protestant
+        religion = catholic
         size = 1000
     }
 
     farmers = {
         culture = scandinavian
-        religion = protestant
+        religion = catholic
         size = 12718
     }
 }
@@ -492,37 +492,37 @@
 347 = {
     clergymen = {
         culture = finnish
-        religion = protestant
+        religion = catholic
         size = 300
     }
 
     artisans = {
         culture = finnish
-        religion = protestant
+        religion = catholic
         size = 1000
     }
 
     farmers = {
         culture = finnish
-        religion = protestant
+        religion = catholic
         size = 17344
     }
 
     clergymen = {
         culture = scandinavian
-        religion = protestant
+        religion = catholic
         size = 50
     }
 
     artisans = {
         culture = scandinavian
-        religion = protestant
+        religion = catholic
         size = 100
     }
 
     farmers = {
         culture = scandinavian
-        religion = protestant
+        religion = catholic
         size = 558
     }
 }
@@ -532,37 +532,37 @@
 348 = {
     clergymen = {
         culture = scandinavian
-        religion = protestant
+        religion = catholic
         size = 70
     }
 
     artisans = {
         culture = scandinavian
-        religion = protestant
+        religion = catholic
         size = 150
     }
 
     farmers = {
         culture = scandinavian
-        religion = protestant
+        religion = catholic
         size = 2223
     }
 
     clergymen = {
         culture = finnish
-        religion = protestant
+        religion = catholic
         size = 10
     }
 
     artisans = {
         culture = finnish
-        religion = protestant
+        religion = catholic
         size = 10
     }
 
     farmers = {
         culture = finnish
-        religion = protestant
+        religion = catholic
         size = 121
     }
 }

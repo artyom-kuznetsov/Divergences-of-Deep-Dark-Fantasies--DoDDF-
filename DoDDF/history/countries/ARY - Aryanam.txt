@@ -1,13 +1,13 @@
 capital = 1121
 primary_culture = persian
-religion = sunni
+religion = catholic
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
 literacy = 0.029
 
 is_releasable_vassal = no
-set_country_flag = sunni_country
+set_country_flag = catholic_country
 
 # Political reforms
 slavery = no_slavery

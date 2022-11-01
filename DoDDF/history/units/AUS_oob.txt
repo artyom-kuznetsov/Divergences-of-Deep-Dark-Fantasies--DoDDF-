@@ -1,13 +1,5 @@
 #Leaders
 
-leader = {
-	name = "Wilhelm Adler"
-	type = land
-	date = 1836.1.1
-	personality = indifferent
-	background = expert_raider
-}
-
 #Army
 army = {
 	name = "I. Armee"

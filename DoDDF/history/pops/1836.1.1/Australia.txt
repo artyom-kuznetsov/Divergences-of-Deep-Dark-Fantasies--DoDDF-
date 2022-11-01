@@ -4,55 +4,55 @@
 2468 = {
     clergymen = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 744
     }
 
     artisans = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 20300
     }
 
     bureaucrats = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 150
     }
 
     aristocrats = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 3000
     }
 
     officers = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 100
     }
 
     farmers = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 70550
     }
 
     clergymen = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 24
     }
 
     artisans = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 300
     }
 
     farmers = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 5600
     }
 }
@@ -60,37 +60,37 @@
 2469 = {
     clergymen = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 284
     }
 
     artisans = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 5400
     }
 
     farmers = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 40472
     }
 
     clergymen = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 8
     }
 
     artisans = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 100
     }
 
     farmers = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 1824
     }
 }
@@ -98,37 +98,37 @@
 2470 = {
     clergymen = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 274
     }
 
     artisans = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 1400
     }
 
     farmers = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 24500
     }
 
     clergymen = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 48
     }
 
     artisans = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 200
     }
 
     farmers = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 3450
     }
 }
@@ -136,55 +136,55 @@
 2472 = {
     aristocrats = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 10
     }
 
     clergymen = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 12
     }
 
     artisans = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 50
     }
 
     farmers = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 900
     }
 
     clergymen = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 300
     }
 
     artisans = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 2200
     }
 
     soldiers = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 2492
     }
 
     farmers = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 40300
     }
 
     aristocrats = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 76
     }
 }
@@ -192,37 +192,37 @@
 2473 = {
     clergymen = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 75
     }
 
     artisans = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 150
     }
 
     farmers = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 2650
     }
 
     clergymen = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 20
     }
 
     artisans = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 15
     }
 
     farmers = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 889
     }
 }
@@ -231,37 +231,37 @@
 2471 = {
     clergymen = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 24
     }
 
     artisans = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 100
     }
 
     farmers = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 1750
     }
 
     clergymen = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 100
     }
 
     artisans = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 400
     }
 
     farmers = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 7000
     }
 }
@@ -269,67 +269,67 @@
 2474 = {
     clergymen = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 50
     }
 
     artisans = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 100
     }
 
     farmers = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 2350
     }
 
     clergymen = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 100
     }
 
     artisans = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 200
     }
 
     farmers = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 5000
     }
 
     officers = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 30
     }
 
     aristocrats = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 300
     }
 
     aristocrats = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 175
     }
 
     bureaucrats = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 15
     }
 
     soldiers = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 400
     }
 }
@@ -337,37 +337,37 @@
 2475 = {
     clergymen = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 75
     }
 
     artisans = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 150
     }
 
     farmers = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 2700
     }
 
     clergymen = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 80
     }
 
     artisans = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 200
     }
 
     farmers = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 3000
     }
 }
@@ -377,49 +377,49 @@
 2476 = {
     clergymen = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 36
     }
 
     artisans = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 150
     }
 
     farmers = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 2700
     }
 
     clergymen = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 192
     }
 
     artisans = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 600
     }
 
     farmers = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 10800
     }
 
     aristocrats = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 430
     }
 
     officers = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 100
     }
 }
@@ -427,49 +427,49 @@
 2477 = {
     clergymen = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 24
     }
 
     artisans = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 100
     }
 
     farmers = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 1750
     }
 
     aristocrats = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 82
     }
 
     clergymen = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 50
     }
 
     artisans = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 200
     }
 
     soldiers = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 2688
     }
 
     farmers = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 7000
     }
 }
@@ -477,37 +477,37 @@
 2478 = {
     clergymen = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 24
     }
 
     artisans = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 100
     }
 
     farmers = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 1750
     }
 
     clergymen = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 50
     }
 
     artisans = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 200
     }
 
     farmers = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 3500
     }
 }
@@ -515,37 +515,37 @@
 2479 = {
     clergymen = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 24
     }
 
     artisans = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 100
     }
 
     farmers = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 1750
     }
 
     clergymen = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 50
     }
 
     artisans = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 200
     }
 
     farmers = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 4200
     }
 }
@@ -553,37 +553,37 @@
 2480 = {
     clergymen = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 12
     }
 
     artisans = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 50
     }
 
     farmers = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 900
     }
 
     clergymen = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 26
     }
 
     artisans = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 100
     }
 
     farmers = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 2200
     }
 }
@@ -591,61 +591,61 @@
 2481 = {
     clergymen = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 25
     }
 
     artisans = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 50
     }
 
     farmers = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 900
     }
 
     clergymen = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 100
     }
 
     artisans = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 200
     }
 
     farmers = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 3600
     }
 
     officers = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 70
     }
 
     aristocrats = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 400
     }
 
     bureaucrats = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 23
     }
 
     soldiers = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 1000
     }
 }
@@ -655,55 +655,55 @@
 2482 = {
     clergymen = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 100
     }
 
     artisans = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 2000
     }
 
     farmers = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 6775
     }
 
     aristocrats = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 52
     }
 
     bureaucrats = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 25
     }
 
     clergymen = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 50
     }
 
     artisans = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 200
     }
 
     soldiers = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 590
     }
 
     farmers = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 800
     }
 }
@@ -713,61 +713,61 @@
 2483 = {
     clergymen = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 24
     }
 
     artisans = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 100
     }
 
     farmers = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 1750
     }
 
     clergymen = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 174
     }
 
     artisans = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 700
     }
 
     farmers = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 15500
     }
 
     aristocrats = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 400
     }
 
     officers = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 30
     }
 
     bureaucrats = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 20
     }
 
     soldiers = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 3100
     }
 }
@@ -776,37 +776,37 @@
 2484 = {
     clergymen = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 24
     }
 
     artisans = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 100
     }
 
     farmers = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 1750
     }
 
     clergymen = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 50
     }
 
     artisans = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 200
     }
 
     farmers = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 4200
     }
 }
@@ -814,37 +814,37 @@
 2485 = {
     clergymen = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 12
     }
 
     artisans = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 50
     }
 
     farmers = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 900
     }
 
     clergymen = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 26
     }
 
     artisans = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 100
     }
 
     farmers = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 2120
     }
 }
@@ -852,37 +852,37 @@
 2486 = {
     clergymen = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 24
     }
 
     artisans = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 100
     }
 
     farmers = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 2150
     }
 
     clergymen = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 50
     }
 
     artisans = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 200
     }
 
     farmers = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 4000
     }
 }
@@ -890,25 +890,25 @@
 2487 = {
     aristocrats = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 24
     }
 
     clergymen = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 24
     }
 
     artisans = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 100
     }
 
     farmers = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 3750
     }
 }
@@ -916,19 +916,19 @@
 2488 = {
     clergymen = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 50
     }
 
     artisans = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 125
     }
 
     farmers = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 2275
     }
 }
@@ -936,31 +936,31 @@
 2489 = {
     aristocrats = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 10
     }
 
     clergymen = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 25
     }
 
     artisans = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 50
     }
 
     soldiers = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 145
     }
 
     farmers = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 900
     }
 }
@@ -968,37 +968,37 @@
 2490 = {
     clergymen = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 25
     }
 
     artisans = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 50
     }
 
     farmers = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 900
     }
 
     clergymen = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 10
     }
 
     artisans = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 20
     }
 
     farmers = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 360
     }
 }
@@ -1006,19 +1006,19 @@
 2604 = {
     clergymen = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 25
     }
 
     artisans = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 75
     }
 
     farmers = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 1370
     }
 }
@@ -1028,37 +1028,37 @@
 2491 = {
     clergymen = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 75
     }
 
     artisans = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 150
     }
 
     farmers = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 2700
     }
 
     clergymen = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 250
     }
 
     artisans = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 600
     }
 
     farmers = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 8000
     }
 }
@@ -1066,37 +1066,37 @@
 2492 = {
     clergymen = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 25
     }
 
     artisans = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 50
     }
 
     farmers = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 900
     }
 
     clergymen = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 100
     }
 
     artisans = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 148
     }
 
     farmers = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 4780
     }
 }
@@ -1104,49 +1104,49 @@
 2493 = {
     aristocrats = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 10
     }
 
     clergymen = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 25
     }
 
     artisans = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 50
     }
 
     soldiers = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 85
     }
 
     farmers = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 900
     }
 
     clergymen = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 100
     }
 
     artisans = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 280
     }
 
     farmers = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 3250
     }
 }
@@ -1154,37 +1154,37 @@
 2494 = {
     clergymen = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 25
     }
 
     artisans = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 50
     }
 
     farmers = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 900
     }
 
     clergymen = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 50
     }
 
     artisans = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 100
     }
 
     farmers = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 2000
     }
 }
@@ -1192,31 +1192,31 @@
 2495 = {
     aristocrats = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 10
     }
 
     clergymen = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 25
     }
 
     artisans = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 50
     }
 
     soldiers = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 30
     }
 
     farmers = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 900
     }
 }
@@ -1224,31 +1224,31 @@
 2496 = {
     aristocrats = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 10
     }
 
     clergymen = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 25
     }
 
     artisans = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 50
     }
 
     soldiers = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 165
     }
 
     farmers = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 900
     }
 }
@@ -1258,73 +1258,73 @@
 2497 = {
     bureaucrats = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 7
     }
 
     officers = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 21
     }
 
     aristocrats = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 130
     }
 
     clergymen = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 145
     }
 
     artisans = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 257
     }
 
     farmers = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 4320
     }
 
     soldiers = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 457
     }
 
     clergymen = {
         culture = aborigine
-        religion = mahayana
+        religion = catholic
         size = 225
     }
 
     artisans = {
         culture = aborigine
-        religion = mahayana
+        religion = catholic
         size = 453
     }
 
     farmers = {
         culture = aborigine
-        religion = mahayana
+        religion = catholic
         size = 8849
     }
 
     soldiers = {
         culture = aborigine
-        religion = mahayana
+        religion = catholic
         size = 1085
     }
 
     farmers = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 400
     }
 }
@@ -1332,55 +1332,55 @@
 2498 = {
     clergymen = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 70
     }
 
     artisans = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 142
     }
 
     farmers = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 2289
     }
 
     soldiers = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 252
     }
 
     clergymen = {
         culture = aborigine
-        religion = mahayana
+        religion = catholic
         size = 144
     }
 
     artisans = {
         culture = aborigine
-        religion = mahayana
+        religion = catholic
         size = 288
     }
 
     farmers = {
         culture = aborigine
-        religion = mahayana
+        religion = catholic
         size = 4253
     }
 
     soldiers = {
         culture = aborigine
-        religion = mahayana
+        religion = catholic
         size = 478
     }
 
     farmers = {
         culture = ganguan
-        religion = mahayana
+        religion = catholic
         size = 215
     }
 }
@@ -1388,19 +1388,19 @@
 2499 = {
     clergymen = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 50
     }
 
     artisans = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 100
     }
 
     farmers = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 1750
     }
 }
@@ -1408,19 +1408,19 @@
 2500 = {
     clergymen = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 25
     }
 
     artisans = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 50
     }
 
     farmers = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 900
     }
 }
@@ -1428,19 +1428,19 @@
 2501 = {
     clergymen = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 50
     }
 
     artisans = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 100
     }
 
     farmers = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 1750
     }
 }
@@ -1448,31 +1448,31 @@
 2502 = {
     aristocrats = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 5
     }
 
     clergymen = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 10
     }
 
     artisans = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 25
     }
 
     soldiers = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 55
     }
 
     farmers = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 450
     }
 }
@@ -1480,19 +1480,19 @@
 2503 = {
     clergymen = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 15
     }
 
     artisans = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 35
     }
 
     farmers = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 630
     }
 }
@@ -1500,19 +1500,19 @@
 2504 = {
     clergymen = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 25
     }
 
     artisans = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 50
     }
 
     farmers = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 900
     }
 }
@@ -1520,19 +1520,19 @@
 2601 = {
     clergymen = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 10
     }
 
     artisans = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 25
     }
 
     farmers = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 450
     }
 }
@@ -1540,19 +1540,19 @@
 2602 = {
     clergymen = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 15
     }
 
     artisans = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 25
     }
 
     farmers = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 450
     }
 }
@@ -1560,19 +1560,19 @@
 2605 = {
     clergymen = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 15
     }
 
     artisans = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 40
     }
 
     farmers = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 725
     }
 }
@@ -1582,73 +1582,73 @@
 2505 = {
     bureaucrats = {
         culture = moluccan
-        religion = sunni
+        religion = catholic
         size = 7
     }
 
     officers = {
         culture = moluccan
-        religion = sunni
+        religion = catholic
         size = 21
     }
 
     aristocrats = {
         culture = moluccan
-        religion = sunni
+        religion = catholic
         size = 100
     }
 
     clergymen = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 119
     }
 
     artisans = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 237
     }
 
     farmers = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 4481
     }
 
     soldiers = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 387
     }
 
     clergymen = {
         culture = aborigine
-        religion = sunni
+        religion = catholic
         size = 206
     }
 
     artisans = {
         culture = aborigine
-        religion = sunni
+        religion = catholic
         size = 413
     }
 
     farmers = {
         culture = aborigine
-        religion = sunni
+        religion = catholic
         size = 7755
     }
 
     soldiers = {
         culture = aborigine
-        religion = sunni
+        religion = catholic
         size = 1063
     }
 
     farmers = {
         culture = moluccan
-        religion = sunni
+        religion = catholic
         size = 395
     }
 }
@@ -1656,19 +1656,19 @@
 2506 = {
     clergymen = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 50
     }
 
     artisans = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 100
     }
 
     farmers = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 1750
     }
 }
@@ -1676,19 +1676,19 @@
 2507 = {
     clergymen = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 15
     }
 
     artisans = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 35
     }
 
     farmers = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 630
     }
 }
@@ -1696,19 +1696,19 @@
 2603 = {
     clergymen = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 3
     }
 
     artisans = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 15
     }
 
     farmers = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 275
     }
 }
@@ -1718,19 +1718,19 @@
 2508 = {
     clergymen = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 3
     }
 
     artisans = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 10
     }
 
     farmers = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 235
     }
 }

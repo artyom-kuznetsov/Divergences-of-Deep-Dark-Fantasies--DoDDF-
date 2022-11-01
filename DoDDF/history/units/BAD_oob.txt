@@ -1,10 +1,3 @@
-leader = {
-	name = "Walter Köhler"
-	type = land
-	date = 1836.1.1
-	personality = aggressive
-	background = powerful_friends
-}
 
 army = {
 	name = "Badische Armee"

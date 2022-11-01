@@ -1,7 +1,7 @@
 capital = 1182
 primary_culture = tatar
 culture = kazak
-religion = sunni
+religion = catholic
 government = khanate
 plurality = 0.0
 nationalvalue = nv_tradition
@@ -34,7 +34,7 @@ child_labor = child_labor_legal
 citizens_rights = culture_voting_only
 border_policy = closed_borders
 
-set_country_flag = sunni_country
+set_country_flag = catholic_country
 
 ruling_party = AAA_conservative_1
 upper_house = {

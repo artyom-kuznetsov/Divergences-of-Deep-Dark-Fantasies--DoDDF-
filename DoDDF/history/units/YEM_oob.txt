@@ -1,10 +1,4 @@
-leader = {
-	name = "Imam al-Mukalla"
-	type = land
-	date = 1836.1.1
-	personality = intuitive
-	background = armchair_general
-}
+
 
 army = {
 	name = "Army of the Zaidi Imams"

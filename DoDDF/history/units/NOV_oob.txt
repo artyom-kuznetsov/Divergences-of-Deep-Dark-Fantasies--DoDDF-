@@ -1,18 +1,4 @@
-leader = {
-	name = "Josif Gudunov"
-	type = land
-	date = 1836.1.1
-	personality = aggressive
-	background = bureaucrat_speed
-}
 
-leader = {
-	name = "Dmitryi Ivanov"
-	type = sea
-	date = 1836.1.1
-	personality = deeply_religious
-	background = innovative_tactician
-}
 
 army = {
 	name = "Army of the Republic"

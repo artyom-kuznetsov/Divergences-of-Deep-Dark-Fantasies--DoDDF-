@@ -4,97 +4,97 @@
 1465 = {
     aristocrats = {
         culture = mongol
-        religion = gelugpa
+        religion = catholic
         size = 6225
     }
 
     bureaucrats = {
         culture = mongol
-        religion = gelugpa
+        religion = catholic
         size = 75
     }
 
     officers = {
         culture = mongol
-        religion = gelugpa
+        religion = catholic
         size = 325
     }
 
     clergymen = {
         culture = mongol
-        religion = gelugpa
+        religion = catholic
         size = 4000
     }
 
     artisans = {
         culture = mongol
-        religion = gelugpa
+        religion = catholic
         size = 4500
     }
 
     soldiers = {
         culture = mongol
-        religion = gelugpa
+        religion = catholic
         size = 3175
     }
 
     farmers = {
         culture = mongol
-        religion = gelugpa
+        religion = catholic
         size = 84350
     }
 
     bureaucrats = {
         culture = beifaren
-        religion = mahayana
+        religion = catholic
         size = 125
     }
 
     clergymen = {
         culture = beifaren
-        religion = mahayana
+        religion = catholic
         size = 75
     }
 
     artisans = {
         culture = beifaren
-        religion = mahayana
+        religion = catholic
         size = 400
     }
 
     soldiers = {
         culture = beifaren
-        religion = mahayana
+        religion = catholic
         size = 100
     }
 
     farmers = {
         culture = beifaren
-        religion = mahayana
+        religion = catholic
         size = 3300
     }
 
     aristocrats = {
         culture = yakut
-        religion = animist
+        religion = catholic
         size = 50
     }
 
     aristocrats = {
         culture = kazak
-        religion = sunni
+        religion = catholic
         size = 200
     }
 
     soldiers = {
         culture = yakut
-        religion = animist
+        religion = catholic
         size = 25
     }
 
     soldiers = {
         culture = kazak
-        religion = sunni
+        religion = catholic
         size = 125
     }
 }
@@ -102,19 +102,19 @@
 1466 = {
     clergymen = {
         culture = mongol
-        religion = gelugpa
+        religion = catholic
         size = 550
     }
 
     artisans = {
         culture = mongol
-        religion = gelugpa
+        religion = catholic
         size = 2650
     }
 
     farmers = {
         culture = mongol
-        religion = gelugpa
+        religion = catholic
         size = 48200
     }
 }
@@ -122,37 +122,37 @@
 1467 = {
     clergymen = {
         culture = mongol
-        religion = gelugpa
+        religion = catholic
         size = 425
     }
 
     artisans = {
         culture = mongol
-        religion = gelugpa
+        religion = catholic
         size = 2050
     }
 
     farmers = {
         culture = mongol
-        religion = gelugpa
+        religion = catholic
         size = 37275
     }
 
     clergymen = {
         culture = yakut
-        religion = animist
+        religion = catholic
         size = 50
     }
 
     artisans = {
         culture = yakut
-        religion = animist
+        religion = catholic
         size = 125
     }
 
     farmers = {
         culture = yakut
-        religion = animist
+        religion = catholic
         size = 2750
     }
 }
@@ -160,43 +160,43 @@
 1468 = {
     aristocrats = {
         culture = oirat
-        religion = gelugpa
+        religion = catholic
         size = 8000
     }
 
     bureaucrats = {
         culture = oirat
-        religion = gelugpa
+        religion = catholic
         size = 100
     }
 
     officers = {
         culture = oirat
-        religion = gelugpa
+        religion = catholic
         size = 1000
     }
 
     clergymen = {
         culture = oirat
-        religion = gelugpa
+        religion = catholic
         size = 350
     }
 
     artisans = {
         culture = oirat
-        religion = gelugpa
+        religion = catholic
         size = 1750
     }
 
     soldiers = {
         culture = oirat
-        religion = gelugpa
+        religion = catholic
         size = 4000
     }
 
     farmers = {
         culture = oirat
-        religion = gelugpa
+        religion = catholic
         size = 31900
     }
 }
@@ -204,19 +204,19 @@
 2207 = {
     clergymen = {
         culture = mongol
-        religion = gelugpa
+        religion = catholic
         size = 175
     }
 
     artisans = {
         culture = mongol
-        religion = gelugpa
+        religion = catholic
         size = 875
     }
 
     farmers = {
         culture = mongol
-        religion = gelugpa
+        religion = catholic
         size = 16200
     }
 }
@@ -225,19 +225,19 @@
 2608 = {
     clergymen = {
         culture = oirat
-        religion = gelugpa
+        religion = catholic
         size = 375
     }
 
     artisans = {
         culture = oirat
-        religion = gelugpa
+        religion = catholic
         size = 1500
     }
 
     farmers = {
         culture = oirat
-        religion = gelugpa
+        religion = catholic
         size = 35000
     }
 }
@@ -245,19 +245,19 @@
 2678 = {
     clergymen = {
         culture = oirat
-        religion = gelugpa
+        religion = catholic
         size = 200
     }
 
     artisans = {
         culture = oirat
-        religion = gelugpa
+        religion = catholic
         size = 1050
     }
 
     farmers = {
         culture = oirat
-        religion = gelugpa
+        religion = catholic
         size = 17125
     }
 }
@@ -265,37 +265,37 @@
 2679 = {
     clergymen = {
         culture = oirat
-        religion = gelugpa
+        religion = catholic
         size = 175
     }
 
     artisans = {
         culture = oirat
-        religion = gelugpa
+        religion = catholic
         size = 900
     }
 
     farmers = {
         culture = oirat
-        religion = gelugpa
+        religion = catholic
         size = 16400
     }
 
     clergymen = {
         culture = kazak
-        religion = sunni
+        religion = catholic
         size = 100
     }
 
     artisans = {
         culture = kazak
-        religion = sunni
+        religion = catholic
         size = 600
     }
 
     farmers = {
         culture = kazak
-        religion = sunni
+        religion = catholic
         size = 10975
     }
 }
@@ -303,31 +303,31 @@
 1469 = {
     aristocrats = {
         culture = tatar
-        religion = gelugpa
+        religion = catholic
         size = 150
     }
 
     clergymen = {
         culture = tatar
-        religion = gelugpa
+        religion = catholic
         size = 75
     }
 
     artisans = {
         culture = tatar
-        religion = gelugpa
+        religion = catholic
         size = 400
     }
 
     soldiers = {
         culture = tatar
-        religion = gelugpa
+        religion = catholic
         size = 75
     }
 
     farmers = {
         culture = tatar
-        religion = gelugpa
+        religion = catholic
         size = 7300
     }
 }

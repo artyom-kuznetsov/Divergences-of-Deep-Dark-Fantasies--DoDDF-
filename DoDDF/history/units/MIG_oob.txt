@@ -1,26 +1,4 @@
-leader = {
-	name = "Zhu Yuanzhang"
-	type = land
-	date = 1836.1.1
-	personality = tactful
-	background = exranker
-}
 
-leader = {
-	name = "Mu Ying"
-	type = land
-	date = 1836.1.1
-	personality = resourceful
-	background = innovative_tactician
-}
-
-leader = {
-	name = "Wang Jiawei"
-	type = sea
-	date = 1836.1.1
-	personality = reserved
-	background = diplomat
-}
 
 army = {
 	name = "1st Yellow Standard Army"

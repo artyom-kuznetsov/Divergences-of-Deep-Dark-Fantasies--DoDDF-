@@ -4,81 +4,81 @@
 2344 = {
 	aristocrats = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size = 1575
 	}
 
 	bureaucrats = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size = 200
 	}
 
 	officers = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size = 250
 	}
 
 	capitalists = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size = 250
 	}
 
 	artisans = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size = 10980
 	}
 
 	soldiers = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size= 1100
 
 	}
 
 	farmers = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size = 60095
 	}
 
 	clergymen = {
 		culture = afro_frankish
-		religion = protestant
+		religion = catholic
 		size = 150
 	}
 
 	artisans = {
 		culture = afro_frankish
-		religion = protestant
+		religion = catholic
 		size = 4250
 	}
 
 	soldiers = {
 		culture = afro_frankish
-		religion = protestant
+		religion = catholic
 		size= 1050
 
 	}
 
 	farmers = {
 		culture = afro_frankish
-		religion = protestant
+		religion = catholic
 		size = 5150
 	}
 
 	slaves = {
 		culture = afro_frankish
-		religion = protestant
+		religion = catholic
 		size = 23500
 	}
 }
@@ -86,44 +86,44 @@
 2345 = {
 	aristocrats = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size = 200
 	}
 
 	bureaucrats = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size = 20
 	}	
 	
 	clergymen = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size = 75
 	}
 
 	artisans = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size = 450
 	}
 
 	soldiers = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size= 1100
 
 	}
 
 	farmers = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size = 7275
 	}
 
 	slaves = {
 		culture = afro_frankish
-		religion = protestant
+		religion = catholic
 		size = 3240
 	}
 }
@@ -131,69 +131,69 @@
 2346 = {
 	aristocrats = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size = 25
 	}
 
 	bureaucrats = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size= 3025
 
 	}
 
 	farmers = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size = 16800
 	}
 
 	clergymen = {
 		culture = afro_frankish
-		religion = protestant
+		religion = catholic
 		size = 15
 	}
 
 	artisans = {
 		culture = afro_frankish
-		religion = protestant
+		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
 		culture = afro_frankish
-		religion = protestant
+		religion = catholic
 		size= 10
 
 	}
 
 	farmers = {
 		culture = afro_frankish
-		religion = protestant
+		religion = catholic
 		size = 325
 	}
 
 	slaves = {
 		culture = afro_frankish
-		religion = protestant
+		religion = catholic
 		size = 8300
 	}
 }
@@ -201,69 +201,69 @@
 2347 = {
 	aristocrats = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size = 150
 	}
 
 	bureaucrats = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size = 350
 	}
 
 	soldiers = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size= 1100
 
 	}
 
 	farmers = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size = 9450
 	}
 
 	clergymen = {
 		culture = afro_frankish
-		religion = protestant
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
 		culture = afro_frankish
-		religion = protestant
+		religion = catholic
 		size = 150
 	}
 
 	soldiers = {
 		culture = afro_frankish
-		religion = protestant
+		religion = catholic
 		size= 25
 
 	}
 
 	farmers = {
 		culture = afro_frankish
-		religion = protestant
+		religion = catholic
 		size = 775
 	}
 
 	slaves = {
 		culture = afro_frankish
-		religion = protestant
+		religion = catholic
 		size = 4200
 	}
 

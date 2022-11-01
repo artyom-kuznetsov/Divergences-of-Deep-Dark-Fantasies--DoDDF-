@@ -91,7 +91,7 @@ political_decisions = {
                     add_core = SGF
                 }
             }
-            #Bavaria
+            #Bchechenia
             BAV = {
                 all_core = { add_core = SGF }
             }

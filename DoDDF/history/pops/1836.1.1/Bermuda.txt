@@ -4,19 +4,19 @@
 203 = {
 	clergymen = {
 		culture = afro_frankish
-		religion = protestant
+		religion = catholic
 		size = 150
 	}
 
 	artisans = {
 		culture = afro_frankish
-		religion = protestant
+		religion = catholic
 		size = 800
 	}
 
 	farmers = {
 		culture = afro_frankish
-		religion = protestant
+		religion = catholic
 		size = 5110
 	}
 

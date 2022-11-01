@@ -3,82 +3,82 @@
 #Port au Prince (312000/78000 POPS)
 2213 = {
 	aristocrats = {
-		culture = ayitian
-		religion = protestant
+		culture = caribeno
+		religion = catholic
 		size = 825
 	}
 
 	bureaucrats = {
-		culture = ayitian
-		religion = protestant
+		culture = caribeno
+		religion = catholic
 		size = 150
 	}
 
 	officers = {
-		culture = ayitian
-		religion = protestant
+		culture = caribeno
+		religion = catholic
 		size = 150
 	}
 
 	clergymen = {
-		culture = ayitian
-		religion = protestant
+		culture = caribeno
+		religion = catholic
 		size = 575
 	}
 
 	artisans = {
-		culture = ayitian
-		religion = protestant
+		culture = caribeno
+		religion = catholic
 		size = 2700
 	}
 
 	soldiers = {
-		culture = ayitian
-		religion = protestant
+		culture = caribeno
+		religion = catholic
 		size= 3000
 
 	}
 
 	soldiers = {
-		culture = ayitian
-		religion = protestant
+		culture = caribeno
+		religion = catholic
 		size= 1000
 
 	}
 
 	farmers = {
-		culture = ayitian
-		religion = protestant
+		culture = caribeno
+		religion = catholic
 		size = 35000
 	}
 
 	clergymen = {
 		culture = afro_germanic
-		religion = protestant
+		religion = catholic
 		size = 200
 	}
 
 	artisans = {
 		culture = afro_germanic
-		religion = protestant
+		religion = catholic
 		size = 1200
 	}
 
 	soldiers = {
 		culture = afro_germanic
-		religion = protestant
+		religion = catholic
 		size = 500
 	}
 
 	farmers = {
 		culture = afro_germanic
-		religion = protestant
+		religion = catholic
 		size = 8300
 	}
 
 	slaves = {
 		culture = afro_germanic
-		religion = protestant
+		religion = catholic
 		size = 25000
 	}
 }
@@ -88,64 +88,64 @@
 #Santo Domingo (68000/17000 POPS) #now part of Dominican Republic
 2214 = {
 	aristocrats = {
-		culture = ayitian
-		religion = protestant
+		culture = caribeno
+		religion = catholic
 		size = 300
 	}
 
 	clergymen = {
-		culture = ayitian
-		religion = protestant
+		culture = caribeno
+		religion = catholic
 		size = 125
 	}
 
 	artisans = {
-		culture = ayitian
-		religion = protestant
+		culture = caribeno
+		religion = catholic
 		size = 350
 	}
 
 	soldiers = {
-		culture = ayitian
-		religion = protestant
+		culture = caribeno
+		religion = catholic
 		size= 75
 
 	}
 
 	farmers = {
-		culture = ayitian
-		religion = protestant
+		culture = caribeno
+		religion = catholic
 		size = 6150
 	}
 
 	clergymen = {
 		culture = afro_germanic
-		religion = protestant
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
 		culture = afro_germanic
-		religion = protestant
+		religion = catholic
 		size = 500
 	}
 
 	soldiers = {
 		culture = afro_germanic
-		religion = protestant
+		religion = catholic
 		size= 100
 
 	}
 
 	farmers = {
 		culture = afro_germanic
-		religion = protestant
+		religion = catholic
 		size = 4050
 	}
 
 	slaves = {
 		culture = afro_germanic
-		religion = protestant
+		religion = catholic
 		size = 5300
 	}
 }
@@ -153,62 +153,62 @@
 #Cap Haitien (204000/51000 POPS)
 2215 = {
 	aristocrats = {
-		culture = ayitian
-		religion = protestant
+		culture = caribeno
+		religion = catholic
 		size = 550
 	}
 
 	clergymen = {
-		culture = ayitian
-		religion = protestant
+		culture = caribeno
+		religion = catholic
 		size = 375
 	}
 
 	artisans = {
-		culture = ayitian
-		religion = protestant
+		culture = caribeno
+		religion = catholic
 		size = 1550
 	}
 
 	soldiers = {
-		culture = ayitian
-		religion = protestant
+		culture = caribeno
+		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = ayitian
-		religion = protestant
+		culture = caribeno
+		religion = catholic
 		size = 25025
 	}
 
 	clergymen = {
 		culture = afro_germanic
-		religion = protestant
+		religion = catholic
 		size = 175
 	}
 
 	artisans = {
 		culture = afro_germanic
-		religion = protestant
+		religion = catholic
 		size = 1000
 	}
 
 	soldiers = {
 		culture = afro_germanic
-		religion = protestant
+		religion = catholic
 		size = 500
 	}
 
 	farmers = {
 		culture = afro_germanic
-		religion = protestant
+		religion = catholic
 		size = 6400
 	}
 
 	slaves = {	
 		culture = afro_germanic
-		religion = protestant
+		religion = catholic
 		size = 15000
 	}
 }
@@ -216,64 +216,64 @@
 #La Vega (56000/15000 POPS) #now part of Dominican Republic
 2216 = {
 	aristocrats = {
-		culture = ayitian
-		religion = protestant
+		culture = caribeno
+		religion = catholic
 		size = 250
 	}
 
 	clergymen = {
-		culture = ayitian
-		religion = protestant
+		culture = caribeno
+		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = ayitian
-		religion = protestant
+		culture = caribeno
+		religion = catholic
 		size = 400
 	}
 
 	soldiers = {
-		culture = ayitian
-		religion = protestant
+		culture = caribeno
+		religion = catholic
 		size= 75
 
 	}
 
 	farmers = {
-		culture = ayitian
-		religion = protestant
+		culture = caribeno
+		religion = catholic
 		size = 7175
 	}
 
 	clergymen = {
 		culture = afro_germanic
-		religion = protestant
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
 		culture = afro_germanic
-		religion = protestant
+		religion = catholic
 		size = 300
 	}
 
 	soldiers = {
 		culture = afro_germanic
-		religion = protestant
+		religion = catholic
 		size= 75
 
 	}
 
 	farmers = {
 		culture = afro_germanic
-		religion = protestant
+		religion = catholic
 		size = 1075
 	}
 
 	slaves = {
 		culture = afro_germanic
-		religion = protestant
+		religion = catholic
 		size = 4500
 	}
 
@@ -284,64 +284,64 @@
 #Puerto Rico (356000/89000 POPS)
 2222 = {
 	aristocrats = {
-		culture = ayitian
-		religion = protestant
+		culture = caribeno
+		religion = catholic
 		size = 1350
 	}
 
 	bureaucrats = {
-		culture = ayitian
-		religion = protestant
+		culture = caribeno
+		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = ayitian
-		religion = protestant
+		culture = caribeno
+		religion = catholic
 		size = 500
 	}
 
 	artisans = {
-		culture = ayitian
-		religion = protestant
+		culture = caribeno
+		religion = catholic
 		size = 3800
 	}
 
 	soldiers = {
-		culture = ayitian
-		religion = protestant
+		culture = caribeno
+		religion = catholic
 		size= 500
 
 	}
 
 	farmers = {
-		culture = ayitian
-		religion = protestant
+		culture = caribeno
+		religion = catholic
 		size = 40850
 	}
 
 	artisans = {
 		culture = afro_germanic
-		religion = protestant
+		religion = catholic
 		size = 1100
 	}
 
 	soldiers = {
 		culture = afro_germanic
-		religion = protestant
+		religion = catholic
 		size= 400
 
 	}
 
 	farmers = {
 		culture = afro_germanic
-		religion = protestant
+		religion = catholic
 		size = 20600
 	}
 
 	slaves = {
 		culture = afro_germanic
-		religion = protestant
+		religion = catholic
 		size = 20000
 	}
 

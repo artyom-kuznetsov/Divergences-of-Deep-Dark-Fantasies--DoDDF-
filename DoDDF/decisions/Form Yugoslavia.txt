@@ -103,7 +103,7 @@ political_decisions = {
 
         allow = {
             NOT = { war = yes }
-            is_greater_power = yes
+            #is_greater_power = yes
             ALB = {
                 all_core = {
                     OR = {
@@ -158,7 +158,7 @@ political_decisions = {
 
         allow = {
             NOT = { war = yes }
-            is_greater_power = yes
+          #  is_greater_power = yes
             BUL = {
                 all_core = {
                     OR = {
@@ -218,7 +218,7 @@ political_decisions = {
 
         allow = {
             NOT = { war = yes }
-            is_greater_power = yes
+           # is_greater_power = yes
             YUG = {
                 all_core = { owned_by = THIS }
             }
@@ -288,7 +288,7 @@ political_decisions = {
         }
         allow = {
             war = no
-            is_greater_power = yes
+          #  is_greater_power = yes
             SER = {
                 ai = yes
                 all_core = {

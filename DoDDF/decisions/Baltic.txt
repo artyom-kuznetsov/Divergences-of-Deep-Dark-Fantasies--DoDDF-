@@ -3,7 +3,7 @@ political_decisions = {
         picture = baltic_sea
         potential = {
             tag = SCA
-            is_greater_power = yes
+            #is_greater_power = yes
             NOT = { has_country_flag = baltic_claimed }
         }
 
@@ -34,7 +34,7 @@ political_decisions = {
         picture = lithuania
         potential = {
             tag = SCA
-            is_greater_power = yes
+           # is_greater_power = yes
             has_country_flag = baltic_claimed
             NOT = { has_country_flag = lol_gg }
             LIT = { substate_of = PLC }
@@ -72,7 +72,7 @@ political_decisions = {
         }
 
         allow = {
-            is_greater_power = yes
+           # is_greater_power = yes
             war_policy = jingoism
         }
 
@@ -102,7 +102,7 @@ political_decisions = {
         allow = {
             OR = {
                 AND = {
-                    is_greater_power = yes
+                   # is_greater_power = yes
                     state_n_government = 1
                 }
                 AND = {
@@ -241,7 +241,6 @@ political_decisions = {
         effect = {
             set_country_flag = my_latvian_brother
             prestige = 10
-            add_accepted_culture = latvian
             add_accepted_culture = estonian
         }
 
@@ -303,7 +302,7 @@ political_decisions = {
         picture = greifswald
         potential = {
             tag = SCA
-            is_greater_power = yes
+            #is_greater_power = yes
             OR = {
                 has_country_flag = baltic_claimed
                 year = 1890
@@ -379,7 +378,7 @@ political_decisions = {
         picture = pomerania
         potential = {
             tag = SCA
-            is_greater_power = yes
+           # is_greater_power = yes
             has_country_flag = baltic_claimed
             NOT = {
                 has_global_flag = hre_formed
@@ -450,7 +449,7 @@ political_decisions = {
         picture = cossack
         potential = {
             tag = RUS
-            is_greater_power = yes
+            #is_greater_power = yes
             UKR = { substate_of = PLC }
             963 = { owned_by = UKR }
         }

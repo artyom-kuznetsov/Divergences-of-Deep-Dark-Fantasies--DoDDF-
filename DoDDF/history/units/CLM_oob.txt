@@ -13,54 +13,6 @@ INC = {
 #		96=50
 #	}
 
-leader = {
-	name = "Juan Manuel Santos"
-	type = land
-	date = 1836.1.1
-	personality = hellbent
-	background = bureaucrat_speed
-}
-
-leader = {
-	name = "Angelino Garzón"
-	type = land
-	date = 1836.1.1
-	personality = wretched
-	background = engineer
-}
-
-leader = {
-	name = "Francisco de Miranda"
-	type = land
-	date = 1836.1.1
-	personality = unsound
-	background = armchair_general
-}
-
-leader = {
-	name = "José Manuel Portález"
-	type = land
-	date = 1836.1.1
-	personality = clever
-	background = gifted_administrator
-}
-
-leader = {
-	name = "Marcos Aragonés"
-	type = land
-	date = 1836.1.1
-	personality = maladroit
-	background = cartographer
-}
-
-leader = {
-	name = "Miguel de Lugo"
-	type = sea
-	date = 1836.1.1
-	personality = pisspoor
-	background = drillmaster
-}
-
 army = {
 	name = "Ejército de Andagoya"
 	location = 2253

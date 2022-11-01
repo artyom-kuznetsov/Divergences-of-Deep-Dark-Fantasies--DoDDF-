@@ -1,10 +1,4 @@
-leader = {
-	name = "Bubakar Biro"
-	type = land
-	date = 1836.1.1
-	personality = active_p
-	background = armchair_general
-}
+
 
 army = {
 	name = "Royal Army"

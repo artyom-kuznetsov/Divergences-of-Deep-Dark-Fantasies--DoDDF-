@@ -1,7 +1,7 @@
 capital = 357
 primary_culture = north_german
 culture = latvian
-religion = protestant
+religion = catholic
 government = absolute_monarchy
 plurality = 0.2
 nationalvalue = nv_order
@@ -36,7 +36,7 @@ child_labor = child_labor_legal
 citizens_rights = culture_voting_only
 border_policy = quota_immigration
 
-set_country_flag = protestant_country
+set_country_flag = catholic_country
 
 ruling_party = KRL_liberal_1
 upper_house = {

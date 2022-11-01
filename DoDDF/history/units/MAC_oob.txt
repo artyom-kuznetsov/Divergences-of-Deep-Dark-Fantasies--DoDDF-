@@ -1,19 +1,3 @@
-leader = {
-	name = "Alexandar Kostadin"
-	type = land
-	date = 1836.1.1
-	personality = keen
-	background = natural_born_leader
-}
-
-leader = {
-	name = "Gjerasim Avram"
-	type = land
-	date = 1836.1.1
-	personality = wrathful
-	background = natural_born_leader
-}
-
 
 army = {
 	name = "Stratós Makedonia"

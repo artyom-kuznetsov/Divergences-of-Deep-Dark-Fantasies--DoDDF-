@@ -5,49 +5,49 @@
 2509 = {
     aristocrats = {
         culture = maori
-        religion = animist
+        religion = catholic
         size = 450
     }
 
     bureaucrats = {
         culture = maori
-        religion = animist
+        religion = catholic
         size = 22
     }
 
     officers = {
         culture = maori
-        religion = animist
+        religion = catholic
         size = 12
     }
 
     clergymen = {
         culture = maori
-        religion = animist
+        religion = catholic
         size = 225
     }
 
     artisans = {
         culture = maori
-        religion = animist
+        religion = catholic
         size = 600
     }
 
     soldiers = {
         culture = maori
-        religion = animist
+        religion = catholic
         size = 1125
     }
 
     farmers = {
         culture = maori
-        religion = animist
+        religion = catholic
         size = 11475
     }
 
     soldiers = {
         culture = aborigine
-        religion = animist
+        religion = catholic
         size = 6
     }
 }
@@ -56,19 +56,19 @@
 2510 = {
     clergymen = {
         culture = maori
-        religion = animist
+        religion = catholic
         size = 150
     }
 
     artisans = {
         culture = maori
-        religion = animist
+        religion = catholic
         size = 300
     }
 
     farmers = {
         culture = maori
-        religion = animist
+        religion = catholic
         size = 5325
     }
 }
@@ -76,19 +76,19 @@
 2511 = {
     clergymen = {
         culture = maori
-        religion = animist
+        religion = catholic
         size = 225
     }
 
     artisans = {
         culture = maori
-        religion = animist
+        religion = catholic
         size = 450
     }
 
     farmers = {
         culture = maori
-        religion = animist
+        religion = catholic
         size = 8025
     }
 }
@@ -96,19 +96,19 @@
 2512 = {
     clergymen = {
         culture = maori
-        religion = animist
+        religion = catholic
         size = 225
     }
 
     artisans = {
         culture = maori
-        religion = animist
+        religion = catholic
         size = 450
     }
 
     farmers = {
         culture = maori
-        religion = animist
+        religion = catholic
         size = 8025
     }
 }
@@ -116,19 +116,19 @@
 2571 = {
     clergymen = {
         culture = maori
-        religion = animist
+        religion = catholic
         size = 225
     }
 
     artisans = {
         culture = maori
-        religion = animist
+        religion = catholic
         size = 450
     }
 
     farmers = {
         culture = maori
-        religion = animist
+        religion = catholic
         size = 8025
     }
 }
@@ -138,25 +138,25 @@
 
 	clergymen = {
 		culture = maori
-		religion = animist
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
 		culture = maori
-		religion = animist
+		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
 		culture = maori
-		religion = animist
+		religion = catholic
 		size = 75
 	}
 	
 	farmers = {
 		culture = maori
-		religion = animist
+		religion = catholic
 		size = 1488
 	}
 }
@@ -166,31 +166,31 @@
 2513 = {
     aristocrats = {
         culture = maori
-        religion = animist
+        religion = catholic
         size = 70
     }
 
     clergymen = {
         culture = maori
-        religion = animist
+        religion = catholic
         size = 25
     }
 
     artisans = {
         culture = maori
-        religion = animist
+        religion = catholic
         size = 50
     }
 
     soldiers = {
         culture = maori
-        religion = animist
+        religion = catholic
         size = 155
     }
 
     farmers = {
         culture = maori
-        religion = animist
+        religion = catholic
         size = 900
     }
 }	
@@ -198,19 +198,19 @@
 2514 = {
     clergymen = {
         culture = maori
-        religion = animist
+        religion = catholic
         size = 25
     }
 
     artisans = {
         culture = maori
-        religion = animist
+        religion = catholic
         size = 50
     }
 
     farmers = {
         culture = maori
-        religion = animist
+        religion = catholic
         size = 900
     }
 }
@@ -218,19 +218,19 @@
 2515 = {
     clergymen = {
         culture = maori
-        religion = animist
+        religion = catholic
         size = 50
     }
 
     artisans = {
         culture = maori
-        religion = animist
+        religion = catholic
         size = 100
     }
 
     farmers = {
         culture = maori
-        religion = animist
+        religion = catholic
         size = 1775
     }
 }
@@ -238,19 +238,19 @@
 2516 = {
     clergymen = {
         culture = maori
-        religion = animist
+        religion = catholic
         size = 75
     }
 
     artisans = {
         culture = maori
-        religion = animist
+        religion = catholic
         size = 150
     }
 
     farmers = {
         culture = maori
-        religion = animist
+        religion = catholic
         size = 2675
     }
 }

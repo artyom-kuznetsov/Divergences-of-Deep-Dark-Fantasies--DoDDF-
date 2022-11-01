@@ -1,20 +1,4 @@
 
-leader = {
-	name = "Naaba Yadegaa"
-	type = land
-	date = 1836.1.1
-	personality = inspiring
-	background = warmonger
-}
-
-leader = {
-	name = "Mogho Naba"
-	type = land
-	date = 1836.1.1
-	personality = persistant
-	background = toady
-}
-
 army = {
 	name = "Army of the Empire of the Mossi"
 	location = 1902

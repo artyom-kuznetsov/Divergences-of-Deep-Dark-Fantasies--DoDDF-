@@ -1,0 +1,20 @@
+country_event = {
+	title = "EVTNAME15955"
+	desc = "EVTDESC15955"
+	id = 15935
+	trigger = {
+		NOT = {
+			has_country_modifier = force_reform
+		}
+		has_country_flag = force_reform
+	}
+	immediate = {
+		clr_country_flag = force_reform
+		remove_country_modifier = force_reform
+	}
+	picture = upper_house
+	option = {
+		name = "EVTOPTA15955"
+	}
+}
+

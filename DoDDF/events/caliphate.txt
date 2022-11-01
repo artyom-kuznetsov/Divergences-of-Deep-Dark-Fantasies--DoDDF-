@@ -30,32 +30,6 @@ country_event = {
 }
 
 #Jihad declared
-country_event = {
-    id = 90671
-    title = "EVTNAME90671"
-    desc = "EVTDESC90671"
-    picture = "arab_revolt"
-
-    is_triggered_only = yes
-
-    option = {
-        name = "EVTOPTA90671"
-        any_pop = {
-            limit = {
-                NOT = {
-                    OR = {
-                        is_accepted_culture = yes
-                        has_pop_religion = sunni
-                        has_pop_religion = shiite
-                        has_pop_religion = ibadi
-                    }
-                }
-            }
-            militancy = 3
-        }
-    }
-}
-
 #Jihad successful - loser event trigger on peace acceptance
 country_event = {
     id = 90672
@@ -72,46 +46,7 @@ country_event = {
     option = { name = "Ok" }
 }
 
-#Jihad successful - winner event reduces conquered population and decreases militancy for caliphate accepted pops
-country_event = {
-    id = 90673
-    title = "EVTNAME90673"
-    desc = "EVTDESC90673"
-    picture = "arab_revolt"
 
-    is_triggered_only = yes
-
-    option = {
-        name = "EVTOPTA90673"
-
-        any_owned = {
-            limit = { is_core = FROM }
-            any_pop = {
-                limit = {
-                    NOT = {
-                        OR = {
-                            is_accepted_culture = yes
-                            has_pop_religion = sunni
-                            has_pop_religion = shiite
-                            has_pop_religion = ibadi
-                        }
-                    }
-                }
-                militancy = 5.0
-                reduce_pop = 0.9
-            }
-            add_province_modifier = {
-                name = recent_jihad
-                duration = 3650
-            }
-        }
-
-        any_pop = {
-            limit = { is_accepted_culture = yes }
-            militancy = -2
-        }
-    }
-}
 
 #Change goverment event - "government" effect doesn't seem to work in event option -> any_country = {...} scope (condition check for theocracy required, rebels might've flipped you to something else)
 country_event = {

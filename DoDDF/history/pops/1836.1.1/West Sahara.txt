@@ -4,59 +4,59 @@
 1773 = {
     aristocrats = {
         culture = maures
-        religion = sunni
+        religion = catholic
         size = 30
     }
 
     soldiers = {
         culture = maures
-        religion = sunni
+        religion = catholic
         size = 75
     }
     clergymen = {
         culture = maures
-        religion = sunni
+        religion = catholic
         size = 15
     }
 
     artisans = {
         culture = maures
-        religion = sunni
+        religion = catholic
         size = 50
     }
     farmers = {
         culture = maures
-        religion = sunni
+        religion = catholic
         size = 1200
     }
 
     aristocrats = {
         culture = tuareg
-        religion = sunni
+        religion = catholic
         size = 25
     }
 
     clergymen = {
         culture = tuareg
-        religion = sunni
+        religion = catholic
         size = 50
     }
 
     artisans = {
         culture = tuareg
-        religion = sunni
+        religion = catholic
         size = 100
     }
 
     soldiers = {
         culture = tuareg
-        religion = sunni
+        religion = catholic
         size = 25
     }
 
     farmers = {
         culture = tuareg
-        religion = sunni
+        religion = catholic
         size = 1500
     }
 }
@@ -64,25 +64,25 @@
 1774 = {
     farmers = {
         culture = tuareg
-        religion = sunni
+        religion = catholic
         size = 900
     }
 
     clergymen = {
         culture = maures
-        religion = sunni
+        religion = catholic
         size = 30
     }
 
     artisans = {
         culture = maures
-        religion = sunni
+        religion = catholic
         size = 100
     }
 
     farmers = {
         culture = maures
-        religion = sunni
+        religion = catholic
         size = 900
     }
 }

@@ -1,7 +1,7 @@
 capital = 605
 primary_culture = south_german
 culture = rheinish
-religion = protestant
+religion = catholic
 government = democracy
 plurality = 40.0
 nationalvalue = nv_liberty
@@ -36,7 +36,7 @@ child_labor = child_labor_legal
 citizens_rights = primary_culture_only
 border_policy = open_borders
 
-set_country_flag = protestant_country
+set_country_flag = catholic_country
 
 ruling_party = GEN_GER_conservative_1
 last_election = 1835.1.1

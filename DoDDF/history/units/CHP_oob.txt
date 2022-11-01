@@ -1,10 +1,3 @@
-leader = {
-	name = "My Son"
-	type = land
-	date = 1836.1.1
-	personality = resourceful
-	background = exranker
-}
 
 army = {
 	name = "Army of Champa"

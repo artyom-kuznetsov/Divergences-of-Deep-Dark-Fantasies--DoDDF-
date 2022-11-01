@@ -1,7 +1,7 @@
 capital = 549
 primary_culture = north_german
 culture = south_german
-religion = protestant
+religion = catholic
 government = absolute_monarchy
 plurality = 0.15
 nationalvalue = nv_order
@@ -36,7 +36,7 @@ child_labor = child_labor_legal
 citizens_rights = culture_voting_only
 border_policy = open_borders
 
-set_country_flag = protestant_country
+set_country_flag = catholic_country
 set_country_flag = theocracy_allowed
 
 ruling_party = AAA_conservative_1

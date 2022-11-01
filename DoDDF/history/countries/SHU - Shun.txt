@@ -2,7 +2,7 @@ capital = 1559
 primary_culture = beifaren
 culture = nanfaren
 culture = hui
-religion = mahayana
+religion = catholic
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
@@ -35,7 +35,7 @@ child_labor = child_labor_legal
 citizens_rights = culture_voting_only
 border_policy = closed_borders
 
-set_country_flag = mahayana_country
+set_country_flag = catholic_country
 
 ruling_party = AAA_conservative_2
 upper_house = {

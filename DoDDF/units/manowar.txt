@@ -9,7 +9,7 @@ manowar = {
     unit_type = big_ship
     capital = yes
     floating_flag = yes
-    colonial_points = 5
+    colonial_points = 20
 
     #Core Abilities
     priority = 25
@@ -30,12 +30,12 @@ manowar = {
     }
     min_port_level = 1
     limit_per_port = -1
-    supply_consumption_score = 2
+    supply_consumption_score = 0
 
     supply_consumption = 1.0
     supply_cost = {
-        clipper_convoy = 0.24
-        artillery = 0.08 #0.16
+        clipper_convoy = 0.96
+        artillery = 0.32 #0.16
     }
 
     #Naval Abilties

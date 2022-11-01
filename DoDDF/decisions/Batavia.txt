@@ -10,7 +10,7 @@ political_decisions = {
         allow = {
             NET = { exists = no }
             NOT = { war = yes }
-            is_greater_power = yes
+            #is_greater_power = yes
         }
 
         effect = {

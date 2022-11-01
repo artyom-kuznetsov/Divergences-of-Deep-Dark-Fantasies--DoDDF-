@@ -40,61 +40,6 @@ MOL = {
 }
 
 
-leader = {
-	name = "Nazan Girik"
-	type = land
-	date = 1836.1.1
-	personality = vicious
-	background = warmonger
-}
-
-leader = {
-	name = "Demet Hassan"
-	type = land
-	date = 1836.1.1
-	personality = reserved
-	background = toady
-}
-
-leader = {
-	name = "Nur Yener"
-	type = land
-	date = 1836.1.1
-	personality = hellbent
-	background = unqualified
-}
-
-leader = {
-	name = "Mehmet Ekren"
-	type = land
-	date = 1836.1.1
-	personality = charismatic
-	background = sucker
-}
-
-leader = {
-	name = "Aziz Ibn Isa"
-	type = land
-	date = 1836.1.1
-	personality = skilled
-	background = cavalry_school
-}
-
-leader = {
-	name = "Abdel el-Akkad"
-	type = land
-	date = 1836.1.1
-	personality = bastard
-	background = natural_born_leader
-}
-
-leader = {
-	name = "Piri Barbarossa"
-	type = sea
-	date = 1836.1.1
-	personality = inspiring
-	background = expert_raider
-}
 
 army = {
 	name = "Imperial Guard"

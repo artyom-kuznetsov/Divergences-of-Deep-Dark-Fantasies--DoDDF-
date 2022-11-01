@@ -335,32 +335,32 @@ guiTypes = {
 			Orientation = "CENTER"
 			
 			
-			guiButtonType = {
+				guiButtonType = {
 				name = "single_player_button"
-				position = { x = -84 y = 429 }
-				quadTextureSprite ="GFX_frontend_button_236"	
+				position = { x = 128 y = 408 }
+				quadTextureSprite ="GFX_frontend_button_single"	
 				tooltip = ""
 				tooltipText =""
 				delayedTooltipText = ""
-				buttonText = "FE_SINGLE_PLAYER"
+				buttonText = ""
 				buttonFont = "vic_22_black"
 			}
 			
 			guiButtonType = {
 				name = "multi_player_button"
-				position = { x = 158 y = 429 }
-				quadTextureSprite ="GFX_frontend_button_236"	
+				position = { x = 182 y = 408 }
+				quadTextureSprite ="GFX_frontend_button_multi"	
 				tooltip = ""
 				tooltipText =""
 				delayedTooltipText = ""
-				buttonText = "FE_MULTI_PLAYER"
+				buttonText = ""
 				buttonFont = "vic_22_black"
 			}
 
 			guiButtonType = {
 				name = "tutorial_button"
-				position = { x = 400 y = 429 }
-				quadTextureSprite ="GFX_frontend_button_236"	
+				position = { x = 400 y = -5429 }
+				quadTextureSprite ="GFX_frontend_button_red_236"	
 				tooltip = ""
 				tooltipText =""
 				delayedTooltipText = ""
@@ -370,19 +370,19 @@ guiTypes = {
 
 			guiButtonType = {
 				name = "settings_button"
-				position = { x = -84 y = 472 }
-				quadTextureSprite ="GFX_frontend_button_236"	
+				position = { x = 236 y = 408 }
+				quadTextureSprite ="GFX_frontend_button_settings"	
 				tooltip = ""
 				tooltipText =""
 				delayedTooltipText = ""
-				buttonText = "FE_OPTIONS"
+				buttonText = ""
 				buttonFont = "vic_22_black"
 			}
 			
 			guiButtonType = {
 				name = "credits_button"
-				position = { x = 158 y = 472	 }
-				quadTextureSprite ="GFX_frontend_button_236"	
+				position = { x = 128 y = -5472	 }
+				quadTextureSprite ="GFX_frontend_button_red_236"	
 				tooltip = ""
 				tooltipText =""
 				delayedTooltipText = ""
@@ -391,34 +391,34 @@ guiTypes = {
 			}
 			guiButtonType = {
 				name = "exit_button"
-				position = { x = 400 y = 472 }
-				quadTextureSprite ="GFX_frontend_button_236"	
+				position = { x = 290 y = 408 }
+				quadTextureSprite ="GFX_frontend_button_exit"	
 				tooltip = ""
 				tooltipText =""
 				delayedTooltipText = ""
-				buttonText = "FE_EXIT"
+				buttonText = ""
 				buttonFont = "vic_22_black"
 			}
 			
 			
 			guiButtonType = {
 				name = "homepage_button"
-				position = { x = 172 y = 538 }
+				position = { x = 172 y = -5538 }
 				quadTextureSprite ="homepage"	
 			}
 			guiButtonType = {
 				name = "forum_button"
-				position = { x = 224 y = 538 }
+				position = { x = 224 y = -5538 }
 				quadTextureSprite ="forum"	
 			}
 			guiButtonType = {
 				name = "facebook_button"
-				position = { x = 276 y = 538 }
+				position = { x = 276 y = -5538 }
 				quadTextureSprite ="facebook"	
 			}			
 			guiButtonType = {
 				name = "twitter_button"
-				position = { x = 328 y = 538 }
+				position = { x = 328 y = -5538 }
 				quadTextureSprite ="twitter"	
 			}		
 

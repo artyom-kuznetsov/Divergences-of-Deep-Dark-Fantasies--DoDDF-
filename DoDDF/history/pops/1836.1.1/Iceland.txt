@@ -4,48 +4,48 @@
 251 = {
 	bureaucrats = {
 		culture = icelandic
-		religion = protestant
+		religion = catholic
 		size = 25
 	}
 
 	clergymen = {
 		culture = icelandic
-		religion = protestant
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
 		culture = icelandic
-		religion = protestant
+		religion = catholic
 		size = 50
 	}
 
 	farmers = {
-		culture = inuit
-		religion = protestant
+		culture = scandinavian
+		religion = catholic
 		size = 1400
 	}
 }
 #Augmagsalik (12/3 POPS)
 1739 = {
 	bureaucrats = {
-		culture = inuit
-		religion = protestant
+		culture = scandinavian
+		religion = catholic
 		size = 6
 	}
 	clergymen = {
-		culture = inuit
-		religion = protestant
+		culture = scandinavian
+		religion = catholic
 		size = 6
 	}
 	artisans = {
-		culture = inuit
-		religion = protestant
+		culture = scandinavian
+		religion = catholic
 		size = 13
 	}
 	farmers = {
-		culture = inuit
-		religion = protestant
+		culture = scandinavian
+		religion = catholic
 		size = 475
 	}
 }
@@ -55,43 +55,43 @@
 252 = {
     clergymen = {
         culture = icelandic
-        religion = protestant
+        religion = catholic
         size = 200
     }
 
     artisans = {
         culture = icelandic
-        religion = protestant
+        religion = catholic
         size = 750
     }
 
     farmers = {
         culture = icelandic
-        religion = protestant
+        religion = catholic
         size = 12206
     }
 
     aristocrats = {
         culture = icelandic
-        religion = protestant
+        religion = catholic
         size = 200
     }
 
     soldiers = {
         culture = icelandic
-        religion = protestant
+        religion = catholic
         size = 999
     }
 
     officers = {
         culture = icelandic
-        religion = protestant
+        religion = catholic
         size = 20
     }
 
     bureaucrats = {
         culture = icelandic
-        religion = protestant
+        religion = catholic
         size = 98
     }
 }

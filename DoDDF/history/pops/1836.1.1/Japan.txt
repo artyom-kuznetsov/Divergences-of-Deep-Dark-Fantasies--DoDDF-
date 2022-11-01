@@ -4,43 +4,43 @@
 1638 = {
     officers = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 575
     }
 
     clergymen = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 1475
     }
 
     artisans = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 7550
     }
 
     farmers = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 113225
     }
 
     clergymen = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 400
     }
 
     artisans = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 2450
     }
 
     farmers = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 36925
     }
 }
@@ -48,37 +48,37 @@
 1639 = {
     clergymen = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 950
     }
 
     artisans = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 4800
     }
 
     farmers = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 87425
     }
 
     clergymen = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 325
     }
 
     artisans = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 1500
     }
 
     farmers = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 27325
     }
 }
@@ -86,67 +86,67 @@
 1640 = {
     aristocrats = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 13175
     }
 
     clergymen = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 1025
     }
 
     artisans = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 5100
     }
 
     soldiers = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 7575
     }
 
     farmers = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 92850
     }
 
     aristocrats = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 4400
     }
 
     clergymen = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 250
     }
 
     artisans = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 1300
     }
 
     soldiers = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 2325
     }
 
     farmers = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 23675
     }
 
     bureaucrats = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 975
     }
 }
@@ -154,43 +154,43 @@
 1641 = {
     clergymen = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 1075
     }
 
     artisans = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 5350
     }
 
     farmers = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 97425
     }
 	
     soldiers = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 3325
     }	
 
     clergymen = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 325
     }
 
     artisans = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 1500
     }
 
     farmers = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 27325
     }
 }
@@ -199,79 +199,79 @@
 1642 = {
     clergymen = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 100
     }
 
     bureaucrats = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 200
     }
 
     officers = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 100
     }
 
     artisans = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 500
     }
 
     farmers = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 9175
     }
 
     clergymen = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 100
     }
 
     artisans = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 500
     }
 
     aristocrats = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 3000
     }
 
     farmers = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 9300
     }
 
     clergymen = {
         culture = ainu
-        religion = animist
+        religion = catholic
         size = 425
     }
 
     soldiers = {
         culture = ainu
-        religion = animist
+        religion = catholic
         size = 7000
     }
 
     artisans = {
         culture = ainu
-        religion = animist
+        religion = catholic
         size = 1500
     }
 
     farmers = {
         culture = ainu
-        religion = animist
+        religion = catholic
         size = 37075
     }
 }
@@ -279,61 +279,61 @@
 1643 = {
     clergymen = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 50
     }
 
     artisans = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 250
     }
 
     farmers = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 4650
     }
 
     clergymen = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 50
     }
 
     artisans = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 250
     }
 
     farmers = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 4650
     }
 
     clergymen = {
         culture = ainu
-        religion = animist
+        religion = catholic
         size = 575
     }
 
     artisans = {
         culture = ainu
-        religion = animist
+        religion = catholic
         size = 2000
     }
 	
     soldiers = {
         culture = ainu
-        religion = animist
+        religion = catholic
         size = 3000
     }	
 
     farmers = {
         culture = ainu
-        religion = animist
+        religion = catholic
         size = 46275
     }
 }
@@ -341,55 +341,55 @@
 1644 = {
     clergymen = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 75
     }
 
     artisans = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 400
     }
 
     farmers = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 7425
     }
 
     clergymen = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 75
     }
 
     artisans = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 400
     }
 
     farmers = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 7425
     }
 
     clergymen = {
         culture = ainu
-        religion = animist
+        religion = catholic
         size = 750
     }
 
     artisans = {
         culture = ainu
-        religion = animist
+        religion = catholic
         size = 3000
     }
 
     farmers = {
         culture = ainu
-        religion = animist
+        religion = catholic
         size = 68350
     }
 }
@@ -399,55 +399,55 @@
 1645 = {
     officers = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 475
     }
 
     clergymen = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 1875
     }
 
     artisans = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 9350
     }
 	
     soldiers = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 3000
     }	
 
     farmers = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 169275
     }
 
     clergymen = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 625
     }
 
     artisans = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 3100
     }
 	
     soldiers = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 3000
     }	
 
     farmers = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 56425
     }
 }
@@ -455,43 +455,43 @@
 1646 = {
     clergymen = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 650
     }
 
     artisans = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 3300
     }
 	
     soldiers = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 3000
     }	
 
     farmers = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 60075
     }
 
     clergymen = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 325
     }
 
     artisans = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 1500
     }
 
     farmers = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 27325
     }
 }
@@ -499,37 +499,37 @@
 1647 = {
     clergymen = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 250
     }
 
     artisans = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 1250
     }
 
     farmers = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 22775
     }
 
     clergymen = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 150
     }
 
     artisans = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 750
     }
 
     farmers = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 13675
     }
 }
@@ -537,43 +537,43 @@
 1648 = {
     clergymen = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 600
     }
 
     artisans = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 3050
     }
 	
     soldiers = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 3000
     }	
 
     farmers = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 55525
     }
 
     clergymen = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 275
     }
 
     artisans = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 1350
     }
 
     farmers = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 24575
     }
 }
@@ -583,73 +583,73 @@
 1649 = {
     aristocrats = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 20000
     }
 
     bureaucrats = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 2200
     }
 
     officers = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 1275
     }
 
     clergymen = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 3375
     }
 
     artisans = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 123000
     }
 
     soldiers = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 9975
     }
 
     farmers = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 167575
     }
 
     aristocrats = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 5125
     }
 
     clergymen = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 750
     }
 
     artisans = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 27000
     }
 
     soldiers = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 3625
     }
 
     farmers = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 39100
     }
 }
@@ -657,43 +657,43 @@
 1650 = {
     clergymen = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 1600
     }
 
     artisans = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 7950
     }
 
     farmers = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 144700
     }
 
     clergymen = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 375
     }
 
     artisans = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 1900
     }
 	
     soldiers = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 3975
     }	
 
     farmers = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 34600
     }
 }
@@ -701,43 +701,43 @@
 1651 = {
     clergymen = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 1125
     }
 
     artisans = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 9850
     }
 	
     soldiers = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 3075
     }		
 
     farmers = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 98675
     }
 
     clergymen = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 325
     }
 
     artisans = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 2650
     }
 
     farmers = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 26225
     }
 }
@@ -745,49 +745,49 @@
 1652 = {
     clergymen = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 2650
     }
 
     artisans = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 11700
     }
 
     soldiers = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 3075
     }	
 
     farmers = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 213250
     }
 
     clergymen = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 575
     }
 
     artisans = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 2750
     }
 	
     soldiers = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 3000
     }	
 
     farmers = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 50000
     }
 }
@@ -795,43 +795,43 @@
 1653 = {
     clergymen = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 1175
     }
 
     artisans = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 5850
     }
 	
     soldiers = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 3000
     }	
 
     farmers = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 106400
     }
 
     clergymen = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 300
     }
 
     artisans = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 1500
     }
 
     farmers = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 27325
     }
 }
@@ -841,85 +841,85 @@
 1655 = {
     aristocrats = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 25525
     } 
 
 	craftsmen = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
 		size = 3000
 	}
   
   capitalists = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
 		size = 85
 	}
   
   clerks = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
 		size = 200
 	}
 
     clergymen = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 3550
     }
 
     artisans = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 46000
     }
 
     soldiers = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 13425
     }
 
     farmers = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 362000
     }
 
     aristocrats = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 6900
     }
 
     clergymen = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 300
     }
 
     artisans = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 4000
     }
 
     soldiers = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 3575
     }
 
     farmers = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 29300
     }
 
     bureaucrats = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 2450
     }
 }
@@ -927,37 +927,37 @@
 1656 = {
     clergymen = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 1850
     }
 
     artisans = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 9300
     }
 
     farmers = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 169275
     }
 
     clergymen = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 825
     }
 
     artisans = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 4000
     }
 
     farmers = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 72825
     }
 }
@@ -965,49 +965,49 @@
 1657 = {
     officers = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 1700
     }
 
     clergymen = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 3900
     }
 
     artisans = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 37000
     }
 	
     soldiers = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 3425
     }	
 
     farmers = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 332250
     }
 
     clergymen = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 725
     }
 
     artisans = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 7000
     }
 
     farmers = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 62000
     }
 }
@@ -1015,43 +1015,43 @@
 1658 = {
     clergymen = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 2075
     }
 
     artisans = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 10400
     }
 
     farmers = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 189300
     }
 	
     soldiers = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 3025
     }	
 
     clergymen = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 900
     }
 
     artisans = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 4500
     }
 
     farmers = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 81950
     }
 }
@@ -1059,43 +1059,43 @@
 1659 = {
     clergymen = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 1950
     }
 
     artisans = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 9800
     }
 
     farmers = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 178375
     }
 
     soldiers = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 3005
     }
 
     clergymen = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 850
     }
 
     artisans = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 4200
     }
 
     farmers = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 76450
     }
 }
@@ -1105,103 +1105,103 @@
 1660 = {
     aristocrats = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 14650
     }
 
     bureaucrats = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 820
     }
 
 	craftsmen = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
 		size = 3000
 	}
   
   capitalists = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
 		size = 85
 	}
   
   clerks = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
 		size = 200
 	}
 
     officers = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 900
     }
 
     clergymen = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 1500
     }
 
     artisans = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 7550
     }
 
     soldiers = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 7425
     }
 
     farmers = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 141925
     }
 
     aristocrats = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 4400
     }
 
     clergymen = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 475
     }
 
     artisans = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 2250
     }
 
     soldiers = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 2275
     }
 
     farmers = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 40925
     }
 
     soldiers = {
         culture = beifaren
-        religion = mahayana
+        religion = catholic
         size = 50
     }
 
     bureaucrats = {
         culture = beifaren
-        religion = mahayana
+        religion = catholic
         size = 5
     }
 }
@@ -1210,25 +1210,25 @@
 2589 = {
 	clergymen = {
 		culture = japanese
-		religion = shinto
+		religion = catholic
 		size = 124
 	}
 
 	artisans = {
 		culture = japanese
-		religion = shinto
+		religion = catholic
 		size = 500
 	}
 
 	soldiers = {
 		culture = japanese
-		religion = shinto
+		religion = catholic
 		size = 207
 	}
 
 	farmers = {
 		culture = japanese
-		religion = shinto
+		religion = catholic
 		size = 3308
 	}
 }
@@ -1237,43 +1237,43 @@
 1661 = {
     clergymen = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 1850
     }
 
     artisans = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 9150
     }
 
     farmers = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 166550
     }
 
     clergymen = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 750
     }
 
     artisans = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 3500
     }
 	
     soldiers = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 3275
     }	
 
     farmers = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 63750
     }
 }
@@ -1281,37 +1281,37 @@
 1662 = {
     clergymen = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 1275
     }
 
     artisans = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 6350
     }
 
     farmers = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 115600
     }
 
     clergymen = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 375
     }
 
     artisans = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 1900
     }
 
     farmers = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 34600
     }
 }
@@ -1319,37 +1319,37 @@
 1663 = {
     clergymen = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 675
     }
 
     artisans = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 3250
     }
 
     farmers = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 59175
     }
 
     clergymen = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 325
     }
 
     artisans = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 1500
     }
 
     farmers = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 27325
     }
 }
@@ -1357,37 +1357,37 @@
 1664 = {
     clergymen = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 1950
     }
 
     artisans = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 7300
     }
 
     farmers = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 133375
     }
 
     clergymen = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 450
     }
 
     artisans = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 2250
     }
 
     farmers = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 40950
     }
 }
@@ -1397,61 +1397,61 @@
 1665 = {
     clergymen = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 425
     }
 
     artisans = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 2100
     }
 
     farmers = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 37650
     }
 
     clergymen = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 175
     }
 
     aristocrats = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 3000
     }
 
     bureaucrats = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 300
     }
 
     soldiers = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 820
     }
 
     officers = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 100
     }
 
     artisans = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 900
     }
 
     farmers = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 16400
     }
 }
@@ -1459,37 +1459,37 @@
 1666 = {
     clergymen = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 750
     }
 
     artisans = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 3800
     }
 
     farmers = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 68900
     }
 
     clergymen = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 325
     }
 
     artisans = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 1600
     }
 
     farmers = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 29225
     }
 }
@@ -1497,43 +1497,43 @@
 1667 = {
     officers = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 325
     }
 
     clergymen = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 1225
     }
 
     artisans = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 6100
     }
 
     farmers = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 110525
     }
 
     clergymen = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 525
     }
 
     artisans = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 2600
     }
 
     farmers = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 47325
     }
 }
@@ -1543,43 +1543,43 @@
 1668 = {
     officers = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 825
     }
 
     clergymen = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 1175
     }
 
     artisans = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 5850
     }
 
     farmers = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 105075
     }
 
     clergymen = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 425
     }
 
     artisans = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 2000
     }
 
     farmers = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 36425
     }
 }
@@ -1587,37 +1587,37 @@
 1669 = {
     clergymen = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 1025
     }
 
     artisans = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 5150
     }
 
     farmers = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 93750
     }
 
     clergymen = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 450
     }
 
     artisans = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 2200
     }
 
     farmers = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 40050
     }
 }
@@ -1625,37 +1625,37 @@
 1670 = {
     clergymen = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 550
     }
 
     artisans = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 2800
     }
 
     farmers = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 50975
     }
 
     clergymen = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 225
     }
 
     artisans = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 1150
     }
 
     farmers = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 20950
     }
 }
@@ -1663,37 +1663,37 @@
 1671 = {
     clergymen = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 700
     }
 
     artisans = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 3450
     }
 
     farmers = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 63800
     }
 
     clergymen = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 300
     }
 
     artisans = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 1450
     }
 
     farmers = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 26400
     }
 }
@@ -1701,67 +1701,67 @@
 1672 = {
     aristocrats = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 10000
     }
 
     clergymen = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 750
     }
 
     artisans = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 3150
     }
 
     soldiers = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 5150
     }
 
     farmers = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 57400
     }
 
     aristocrats = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 3700
     }
 
     clergymen = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 325
     }
 
     artisans = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 1500
     }
 
     soldiers = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 1975
     }
 
     farmers = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 27325
     }
 
     bureaucrats = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 575
     }
 }
@@ -1769,37 +1769,37 @@
 1673 = {
     clergymen = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 1000
     }
 
     artisans = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 4900
     }
 
     farmers = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 89150
     }
 
     clergymen = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 325
     }
 
     artisans = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 1500
     }
 
     farmers = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 27325
     }
 }
@@ -1807,37 +1807,37 @@
 1674 = {
     clergymen = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 650
     }
 
     artisans = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 3250
     }
 
     farmers = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 59175
     }
 
     clergymen = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 375
     }
 
     artisans = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 1900
     }
 
     farmers = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 34200
     }
 }
@@ -1847,73 +1847,73 @@
 1675 = {
     aristocrats = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 17875
     }
 
     bureaucrats = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 1150
     }
 
     officers = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 750
     }
 
     clergymen = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 2625
     }
 
     artisans = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 17000
     }
 
     soldiers = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 12335
     }
 
     farmers = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 230125
     }
 
     aristocrats = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 7250
     }
 
     clergymen = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 1125
     }
 
     artisans = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 7000
     }
 
     soldiers = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 3750
     }
 
     farmers = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 98625
     }
 }
@@ -1921,37 +1921,37 @@
 1676 = {
     clergymen = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 700
     }
 
     artisans = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 3450
     }
 
     farmers = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 62800
     }
 
     clergymen = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 400
     }
 
     artisans = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 2000
     }
 
     farmers = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 36425
     }
 }
@@ -1959,37 +1959,37 @@
 1677 = {
     clergymen = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 2375
     }
 
     artisans = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 11750
     }
 
     farmers = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 213875
     }
 
     clergymen = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 900
     }
 
     artisans = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 4450
     }
 
     farmers = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 81000
     }
 }
@@ -1999,73 +1999,73 @@
 1678 = {
 	aristocrats = {
 		culture = japanese
-		religion = shinto
+		religion = catholic
 		size = 850
 	}
 
 	bureaucrats = {
 		culture = japanese
-		religion = shinto
+		religion = catholic
 		size = 45
 	}
 
 	officers = {
 		culture = japanese
-		religion = shinto
+		religion = catholic
 		size = 75
 	}
 
 	clergymen = {
 		culture = japanese
-		religion = shinto
+		religion = catholic
 		size = 450
 	}
 
 	artisans = {
 		culture = japanese
-		religion = shinto
+		religion = catholic
 		size = 2200
 	}
 
 	soldiers = {
 		culture = japanese
-		religion = shinto
+		religion = catholic
 		size = 450
 	}
 
 	farmers = {
 		culture = japanese
-		religion = shinto
+		religion = catholic
 		size = 59930
 	}
 
 	bureaucrats = {
 		culture = nanfaren
-		religion = shinto
+		religion = catholic
 		size = 5
 	}
 
 	clergymen = {
 		culture = nanfaren
-		religion = shinto
+		religion = catholic
 		size = 75
 	}
 
 	artisans = {
 		culture = nanfaren
-		religion = shinto
+		religion = catholic
 		size = 200
 	}
 
 	soldiers = {
 		culture = nanfaren
-		religion = shinto
+		religion = catholic
 		size = 2050
 	}
 
 	farmers = {
 		culture = nanfaren
-		religion = shinto
+		religion = catholic
 		size = 3670
 	}
 }
@@ -2073,31 +2073,31 @@
 1679 = {
 	aristocrats = {
 		culture = japanese
-		religion = shinto
+		religion = catholic
 		size = 375
 	}
 
 	clergymen = {
 		culture = japanese
-		religion = shinto
+		religion = catholic
 		size = 200
 	}
 
 	artisans = {
 		culture = japanese
-		religion = shinto
+		religion = catholic
 		size = 1100
 	}
 
 	soldiers = {
 		culture = japanese
-		religion = shinto
+		religion = catholic
 		size = 200
 	}
 
 	farmers = {
 		culture = japanese
-		religion = shinto
+		religion = catholic
 		size = 18225
 	}
 
@@ -2108,25 +2108,25 @@
 
 	clergymen = {
 		culture = japanese
-		religion = shinto
+		religion = catholic
 		size = 250
 	}
 
 	artisans = {
 		culture = japanese
-		religion = shinto
+		religion = catholic
 		size = 3500
 	}
 
 	soldiers = {
 		culture = japanese
-		religion = shinto
+		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
 		culture = japanese
-		religion = shinto
+		religion = catholic
 		size = 20150
 	}
 }
@@ -2137,49 +2137,49 @@
 1086 = {
     aristocrats = {
         culture = ainu
-        religion = animist
+        religion = catholic
         size = 15
     }
 
     clergymen = {
         culture = ainu
-        religion = animist
+        religion = catholic
         size = 25
     }
 
     officers = {
         culture = ainu
-        religion = animist
+        religion = catholic
         size = 4
     }
 
     artisans = {
         culture = ainu
-        religion = animist
+        religion = catholic
         size = 50
     }
 
     soldiers = {
         culture = ainu
-        religion = animist
+        religion = catholic
         size = 10
     }
 
     farmers = {
         culture = ainu
-        religion = animist
+        religion = catholic
         size = 900
     }
 
     aristocrats = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 7
     }
 
     soldiers = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 10
     }
 }
@@ -2187,25 +2187,25 @@
 1087 = {
     clergymen = {
         culture = ainu
-        religion = animist
+        religion = catholic
         size = 8
     }
 
     artisans = {
         culture = ainu
-        religion = animist
+        religion = catholic
         size = 50
     }
 
     farmers = {
         culture = ainu
-        religion = animist
+        religion = catholic
         size = 925
     }
 
     farmers = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 25
     }
 }
@@ -2214,55 +2214,55 @@
 1088 = {
     aristocrats = {
         culture = ainu
-        religion = animist
+        religion = catholic
         size = 2814
     }
 
     clergymen = {
         culture = ainu
-        religion = animist
+        religion = catholic
         size = 8
     }
 
     artisans = {
         culture = ainu
-        religion = animist
+        religion = catholic
         size = 50
     }
 
     soldiers = {
         culture = ainu
-        religion = animist
+        religion = catholic
         size = 1270
     }
 
     farmers = {
         culture = ainu
-        religion = animist
+        religion = catholic
         size = 925
     }
 
     aristocrats = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 100
     }
 
     soldiers = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 225
     }
 
     soldiers = {
         culture = japanese
-        religion = shinto
+        religion = catholic
         size = 225
     }
 
     bureaucrats = {
         culture = japanese
-        religion = mahayana
+        religion = catholic
         size = 25
     }
 }
@@ -2270,19 +2270,19 @@
 1089 = {
     clergymen = {
         culture = ainu
-        religion = animist
+        religion = catholic
         size = 8
     }
 
     artisans = {
         culture = ainu
-        religion = animist
+        religion = catholic
         size = 50
     }
 
     farmers = {
         culture = ainu
-        religion = animist
+        religion = catholic
         size = 925
     }
 }

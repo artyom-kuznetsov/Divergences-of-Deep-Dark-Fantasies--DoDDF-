@@ -48,13 +48,13 @@
 2130 = {
     soldiers = {
         culture = scandinavian
-        religion = protestant
+        religion = catholic
         size = 10
     }
 
     farmers = {
         culture = scandinavian
-        religion = protestant
+        religion = catholic
         size = 25
     }
 }
@@ -62,13 +62,13 @@
 2132 = {
     soldiers = {
         culture = burgundian
-        religion = protestant
+        religion = catholic
         size = 10
     }
 
     farmers = {
         culture = burgundian
-        religion = protestant
+        religion = catholic
         size = 25
     }
 }
@@ -79,13 +79,13 @@
 2131 = {
     soldiers = {
         culture = beornian
-        religion = protestant
+        religion = catholic
         size = 25
     }
 
     farmers = {
         culture = beornian
-        religion = protestant
+        religion = catholic
         size = 50
     }
 }
@@ -93,7 +93,7 @@
 2133 = {
     farmers = {
         culture = beornian
-        religion = protestant
+        religion = catholic
         size = 15
     }
 }

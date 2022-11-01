@@ -4,69 +4,69 @@
 2228 = {
 	aristocrats = {
 		culture = burgundian
-		religion = protestant
+		religion = catholic
 		size = 750
 	}
 
 	bureaucrats = {
 		culture = burgundian
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
 		culture = burgundian
-		religion = protestant
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
 		culture = burgundian
-		religion = protestant
+		religion = catholic
 		size = 900
 	}
 
 	soldiers = {
 		culture = burgundian
-		religion = protestant
+		religion = catholic
 		size= 250
 
 	}
 
 	farmers = {
 		culture = burgundian
-		religion = protestant
+		religion = catholic
 		size = 400
 	}
 
 	clergymen = {
 		culture = afro_frankish
-		religion = protestant
+		religion = catholic
 		size = 125
 	}
 
 	artisans = {
 		culture = afro_frankish
-		religion = protestant
+		religion = catholic
 		size = 1250
 	}
 
 	soldiers = {
 		culture = afro_frankish
-		religion = protestant
+		religion = catholic
 		size= 250
 
 	}
 
 	farmers = {
 		culture = afro_frankish
-		religion = protestant
+		religion = catholic
 		size = 3400
 	}
 
 	slaves = {
 		culture = afro_frankish
-		religion = protestant
+		religion = catholic
 		size = 20000
 	}
 }
@@ -74,63 +74,63 @@
 2230 = {
 	aristocrats = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size = 850
 	}
 
 	clergymen = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size = 1300
 	}
 
 	soldiers = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size= 300
 
 	}
 
 	farmers = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size = 600
 	}
 
 	clergymen = {
 		culture = afro_germanic
-		religion = protestant
+		religion = catholic
 		size = 150
 	}
 
 	artisans = {
 		culture = afro_germanic
-		religion = protestant
+		religion = catholic
 		size = 1500
 	}
 
 	soldiers = {
 		culture = afro_germanic
-		religion = protestant
+		religion = catholic
 		size= 300
 
 	}
 
 	farmers = {
 		culture = afro_germanic
-		religion = protestant
+		religion = catholic
 		size = 3050
 	}
 
 	slaves = {
 		culture = afro_germanic
-		religion = protestant
+		religion = catholic
 		size = 24000
 	}
 

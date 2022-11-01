@@ -72,13 +72,13 @@
 
 	slaves = {
 		culture = maghrebi
-		religion = sunni
+		religion = catholic
 		size = 250
 	}
 
 	farmers = {
 		culture = afro_latino
-		religion = sunni
+		religion = catholic
 		size = 430
 	}
 }
@@ -86,56 +86,56 @@
 2225 = {
 	aristocrats = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size = 5
 	}
 
 	artisans = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size = 30
 	}
 
 	farmers = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size = 30
 	}
 
 	clergymen = {
 		culture = afro_germanic
-		religion = protestant
+		religion = catholic
 		size = 15
 	}
 
 	artisans = {
 		culture = afro_germanic
-		religion = protestant
+		religion = catholic
 		size = 45
 	}
 
 	soldiers = {
 		culture = afro_germanic
-		religion = protestant
+		religion = catholic
 		size= 10
 
 	}
 
 	farmers = {
 		culture = afro_germanic
-		religion = protestant
+		religion = catholic
 		size = 780
 	}
 
 	slaves = {
 		culture = afro_germanic
-		religion = protestant
+		religion = catholic
 		size = 650
 	}
 }

@@ -4,55 +4,55 @@
 1058 = {
 	aristocrats = {
 		culture = tatar
-		religion = sunni
+		religion = catholic
 		size = 800
 	}
 
 	bureaucrats = {
 		culture = tatar
-		religion = sunni
+		religion = catholic
 		size = 275
 	}
 
 	officers = {
 		culture = tatar
-		religion = sunni
+		religion = catholic
 		size = 225
 	}
 
 	clergymen = {
 		culture = tatar
-		religion = sunni
+		religion = catholic
 		size = 500
 	}
 
 	artisans = {
 		culture = tatar
-		religion = sunni
+		religion = catholic
 		size = 10000
 	}
 	
 	artisans = {
 		culture = tatar
-		religion = sunni
+		religion = catholic
 		size = 4950
 	}
 
 	soldiers = {
 		culture = tatar
-		religion = sunni
+		religion = catholic
 		size= 1000
 
 	}
 
 	farmers = {
 		culture = tatar
-		religion = sunni
+		religion = catholic
 		size = 76750
 	}	
 	farmers = {
 		culture = ugrian
-		religion = sunni
+		religion = catholic
 		size = 4000
 	}
 }
@@ -60,38 +60,38 @@
 1059 = {
 	aristocrats = {
 		culture = tatar
-		religion = sunni
+		religion = catholic
 		size = 450
 	}
 
 	clergymen = {
 		culture = tatar
-		religion = sunni
+		religion = catholic
 		size = 450
 	}
 
 	artisans = {
 		culture = tatar
-		religion = sunni
+		religion = catholic
 		size = 2250
 	}
 
 	soldiers = {
 		culture = tatar
-		religion = sunni
+		religion = catholic
 		size= 450
 
 	}
 
 	farmers = {
 		culture = tatar
-		religion = sunni
+		religion = catholic
 		size = 11400
 	}
 	
 	farmers = {
 		culture = bashkir
-		religion = sunni
+		religion = catholic
 		size = 21400
 	}	
 	
@@ -100,38 +100,38 @@
 1060 = {
 	aristocrats = {
 		culture = tatar
-		religion = sunni
+		religion = catholic
 		size = 450
 	}
 
 	clergymen = {
 		culture = tatar
-		religion = sunni
+		religion = catholic
 		size = 450
 	}
 
 	artisans = {
 		culture = tatar
-		religion = sunni
+		religion = catholic
 		size = 2250
 	}
 
 	soldiers = {
 		culture = tatar
-		religion = sunni
+		religion = catholic
 		size= 1000
 
 	}
 
 	farmers = {
 		culture = tatar
-		religion = sunni
+		religion = catholic
 		size = 38850
 	}
 	
 	farmers = {
 		culture = bashkir
-		religion = sunni
+		religion = catholic
 		size = 2850
 	}	
 	
@@ -141,32 +141,32 @@
 
 	bureaucrats = {
 		culture = tatar
-		religion = sunni
+		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
 		culture = tatar
-		religion = sunni
+		religion = catholic
 		size = 125
 	}
 
 	artisans = {
 		culture = tatar
-		religion = sunni
+		religion = catholic
 		size = 675
 	}
 
 	soldiers = {
 		culture = tatar
-		religion = sunni
+		religion = catholic
 		size= 150
 
 	}
 
 	farmers = {
 		culture = tatar
-		religion = sunni
+		religion = catholic
 		size = 12500
 	}
 }
@@ -174,25 +174,25 @@
 2686 = {
 	clergymen = {
 		culture = tatar
-		religion = sunni
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
 		culture = tatar
-		religion = sunni
+		religion = catholic
 		size = 260
 	}
 
 	farmers = {
 		culture = tatar
-		religion = sunni
+		religion = catholic
 		size = 5125
 	}
 
 	soldiers = {
 		culture = tatar
-		religion = sunni
+		religion = catholic
 		size= 60
 
 	}
@@ -203,57 +203,57 @@
 1066 = {
 	clergymen = {
 		culture = tatar
-		religion = sunni
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
 		culture = tatar
-		religion = sunni
+		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
 		culture = tatar
-		religion = sunni
+		religion = catholic
 		size= 25
 
 	}
 
 	farmers = {
 		culture = tatar
-		religion = sunni
+		religion = catholic
 		size = 1750
 	}
 
 	aristocrats = {
 		culture = ugrian
-		religion = animist
+		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
 		culture = ugrian
-		religion = sunni
+		religion = catholic
 		size = 15
 	}
 
 	artisans = {
 		culture = ugrian
-		religion = animist
+		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
 		culture = ugrian
-		religion = animist
+		religion = catholic
 		size= 10
 
 	}
 
 	farmers = {
 		culture = ugrian
-		religion = animist
+		religion = catholic
 		size = 725
 	}
 }
@@ -261,57 +261,57 @@
 1062 = {
 	bureaucrats = {
 		culture = ugrian
-		religion = sunni
+		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
 		culture = ugrian
-		religion = sunni
+		religion = catholic
 		size = 175
 	}
 
 	artisans = {
 		culture = ugrian
-		religion = sunni
+		religion = catholic
 		size = 650
 	}
 
 	soldiers = {
 		culture = ugrian
-		religion = sunni
+		religion = catholic
 		size= 150
 
 	}
 
 	farmers = {
 		culture = ugrian
-		religion = sunni
+		religion = catholic
 		size = 12065
 	}
 
 	aristocrats = {
 		culture = ugrian
-		religion = animist
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
 		culture = ugrian
-		religion = animist
+		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
 		culture = ugrian
-		religion = animist
+		religion = catholic
 		size= 25
 
 	}
 
 	farmers = {
 		culture = ugrian
-		religion = animist
+		religion = catholic
 		size = 1800
 	}
 }
@@ -319,32 +319,32 @@
 1065 = {
 	aristocrats = {
 		culture = ugrian
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
 		culture = ugrian
-		religion = animist
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
 		culture = ugrian
-		religion = animist
+		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
 		culture = ugrian
-		religion = animist
+		religion = catholic
 		size= 10
 
 	}
 
 	farmers = {
 		culture = ugrian
-		religion = animist
+		religion = catholic
 		size = 900
 	}
 }
@@ -352,32 +352,32 @@
 2646 = {
 	aristocrats = {
 		culture = ugrian
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
 		culture = ugrian
-		religion = animist
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
 		culture = ugrian
-		religion = animist
+		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
 		culture = ugrian
-		religion = animist
+		religion = catholic
 		size= 10
 
 	}
 
 	farmers = {
 		culture = ugrian
-		religion = animist
+		religion = catholic
 		size = 900
 	}
 }
@@ -385,69 +385,69 @@
 2683 = {
 	clergymen = {
 		culture = ugrian
-		religion = sunni
+		religion = catholic
 		size = 30
 	}
 
 	artisans = {
 		culture = ugrian
-		religion = sunni
+		religion = catholic
 		size = 10
 	}
 
 	farmers = {
 		culture = ugrian
-		religion = sunni
+		religion = catholic
 		size = 110
 	}
 
 	aristocrats = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	artisans = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size= 10
 
 	}
 
 	farmers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 900
 	}
 
 	aristocrats = {
 		culture = ugrian
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	artisans = {
 		culture = ugrian
-		religion = animist
+		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
 		culture = ugrian
-		religion = animist
+		religion = catholic
 		size= 10
 
 	}
 
 	farmers = {
 		culture = ugrian
-		religion = animist
+		religion = catholic
 		size = 900
 	}
 }
@@ -455,50 +455,50 @@
 2685 = {
 	aristocrats = {
 		culture = ugrian
-		religion = animist
+		religion = catholic
 		size = 25
 	}
 
 	clergymen = {
 		culture = ugrian
-		religion = sunni
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
 		culture = ugrian
-		religion = animist
+		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
 		culture = ugrian
-		religion = animist
+		religion = catholic
 		size= 25
 
 	}
 
 	farmers = {
 		culture = ugrian
-		religion = animist
+		religion = catholic
 		size = 1250
 	}
 
 	clergymen = {
 		culture = tatar
-		religion = sunni
+		religion = catholic
 		size = 5
 	}
 
 	artisans = {
 		culture = tatar
-		religion = sunni
+		religion = catholic
 		size = 10
 	}
 
 	farmers = {
 		culture = tatar
-		religion = sunni
+		religion = catholic
 		size = 110
 	}
 }
@@ -506,19 +506,19 @@
 2690 = {
 	clergymen = {
 		culture = ugrian
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	farmers = {
 		culture = ugrian
-		religion = animist
+		religion = catholic
 		size = 285
 	}
 
 	artisans = {
 		culture = ugrian
-		religion = animist
+		religion = catholic
 		size = 5
 	}
 
@@ -527,32 +527,32 @@
 2691 = {
 	aristocrats = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 30
 	}
 
 	artisans = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 55
 	}
 
 	soldiers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size= 15
 
 	}
 
 	farmers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 890
 	}
 
@@ -561,32 +561,32 @@
 2692 = {
 	aristocrats = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 5
 	}
 
 	clergymen = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	artisans = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 25
 	}
 
 	soldiers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size= 5
 
 	}
 
 	farmers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 450
 	}
 }
@@ -594,31 +594,31 @@
 2684 = {
 	aristocrats = {
 		culture = ugrian
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
 		culture = ugrian
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	artisans = {
 		culture = ugrian
-		religion = animist
+		religion = catholic
 		size = 20
 	}
 
 	soldiers = {
 		culture = ugrian
-		religion = animist
+		religion = catholic
 		size= 10
 	}
 
 	farmers = {
 		culture = ugrian
-		religion = animist
+		religion = catholic
 		size = 450
 	}
 }
@@ -626,38 +626,38 @@
 2682 = {
 	aristocrats = {
 		culture = ugrian
-		religion = animist
+		religion = catholic
 		size = 5
 	}
 
 	clergymen = {
 		culture = ugrian
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	artisans = {
 		culture = ugrian
-		religion = animist
+		religion = catholic
 		size = 28
 	}
 
 	soldiers = {
 		culture = ugrian
-		religion = animist
+		religion = catholic
 		size= 10
 
 	}
 
 	farmers = {
 		culture = ugrian
-		religion = animist
+		religion = catholic
 		size = 495
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = catholic
 		size = 2
 	}
 
@@ -666,32 +666,32 @@
 2659 = {
 	aristocrats = {
 		culture = ugrian
-		religion = animist
+		religion = catholic
 		size = 5
 	}
 
 	clergymen = {
 		culture = ugrian
-		religion = animist
+		religion = catholic
 		size = 5
 	}
 
 	artisans = {
 		culture = ugrian
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	soldiers = {
 		culture = ugrian
-		religion = animist
+		religion = catholic
 		size= 5
 
 	}
 
 	farmers = {
 		culture = ugrian
-		religion = animist
+		religion = catholic
 		size = 225
 	}
 }
@@ -699,32 +699,32 @@
 2613 = {
 	aristocrats = {
 		culture = ugrian
-		religion = animist
+		religion = catholic
 		size = 5
 	}
 
 	clergymen = {
 		culture = ugrian
-		religion = animist
+		religion = catholic
 		size = 5
 	}
 
 	artisans = {
 		culture = ugrian
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	soldiers = {
 		culture = ugrian
-		religion = animist
+		religion = catholic
 		size= 5
 
 	}
 
 	farmers = {
 		culture = ugrian
-		religion = animist
+		religion = catholic
 		size = 225
 	}
 }
@@ -732,32 +732,32 @@
 2615 = {
 	aristocrats = {
 		culture = ugrian
-		religion = animist
+		religion = catholic
 		size = 5
 	}
 
 	clergymen = {
 		culture = ugrian
-		religion = animist
+		religion = catholic
 		size = 12
 	}
 
 	artisans = {
 		culture = ugrian
-		religion = animist
+		religion = catholic
 		size = 28
 	}
 
 	soldiers = {
 		culture = ugrian
-		religion = animist
+		religion = catholic
 		size= 10
 
 	}
 
 	farmers = {
 		culture = ugrian
-		religion = animist
+		religion = catholic
 		size = 495
 	}
 
@@ -766,32 +766,32 @@
 2681 = {
 	aristocrats = {
 		culture = ugrian
-		religion = animist
+		religion = catholic
 		size = 5
 	}
 
 	clergymen = {
 		culture = ugrian
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	artisans = {
 		culture = ugrian
-		religion = animist
+		religion = catholic
 		size = 25
 	}
 
 	soldiers = {
 		culture = ugrian
-		religion = animist
+		religion = catholic
 		size= 10
 
 	}
 
 	farmers = {
 		culture = ugrian
-		religion = animist
+		religion = catholic
 		size = 450
 	}
 }
@@ -801,26 +801,26 @@
 1063 = {
 	clergymen = {
 		culture = tatar
-		religion = sunni
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
 		culture = tatar
-		religion = sunni
+		religion = catholic
 		size = 150
 	}
 
 	soldiers = {
 		culture = tatar
-		religion = sunni
+		religion = catholic
 		size= 25
 
 	}
 
 	farmers = {
 		culture = tatar
-		religion = sunni
+		religion = catholic
 		size = 2775
 	}
 }
@@ -828,32 +828,32 @@
 1064 = {
 	aristocrats = {
 		culture = tatar
-		religion = sunni
+		religion = catholic
 		size = 200
 	}
 
 	clergymen = {
 		culture = tatar
-		religion = sunni
+		religion = catholic
 		size = 550
 	}
 
 	artisans = {
 		culture = tatar
-		religion = sunni
+		religion = catholic
 		size = 2800
 	}
 
 	soldiers = {
 		culture = tatar
-		religion = sunni
+		religion = catholic
 		size= 1000
 
 	}
 
 	farmers = {
 		culture = tatar
-		religion = sunni
+		religion = catholic
 		size = 51325
 	}
 }
@@ -861,26 +861,26 @@
 2698 = {
 	clergymen = {
 		culture = tatar
-		religion = sunni
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
 		culture = tatar
-		religion = sunni
+		religion = catholic
 		size = 150
 	}
 
 	soldiers = {
 		culture = tatar
-		religion = sunni
+		religion = catholic
 		size= 25
 
 	}
 
 	farmers = {
 		culture = tatar
-		religion = sunni
+		religion = catholic
 		size = 2775
 	}
 }
@@ -888,32 +888,32 @@
 1067 = {
 	aristocrats = {
 		culture = tatar
-		religion = sunni
+		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
 		culture = tatar
-		religion = sunni
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
 		culture = tatar
-		religion = sunni
+		religion = catholic
 		size = 150
 	}
 
 	soldiers = {
 		culture = tatar
-		religion = sunni
+		religion = catholic
 		size= 25
 
 	}
 
 	farmers = {
 		culture = tatar
-		religion = sunni
+		religion = catholic
 		size = 2725
 	}
 }
@@ -921,32 +921,32 @@
 1068 = {
 	aristocrats = {
 		culture = tatar
-		religion = animist
+		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
 		culture = tatar
-		religion = animist
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
 		culture = tatar
-		religion = animist
+		religion = catholic
 		size = 300
 	}
 
 	soldiers = {
 		culture = tatar
-		religion = animist
+		religion = catholic
 		size= 75
 
 	}
 
 	farmers = {
 		culture = tatar
-		religion = animist
+		religion = catholic
 		size = 5475
 	}
 }
@@ -957,63 +957,63 @@
 
 	aristocrats = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 125
 	}
 
 	clergymen = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 125
 	}
 
 	artisans = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 585
 	}
 
 	soldiers = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size= 125
 
 	}
 
 	farmers = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 10025
 	}
 
 	bureaucrats = {
 		culture = yakut
-		religion = orthodox
+		religion = catholic
 		size = 20
 	}
 
 	clergymen = {
 		culture = yakut
-		religion = orthodox
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
 		culture = yakut
-		religion = orthodox
+		religion = catholic
 		size = 250
 	}
 
 	soldiers = {
 		culture = yakut
-		religion = orthodox
+		religion = catholic
 		size= 50
 
 	}
 
 	farmers = {
 		culture = yakut
-		religion = orthodox
+		religion = catholic
 		size = 4695
 	}
 }
@@ -1022,57 +1022,57 @@
 
 	aristocrats = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 40
 	}
 
 	artisans = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size= 50
 
 	}
 
 	farmers = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 1800
 	}
 
 	clergymen = {
 		culture = yakut
-		religion = orthodox
+		religion = catholic
 		size = 5
 	}
 
 	artisans = {
 		culture = yakut
-		religion = orthodox
+		religion = catholic
 		size = 60
 	}
 
 	soldiers = {
 		culture = yakut
-		religion = orthodox
+		religion = catholic
 		size= 10
 
 	}
 
 	farmers = {
 		culture = yakut
-		religion = orthodox
+		religion = catholic
 		size = 475
 	}
 }
@@ -1081,57 +1081,57 @@
 
 	aristocrats = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 40
 	}
 
 	artisans = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 110
 	}
 
 	soldiers = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size= 50
 
 	}
 
 	farmers = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 1800
 	}
 
 	clergymen = {
 		culture = yakut
-		religion = orthodox
+		religion = catholic
 		size = 5
 	}
 
 	artisans = {
 		culture = yakut
-		religion = orthodox
+		religion = catholic
 		size = 10
 	}
 
 	soldiers = {
 		culture = yakut
-		religion = orthodox
+		religion = catholic
 		size= 10
 
 	}
 
 	farmers = {
 		culture = yakut
-		religion = orthodox
+		religion = catholic
 		size = 475
 	}
 }
@@ -1140,57 +1140,57 @@
 
 	aristocrats = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 25
 	}
 
 	clergymen = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 55
 	}
 
 	artisans = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 125
 	}
 
 	soldiers = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size= 45
 
 	}
 
 	farmers = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 2250
 	}
 
 	clergymen = {
 		culture = yakut
-		religion = orthodox
+		religion = catholic
 		size = 5
 	}
 
 	artisans = {
 		culture = yakut
-		religion = orthodox
+		religion = catholic
 		size = 10
 	}
 
 	soldiers = {
 		culture = yakut
-		religion = orthodox
+		religion = catholic
 		size= 10
 
 	}
 
 	farmers = {
 		culture = yakut
-		religion = orthodox
+		religion = catholic
 		size = 475
 	}
 }
@@ -1198,64 +1198,64 @@
 2649 = {
 	aristocrats = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 15
 	}
 
 	artisans = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size= 25
 
 	}
 
 	farmers = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 900
 	}
 }
 2674 = {
 	aristocrats = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 15
 	}
 
 	artisans = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size= 25
 
 	}
 
 	farmers = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 900
 	}
 }
@@ -1264,57 +1264,57 @@
 
 	aristocrats = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 45
 	}
 
 	clergymen = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 75
 	}
 
 	artisans = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 175
 	}
 
 	soldiers = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size= 50
 
 	}
 
 	farmers = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 3155
 	}
 
 	clergymen = {
 		culture = yakut
-		religion = orthodox
+		religion = catholic
 		size = 5
 	}
 
 	artisans = {
 		culture = yakut
-		religion = orthodox
+		religion = catholic
 		size = 25
 	}
 
 	soldiers = {
 		culture = yakut
-		religion = orthodox
+		religion = catholic
 		size= 10
 
 	}
 
 	farmers = {
 		culture = yakut
-		religion = orthodox
+		religion = catholic
 		size = 710
 	}
 }
@@ -1324,32 +1324,32 @@
 2680 = {
 	aristocrats = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 5
 	}
 
 	clergymen = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 5
 	}
 
 	artisans = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	soldiers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size= 5
 
 	}
 
 	farmers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 225
 	}
 }
@@ -1357,32 +1357,32 @@
 2657 = {
 	aristocrats = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 5
 	}
 
 	clergymen = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 12
 	}
 
 	artisans = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 20
 	}
 
 	soldiers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size= 5
 
 	}
 
 	farmers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 458
 	}
 
@@ -1391,32 +1391,32 @@
 2658 = {
 	aristocrats = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 5
 	}
 
 	clergymen = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 5
 	}
 
 	artisans = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	soldiers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size= 5
 
 	}
 
 	farmers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 225
 	}
 }
@@ -1424,32 +1424,32 @@
 2654 = {
 	aristocrats = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 5
 	}
 
 	clergymen = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 5
 	}
 
 	artisans = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	soldiers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size= 5
 
 	}
 
 	farmers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 225
 	}
 }
@@ -1457,32 +1457,32 @@
 2653 = {
 	aristocrats = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 5
 	}
 
 	clergymen = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 5
 	}
 
 	artisans = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	soldiers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size= 5
 
 	}
 
 	farmers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 225
 	}
 }
@@ -1490,57 +1490,57 @@
 2651 = {
 	clergymen = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 5
 	}
 
 	artisans = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	soldiers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size= 5
 
 	}
 
 	farmers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 180
 	}
 
 	aristocrats = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 5
 	}
 
 	clergymen = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 5
 	}
 
 	artisans = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	soldiers = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size= 5
 
 	}
 
 	farmers = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 275
 	}
 }
@@ -1548,63 +1548,63 @@
 2675 = {
 	aristocrats = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 5
 	}
 
 	clergymen = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 5
 	}
 
 	artisans = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	soldiers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size= 5
 
 	}
 
 	farmers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 325
 	}
 
 	aristocrats = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 3
 	}
 
 	clergymen = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 5
 	}
 
 	artisans = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 5
 	}
 
 	soldiers = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size= 2
 
 	}
 
 	farmers = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 135
 	}
 }
@@ -1612,32 +1612,32 @@
 2655 = {
 	aristocrats = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 5
 	}
 
 	clergymen = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 5
 	}
 
 	artisans = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	soldiers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size= 5
 
 	}
 
 	farmers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 225
 	}
 }
@@ -1645,32 +1645,32 @@
 2693 = {
 	aristocrats = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 5
 	}
 
 	clergymen = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	artisans = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 25
 	}
 
 	soldiers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size= 10
 
 	}
 
 	farmers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 450
 	}
 }
@@ -1680,32 +1680,32 @@
 2668 = {
 	aristocrats = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 23
 	}
 
 	clergymen = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 60
 	}
 
 	soldiers = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size= 12
 
 	}
 
 	farmers = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 1105
 	}
 }
@@ -1713,32 +1713,32 @@
 2642 = {
 	aristocrats = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	artisans = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 25
 	}
 
 	soldiers = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size= 5
 
 	}
 
 	farmers = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 450
 	}
 }
@@ -1746,32 +1746,32 @@
 2643 = {
 	aristocrats = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 3
 	}
 
 	clergymen = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 5
 	}
 
 	artisans = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	soldiers = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size= 2
 
 	}
 
 	farmers = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 230
 	}
 }
@@ -1779,32 +1779,32 @@
 2619 = {
 	aristocrats = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	artisans = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 25
 	}
 
 	soldiers = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size= 5
 
 	}
 
 	farmers = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 450
 	}
 }
@@ -1812,32 +1812,32 @@
 2665 = {
 	aristocrats = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 3
 	}
 
 	clergymen = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 5
 	}
 
 	artisans = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	soldiers = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size= 2
 
 	}
 
 	farmers = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 230
 	}
 }
@@ -1847,38 +1847,38 @@
 2673 = {
 	aristocrats = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 3
 	}
 
 	clergymen = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 7
 	}
 
 	artisans = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	soldiers = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size= 2
 
 	}
 
 	farmers = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 227
 	}
 
 	bureaucrats = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 1
 	}
 
@@ -1887,32 +1887,32 @@
 2667 = {
 	aristocrats = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 3
 	}
 
 	clergymen = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 5
 	}
 
 	artisans = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	soldiers = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size= 2
 
 	}
 
 	farmers = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 230
 	}
 }
@@ -1920,32 +1920,32 @@
 2670 = {
 	aristocrats = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 3
 	}
 
 	clergymen = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 5
 	}
 
 	artisans = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	soldiers = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size= 2
 
 	}
 
 	farmers = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 230
 	}
 }
@@ -1953,32 +1953,32 @@
 2652 = {
 	aristocrats = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 3
 	}
 
 	clergymen = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 5
 	}
 
 	artisans = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	soldiers = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size= 2
 
 	}
 
 	farmers = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 230
 	}
 }
@@ -1986,32 +1986,32 @@
 2671 = {
 	aristocrats = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 3
 	}
 
 	clergymen = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 5
 	}
 
 	artisans = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	soldiers = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size= 2
 
 	}
 
 	farmers = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 230
 	}
 }
@@ -2021,38 +2021,38 @@
 2621 = {
 	aristocrats = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 2
 	}
 
 	clergymen = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 8
 	}
 
 	artisans = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	soldiers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size= 3
 
 	}
 
 	farmers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 225
 	}
 
 	bureaucrats = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 2
 	}
 
@@ -2062,32 +2062,32 @@
 2620 = {
 	aristocrats = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 2
 	}
 
 	clergymen = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 5
 	}
 
 	artisans = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	soldiers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size= 3
 
 	}
 
 	farmers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 230
 	}
 }
@@ -2095,32 +2095,32 @@
 2660 = {
 	aristocrats = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 2
 	}
 
 	clergymen = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 5
 	}
 
 	artisans = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	soldiers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size= 3
 
 	}
 
 	farmers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 230
 	}
 }
@@ -2128,32 +2128,32 @@
 2662 = {
 	aristocrats = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 2
 	}
 
 	clergymen = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 5
 	}
 
 	artisans = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	soldiers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size= 3
 
 	}
 
 	farmers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 230
 	}
 }
@@ -2162,32 +2162,32 @@
 2696 = {
 	aristocrats = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 2
 	}
 
 	clergymen = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 5
 	}
 
 	artisans = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	soldiers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size= 3
 
 	}
 
 	farmers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 230
 	}
 }
@@ -2195,62 +2195,62 @@
 1080 = {
 	aristocrats = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 4
 	}
 
 	clergymen = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	artisans = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 20
 	}
 
 	soldiers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size= 6
 
 	}
 
 	farmers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 460
 	}
 	aristocrats = {
 		culture = manchu
-		religion = mahayana
+		religion = catholic
 		size = 20
 	}
 
 	clergymen = {
 		culture = manchu
-		religion = mahayana
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
 		culture = manchu
-		religion = mahayana
+		religion = catholic
 		size = 65
 	}
 
 	soldiers = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size= 15
 
 	}
 
 	farmers = {
 		culture = manchu
-		religion = mahayana
+		religion = catholic
 		size = 1025
 	}	
 }
@@ -2259,63 +2259,63 @@
 2644 = {
 	aristocrats = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	artisans = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 25
 	}
 
 	soldiers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size= 5
 
 	}
 
 	farmers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 450
 	}
 
 	aristocrats = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 15
 	}
 
 	clergymen = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size= 10
 
 	}
 
 	farmers = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 900
 	}
 }
@@ -2323,63 +2323,63 @@
 2645 = {
 	aristocrats = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	artisans = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 25
 	}
 
 	soldiers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size= 5
 
 	}
 
 	farmers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 450
 	}
 
 	aristocrats = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	artisans = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 25
 	}
 
 	soldiers = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size= 5
 
 	}
 
 	farmers = {
 		culture = yakut
-		religion = animist
+		religion = catholic
 		size = 450
 	}
 }
@@ -2389,63 +2389,63 @@
 1072 = {
 	aristocrats = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 2
 	}
 
 	clergymen = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 5
 	}
 
 	artisans = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	soldiers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size= 3
 
 	}
 
 	farmers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 230
 	}
 
 	bureaucrats = {
 		culture = ainu
-		religion = animist
+		religion = catholic
 		size = 2
 	}
 
 	artisans = {
 		culture = ainu
-		religion = animist
+		religion = catholic
 		size = 45
 	}
 
 	clergymen = {
 		culture = ainu
-		religion = animist
+		religion = catholic
 		size = 15
 	}
 
 	soldiers = {
 		culture = ainu
-		religion = animist
+		religion = catholic
 		size= 8
 
 	}
 
 	farmers = {
 		culture = ainu
-		religion = animist
+		religion = catholic
 		size = 680
 	}
 }
@@ -2453,50 +2453,50 @@
 2641 = {
 	aristocrats = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	artisans = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 25
 	}
 
 	soldiers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size= 5
 
 	}
 
 	farmers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 450
 	}
 
 	artisans = {
 		culture = ainu
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
 		culture = ainu
-		religion = animist
+		religion = catholic
 		size = 5
 	}
 
 	farmers = {
 		culture = ainu
-		religion = animist
+		religion = catholic
 		size = 235
 	}
 }
@@ -2504,32 +2504,32 @@
 2639 = {
 	aristocrats = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 2
 	}
 
 	clergymen = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 5
 	}
 
 	artisans = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	soldiers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size= 3
 
 	}
 
 	farmers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 230
 	}
 }
@@ -2537,32 +2537,32 @@
 2618 = {
 	aristocrats = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 2
 	}
 
 	clergymen = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 5
 	}
 
 	artisans = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	soldiers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size= 3
 
 	}
 
 	farmers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 230
 	}
 }
@@ -2572,57 +2572,57 @@
 1074 = {
 	clergymen = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 3
 	}
 
 	artisans = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 5
 	}
 
 	soldiers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size= 2
 
 	}
 
 	farmers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 140
 	}
 
 	bureaucrats = {
 		culture = ainu
-		religion = animist
+		religion = catholic
 		size = 3
 	}
 
 	clergymen = {
 		culture = ainu
-		religion = animist
+		religion = catholic
 		size = 4
 	}
 
 	artisans = {
 		culture = ainu
-		religion = animist
+		religion = catholic
 		size = 40
 	}
 
 	soldiers = {
 		culture = ainu
-		religion = animist
+		religion = catholic
 		size= 3
 
 	}
 
 	farmers = {
 		culture = ainu
-		religion = animist
+		religion = catholic
 		size = 800
 	}
 }
@@ -2630,32 +2630,32 @@
 2638 = {
 	aristocrats = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 2
 	}
 
 	clergymen = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 5
 	}
 
 	artisans = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	soldiers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size= 3
 
 	}
 
 	farmers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 230
 	}
 }
@@ -2663,32 +2663,32 @@
 2663 = {
 	aristocrats = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 2
 	}
 
 	clergymen = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 5
 	}
 
 	artisans = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	soldiers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size= 3
 
 	}
 
 	farmers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 230
 	}
 }
@@ -2696,32 +2696,32 @@
 2616 = {
 	aristocrats = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 2
 	}
 
 	clergymen = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 5
 	}
 
 	artisans = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	soldiers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size= 3
 
 	}
 
 	farmers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 230
 	}
 }
@@ -2729,32 +2729,32 @@
 2633 = {
 	aristocrats = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 2
 	}
 
 	clergymen = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 5
 	}
 
 	artisans = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	soldiers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size= 3
 
 	}
 
 	farmers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 230
 	}
 }
@@ -2762,32 +2762,32 @@
 1073 = {
 	aristocrats = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	artisans = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 25
 	}
 
 	soldiers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size= 5
 
 	}
 
 	farmers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 450
 	}
 }
@@ -2797,99 +2797,99 @@
 2634 = {
 	aristocrats = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 2
 	}
 
 	clergymen = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 5
 	}
 
 	artisans = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	soldiers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size= 3
 
 	}
 
 	farmers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 230
 	}
 }
-#Novo Mariinsk (2000/500 POPS) #inuit = chukchi   }
+#Novo Mariinsk (2000/500 POPS) #scandinavian = chukchi   }
 2637 = {
 	aristocrats = {
-		culture = inuit
-		religion = animist
+		culture = scandinavian
+		religion = catholic
 		size = 7
 	}
 
 	clergymen = {
-		culture = inuit
-		religion = animist
+		culture = scandinavian
+		religion = catholic
 		size = 10
 	}
 
 	artisans = {
-		culture = inuit
-		religion = animist
+		culture = scandinavian
+		religion = catholic
 		size = 25
 	}
 
 	soldiers = {
-		culture = inuit
-		religion = animist
+		culture = scandinavian
+		religion = catholic
 		size= 8
 
 	}
 
 	farmers = {
-		culture = inuit
-		religion = animist
+		culture = scandinavian
+		religion = catholic
 		size = 450
 	}
 }
 
-#Pevek (600/150 POPS) #inuit = chukchi  }
+#Pevek (600/150 POPS) #scandinavian = chukchi  }
 2666 = {
 	aristocrats = {
-		culture = inuit
-		religion = animist
+		culture = scandinavian
+		religion = catholic
 		size = 2
 	}
 
 	clergymen = {
-		culture = inuit
-		religion = animist
+		culture = scandinavian
+		religion = catholic
 		size = 3
 	}
 
 	artisans = {
-		culture = inuit
-		religion = animist
+		culture = scandinavian
+		religion = catholic
 		size = 4
 	}
 
 	soldiers = {
-		culture = inuit
-		religion = animist
+		culture = scandinavian
+		religion = catholic
 		size= 2
 
 	}
 
 	farmers = {
-		culture = inuit
-		religion = animist
+		culture = scandinavian
+		religion = catholic
 		size = 135
 	}
 }
@@ -2897,32 +2897,32 @@
 2661 = {
 	aristocrats = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 2
 	}
 
 	clergymen = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 3
 	}
 
 	artisans = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 4
 	}
 
 	soldiers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size= 2
 
 	}
 
 	farmers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 135
 	}
 }
@@ -2930,32 +2930,32 @@
 2622 = {
 	aristocrats = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 2
 	}
 
 	clergymen = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 3
 	}
 
 	artisans = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 4
 	}
 
 	soldiers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size= 2
 
 	}
 
 	farmers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 135
 	}
 }
@@ -2965,63 +2965,63 @@
 1077 = {
 	aristocrats = {
 		culture = tatar
-		religion = animist
+		religion = catholic
 		size = 75
 	}
 
 	clergymen = {
 		culture = tatar
-		religion = animist
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
 		culture = tatar
-		religion = animist
+		religion = catholic
 		size = 300
 	}
 
 	soldiers = {
 		culture = tatar
-		religion = animist
+		religion = catholic
 		size= 50
 
 	}
 
 	farmers = {
 		culture = tatar
-		religion = animist
+		religion = catholic
 		size = 5525
 	}
 
 	aristocrats = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	artisans = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 25
 	}
 
 	soldiers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size= 5
 
 	}
 
 	farmers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 450
 	}
 }
@@ -3029,32 +3029,32 @@
 1070 = {
 	aristocrats = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	artisans = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 25
 	}
 
 	soldiers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size= 5
 
 	}
 
 	farmers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 450
 	}
 }
@@ -3062,32 +3062,32 @@
 2701 = {
 	aristocrats = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 2
 	}
 
 	clergymen = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 5
 	}
 
 	artisans = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	soldiers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size= 3
 
 	}
 
 	farmers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 230
 	}
 }
@@ -3095,32 +3095,32 @@
 2656 = {
 	aristocrats = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 2
 	}
 
 	clergymen = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 5
 	}
 
 	artisans = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	soldiers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size= 3
 
 	}
 
 	farmers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 230
 	}
 }
@@ -3128,32 +3128,32 @@
 1076 = {
 	aristocrats = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	artisans = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 25
 	}
 
 	soldiers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size= 5
 
 	}
 
 	farmers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 450
 	}
 }
@@ -3163,96 +3163,96 @@
 1075 = {
 	aristocrats = {
 		culture = mongol
-		religion = gelugpa
+		religion = catholic
 		size = 175
 	}
 
 	clergymen = {
 		culture = mongol
-		religion = gelugpa
+		religion = catholic
 		size = 125
 	}
 
 	artisans = {
 		culture = mongol
-		religion = gelugpa
+		religion = catholic
 		size = 600
 	}
 
 	soldiers = {
 		culture = mongol
-		religion = gelugpa
+		religion = catholic
 		size= 125
 
 	}
 
 	farmers = {
 		culture = mongol
-		religion = gelugpa
+		religion = catholic
 		size = 10975
 	}
 
 	aristocrats = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 2
 	}
 
 	clergymen = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 5
 	}
 
 	artisans = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	soldiers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size= 3
 
 	}
 
 	farmers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 230
 	}
 }
-#Vanavara (1000/250 POPS)
+#Vanazerbaijania (1000/250 POPS)
 2694 = {
 	aristocrats = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 2
 	}
 
 	clergymen = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 5
 	}
 
 	artisans = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	soldiers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size= 3
 
 	}
 
 	farmers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 230
 	}
 }
@@ -3260,32 +3260,32 @@
 2677 = {
 	aristocrats = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 2
 	}
 
 	clergymen = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 5
 	}
 
 	artisans = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	soldiers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size= 3
 
 	}
 
 	farmers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 230
 	}
 }
@@ -3293,32 +3293,32 @@
 2676 = {
 	aristocrats = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 2
 	}
 
 	clergymen = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 5
 	}
 
 	artisans = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	soldiers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size= 3
 
 	}
 
 	farmers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 230
 	}
 }
@@ -3328,32 +3328,32 @@
 1078 = {
 	aristocrats = {
 		culture = mongol
-		religion = gelugpa
+		religion = catholic
 		size = 325
 	}
 
 	clergymen = {
 		culture = mongol
-		religion = gelugpa
+		religion = catholic
 		size = 175
 	}
 
 	artisans = {
 		culture = mongol
-		religion = gelugpa
+		religion = catholic
 		size = 850
 	}
 
 	soldiers = {
 		culture = mongol
-		religion = gelugpa
+		religion = catholic
 		size= 175
 
 	}
 
 	farmers = {
 		culture = mongol
-		religion = gelugpa
+		religion = catholic
 		size = 15475
 	}
 }
@@ -3361,63 +3361,63 @@
 1079 = {
 	aristocrats = {
 		culture = mongol
-		religion = gelugpa
+		religion = catholic
 		size = 175
 	}
 
 	clergymen = {
 		culture = mongol
-		religion = gelugpa
+		religion = catholic
 		size = 75
 	}
 
 	artisans = {
 		culture = mongol
-		religion = gelugpa
+		religion = catholic
 		size = 450
 	}
 
 	soldiers = {
 		culture = mongol
-		religion = gelugpa
+		religion = catholic
 		size= 100
 
 	}
 
 	farmers = {
 		culture = mongol
-		religion = gelugpa
+		religion = catholic
 		size = 8200
 	}
 
 	aristocrats = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 15
 	}
 
 	clergymen = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size= 10
 
 	}
 
 	farmers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 900
 	}
 }
@@ -3426,69 +3426,69 @@
 1081 = {
 	aristocrats = {
 		culture = manchu
-		religion = mahayana
+		religion = catholic
 		size = 125
 	}
 
 	bureaucrats = {
 		culture = manchu
-		religion = mahayana
+		religion = catholic
 		size = 25
 	}
 
 	clergymen = {
 		culture = manchu
-		religion = mahayana
+		religion = catholic
 		size = 110
 	}
 
 	artisans = {
 		culture = manchu
-		religion = mahayana
+		religion = catholic
 		size = 575
 	}
 
 	soldiers = {
 		culture = manchu
-		religion = mahayana
+		religion = catholic
 		size= 130
 
 	}
 
 	farmers = {
 		culture = manchu
-		religion = mahayana
+		religion = catholic
 		size = 11035
 	}
 
 	aristocrats = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 7
 	}
 
 	clergymen = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 8
 	}
 
 	artisans = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size= 10
 
 	}
 
 	farmers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 925
 	}
 }
@@ -3496,63 +3496,63 @@
 2697 = {
 	aristocrats = {
 		culture = manchu
-		religion = mahayana
+		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
 		culture = manchu
-		religion = mahayana
+		religion = catholic
 		size = 100
 	}
 
 	artisans = {
 		culture = manchu
-		religion = mahayana
+		religion = catholic
 		size = 500
 	}
 
 	soldiers = {
 		culture = manchu
-		religion = mahayana
+		religion = catholic
 		size= 100
 
 	}
 
 	farmers = {
 		culture = manchu
-		religion = mahayana
+		religion = catholic
 		size = 9200
 	}
 
 	aristocrats = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 7
 	}
 
 	clergymen = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 8
 	}
 
 	artisans = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size= 10
 
 	}
 
 	farmers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 925
 	}
 }
@@ -3562,94 +3562,94 @@
 1082 = {
 	aristocrats = {
 		culture = manchu
-		religion = mahayana
+		religion = catholic
 		size = 1500
 	}
 
 	clergymen = {
 		culture = manchu
-		religion = mahayana
+		religion = catholic
 		size = 775
 	}
 
 	artisans = {
 		culture = manchu
-		religion = mahayana
+		religion = catholic
 		size = 3900
 	}
 
 	soldiers = {
 		culture = manchu
-		religion = mahayana
+		religion = catholic
 		size= 750
 
 	}
 
 	farmers = {
 		culture = manchu
-		religion = mahayana
+		religion = catholic
 		size = 71075
 	}
 
 	aristocrats = {
 		culture = korean
-		religion = mahayana
+		religion = catholic
 		size = 30
 	}
 
 	clergymen = {
 		culture = korean
-		religion = mahayana
+		religion = catholic
 		size = 40
 	}
 
 	artisans = {
 		culture = korean
-		religion = mahayana
+		religion = catholic
 		size = 150
 	}
 
 	soldiers = {
 		culture = korean
-		religion = mahayana
+		religion = catholic
 		size= 30
 
 	}
 
 	farmers = {
 		culture = korean
-		religion = mahayana
+		religion = catholic
 		size = 2750
 	}
 
 	aristocrats = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 7
 	}
 
 	clergymen = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 8
 	}
 
 	artisans = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size= 10
 
 	}
 
 	farmers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 925
 	}
 }
@@ -3657,63 +3657,63 @@
 1083 = {
 	aristocrats = {
 		culture = manchu
-		religion = mahayana
+		religion = catholic
 		size = 1450
 	}
 
 	clergymen = {
 		culture = manchu
-		religion = mahayana
+		religion = catholic
 		size = 775
 	}
 
 	artisans = {
 		culture = manchu
-		religion = mahayana
+		religion = catholic
 		size = 4000
 	}
 
 	soldiers = {
 		culture = manchu
-		religion = mahayana
+		religion = catholic
 		size= 800
 
 	}
 
 	farmers = {
 		culture = manchu
-		religion = mahayana
+		religion = catholic
 		size = 72975
 	}
 
 	aristocrats = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 25
 	}
 
 	clergymen = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 30
 	}
 
 	artisans = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size= 20
 
 	}
 
 	farmers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 1925
 	}
 }
@@ -3721,63 +3721,63 @@
 1084 = {
 	aristocrats = {
 		culture = manchu
-		religion = mahayana
+		religion = catholic
 		size = 300
 	}
 
 	clergymen = {
 		culture = manchu
-		religion = mahayana
+		religion = catholic
 		size = 150
 	}
 
 	artisans = {
 		culture = manchu
-		religion = mahayana
+		religion = catholic
 		size = 800
 	}
 
 	soldiers = {
 		culture = manchu
-		religion = mahayana
+		religion = catholic
 		size= 175
 
 	}
 
 	farmers = {
 		culture = manchu
-		religion = mahayana
+		religion = catholic
 		size = 14575
 	}
 
 	aristocrats = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 25
 	}
 
 	clergymen = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size= 25
 
 	}
 
 	farmers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 1800
 	}
 }
@@ -3785,69 +3785,69 @@
 1085 = {
 	aristocrats = {
 		culture = manchu
-		religion = mahayana
+		religion = catholic
 		size = 1800
 	}
 
 	bureaucrats = {
 		culture = manchu
-		religion = mahayana
+		religion = catholic
 		size = 425
 	}
 
 	clergymen = {
 		culture = manchu
-		religion = mahayana
+		religion = catholic
 		size = 900
 	}
 
 	artisans = {
 		culture = manchu
-		religion = mahayana
+		religion = catholic
 		size = 4600
 	}
 
 	soldiers = {
 		culture = manchu
-		religion = mahayana
+		religion = catholic
 		size= 900
 
 	}
 
 	farmers = {
 		culture = manchu
-		religion = mahayana
+		religion = catholic
 		size = 82375
 	}
 
 	aristocrats = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 25
 	}
 
 	clergymen = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 30
 	}
 
 	artisans = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size= 20
 
 	}
 
 	farmers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 1925
 	}
 }
@@ -3855,63 +3855,63 @@
 2617 = {
 	aristocrats = {
 		culture = manchu
-		religion = mahayana
+		religion = catholic
 		size = 1200
 	}
 
 	clergymen = {
 		culture = manchu
-		religion = mahayana
+		religion = catholic
 		size = 600
 	}
 
 	artisans = {
 		culture = manchu
-		religion = mahayana
+		religion = catholic
 		size = 3050
 	}
 
 	soldiers = {
 		culture = manchu
-		religion = mahayana
+		religion = catholic
 		size= 625
 
 	}
 
 	farmers = {
 		culture = manchu
-		religion = mahayana
+		religion = catholic
 		size = 55525
 	}
 
 	aristocrats = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 20
 	}
 
 	clergymen = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 20
 	}
 
 	artisans = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size= 10
 
 	}
 
 	farmers = {
 		culture = siberian
-		religion = animist
+		religion = catholic
 		size = 9000
 	}
 

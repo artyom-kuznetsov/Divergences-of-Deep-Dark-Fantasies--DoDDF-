@@ -1884,8 +1884,8 @@ country_event = {
     option = {
         name = "106092.A"
         any_pop = {
-            limit = { has_pop_religion = orthodox }
-            literacy = 0.15
+            limit = { has_pop_religion = catholic }
+            literacy = 0.03
         }
         any_pop = {
             limit = { culture = greek }

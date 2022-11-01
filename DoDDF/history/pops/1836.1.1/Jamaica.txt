@@ -4,62 +4,62 @@
 2217 = {
 	aristocrats = {
 		culture = burgundian
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
 	bureaucrats = {
 		culture = burgundian
-		religion = protestant
+		religion = catholic
 		size = 85
 	}
 
 	clergymen = {
 		culture = burgundian
-		religion = protestant
+		religion = catholic
 		size = 75
 	}
 
 	artisans = {
 		culture = burgundian
-		religion = protestant
+		religion = catholic
 		size = 2550
 	}
 
 	farmers = {
 		culture = burgundian
-		religion = protestant
+		religion = catholic
 		size = 2190
 	}
 
 	clergymen = {
 		culture = afro_frankish
-		religion = protestant
+		religion = catholic
 		size = 625
 	}
 
 	artisans = {
 		culture = afro_frankish
-		religion = protestant
+		religion = catholic
 		size = 2000
 	}
 
 	soldiers = {
 		culture = afro_frankish
-		religion = protestant
+		religion = catholic
 		size= 3000
 
 	}
 
 	farmers = {
 		culture = afro_frankish
-		religion = protestant
+		religion = catholic
 		size = 40075
 	}
 
 	slaves = {
 		culture = afro_frankish
-		religion = protestant
+		religion = catholic
 		size = 44300
 	}
 }

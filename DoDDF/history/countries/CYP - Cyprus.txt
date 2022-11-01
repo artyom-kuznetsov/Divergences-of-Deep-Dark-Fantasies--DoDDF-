@@ -1,7 +1,7 @@
 capital = 855
 primary_culture = greek
 culture = venetian
-religion = orthodox
+religion = catholic
 government = democracy
 plurality = 0.05
 nationalvalue = nv_order
@@ -36,7 +36,7 @@ child_labor = child_labor_legal
 citizens_rights = primary_culture_only
 border_policy = quota_immigration
 
-set_country_flag = orthodox_country
+set_country_flag = catholic_country
 
 ruling_party = AAA_conservative_5
 upper_house = {

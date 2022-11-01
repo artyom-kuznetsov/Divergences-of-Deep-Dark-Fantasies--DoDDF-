@@ -1,6 +1,6 @@
 capital = 1221
 primary_culture = baluchi
-religion = sunni
+religion = catholic
 government = khanate
 plurality = 0.0
 nationalvalue = nv_tradition
@@ -45,7 +45,7 @@ upper_house = {
 	communist = 0
 }
 
-set_country_flag = sunni_country
+set_country_flag = catholic_country
 foreign_weapons = yes_foreign_weapons
 foreign_officers = yes_foreign_officers
 admin_reform = yes_admin_reform

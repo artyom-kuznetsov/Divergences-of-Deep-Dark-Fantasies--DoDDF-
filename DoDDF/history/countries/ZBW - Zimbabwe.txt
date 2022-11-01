@@ -1,7 +1,7 @@
 capital = 2068
 primary_culture = shona
 culture = nguni
-religion = animist
+religion = catholic
 government = presidential_dictatorship
 plurality = 0.0
 nationalvalue = nv_order
@@ -34,7 +34,7 @@ child_labor = child_labor_legal
 citizens_rights = primary_culture_only
 border_policy = open_borders
 
-set_country_flag = animist_country
+set_country_flag = catholic_country
 
 set_country_flag = post_colonial_country
 

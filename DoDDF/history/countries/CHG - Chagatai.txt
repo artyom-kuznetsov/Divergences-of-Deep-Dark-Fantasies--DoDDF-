@@ -4,7 +4,7 @@ culture = mongol
 culture = uzbek
 culture = uighur
 culture = kazak
-religion = sunni
+religion = catholic
 government = khanate
 plurality = 0.0
 nationalvalue = nv_tradition
@@ -59,7 +59,7 @@ admin_reform = yes_admin_reform
 monetary_reform = yes_monetary_reform
 research_reform = yes_education_reform
 
-set_country_flag = sunni_country
+set_country_flag = catholic_country
 
 # Starting Consciousness
 consciousness = 0

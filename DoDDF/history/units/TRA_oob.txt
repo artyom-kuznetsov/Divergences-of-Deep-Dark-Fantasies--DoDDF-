@@ -1,18 +1,4 @@
-leader = {
-	name = "Marthanda Varma"
-	type = land
-	date = 1836.1.1
-	personality = deeply_religious
-	background = yesman
-}
 
-leader = {
-	name = "Chithra Thirunal"
-	type = sea
-	date = 1836.1.1
-	personality = relentless
-	background = hated
-}
 army = {
 	name = "Army of the Maharaja of Travancore"
 	location = 1319

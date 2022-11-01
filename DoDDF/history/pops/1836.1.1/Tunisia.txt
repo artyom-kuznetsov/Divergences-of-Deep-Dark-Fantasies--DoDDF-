@@ -49,13 +49,13 @@
 
     artisans = {
         culture = maghrebi
-        religion = sunni
+        religion = catholic
         size = 12000
     }
 
     farmers = {
         culture = maghrebi
-        religion = sunni
+        religion = catholic
         size = 52100
     }
 
@@ -67,19 +67,19 @@
 
     clergymen = {
         culture = sephardic
-        religion = jewish
+        religion = catholic
         size = 1000
     }
 
     artisans = {
         culture = sephardic
-        religion = jewish
+        religion = catholic
         size = 18500
     }
 
     bureaucrats = {
         culture = sephardic
-        religion = jewish
+        religion = catholic
         size = 500
     }
 }
@@ -88,19 +88,19 @@
 
     clergymen = {
         culture = maghrebi
-        religion = sunni
+        religion = catholic
         size = 540
     }
 
     artisans = {
         culture = maghrebi
-        religion = sunni
+        religion = catholic
         size = 2600
     }
 
     farmers = {
         culture = maghrebi
-        religion = sunni
+        religion = catholic
         size = 46860
     }
 
@@ -149,49 +149,49 @@
 1727 = {
     aristocrats = {
         culture = maghrebi
-        religion = sunni
+        religion = catholic
         size = 800
     }
 
     clergymen = {
         culture = maghrebi
-        religion = sunni
+        religion = catholic
         size = 275
     }
 
     artisans = {
         culture = maghrebi
-        religion = sunni
+        religion = catholic
         size = 1250
     }
 
     bureaucrats = {
         culture = maghrebi
-        religion = sunni
+        religion = catholic
         size = 150
     }
 
     officers = {
         culture = maghrebi
-        religion = sunni
+        religion = catholic
         size = 200
     }
 
     soldiers = {
         culture = maghrebi
-        religion = sunni
+        religion = catholic
         size = 6200
     }
 
     farmers = {
         culture = maghrebi
-        religion = sunni
+        religion = catholic
         size = 22025
     }
 
     slaves = {
         culture = zanj
-        religion = animist
+        religion = catholic
         size = 35000
     }
 }
@@ -199,31 +199,31 @@
 1728 = {
     clergymen = {
         culture = maghrebi
-        religion = sunni
+        religion = catholic
         size = 320
     }
 
     artisans = {
         culture = maghrebi
-        religion = sunni
+        religion = catholic
         size = 1800
     }
 
     farmers = {
         culture = maghrebi
-        religion = sunni
+        religion = catholic
         size = 32180
     }
 	
     soldiers = {
         culture = maghrebi
-        religion = sunni
+        religion = catholic
         size = 6000
     }	
 
     slaves = {
         culture = zanj
-        religion = animist
+        religion = catholic
         size = 12000
     }
 
@@ -249,31 +249,31 @@
 1729 = {
     clergymen = {
         culture = maghrebi
-        religion = sunni
+        religion = catholic
         size = 200
     }
 
     artisans = {
         culture = maghrebi
-        religion = sunni
+        religion = catholic
         size = 950
     }
 
     farmers = {
         culture = maghrebi
-        religion = sunni
+        religion = catholic
         size = 17300
     }
 	
     soldiers = {
         culture = maghrebi
-        religion = sunni
+        religion = catholic
         size = 3000
     }	
 
     slaves = {
         culture = zanj
-        religion = animist
+        religion = catholic
         size = 5000
     }
 }
@@ -281,31 +281,31 @@
 1730 = {
     clergymen = {
         culture = maghrebi
-        religion = sunni
+        religion = catholic
         size = 320
     }
 
     artisans = {
         culture = maghrebi
-        religion = sunni
+        religion = catholic
         size = 1820
     }
 	
     soldiers = {
         culture = maghrebi
-        religion = sunni
+        religion = catholic
         size = 6000
     }
 
     farmers = {
         culture = maghrebi
-        religion = sunni
+        religion = catholic
         size = 32660
     }
 
     slaves = {
         culture = zanj
-        religion = animist
+        religion = catholic
         size = 4000
     }
 

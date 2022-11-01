@@ -1,6 +1,6 @@
 capital = 924
 primary_culture = kurdish
-religion = sunni
+religion = catholic
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_tradition
@@ -53,6 +53,6 @@ army_schools = yes_army_schools
 foreign_weapons = yes_foreign_weapons
 monetary_reform = yes_monetary_reform
 
-set_country_flag = sunni_country
+set_country_flag = catholic_country
 
 oob = "SRN_oob.txt"

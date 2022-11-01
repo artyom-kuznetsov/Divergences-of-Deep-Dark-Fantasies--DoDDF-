@@ -58,7 +58,7 @@ political_decisions = {
                 tag = RUS
                 tag = JAP
             }
-            is_greater_power = yes
+         #   is_greater_power = yes
             MGL = {
                 exists = yes
                 is_vassal = no
@@ -346,7 +346,7 @@ political_decisions = {
                     rank = 16
                     year = 1845
                 }
-                is_greater_power = yes
+             #   is_greater_power = yes
             }
         }
 

@@ -6,7 +6,7 @@ political_decisions = {
             NOT = { has_country_flag = pale_calais }
         }
         allow = {
-            is_greater_power = yes
+           # is_greater_power = yes
             NOT = { war = yes }
             owns = 400
         }
@@ -28,7 +28,7 @@ political_decisions = {
             NOT = { has_country_flag = franchecomte }
         }
         allow = {
-            is_greater_power = yes
+           # is_greater_power = yes
             NOT = { war = yes }
             owns = 428
         }
@@ -126,7 +126,7 @@ political_decisions = {
             }
         }
         allow = {
-            is_greater_power = yes
+         #   is_greater_power = yes
             NOT = { war = yes }
             owns = 465
             owns = 466
@@ -263,7 +263,7 @@ political_decisions = {
                     any_owned_province = { continent = europe }
                 }
             }
-            is_greater_power = no
+           # is_greater_power = no
             war = no
         }
         effect = {
@@ -407,15 +407,15 @@ political_decisions = {
         potential = {
             tag = BRG
             NOT = { has_country_flag = BRG_rhein }
-            NOT = {
-                GER = { exists = yes }
-            }
         }
 
         allow = {
-            is_greater_power = yes
+           # is_greater_power = yes
             all_core = { owned_by = THIS }
             revolution_n_counterrevolution = 1
+            NOT = {
+                GER = { exists = yes }
+            }
         }
 
         effect = {
@@ -436,7 +436,7 @@ political_decisions = {
         }
 			
         allow = {
-            is_greater_power = yes
+            #is_greater_power = yes
             all_core = { owned_by = THIS } 
             WUR_589 = {
                 OR = {

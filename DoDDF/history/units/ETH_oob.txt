@@ -3,21 +3,6 @@ FUN = {
 	value = -25		#relation
 }
 
-leader = {
-	name = "Kassa Hailu"
-	type = land
-	date = 1836.1.1
-	personality = perverse
-	background = natural_born_leader
-}
-
-leader = {
-	name = "Askala Maryam"
-	type = land
-	date = 1836.1.1
-	personality = inept
-	background = expert_raider
-}
 
 army = {
 	name = "Army of the Emperor of Ethiopia"

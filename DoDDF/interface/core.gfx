@@ -27,8 +27,8 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_icon_religion_small"
-		texturefile = "gfx\\interface\\icon_religion_small.dds"
-		noOfFrames = 18
+		texturefile = "gfx\\interface\\icon_religion_small.tga"
+		noOfFrames = 13
 		loadType = "INGAME"
 	}
 	
@@ -142,6 +142,20 @@ spriteTypes = {
 	
 	spriteType = {
 		name = "GFX_button_arrow_right"
+		texturefile = "gfx\\interface\\button_arrow_right.tga"
+		loadType = "INGAME"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_button_arrow_left_1"
+		texturefile = "gfx\\interface\\button_arrow_left.tga"
+		loadType = "INGAME"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_button_arrow_right_1"
 		texturefile = "gfx\\interface\\button_arrow_right.tga"
 		loadType = "INGAME"
 		norefcount = yes

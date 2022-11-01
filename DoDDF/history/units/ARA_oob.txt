@@ -41,62 +41,6 @@ ALB = {
 	influence_value = 50
 }
 
-leader = {
-	name = "Josep Serna"
-	type = land
-	date = 1836.1.1
-	personality = relentless
-	background = hated
-}
-
-leader = {
-	name = "Ramon Oller"
-	type = land
-	date = 1836.1.1
-	personality = timid
-	background = war_college
-}
-
-leader = {
-	name = "Antoni de Berga"
-	type = land
-	date = 1836.1.1
-	personality = bigoted
-	background = cavalry_school
-}
-
-leader = {
-	name = "Berenguer de Narbona"
-	type = land
-	date = 1836.1.1
-	personality = romantic
-	background = toady
-}
-
-leader = {
-	name = "Carles Montaner"
-	type = sea
-	date = 1836.1.1
-	personality = resourceful
-	background = exranker
-}
-
-leader = {
-	name = "Giuseppe Settimo"
-	type = sea
-	date = 1836.1.1
-	personality = reserved
-	background = diplomat
-}
-
-leader = {
-	name = "Rafael de Bricfeus"
-	type = sea
-	date = 1836.1.1
-	personality = bold
-	background = artillerist
-}
-
 #Army
 army = {
 	name = "Exèrcit del Regne"

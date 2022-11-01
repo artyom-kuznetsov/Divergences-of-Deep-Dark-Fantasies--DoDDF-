@@ -34,19 +34,19 @@
 
     artisans = {
         culture = micronesian
-        religion = animist
+        religion = catholic
         size = 75
     }
 
     soldiers = {
         culture = micronesian
-        religion = animist
+        religion = catholic
         size = 18
     }
 
     farmers = {
         culture = micronesian
-        religion = animist
+        religion = catholic
         size = 1490
     }
 }
@@ -60,13 +60,13 @@
 
     artisans = {
         culture = micronesian
-        religion = animist
+        religion = catholic
         size = 70
     }
 
     farmers = {
         culture = micronesian
-        religion = animist
+        religion = catholic
         size = 1325
     }
 }
@@ -75,31 +75,31 @@
 2518 = {
     aristocrats = {
         culture = micronesian
-        religion = animist
+        religion = catholic
         size = 65
     }
 
     clergymen = {
         culture = micronesian
-        religion = animist
+        religion = catholic
         size = 50
     }
 
     artisans = {
         culture = micronesian
-        religion = animist
+        religion = catholic
         size = 100
     }
 
     soldiers = {
         culture = micronesian
-        religion = animist
+        religion = catholic
         size = 60
     }
 
     farmers = {
         culture = micronesian
-        religion = animist
+        religion = catholic
         size = 1800
     }
 }
@@ -107,19 +107,19 @@
 2519 = {
     clergymen = {
         culture = micronesian
-        religion = animist
+        religion = catholic
         size = 10
     }
 
     artisans = {
         culture = micronesian
-        religion = animist
+        religion = catholic
         size = 25
     }
 
     farmers = {
         culture = micronesian
-        religion = animist
+        religion = catholic
         size = 485
     }
 }
@@ -127,19 +127,19 @@
 2579 = {
     clergymen = {
         culture = micronesian
-        religion = animist
+        religion = catholic
         size = 20
     }
 
     artisans = {
         culture = micronesian
-        religion = animist
+        religion = catholic
         size = 40
     }
 
     farmers = {
         culture = micronesian
-        religion = animist
+        religion = catholic
         size = 700
     }
 }
@@ -147,19 +147,19 @@
 610 = {
     clergymen = {
         culture = micronesian
-        religion = animist
+        religion = catholic
         size = 15
     }
 
     artisans = {
         culture = micronesian
-        religion = animist
+        religion = catholic
         size = 35
     }
 
     farmers = {
         culture = micronesian
-        religion = animist
+        religion = catholic
         size = 600
     }
 }
@@ -169,7 +169,7 @@
 1654 = {
 	farmers = {
 		culture = micronesian
-		religion = animist
+		religion = catholic
 		size = 7
 	}
 }
@@ -177,7 +177,7 @@
 2525 = {
 	farmers = {
 		culture = micronesian
-		religion = animist
+		religion = catholic
 		size = 15
 	}
 }
@@ -187,19 +187,19 @@
 2522 = {
     clergymen = {
         culture = micronesian
-        religion = animist
+        religion = catholic
         size = 25
     }
 
     artisans = {
         culture = micronesian
-        religion = animist
+        religion = catholic
         size = 75
     }
 
     farmers = {
         culture = micronesian
-        religion = animist
+        religion = catholic
         size = 1375
     }
 }
@@ -207,19 +207,19 @@
 2523 = {
     clergymen = {
         culture = micronesian
-        religion = animist
+        religion = catholic
         size = 5
     }
 
     artisans = {
         culture = micronesian
-        religion = animist
+        religion = catholic
         size = 10
     }
 
     farmers = {
         culture = micronesian
-        religion = animist
+        religion = catholic
         size = 225
     }
 }
@@ -227,43 +227,43 @@
 2527 = {
     aristocrats = {
         culture = micronesian
-        religion = animist
+        religion = catholic
         size = 50
     }
 
     clergymen = {
         culture = micronesian
-        religion = animist
+        religion = catholic
         size = 75
     }
 
     artisans = {
         culture = micronesian
-        religion = animist
+        religion = catholic
         size = 175
     }
 
     soldiers = {
         culture = micronesian
-        religion = animist
+        religion = catholic
         size = 25
     }
 
     farmers = {
         culture = micronesian
-        religion = animist
+        religion = catholic
         size = 3125
     }
 
     aristocrats = {
         culture = polynesian
-        religion = animist
+        religion = catholic
         size = 5
     }
 
     soldiers = {
         culture = polynesian
-        religion = animist
+        religion = catholic
         size = 5
     }
 }

@@ -4,61 +4,61 @@
 1189 = {
 	aristocrats = {
 		culture = kirgiz
-		religion = sunni
+		religion = catholic
 		size = 800
 	}
 
 	clergymen = {
 		culture = kirgiz
-		religion = sunni
+		religion = catholic
 		size = 425
 	}
 
 	artisans = {
 		culture = kirgiz
-		religion = sunni
+		religion = catholic
 		size = 2000
 	}
 
 	soldiers = {
 		culture = kirgiz
-		religion = sunni
+		religion = catholic
 		size = 1000
 	}
 
 	farmers = {
 		culture = kirgiz
-		religion = sunni
+		religion = catholic
 		size = 26000
 	}
 	
 	farmers = {
 		culture = kirgiz
-		religion = animist
+		religion = catholic
 		size = 3775
 	}
 
 	aristocrats = {
 		culture = kazak
-		religion = sunni
+		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
 		culture = kazak
-		religion = sunni
+		religion = catholic
 		size = 75
 	}
 
 	artisans = {
 		culture = kazak
-		religion = sunni
+		religion = catholic
 		size = 375
 	}
 
 	farmers = {
 		culture = kazak
-		religion = sunni
+		religion = catholic
 		size = 6450
 	}
 }
@@ -66,133 +66,133 @@
 1190 = {
     aristocrats = {
         culture = kirgiz
-        religion = sunni
+        religion = catholic
         size = 1525
     }
 
     clergymen = {
         culture = kirgiz
-        religion = sunni
+        religion = catholic
         size = 50
     }
 
     artisans = {
         culture = kirgiz
-        religion = sunni
+        religion = catholic
         size = 100
     }
 
     soldiers = {
         culture = kirgiz
-        religion = sunni
+        religion = catholic
         size = 12150
     }
 
     farmers = {
         culture = kirgiz
-        religion = sunni
+        religion = catholic
         size = 2775
     }
 
     aristocrats = {
         culture = kirgiz
-        religion = animist
+        religion = catholic
         size = 100
     }
 
     clergymen = {
         culture = kirgiz
-        religion = animist
+        religion = catholic
         size = 50
     }
 
     artisans = {
         culture = kirgiz
-        religion = animist
+        religion = catholic
         size = 250
     }
 
     soldiers = {
         culture = kirgiz
-        religion = animist
+        religion = catholic
         size = 50
     }
 
     farmers = {
         culture = kirgiz
-        religion = animist
+        religion = catholic
         size = 4575
     }
 
     aristocrats = {
         culture = kazak
-        religion = sunni
+        religion = catholic
         size = 200
     }
 
     clergymen = {
         culture = kazak
-        religion = sunni
+        religion = catholic
         size = 50
     }
 
     artisans = {
         culture = kazak
-        religion = sunni
+        religion = catholic
         size = 200
     }
 
     soldiers = {
         culture = kazak
-        religion = sunni
+        religion = catholic
         size = 125
     }
 
     farmers = {
         culture = kazak
-        religion = sunni
+        religion = catholic
         size = 4600
     }
 
     aristocrats = {
         culture = uighur
-        religion = sunni
+        religion = catholic
         size = 125
     }
 
     aristocrats = {
         culture = uzbek
-        religion = sunni
+        religion = catholic
         size = 1275
     }
 
     aristocrats = {
         culture = persian
-        religion = sunni
+        religion = catholic
         size = 50
     }
 
     soldiers = {
         culture = uighur
-        religion = sunni
+        religion = catholic
         size = 75
     }
 
     soldiers = {
         culture = uzbek
-        religion = sunni
+        religion = catholic
         size = 675
     }
 
     soldiers = {
         culture = persian
-        religion = sunni
+        religion = catholic
         size = 25
     }
 
     bureaucrats = {
         culture = uzbek
-        religion = sunni
+        religion = catholic
         size = 200
     }
 }
@@ -201,61 +201,61 @@
 3358 = {
 	aristocrats = {
 		culture = uighur
-		religion = sunni
+		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
 		culture = uighur
-		religion = sunni
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
 		culture = uighur
-		religion = sunni
+		religion = catholic
 		size = 100
 	}
 
 	farmers = {
 		culture = uighur
-		religion = sunni
+		religion = catholic
 		size = 2175
 	}
 
 	aristocrats = {
 		culture = kirgiz
-		religion = sunni
+		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
 		culture = kirgiz
-		religion = sunni
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
 		culture = kirgiz
-		religion = sunni
+		religion = catholic
 		size = 200
 	}
 
 	soldiers = {
 		culture = kirgiz
-		religion = sunni
+		religion = catholic
 		size = 1050
 	}
 
 	farmers = {
 		culture = kirgiz
-		religion = sunni
+		religion = catholic
 		size = 4000
 	}
 	
 	farmers = {
 		culture = kirgiz
-		religion = animist
+		religion = catholic
 		size = 6600
 	}
 }
@@ -266,61 +266,61 @@
 1203 = {
     clergymen = {
         culture = uzbek
-        religion = sunni
+        religion = catholic
         size = 75
     }
 
     artisans = {
         culture = uzbek
-        religion = sunni
+        religion = catholic
         size = 450
     }
 
     farmers = {
         culture = uzbek
-        religion = sunni
+        religion = catholic
         size = 13550
     }
 
     clergymen = {
         culture = kirgiz
-        religion = sunni
+        religion = catholic
         size = 175
     }
 
     artisans = {
         culture = kirgiz
-        religion = sunni
+        religion = catholic
         size = 900
     }
 
     farmers = {
         culture = kirgiz
-        religion = sunni
+        religion = catholic
         size = 8200
     }
 	
 	aristocrats = {
 		culture = persian
-		religion = sunni
+		religion = catholic
 		size = 300
 	}
 
 	clergymen = {
 		culture = persian
-		religion = sunni
+		religion = catholic
 		size = 125
 	}	
 	
 	artisans = {
 		culture = persian
-		religion = sunni
+		religion = catholic
 		size = 1350
 	}
 
 	farmers = {
 		culture = persian
-		religion = sunni
+		religion = catholic
 		size = 4550
 	}	
 	

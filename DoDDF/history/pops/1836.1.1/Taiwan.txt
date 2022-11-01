@@ -4,83 +4,83 @@
 1485 = {
 	aristocrats = {
 		culture = nanfaren
-		religion = mahayana
+		religion = catholic
 		size = 1525
 	}
 
 	clergymen = {
 		culture = nanfaren
-		religion = mahayana
+		religion = catholic
 		size = 1325
 	}
 
 	artisans = {
 		culture = nanfaren
-		religion = mahayana
+		religion = catholic
 		size = 6600
 	}
 
 	soldiers = {
 		culture = nanfaren
-		religion = mahayana
+		religion = catholic
 		size = 1325
 	}
 
 	farmers = {
 		culture = nanfaren
-		religion = mahayana
+		religion = catholic
 		size = 121225
 	}	
 
 	slaves = {
 		culture = nanfaren
-		religion = mahayana
+		religion = catholic
 		size = 20000
 	}
 
 	aristocrats = {
 		culture = min
-		religion = mahayana
+		religion = catholic
 		size = 3500
 	}
 
 	clergymen = {
 		culture = min
-		religion = mahayana
+		religion = catholic
 		size = 2500
 	}
 
 	artisans = {
 		culture = min
-		religion = mahayana
+		religion = catholic
 		size = 10000
 	}
 
 	artisans = {
 		culture = min
-		religion = mahayana
+		religion = catholic
 		size = 2500
 	}
 
 	soldiers = {
 		culture = min
-		religion = mahayana
+		religion = catholic
 		size = 2500
 	}
 
 	farmers = {
 		culture = min
-		religion = mahayana
+		religion = catholic
 		size = 165000
 	}
 	farmers = {
 		culture = micronesian
-		religion = mahayana
+		religion = catholic
 		size = 18150
 	}
 	farmers = {
 		culture = micronesian
-		religion = animist
+		religion = catholic
 		size = 18150
 	}	
 }
@@ -88,55 +88,55 @@
 2562 = {
 	farmers = {
 		culture = micronesian
-		religion = animist
+		religion = catholic
 		size = 17000
 	}
 	
 	slaves = {
 		culture = micronesian
-		religion = animist
+		religion = catholic
 		size = 20000
 	}
 	
 	soldiers = {
 		culture = micronesian
-		religion = animist
+		religion = catholic
 		size = 6000
 	}
 	
 	aristocrats = {
 		culture = micronesian
-		religion = animist
+		religion = catholic
 		size = 1000
 	}
 	
 	aristocrats = {
 		culture = nanfaren
-		religion = mahayana
+		religion = catholic
 		size = 150
 	}
 	
 	clergymen = {
 		culture = nanfaren
-		religion = mahayana
+		religion = catholic
 		size = 100
 	}
 
 	artisans = {
 		culture = nanfaren
-		religion = mahayana
+		religion = catholic
 		size = 750
 	}
 
 	soldiers = {
 		culture = nanfaren
-		religion = mahayana
+		religion = catholic
 		size = 3300
 	}
 
 	farmers = {
 		culture = min
-		religion = mahayana
+		religion = catholic
 		size = 12925
 	}
 }
@@ -145,31 +145,31 @@
 2406 = {
 	aristocrats = {
 		culture = nanfaren
-		religion = mahayana
+		religion = catholic
 		size = 150
 	}
 	
 	clergymen = {
 		culture = nanfaren
-		religion = mahayana
+		religion = catholic
 		size = 100
 	}
 
 	artisans = {
 		culture = nanfaren
-		religion = mahayana
+		religion = catholic
 		size = 750
 	}
 
 	soldiers = {
 		culture = nanfaren
-		religion = mahayana
+		religion = catholic
 		size = 1300
 	}
 
 	farmers = {
 		culture = min
-		religion = mahayana
+		religion = catholic
 		size = 12925
 	}
 
@@ -179,79 +179,79 @@
 2681 = {
 	aristocrats = {
 		culture = nanfaren
-		religion = mahayana
+		religion = catholic
 		size = 1500
 	}
 
 	bureaucrats = {
 		culture = nanfaren
-		religion = mahayana
+		religion = catholic
 		size = 450
 	}
 
 	officers = {
 		culture = nanfaren
-		religion = mahayana
+		religion = catholic
 		size = 750
 	}
 
 	clergymen = {
 		culture = nanfaren
-		religion = mahayana
+		religion = catholic
 		size = 1225
 	}
 
 	artisans = {
 		culture = nanfaren
-		religion = mahayana
+		religion = catholic
 		size = 6150
 	}
 
 	soldiers = {
 		culture = nanfaren
-		religion = mahayana
+		religion = catholic
 		size = 1300
 	}
 
 	farmers = {
 		culture = nanfaren
-		religion = mahayana
+		religion = catholic
 		size = 110625
 	}
 
 	aristocrats = {
 		culture = min
-		religion = mahayana
+		religion = catholic
 		size = 3000
 	}
 
 	clergymen = {
 		culture = min
-		religion = mahayana
+		religion = catholic
 		size = 2400
 	}
 
 	artisans = {
 		culture = min
-		religion = mahayana
+		religion = catholic
 		size = 10000
 	}
 
 	artisans = {
 		culture = min
-		religion = mahayana
+		religion = catholic
 		size = 2000
 	}
 
 	soldiers = {
 		culture = min
-		religion = mahayana
+		religion = catholic
 		size = 2400
 	}
 
 	farmers = {
 		culture = min
-		religion = mahayana
+		religion = catholic
 		size = 220200
 	}
 }

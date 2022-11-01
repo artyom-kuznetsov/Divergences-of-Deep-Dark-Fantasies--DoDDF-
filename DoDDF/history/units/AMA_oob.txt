@@ -2,21 +2,6 @@
 
 #Army
 
-leader = {
-	name = "Philippe-Joseph Deville"
-	type = land
-	date = 1836.1.1
-	personality = intuitive
-	background = debutante
-}
-
-leader = {
-	name = "André Wangermée"
-	type = land
-	date = 1836.1.1
-	personality = skilled
-	background = drillmaster
-}
 
 army = {
 	name = "Army of France Antartique"

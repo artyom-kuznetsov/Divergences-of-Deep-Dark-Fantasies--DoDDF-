@@ -4,32 +4,32 @@
 6 = {
 	aristocrats = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size= 15
 
 	}
 
 	farmers = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size = 900
 	}
 }
@@ -37,32 +37,32 @@
 7 = {
 	aristocrats = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size = 20
 	}
 
 	clergymen = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size= 30
 
 	}
 
 	farmers = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size = 1800
 	}
 }
@@ -73,32 +73,32 @@
 9 = {
 	aristocrats = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size = 15
 	}
 
 	clergymen = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size = 30
 	}
 
 	soldiers = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size= 10
 
 	}
 
 	farmers = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size = 520
 	}
 }
@@ -106,32 +106,32 @@
 11 = {
 	aristocrats = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size= 15
 
 	}
 
 	farmers = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size = 900
 	}
 }
@@ -140,32 +140,32 @@
 2596 = {
 	aristocrats = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size= 15
 
 	}
 
 	farmers = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size = 900
 	}
 }
@@ -173,32 +173,32 @@
 2598 = {
 	aristocrats = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size = 5
 	}
 
 	clergymen = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	artisans = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size = 20
 	}
 
 	soldiers = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size= 5
 
 	}
 
 	farmers = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size = 360
 	}
 }
@@ -206,33 +206,33 @@
 #Whale Cove (2800/700 POPS)
 2595 = {
 	aristocrats = {
-		culture = inuit
-		religion = animist
+		culture = scandinavian
+		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
-		culture = inuit
-		religion = animist
+		culture = scandinavian
+		religion = catholic
 		size = 15
 	}
 
 	artisans = {
-		culture = inuit
-		religion = animist
+		culture = scandinavian
+		religion = catholic
 		size = 35
 	}
 
 	soldiers = {
-		culture = inuit
-		religion = animist
+		culture = scandinavian
+		religion = catholic
 		size= 10
 
 	}
 
 	farmers = {
-		culture = inuit
-		religion = animist
+		culture = scandinavian
+		religion = catholic
 		size = 630
 	}
 
@@ -243,44 +243,44 @@
 13 = {
 	aristocrats = {
 		culture = qingqiuan
-		religion = mahayana
+		religion = catholic
 		size = 150
 	}
 
 	bureaucrats = {
 		culture = qingqiuan
-		religion = mahayana
+		religion = catholic
 		size = 200
 	}
 
 	officers = {
 		culture = qingqiuan
-		religion = mahayana
+		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
 		culture = qingqiuan
-		religion = mahayana
+		religion = catholic
 		size = 175
 	}
 
 	artisans = {
 		culture = qingqiuan
-		religion = mahayana
+		religion = catholic
 		size = 2150
 	}
 
 	soldiers = {
 		culture = qingqiuan
-		religion = mahayana
+		religion = catholic
 		size= 900
 
 	}
 
 	farmers = {
 		culture = qingqiuan
-		religion = mahayana
+		religion = catholic
 		size = 22700
 	}
 
@@ -289,31 +289,31 @@
 14 = {
 	aristocrats = {
 		culture = qingqiuan
-		religion = mahayana
+		religion = catholic
 		size = 25
 	}
 
 	clergymen = {
 		culture = qingqiuan
-		religion = mahayana
+		religion = catholic
 		size = 150
 	}
 
 	artisans = {
 		culture = qingqiuan
-		religion = mahayana
+		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
 		culture = qingqiuan
-		religion = mahayana
+		religion = catholic
 		size= 900
 	}
 
 	farmers = {
 		culture = qingqiuan
-		religion = mahayana
+		religion = catholic
 		size = 21750
 	}
 }
@@ -321,31 +321,31 @@
 15 = {
 	aristocrats = {
 		culture = qingqiuan
-		religion = mahayana
+		religion = catholic
 		size = 125
 	}
 
 	clergymen = {
 		culture = qingqiuan
-		religion = mahayana
+		religion = catholic
 		size = 150
 	}
 
 	artisans = {
 		culture = qingqiuan
-		religion = mahayana
+		religion = catholic
 		size = 2100
 	}
 
 	soldiers = {
 		culture = qingqiuan
-		religion = mahayana
+		religion = catholic
 		size = 550
 	}
 
 	farmers = {
 		culture = qingqiuan
-		religion = mahayana
+		religion = catholic
 		size = 11750
 	}
 }
@@ -353,49 +353,49 @@
 16 = {
 	aristocrats = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size = 110
 	}
 
 	clergymen = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size = 125
 	}
 
 	artisans = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size = 250
 	}
 
 	soldiers = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size = 550
 	}
 
 	farmers = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size = 5400
 	}
 
 	aristocrats = {
 		culture = qingqiuan
-		religion = mahayana
+		religion = catholic
 		size = 40
 	}
 
 	clergymen = {
 		culture = qingqiuan
-		religion = mahayana
+		religion = catholic
 		size = 100
 	}
 
 	farmers = {
 		culture = qingqiuan
-		religion = mahayana
+		religion = catholic
 		size = 3900
 	}
 }
@@ -403,32 +403,32 @@
 17 = {
 	aristocrats = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size= 15
 
 	}
 
 	farmers = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size = 900
 	}
 }
@@ -436,32 +436,32 @@
 18 = {
 	aristocrats = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size = 15
 	}
 
 	clergymen = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size = 30
 	}
 
 	soldiers = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size= 10
 
 	}
 
 	farmers = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size = 520
 	}
 }
@@ -469,49 +469,49 @@
 19 = {
 	aristocrats = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size = 120
 	}
 
 	clergymen = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size = 150
 	}
 
 	artisans = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size = 1300
 	}
 
 	soldiers = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size = 450
 	}
 
 	farmers = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size = 5340
 	}
 
 	aristocrats = {
 		culture = qingqiuan
-		religion = mahayana
+		religion = catholic
 		size = 40
 	}
 
 	clergymen = {
 		culture = qingqiuan
-		religion = mahayana
+		religion = catholic
 		size = 50
 	}
 
 	farmers = {
 		culture = qingqiuan
-		religion = mahayana
+		religion = catholic
 		size = 4250
 	}
 }
@@ -519,55 +519,55 @@
 20 = {
 	aristocrats = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size = 120
 	}
 
 	clergymen = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size = 150
 	}
 
 	artisans = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size = 760
 	}
 
 	soldiers = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size = 450
 	}
 
 	farmers = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size = 5670
 	}
 
 	aristocrats = {
 		culture = qingqiuan
-		religion = mahayana
+		religion = catholic
 		size = 30
 	}
 
 	clergymen = {
 		culture = qingqiuan
-		religion = mahayana
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
 		culture = qingqiuan
-		religion = mahayana
+		religion = catholic
 		size = 650
 	}
 
 	farmers = {
 		culture = qingqiuan
-		religion = mahayana
+		religion = catholic
 		size = 4320
 	}
 
@@ -576,49 +576,49 @@
 21 = {
 	aristocrats = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size = 60
 	}
 
 	clergymen = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size = 80
 	}
 
 	artisans = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size = 600
 	}
 
 	soldiers = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size = 250
 	}
 
 	farmers = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size = 4350
 	}
 
 	aristocrats = {
 		culture = qingqiuan
-		religion = mahayana
+		religion = catholic
 		size = 30
 	}
 
 	clergymen = {
 		culture = qingqiuan
-		religion = mahayana
+		religion = catholic
 		size = 50
 	}
 
 	farmers = {
 		culture = qingqiuan
-		religion = mahayana
+		religion = catholic
 		size = 3200
 	}
 }
@@ -626,32 +626,32 @@
 2629 = {
 	aristocrats = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size = 5
 	}
 
 	clergymen = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	artisans = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size = 20
 	}
 
 	soldiers = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size= 5
 
 	}
 
 	farmers = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size = 360
 	}
 }
@@ -660,126 +660,126 @@
 #Edmonton (16000/4000 POPS)
 22 = {
 	aristocrats = {
-		culture = rohnnst
-		religion = protestant
+		culture = native_american_minor
+		religion = catholic
 		size = 25
 	}
 
 	clergymen = {
-		culture = rohnnst
-		religion = protestant
+		culture = native_american_minor
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = rohnnst
-		religion = protestant
+		culture = native_american_minor
+		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
-		culture = rohnnst
-		religion = protestant
+		culture = native_american_minor
+		religion = catholic
 		size= 15
 
 	}
 
 	farmers = {
-		culture = rohnnst
-		religion = protestant
+		culture = native_american_minor
+		religion = catholic
 		size = 910
 	}
 
 	aristocrats = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size= 15
 
 	}
 
 	farmers = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 900
 	}
 }
 #Athabaska Landing (4800/1200 POPS)
 23 = {
 	aristocrats = {
-		culture = rohnnst
-		religion = protestant
+		culture = native_american_minor
+		religion = catholic
 		size = 40
 	}
 
 	clergymen = {
-		culture = rohnnst
-		religion = protestant
+		culture = native_american_minor
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = rohnnst
-		religion = protestant
+		culture = native_american_minor
+		religion = catholic
 		size = 320
 	}
 
 	soldiers = {
-		culture = rohnnst
-		religion = protestant
+		culture = native_american_minor
+		religion = catholic
 		size = 250
 	}
 
 	farmers = {
-		culture = rohnnst
-		religion = protestant
+		culture = native_american_minor
+		religion = catholic
 		size = 1670
 	}
 
 	aristocrats = {
-		culture = rohnnst
-		religion = mahayana
+		culture = native_american_minor
+		religion = catholic
 		size = 45
 	}
 
 	clergymen = {
-		culture = rohnnst
-		religion = mahayana
+		culture = native_american_minor
+		religion = catholic
 		size = 60
 	}
 
 	artisans = {
-		culture = rohnnst
-		religion = mahayana
+		culture = native_american_minor
+		religion = catholic
 		size = 520
 	}
 
 	soldiers = {
-		culture = rohnnst
-		religion = mahayana
+		culture = native_american_minor
+		religion = catholic
 		size = 250
 	}
 
 	farmers = {
-		culture = rohnnst
-		religion = mahayana
+		culture = native_american_minor
+		religion = catholic
 		size = 2670
 	}
 }
@@ -787,32 +787,32 @@
 24 = {
 	aristocrats = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size= 15
 
 	}
 
 	farmers = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 900
 	}
 }
@@ -820,175 +820,175 @@
 25 = {
 	aristocrats = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size= 15
 
 	}
 
 	farmers = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 900
 	}
 }
 #Calgary (8000/2000 POPS)
 26 = {
 	clergymen = {
-		culture = rohnnst
-		religion = protestant
+		culture = native_american_minor
+		religion = catholic
 		size = 12
 	}
 
 	clergymen = {
-		culture = rohnnst
-		religion = mahayana
+		culture = native_american_minor
+		religion = catholic
 		size = 13
 	}
 
 	artisans = {
-		culture = rohnnst
-		religion = protestant
+		culture = native_american_minor
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = rohnnst
-		religion = mahayana
+		culture = native_american_minor
+		religion = catholic
 		size = 25
 	}
 
 	soldiers = {
-		culture = rohnnst
-		religion = protestant
+		culture = native_american_minor
+		religion = catholic
 		size= 7
 	}
 
 	soldiers = {
-		culture = rohnnst
-		religion = mahayana
+		culture = native_american_minor
+		religion = catholic
 		size = 8
 	}
 
 	farmers = {
-		culture = rohnnst
-		religion = protestant
+		culture = native_american_minor
+		religion = catholic
 		size = 450
 	}
 
 	farmers = {
-		culture = rohnnst
-		religion = mahayana
+		culture = native_american_minor
+		religion = catholic
 		size = 460
 	}
 
 	aristocrats = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size= 15
 
 	}
 
 	farmers = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 900
 	}
 }
 #Edmonton - Denwood (8000/2000 POPS)
 27 = {
 	aristocrats = {
-		culture = rohnnst
-		religion = mahayana
+		culture = native_american_minor
+		religion = catholic
 		size = 40
 	}
 
 	clergymen = {
-		culture = rohnnst
-		religion = mahayana
+		culture = native_american_minor
+		religion = catholic
 		size = 40
 	}
 
 	artisans = {
-		culture = rohnnst
-		religion = mahayana
+		culture = native_american_minor
+		religion = catholic
 		size = 340
 	}
 
 	soldiers = {
-		culture = rohnnst
-		religion = mahayana
+		culture = native_american_minor
+		religion = catholic
 		size = 250
 	}
 
 	farmers = {
-		culture = rohnnst
-		religion = mahayana
+		culture = native_american_minor
+		religion = catholic
 		size = 2300
 	}
 
 	aristocrats = {
-		culture = rohnnst
-		religion = protestant
+		culture = native_american_minor
+		religion = catholic
 		size = 30
 	}
 
 	clergymen = {
-		culture = rohnnst
-		religion = protestant
+		culture = native_american_minor
+		religion = catholic
 		size = 30
 	}
 
 	artisans = {
-		culture = rohnnst
-		religion = protestant
+		culture = native_american_minor
+		religion = catholic
 		size = 250
 	}
 
 	soldiers = {
-		culture = rohnnst
-		religion = protestant
+		culture = native_american_minor
+		religion = catholic
 		size = 250
 	}
 
 	farmers = {
-		culture = rohnnst
-		religion = protestant
+		culture = native_american_minor
+		religion = catholic
 		size = 1340
 	}
 }
@@ -996,32 +996,32 @@
 28 = {
 	aristocrats = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size= 15
 
 	}
 
 	farmers = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size = 900
 	}
 }
@@ -1030,31 +1030,31 @@
 2597 = {
 	aristocrats = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size = 40
 	}
 
 	clergymen = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size = 70
 	}
 
 	artisans = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size = 140
 	}
 
 	soldiers = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size = 35
 	}
 
 	farmers = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size = 2465
 	}
 }
@@ -1063,86 +1063,86 @@
 #Regina (12000/3000 POPS)
 30 = {
 	aristocrats = {
-		culture = rohnnst
-		religion = protestant
+		culture = native_american_minor
+		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = rohnnst
-		religion = protestant
+		culture = native_american_minor
+		religion = catholic
 		size = 100
 	}
 
 	officers = {
-		culture = rohnnst
-		religion = protestant
+		culture = native_american_minor
+		religion = catholic
 		size = 75
 	}
 
 	bureaucrats = {
-		culture = rohnnst
-		religion = protestant
+		culture = native_american_minor
+		religion = catholic
 		size = 40
 	}
 
 	artisans = {
-		culture = rohnnst
-		religion = protestant
+		culture = native_american_minor
+		religion = catholic
 		size = 760
 	}
 
 	soldiers = {
-		culture = rohnnst
-		religion = protestant
+		culture = native_american_minor
+		religion = catholic
 		size = 500
 	}
 
 	farmers = {
-		culture = rohnnst
-		religion = protestant
+		culture = native_american_minor
+		religion = catholic
 		size = 4350
 	}
 
 	aristocrats = {
-		culture = rohnnst
-		religion = mahayana
+		culture = native_american_minor
+		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
-		culture = rohnnst
-		religion = mahayana
+		culture = native_american_minor
+		religion = catholic
 		size = 50
 	}
 
 	officers = {
-		culture = rohnnst
-		religion = mahayana
+		culture = native_american_minor
+		religion = catholic
 		size = 50
 	}
 
 	bureaucrats = {
-		culture = rohnnst
-		religion = mahayana
+		culture = native_american_minor
+		religion = catholic
 		size = 20
 	}
 
 	artisans = {
-		culture = rohnnst
-		religion = mahayana
+		culture = native_american_minor
+		religion = catholic
 		size = 540
 	}
 
 	soldiers = {
-		culture = rohnnst
-		religion = mahayana
+		culture = native_american_minor
+		religion = catholic
 		size = 500
 	}
 
 	farmers = {
-		culture = rohnnst
-		religion = mahayana
+		culture = native_american_minor
+		religion = catholic
 		size = 3150
 	}
 }
@@ -1150,277 +1150,277 @@
 31 = {
 	aristocrats = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size= 15
 
 	}
 
 	farmers = {
 		culture = native_american_minor
-		religion = animist
+		religion = catholic
 		size = 900
 	}
 }
 #Prince Albert (8000/2000 POPS)
 32 = {
 	clergymen = {
-		culture = rohnnst
-		religion = protestant
+		culture = native_american_minor
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = rohnnst
-		religion = protestant
+		culture = native_american_minor
+		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
-		culture = rohnnst
-		religion = protestant
+		culture = native_american_minor
+		religion = catholic
 		size= 15
 
 	}
 
 	farmers = {
-		culture = rohnnst
-		religion = protestant
+		culture = native_american_minor
+		religion = catholic
 		size = 920
 	}
 
 	aristocrats = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size= 15
 
 	}
 
 	farmers = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 900
 	}
 }
 #Asquith (8000/2000 POPS)
 33 = {
 	aristocrats = {
-		culture = rohnnst
-		religion = protestant
+		culture = native_american_minor
+		religion = catholic
 		size = 30
 	}
 
 	clergymen = {
-		culture = rohnnst
-		religion = protestant
+		culture = native_american_minor
+		religion = catholic
 		size = 30
 	}
 
 	artisans = {
-		culture = rohnnst
-		religion = protestant
+		culture = native_american_minor
+		religion = catholic
 		size = 300
 	}
 
 	soldiers = {
-		culture = rohnnst
-		religion = protestant
+		culture = native_american_minor
+		religion = catholic
 		size = 250
 	}
 
 	farmers = {
-		culture = rohnnst
-		religion = protestant
+		culture = native_american_minor
+		religion = catholic
 		size = 2400
 	}
 
 	aristocrats = {
-		culture = rohnnst
-		religion = mahayana
+		culture = native_american_minor
+		religion = catholic
 		size = 30
 	}
 
 	clergymen = {
-		culture = rohnnst
-		religion = mahayana
+		culture = native_american_minor
+		religion = catholic
 		size = 30
 	}
 
 	artisans = {
-		culture = rohnnst
-		religion = mahayana
+		culture = native_american_minor
+		religion = catholic
 		size = 300
 	}
 
 	soldiers = {
-		culture = rohnnst
-		religion = mahayana
+		culture = native_american_minor
+		religion = catholic
 		size = 250
 	}
 
 	farmers = {
-		culture = rohnnst
-		religion = mahayana
+		culture = native_american_minor
+		religion = catholic
 		size = 2400
 	}
 }
 #Saskatoon (8000/2000 POPS)
 34 = {
 	aristocrats = {
-		culture = rohnnst
-		religion = protestant
+		culture = native_american_minor
+		religion = catholic
 		size = 40
 	}
 
 	clergymen = {
-		culture = rohnnst
-		religion = protestant
+		culture = native_american_minor
+		religion = catholic
 		size = 60
 	}
 
 	artisans = {
-		culture = rohnnst
-		religion = protestant
+		culture = native_american_minor
+		religion = catholic
 		size = 650
 	}
 
 	soldiers = {
-		culture = rohnnst
-		religion = protestant
+		culture = native_american_minor
+		religion = catholic
 		size = 250
 	}
 
 	farmers = {
-		culture = rohnnst
-		religion = protestant
+		culture = native_american_minor
+		religion = catholic
 		size = 2100
 	}
 
 	aristocrats = {
-		culture = rohnnst
-		religion = mahayana
+		culture = native_american_minor
+		religion = catholic
 		size = 25
 	}
 
 	clergymen = {
-		culture = rohnnst
-		religion = mahayana
+		culture = native_american_minor
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = rohnnst
-		religion = mahayana
+		culture = native_american_minor
+		religion = catholic
 		size = 450
 	}
 
 	soldiers = {
-		culture = rohnnst
-		religion = mahayana
+		culture = native_american_minor
+		religion = catholic
 		size = 250
 	}
 
 	farmers = {
-		culture = rohnnst
-		religion = mahayana
+		culture = native_american_minor
+		religion = catholic
 		size = 1940
 	}
 }
 #Maple Creek (4000/1000 POPS)
 35 = {
 	aristocrats = {
-		culture = rohnnst
-		religion = mahayana
+		culture = native_american_minor
+		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
-		culture = rohnnst
-		religion = mahayana
+		culture = native_american_minor
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = rohnnst
-		religion = mahayana
+		culture = native_american_minor
+		religion = catholic
 		size = 50
 	}
 		
 	soldiers = {
-		culture = rohnnst
-		religion = mahayana
+		culture = native_american_minor
+		religion = catholic
 		size = 15
 	}
 
 	farmers = {
-		culture = rohnnst
-		religion = mahayana
+		culture = native_american_minor
+		religion = catholic
 		size = 900
 	}
 
 	aristocrats = {
-		culture = sioux
-		religion = animist
+		culture = native_american_minor
+		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
-		culture = sioux
-		religion = animist
+		culture = native_american_minor
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = sioux
-		religion = animist
+		culture = native_american_minor
+		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
-		culture = sioux
-		religion = animist
+		culture = native_american_minor
+		religion = catholic
 		size= 15
 
 	}
 
 	farmers = {
-		culture = sioux
-		religion = animist
+		culture = native_american_minor
+		religion = catholic
 		size = 900
 	}
 
@@ -1431,32 +1431,32 @@
 36 = {
 	aristocrats = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size= 15
 
 	}
 
 	farmers = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 900
 	}
 }
@@ -1464,65 +1464,65 @@
 37 = {
 	aristocrats = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size= 15
 
 	}
 
 	farmers = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 900
 	}
 }
-#Indian Lakes (4000/1000 POPS)
+#Indian dagestanies (4000/1000 POPS)
 38 = {
 	aristocrats = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size= 15
 
 	}
 
 	farmers = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 900
 	}
 }
@@ -1530,32 +1530,32 @@
 39 = {
 	aristocrats = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size= 15
 
 	}
 
 	farmers = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 900
 	}
 }
@@ -1563,115 +1563,115 @@
 40 = {
 	aristocrats = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size= 15
 
 	}
 
 	farmers = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 900
 	}
 
 	clergymen = {
-		culture = rohnnst
-		religion = protestant
+		culture = native_american_minor
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = rohnnst
-		religion = protestant
+		culture = native_american_minor
+		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
-		culture = rohnnst
-		religion = protestant
+		culture = native_american_minor
+		religion = catholic
 		size= 15
 
 	}
 
 	farmers = {
-		culture = rohnnst
-		religion = protestant
+		culture = native_american_minor
+		religion = catholic
 		size = 910
 	}
 }
 #Brandon (8000/2000 POPS)
 41 = {
 	aristocrats = {
-		culture = sioux
-		religion = animist
+		culture = native_american_minor
+		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
-		culture = sioux
-		religion = animist
+		culture = native_american_minor
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = sioux
-		religion = animist
+		culture = native_american_minor
+		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
-		culture = sioux
-		religion = animist
+		culture = native_american_minor
+		religion = catholic
 		size= 15
 
 	}
 
 	farmers = {
-		culture = sioux
-		religion = animist
+		culture = native_american_minor
+		religion = catholic
 		size = 900
 	}
 
 	clergymen = {
-		culture = rohnnst
-		religion = protestant
+		culture = native_american_minor
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = rohnnst
-		religion = protestant
+		culture = native_american_minor
+		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
-		culture = rohnnst
-		religion = protestant
+		culture = native_american_minor
+		religion = catholic
 		size= 15
 
 	}
 
 	farmers = {
-		culture = rohnnst
-		religion = protestant
+		culture = native_american_minor
+		religion = catholic
 		size = 910
 	}
 }
@@ -1679,57 +1679,57 @@
 42 = {
 	aristocrats = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size= 15
 
 	}
 
 	farmers = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 900
 	}
 
 	clergymen = {
-		culture = sioux
-		religion = animist
+		culture = native_american_minor
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = sioux
-		religion = animist
+		culture = native_american_minor
+		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
-		culture = sioux
-		religion = animist
+		culture = native_american_minor
+		religion = catholic
 		size= 15
 
 	}
 
 	farmers = {
-		culture = sioux
-		religion = animist
+		culture = native_american_minor
+		religion = catholic
 		size = 910
 	}
 
@@ -1740,32 +1740,32 @@
 47 = {
 	aristocrats = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 15
 	}
 
 	artisans = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 35
 	}
 
 	soldiers = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size= 10
 
 	}
 
 	farmers = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 630
 	}
 }
@@ -1773,32 +1773,32 @@
 48 = {
 	aristocrats = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 25
 	}
 
 	clergymen = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 35
 	}
 
 	artisans = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 80
 	}
 
 	soldiers = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size= 20
 
 	}
 
 	farmers = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 1440
 	}
 }
@@ -1806,32 +1806,32 @@
 49 = {
 	aristocrats = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 25
 	}
 
 	clergymen = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size= 25
 
 	}
 
 	farmers = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 1750
 	}
 }
@@ -1839,32 +1839,32 @@
 50 = {
 	aristocrats = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 25
 	}
 
 	clergymen = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size= 25
 
 	}
 
 	farmers = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 1750
 	}
 }
@@ -1872,25 +1872,25 @@
 51 = {
 	aristocrats = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size= 15
 
 	}
@@ -1898,104 +1898,104 @@
 #Sudbury (8000/2000 POPS)
 52 = {
 	aristocrats = {
-		culture = iroquois
-		religion = animist
+		culture = native_american_minor
+		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = iroquois
-		religion = animist
+		culture = native_american_minor
+		religion = catholic
 		size = 125
 	}
 
 	artisans = {
-		culture = iroquois
-		religion = animist
+		culture = native_american_minor
+		religion = catholic
 		size = 2400
 	}
 
 	soldiers = {
-		culture = iroquois
-		religion = animist
+		culture = native_american_minor
+		religion = catholic
 		size = 600
 	}
 
 	farmers = {
-		culture = iroquois
-		religion = animist
+		culture = native_american_minor
+		religion = catholic
 		size = 16750
 	}
 }
 #Barrie (4000/1000 POPS)
 53 = {
 	aristocrats = {
-		culture = iroquois
-		religion = animist
+		culture = native_american_minor
+		religion = catholic
 		size = 100
 	}
 
 	officers = {
-		culture = iroquois
-		religion = animist
+		culture = native_american_minor
+		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
-		culture = iroquois
-		religion = animist
+		culture = native_american_minor
+		religion = catholic
 		size = 150
 	}
 
 	artisans = {
-		culture = iroquois
-		religion = animist
+		culture = native_american_minor
+		religion = catholic
 		size = 3200
 	}
 
 	soldiers = {
-		culture = iroquois
-		religion = animist
+		culture = native_american_minor
+		religion = catholic
 		size = 500
 	}
 
 	farmers = {
-		culture = iroquois
-		religion = animist
+		culture = native_american_minor
+		religion = catholic
 		size = 13670
 	}
 
 }
-#Pickle Lake (1200/3000 POPS)
+#Pickle dagestanie (1200/3000 POPS)
 2594 = {
 	aristocrats = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 5
 	}
 
 	clergymen = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	artisans = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 15
 	}
 
 	soldiers = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size= 5
 
 	}
 
 	farmers = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 265
 	}
 
@@ -2004,201 +2004,201 @@
 #Toronto (172000/43000 POPS) -- Combined with original PROV2628 pops
 46 = {
 	aristocrats = {
-		culture = iroquois
-		religion = animist
+		culture = native_american_minor
+		religion = catholic
 		size = 275
 	}
 
 	officers = {
-		culture = iroquois
-		religion = animist
+		culture = native_american_minor
+		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
-		culture = iroquois
-		religion = animist
+		culture = native_american_minor
+		religion = catholic
 		size = 285
 	}
 
 	artisans = {
-		culture = iroquois
-		religion = animist
+		culture = native_american_minor
+		religion = catholic
 		size = 2580
 	}
 
 	soldiers = {
-		culture = iroquois
-		religion = animist
+		culture = native_american_minor
+		religion = catholic
 		size= 1115
 
 	}
 
 	farmers = {
-		culture = iroquois
-		religion = animist
+		culture = native_american_minor
+		religion = catholic
 		size = 40445
 	}
 }
 #Windsor (36000/9000 POPS)
 54 = {
 	clergymen = {
-		culture = iroquois
-		religion = animist
+		culture = native_american_minor
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = iroquois
-		religion = animist
+		culture = native_american_minor
+		religion = catholic
 		size = 3500
 	}
 
 	soldiers = {
-		culture = iroquois
-		religion = animist
+		culture = native_american_minor
+		religion = catholic
 		size= 3200
 
 	}
 
 	labourers = {
-		culture = iroquois
-		religion = animist
+		culture = native_american_minor
+		religion = catholic
 		size = 28350
 	}
 }
 #Hamilton (68000/17000 POPS)
 55 = {
 	aristocrats = {
-		culture = iroquois
-		religion = animist
+		culture = native_american_minor
+		religion = catholic
 		size = 40
 	}
 
 	officers = {
-		culture = iroquois
-		religion = animist
+		culture = native_american_minor
+		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = iroquois
-		religion = animist
+		culture = native_american_minor
+		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = iroquois
-		religion = animist
+		culture = native_american_minor
+		religion = catholic
 		size = 3100
 	}
 
 	soldiers = {
-		culture = iroquois
-		religion = animist
+		culture = native_american_minor
+		religion = catholic
 		size= 600
 
 	}
 
 	farmers = {
-		culture = iroquois
-		religion = animist
+		culture = native_american_minor
+		religion = catholic
 		size = 15700
 	}
 }
 #Kingston (72000/18000 POPS)
 56 = {
 	clergymen = {
-		culture = iroquois
-		religion = animist
+		culture = native_american_minor
+		religion = catholic
 		size = 150
 	}
 
 	artisans = {
-		culture = iroquois
-		religion = animist
+		culture = native_american_minor
+		religion = catholic
 		size = 1750
 	}
 
 	soldiers = {
-		culture = iroquois
-		religion = animist
+		culture = native_american_minor
+		religion = catholic
 		size= 575
 
 	}
 
 	farmers = {
-		culture = iroquois
-		religion = animist
+		culture = native_american_minor
+		religion = catholic
 		size = 13925
 	}
 
 	clergymen = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 250
 	}
 
 	farmers = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 1700
 	}
 }
 #Ottawa (44000/11000 POPS)
 57 = {
 	clergymen = {
-		culture = iroquois
-		religion = animist
+		culture = native_american_minor
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = iroquois
-		religion = animist
+		culture = native_american_minor
+		religion = catholic
 		size = 300
 	}
 
 	soldiers = {
-		culture = iroquois
-		religion = animist
+		culture = native_american_minor
+		religion = catholic
 		size= 600
 
 	}
 
 	farmers = {
-		culture = iroquois
-		religion = animist
+		culture = native_american_minor
+		religion = catholic
 		size = 26550
 	}
 
 	clergymen = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 200
 	}
 
 	soldiers = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size= 50
 
 	}
 	farmers = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 3700
 	}
 }
@@ -2208,32 +2208,32 @@
 59 = {
 	aristocrats = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 15
 	}
 
 	artisans = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 35
 	}
 
 	soldiers = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size= 10
 
 	}
 
 	farmers = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 630
 	}
 
@@ -2241,64 +2241,64 @@
 #Erik Cove (2400/600 POPS)
 2592 = {
 	aristocrats = {
-		culture = inuit
-		religion = animist
+		culture = scandinavian
+		religion = catholic
 		size = 5
 	}
 
 	clergymen = {
-		culture = inuit
-		religion = animist
+		culture = scandinavian
+		religion = catholic
 		size = 10
 	}
 
 	artisans = {
-		culture = inuit
-		religion = animist
+		culture = scandinavian
+		religion = catholic
 		size = 20
 	}
 
 	soldiers = {
-		culture = inuit
-		religion = animist
+		culture = scandinavian
+		religion = catholic
 		size= 5
 
 	}
 
 	farmers = {
-		culture = inuit
-		religion = animist
+		culture = scandinavian
+		religion = catholic
 		size = 360
 	}
 
 	aristocrats = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 2
 	}
 
 	clergymen = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 3
 	}
 
 	artisans = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	soldiers = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size= 5
 
 	}
 
 	farmers = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 180
 	}
 
@@ -2306,64 +2306,64 @@
 #Port Harrison (2400/600 POPS)
 2626 = {
 	aristocrats = {
-		culture = inuit
-		religion = animist
+		culture = scandinavian
+		religion = catholic
 		size = 2
 	}
 
 	clergymen = {
-		culture = inuit
-		religion = animist
+		culture = scandinavian
+		religion = catholic
 		size = 3
 	}
 
 	artisans = {
-		culture = inuit
-		religion = animist
+		culture = scandinavian
+		religion = catholic
 		size = 10
 	}
 
 	soldiers = {
-		culture = inuit
-		religion = animist
+		culture = scandinavian
+		religion = catholic
 		size= 5
 
 	}
 
 	farmers = {
-		culture = inuit
-		religion = animist
+		culture = scandinavian
+		religion = catholic
 		size = 180
 	}
 
 	aristocrats = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 5
 	}
 
 	clergymen = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	artisans = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 20
 	}
 
 	soldiers = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size= 5
 
 	}
 
 	farmers = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 360
 	}
 }
@@ -2371,32 +2371,32 @@
 2593 = {
 	aristocrats = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 5
 	}
 
 	clergymen = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	artisans = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 20
 	}
 
 	soldiers = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size= 5
 
 	}
 
 	farmers = {
 		culture = algonquin
-		religion = animist
+		religion = catholic
 		size = 360
 	}
 }
@@ -2405,50 +2405,50 @@
 58 = {
 	aristocrats = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 300
 	}
 
 	officers = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 200
 	}
 
 	bureaucrats = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 200
 	}
 
 	capitalists = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 125
 	}
 
 	artisans = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 10000
 	}
 
 	soldiers = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size= 3050
 
 	}
 
 	farmers = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 56000
 	}
 }
@@ -2456,31 +2456,31 @@
 61 = {
 	aristocrats = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 200
 	}
 
 	clergymen = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 300
 	}
 
 	artisans = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 5460
 	}
 
 	soldiers = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 3900
 	}
 
 	farmers = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 21210
 	}
 }
@@ -2488,31 +2488,31 @@
 62 = {
 	aristocrats = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 70
 	}
 
 	clergymen = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
 	artisans = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 3240
 	}
 
 	soldiers = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 600
 	}
 
 	farmers = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 11250
 	}
 }
@@ -2520,31 +2520,31 @@
 63 = {
 	aristocrats = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
 	artisans = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 2200
 	}
 
 	soldiers = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 600
 	}
 
 	farmers = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 12040
 	}
 }
@@ -2552,32 +2552,32 @@
 64 = {
 	aristocrats = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 60
 	}
 
 	clergymen = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 175
 	}
 
 	artisans = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 3100
 	}
 
 	soldiers = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size= 550
 
 	}
 
 	labourers = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 25675
 	}
 }
@@ -2585,55 +2585,55 @@
 65 = {
 	aristocrats = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 300
 	}
 
 	bureaucrats = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 400
 	}
 
 	officers = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 300
 	}
 
 	capitalists = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 150
 	}
 
 	clergymen = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 500
 	}
 
 	artisans = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 10000
 	}
 
 	artisans = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 3450
 	}
 
 	soldiers = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 3000
 	}
 
 	farmers = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 67850
 	}
 }
@@ -2641,49 +2641,49 @@
 66 = {
 	aristocrats = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
 	bureaucrats = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 200
 	}
 
 	officers = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
 	capitalists = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 200
 	}
 
 	artisans = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 5460
 	}
 
 	soldiers = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 3900
 	}
 
 	farmers = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 32450
 	}
 }
@@ -2691,31 +2691,31 @@
 67 = {
 	aristocrats = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 200
 	}
 
 	artisans = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 3240
 	}
 
 	soldiers = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 400
 	}
 	
 	labourers = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 21430
 	}
 }
@@ -2725,49 +2725,49 @@
 68 = {
 	bureaucrats = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 125
 	}
 
 	clergymen = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 275
 	} 
 
 	craftsmen = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 2520
 	}
   
   capitalists = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 40
 	}
   
   clerks = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 150
 	}
 
 	artisans = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 2540
 	}
 
 	soldiers = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 450
 	}
 
 	farmers = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 22567
 	}
 }
@@ -2775,31 +2775,31 @@
 69 = {
 	aristocrats = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 60
 	}
 
 	clergymen = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
 	artisans = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 1200
 	}
 
 	soldiers = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 350
 	}
 
 	labourers = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 21340
 	}
 }
@@ -2809,60 +2809,60 @@
 70 = {
 	aristocrats = {
 		culture = afro_germanic
-		religion = protestant
+		religion = catholic
 		size = 20
 	}
 
 	clergymen = {
 		culture = afro_germanic
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
 	artisans = {
 		culture = afro_germanic
-		religion = protestant
+		religion = catholic
 		size = 670
 	}
 
 	soldiers = {
 		culture = afro_germanic
-		religion = protestant
+		religion = catholic
 		size = 250
 	}
 
 	farmers = {
 		culture = afro_germanic
-		religion = protestant
+		religion = catholic
 		size = 8760
 	}
 
 	aristocrats = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 60
 	}
 	clergymen = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 150
 	}
 
 	artisans = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 1500
 	}
 
 	soldiers = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 300
 	}
 
 	farmers = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 9350
 	}
 }
@@ -2872,74 +2872,74 @@
 71 = {
 	aristocrats = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
 	bureaucrats = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
 	officers = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 150
 	}
 
 	clergymen = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 200
 	}
 
 	artisans = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 9000
 	}
 
 	soldiers = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size= 600
 
 	}
 
 	farmers = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 14600
 	}
 
 	aristocrats = {
 		culture = afro_germanic
-		religion = protestant
+		religion = catholic
 		size = 20
 	}
 
 	clergymen = {
 		culture = afro_germanic
-		religion = protestant
+		religion = catholic
 		size = 70
 	}
 
 	artisans = {
 		culture = afro_germanic
-		religion = protestant
+		religion = catholic
 		size = 4560
 	}
 
 	soldiers = {
 		culture = afro_germanic
-		religion = protestant
+		religion = catholic
 		size = 250
 	}
 
 	labourers = {
 		culture = afro_germanic
-		religion = protestant	
+		religion = catholic	
 		size = 10245
 	}
 }
@@ -2947,56 +2947,56 @@
 72 = {
 	aristocrats = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 70
 	}
 
 	clergymen = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
 	artisans = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 2750
 	}
 
 	soldiers = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size= 600
 
 	}
 
 	farmers = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 13075
 	}
 
 	aristocrats = {
 		culture = afro_germanic
-		religion = protestant
+		religion = catholic
 		size = 30
 	}
 
 	clergymen = {
 		culture = afro_germanic
-		religion = protestant
+		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
 		culture = afro_germanic
-		religion = protestant
+		religion = catholic
 		size = 250
 	}
 
 	labourers = {
 		culture = afro_germanic
-		religion = protestant
+		religion = catholic
 		size = 8100
 	}
 }
@@ -3004,56 +3004,56 @@
 73 = {
 	aristocrats = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 250
 	}
 
 	soldiers = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size= 50
 
 	}
 
 	farmers = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 4650
 	}
 
 	aristocrats = {
 		culture = afro_germanic
-		religion = protestant
+		religion = catholic
 		size = 20
 	}
 
 	clergymen = {
 		culture = afro_germanic
-		religion = protestant
+		religion = catholic
 		size = 40
 	}
 
 	soldiers = {
 		culture = afro_germanic
-		religion = protestant
+		religion = catholic
 		size = 250
 	}
 
 	farmers = {
 		culture = afro_germanic
-		religion = protestant
+		religion = catholic
 		size = 3550
 	}
 
@@ -3064,62 +3064,62 @@
 74 = {
 	aristocrats = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 300
 	}
 
 	bureaucrats = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 550
 	}
 
 	officers = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 200
 	}
 
 	capitalists = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 375
 	}
 
 	artisans = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 10000
 	}
 
 	artisans = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 10000
 	}
 
 	artisans = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 2300
 	}
 
 	soldiers = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size= 650
 
 	}
 
 	farmers = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 72825
 	}
 }
@@ -3127,59 +3127,59 @@
 75 = {
 	clergymen = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 175
 	}
 
 	artisans = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 3250
 	}
 
 	soldiers = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size= 550
 
 	}
 
 	farmers = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 34625
 	}
 }
 #Hopedale (2000/500 POPS)
 76 = {
 	aristocrats = {
-		culture = inuit
-		religion = animist
+		culture = scandinavian
+		religion = catholic
 		size = 5
 	}
 
 	clergymen = {
-		culture = inuit
-		religion = animist
+		culture = scandinavian
+		religion = catholic
 		size = 10
 	}
 
 	artisans = {
-		culture = inuit
-		religion = animist
+		culture = scandinavian
+		religion = catholic
 		size = 25
 	}
 
 	soldiers = {
-		culture = inuit
-		religion = animist
+		culture = scandinavian
+		religion = catholic
 		size= 5
 
 	}
 
 	farmers = {
-		culture = inuit
-		religion = animist
+		culture = scandinavian
+		religion = catholic
 		size = 450
 	}
 
@@ -3187,33 +3187,33 @@
 #Cartwright (6000/1500 POPS)
 2625 = {
 	aristocrats = {
-		culture = inuit
-		religion = animist
+		culture = scandinavian
+		religion = catholic
 		size = 25
 	}
 
 	clergymen = {
-		culture = inuit
-		religion = animist
+		culture = scandinavian
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = inuit
-		religion = animist
+		culture = scandinavian
+		religion = catholic
 		size = 75
 	}
 
 	soldiers = {
-		culture = inuit
-		religion = animist
+		culture = scandinavian
+		religion = catholic
 		size= 25
 
 	}
 
 	farmers = {
-		culture = inuit
-		religion = animist
+		culture = scandinavian
+		religion = catholic
 		size = 1350
 	}
 
@@ -3250,33 +3250,33 @@
 #Baffin Island (4000/1000 POPS)
 45 = {
 	aristocrats = {
-		culture = inuit
-		religion = animist
+		culture = scandinavian
+		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
-		culture = inuit
-		religion = animist
+		culture = scandinavian
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = inuit
-		religion = animist
+		culture = scandinavian
+		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
-		culture = inuit
-		religion = animist
+		culture = scandinavian
+		religion = catholic
 		size= 15
 
 	}
 
 	farmers = {
-		culture = inuit
-		religion = animist
+		culture = scandinavian
+		religion = catholic
 		size = 900
 	}
 

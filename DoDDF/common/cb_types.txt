@@ -111,6 +111,7 @@ unification_humiliate_cb
 unification_release_puppet_cb
 uninstall_communist_gov_cb
 war_reparations
+negotiated_transfer
 }
 
 # Great War CB's
@@ -4865,7 +4866,7 @@ conquest = {
         }
     }
 
-    badboy_factor = 2.2
+    badboy_factor = 1.5
     prestige_factor = 5
     peace_cost_factor = 1
     penalty_factor = 1
@@ -8168,7 +8169,7 @@ minor_conquest = {
         }
     }
 
-    badboy_factor = 1.2
+    badboy_factor = 1.0
     prestige_factor = 5
     peace_cost_factor = 1
     penalty_factor = 1
@@ -8195,4 +8196,54 @@ minor_conquest = {
     po_annex = yes
 
     war_name = WAR_CONQUEST_NAME
+}
+
+negotiated_transfer = {
+	sprite_index = 13
+	is_triggered_only = yes
+	months = 1
+	construction_speed = 2.0
+	crisis = no
+	
+	badboy_factor = 0.2
+	prestige_factor = 0
+	peace_cost_factor = 0
+	penalty_factor = 0
+
+	break_truce_prestige_factor = 1
+	break_truce_infamy_factor = 2
+	break_truce_militancy_factor = 2
+	truce_months = 0
+	
+	good_relation_prestige_factor = 0
+	good_relation_infamy_factor = 0
+	good_relation_militancy_factor = 0
+
+	can_use = {
+		NOT = { is_our_vassal = THIS }
+		ai = no
+		THIS = { ai = no } 
+		any_owned_province = {
+			not = { is_core = THIS }
+			is_colonial = no
+		}
+		is_independent = yes
+	}
+	
+	allowed_states = {
+		not = { any_owned_province = { is_capital = yes } }
+	}
+
+
+	po_demand_state = yes
+	
+	war_name = WAR_TAKE_NAME
+	
+	on_add = {
+		move_issue_percentage = { 
+			from = jingoism 
+			to = pro_military
+			value = 0.25
+		}
+	}
 }

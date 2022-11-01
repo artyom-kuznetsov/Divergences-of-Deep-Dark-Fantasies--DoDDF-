@@ -1,10 +1,4 @@
-leader = {
-	name = "Ibrahim Shekarau"
-	type = land
-	date = 1836.1.1
-	personality = heroic
-	background = disgraced
-}
+
 
 army = {
 	name = "Army of the Sultanate"

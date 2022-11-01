@@ -57,62 +57,6 @@ BEG = {
 	influence_value = 100
 }
 
-leader = {
-	name = "Tristan Duras"
-	type = land
-	date = 1836.1.1
-	personality = diplomatic
-	background = eccentric_eccentric_genius
-}
-
-leader = {
-	name = "Guillame de Anvers"
-	type = land
-	date = 1836.1.1
-	personality = glory_hound
-	background = aristocrat
-}
-
-leader = {
-	name = "Jean Ferro"
-	type = land
-	date = 1836.1.1
-	personality = shirker
-	background = womanizer
-}
-
-leader = {
-	name = "Paul Laforgue"
-	type = land
-	date = 1836.1.1
-	personality = daring
-	background = unqualified
-}
-
-leader = {
-	name = "Hector Millet"
-	type = land
-	date = 1836.1.1
-	personality = dauntless
-	background = school_of_the_bayonet
-}
-
-leader = {
-	name = "Georges Roussel"
-	type = land
-	date = 1836.1.1
-	personality = scared
-	background = unqualified
-}
-
-
-leader = {
-	name = "Antoine Villon"
-	type = sea
-	date = 1836.1.1
-	personality = expert
-	background = cartographer
-}
 
 army = {
 	name = "Armée du Nord"

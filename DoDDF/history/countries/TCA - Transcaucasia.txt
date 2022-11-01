@@ -2,7 +2,7 @@ capital = 1090
 primary_culture = georgian
 culture = armenian
 culture = russian
-religion = orthodox
+religion = catholic
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_autocracy
@@ -38,7 +38,7 @@ child_labor = child_labor_legal
 citizens_rights = all_voting_pops
 border_policy = open_borders
 
-set_country_flag = orthodox_country
+set_country_flag = catholic_country
 
 ruling_party = GEO_conservative
 upper_house = {

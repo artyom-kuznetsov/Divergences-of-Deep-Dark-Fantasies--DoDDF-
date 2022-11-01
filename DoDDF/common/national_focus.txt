@@ -164,41 +164,6 @@ diplomatic_focus = {
 }
 
 promotion_focus = {
-    promote_aristocrats = {
-        aristocrats = 0.20 #20% more likely to become artisans
-        icon = 11
-        outliner_show_as_percent = yes
-
-        limit = {
-            owner = {
-                NOT = { government = proletarian_dictatorship }
-                ai = no
-            }
-            NOT = {
-                state_scope = {
-                    any_owned_province = {
-                        NOT = { controlled_by = THIS }
-                    }
-                }
-            }
-        }
-    }
-
-    promote_artisans = {
-        artisans = 0.20 #20% more likely to become this type
-        icon = 12
-        outliner_show_as_percent = yes
-        limit = {
-            owner = { ai = no }
-            NOT = {
-                state_scope = {
-                    any_owned_province = {
-                        NOT = { controlled_by = THIS }
-                    }
-                }
-            }
-        }
-    }
 
     promote_bureaucrats = {
         bureaucrats = 0.20 #20% more likely to become this type

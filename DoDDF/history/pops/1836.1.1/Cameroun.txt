@@ -4,43 +4,43 @@
 1956 = {
 	aristocrats = {
 		culture = forest_bantu
-		religion = animist
+		religion = catholic
 		size = 1675
 	}
 
 	officers = {
 		culture = forest_bantu
-		religion = animist
+		religion = catholic
 		size = 150
 	}
 
 	clergymen = {
 		culture = forest_bantu
-		religion = animist
+		religion = catholic
 		size = 825
 	}
 
 	artisans = {
 		culture = forest_bantu
-		religion = animist
+		religion = catholic
 		size = 3300
 	}
 
 	soldiers = {
 		culture = forest_bantu
-		religion = animist
+		religion = catholic
 		size = 825
 	}
 
 	farmers = {
 		culture = forest_bantu
-		religion = animist
+		religion = catholic
 		size = 61225
 	}
 
 	slaves = {
 		culture = fang
-		religion = animist
+		religion = catholic
 		size = 14000
 	}
 }
@@ -48,37 +48,37 @@
 1957 = {
 	aristocrats = {
 		culture = forest_bantu
-		religion = animist
+		religion = catholic
 		size = 1075
 	}
 
 	clergymen = {
 		culture = forest_bantu
-		religion = animist
+		religion = catholic
 		size = 550
 	}
 
 	artisans = {
 		culture = forest_bantu
-		religion = animist
+		religion = catholic
 		size = 2250
 	}
 
 	soldiers = {
 		culture = forest_bantu
-		religion = animist
+		religion = catholic
 		size = 550
 	}
 
 	farmers = {
 		culture = forest_bantu
-		religion = animist
+		religion = catholic
 		size = 39575
 	}
 
 	slaves = {
 		culture = fang
-		religion = animist
+		religion = catholic
 		size = 12000
 	}
 }
@@ -86,73 +86,73 @@
 1958 = {
 	aristocrats = {
 		culture = forest_bantu
-		religion = animist
+		religion = catholic
 		size = 500
 	}
 
 	clergymen = {
 		culture = forest_bantu
-		religion = animist
+		religion = catholic
 		size = 250
 	}
 
 	artisans = {
 		culture = forest_bantu
-		religion = animist
+		religion = catholic
 		size = 1050
 	}
 
 	soldiers = {
 		culture = forest_bantu
-		religion = animist
+		religion = catholic
 		size = 275
 	}
 
 	farmers = {
 		culture = forest_bantu
-		religion = animist
+		religion = catholic
 		size = 20925
 	}
 
 	slaves = {
 		culture = forest_bantu
-		religion = animist
+		religion = catholic
 		size = 3000
 	}
 
 	aristocrats = {
 		culture = fang
-		religion = animist
+		religion = catholic
 		size = 325
 	}
 
 	clergymen = {
 		culture = fang
-		religion = animist
+		religion = catholic
 		size = 175
 	}
 
 	artisans = {
 		culture = fang
-		religion = animist
+		religion = catholic
 		size = 725
 	}
 
 	soldiers = {
 		culture = fang
-		religion = animist
+		religion = catholic
 		size = 175
 	}
 
 	farmers = {
 		culture = fang
-		religion = animist
+		religion = catholic
 		size = 11600
 	}
 
 	slaves = {
 		culture = fang
-		religion = animist
+		religion = catholic
 		size = 5000
 	}
 }
@@ -162,73 +162,73 @@
 1959 = {
 	aristocrats = {
 		culture = fang
-		religion = animist
+		religion = catholic
 		size = 525
 	}
 
 	clergymen = {
 		culture = fang
-		religion = animist
+		religion = catholic
 		size = 275
 	}
 
 	artisans = {
 		culture = fang
-		religion = animist
+		religion = catholic
 		size = 1125
 	}
 
 	soldiers = {
 		culture = fang
-		religion = animist
+		religion = catholic
 		size = 275
 	}
 
 	farmers = {
 		culture = fang
-		religion = animist
+		religion = catholic
 		size = 16800
 	}
 
 	slaves = {
 		culture = fang
-		religion = animist
+		religion = catholic
 		size = 9000
 	}
 
 	aristocrats = {
 		culture = forest_bantu
-		religion = animist
+		religion = catholic
 		size = 1150
 	}
 
 	clergymen = {
 		culture = forest_bantu
-		religion = animist
+		religion = catholic
 		size = 575
 	}
 
 	artisans = {
 		culture = forest_bantu
-		religion = animist
+		religion = catholic
 		size = 2325
 	}
 
 	soldiers = {
 		culture = forest_bantu
-		religion = animist
+		religion = catholic
 		size = 600
 	}
 
 	farmers = {
 		culture = forest_bantu
-		religion = animist
+		religion = catholic
 		size = 39350
 	}
 
 	slaves = {
 		culture = tiv
-		religion = animist
+		religion = catholic
 		size = 14000
 	}
 }
@@ -236,37 +236,37 @@
 1960 = {
 	aristocrats = {
 		culture = tiv
-		religion = sunni
+		religion = catholic
 		size = 1375
 	}
 
 	clergymen = {
 		culture = tiv
-		religion = sunni
+		religion = catholic
 		size = 700
 	}
 
 	artisans = {
 		culture = tiv
-		religion = sunni
+		religion = catholic
 		size = 2775
 	}
 
 	soldiers = {
 		culture = tiv
-		religion = sunni
+		religion = catholic
 		size = 700
 	}
 
 	farmers = {
 		culture = tiv
-		religion = sunni
+		religion = catholic
 		size = 44450
 	}
 
 	slaves = {
 		culture = tiv
-		religion = animist
+		religion = catholic
 		size = 19000
 	}
 }
@@ -274,73 +274,73 @@
 1962 = {
 	aristocrats = {
 		culture = fang
-		religion = animist
+		religion = catholic
 		size = 1225
 	}
 
 	clergymen = {
 		culture = fang
-		religion = animist
+		religion = catholic
 		size = 625
 	}
 
 	artisans = {
 		culture = fang
-		religion = animist
+		religion = catholic
 		size = 2500
 	}
 
 	soldiers = {
 		culture = fang
-		religion = animist
+		religion = catholic
 		size = 625
 	}
 
 	farmers = {
 		culture = fang
-		religion = animist
+		religion = catholic
 		size = 34025
 	}
 
 	slaves = {
 		culture = fang
-		religion = animist
+		religion = catholic
 		size = 17000
 	}
 
 	aristocrats = {
 		culture = forest_bantu
-		religion = animist
+		religion = catholic
 		size = 325
 	}
 
 	clergymen = {
 		culture = forest_bantu
-		religion = animist
+		religion = catholic
 		size = 175
 	}
 
 	artisans = {
 		culture = forest_bantu
-		religion = animist
+		religion = catholic
 		size = 725
 	}
 
 	soldiers = {
 		culture = forest_bantu
-		religion = animist
+		religion = catholic
 		size = 175
 	}
 
 	farmers = {
 		culture = forest_bantu
-		religion = animist
+		religion = catholic
 		size = 10600
 	}
 
 	slaves = {
 		culture = ubangian
-		religion = animist
+		religion = catholic
 		size = 6000
 	}
 }
@@ -350,37 +350,37 @@
 1961 = {
 	aristocrats = {
 		culture = tiv
-		religion = animist
+		religion = catholic
 		size = 1850
 	}
 
 	clergymen = {
 		culture = tiv
-		religion = animist
+		religion = catholic
 		size = 950
 	}
 
 	artisans = {
 		culture = tiv
-		religion = animist
+		religion = catholic
 		size = 3725
 	}
 
 	soldiers = {
 		culture = tiv
-		religion = animist
+		religion = catholic
 		size = 950
 	}
 
 	farmers = {
 		culture = tiv
-		religion = animist
+		religion = catholic
 		size = 75575
 	}
 
 	slaves = {
 		culture = ibibio
-		religion = animist
+		religion = catholic
 		size = 10000
 	}
 }
@@ -390,79 +390,79 @@
 1963 = {
 	aristocrats = {
 		culture = fulbe
-		religion = sunni
+		religion = catholic
 		size = 500
 	}
 
 	bureaucrats = {
 		culture = fulbe
-		religion = sunni
+		religion = catholic
 		size = 25
 	}
 
 	officers = {
 		culture = fulbe
-		religion = sunni
+		religion = catholic
 		size = 75
 	}
 
 	clergymen = {
 		culture = fulbe
-		religion = sunni
+		religion = catholic
 		size = 250
 	}
 
 	artisans = {
 		culture = fulbe
-		religion = sunni
+		religion = catholic
 		size = 1050
 	}
 
 	soldiers = {
 		culture = fulbe
-		religion = sunni
+		religion = catholic
 		size = 3000
 	}
 
 	farmers = {
 		culture = fulbe
-		religion = sunni
+		religion = catholic
 		size = 19825
 	}
 
 	aristocrats = {
 		culture = ubangian
-		religion = animist
+		religion = catholic
 		size = 275
 	}
 
 	clergymen = {
 		culture = ubangian
-		religion = animist
+		religion = catholic
 		size = 150
 	}
 
 	artisans = {
 		culture = ubangian
-		religion = animist
+		religion = catholic
 		size = 575
 	}
 
 	soldiers = {
 		culture = ubangian
-		religion = animist
+		religion = catholic
 		size = 150
 	}
 
 	farmers = {
 		culture = ubangian
-		religion = animist
+		religion = catholic
 		size = 12850
 	}
 
 	slaves = {
 		culture = tiv
-		religion = animist
+		religion = catholic
 		size = 4000
 	}
 }
@@ -471,133 +471,133 @@
 1964 = {
 	aristocrats = {
 		culture = fulbe
-		religion = sunni
+		religion = catholic
 		size = 700
 	}
 
 	clergymen = {
 		culture = fulbe
-		religion = sunni
+		religion = catholic
 		size = 800
 	}
 
 	artisans = {
 		culture = fulbe
-		religion = sunni
+		religion = catholic
 		size = 700
 	}
 
 	soldiers = {
 		culture = fulbe
-		religion = sunni
+		religion = catholic
 		size = 400
 	}
 
 	farmers = {
 		culture = fulbe
-		religion = sunni
+		religion = catholic
 		size = 27400
 	}
 
 	aristocrats = {
 		culture = hausa
-		religion = sunni
+		religion = catholic
 		size = 200
 	}
 
 	clergymen = {
 		culture = hausa
-		religion = sunni
+		religion = catholic
 		size = 200
 	}
 
 	artisans = {
 		culture = hausa
-		religion = sunni
+		religion = catholic
 		size = 800
 	}
 
 	soldiers = {
 		culture = hausa
-		religion = sunni
+		religion = catholic
 		size = 200
 	}
 
 	farmers = {
 		culture = hausa
-		religion = sunni
+		religion = catholic
 		size = 20600
 	}
 
 	aristocrats = {
 		culture = bedouin
-		religion = sunni
+		religion = catholic
 		size = 300
 	}
 
 	clergymen = {
 		culture = bedouin
-		religion = sunni
+		religion = catholic
 		size = 200
 	}
 
 	artisans = {
 		culture = bedouin
-		religion = sunni
+		religion = catholic
 		size = 1100
 	}
 
 	soldiers = {
 		culture = bedouin
-		religion = sunni
+		religion = catholic
 		size = 200
 	}
 
 	farmers = {
 		culture = bedouin
-		religion = sunni
+		religion = catholic
 		size = 18300
 	}
 
 	aristocrats = {
 		culture = baguirmi
-		religion = animist
+		religion = catholic
 		size = 700
 	}
 
 	clergymen = {
 		culture = baguirmi
-		religion = animist
+		religion = catholic
 		size = 400
 	}
 
 	artisans = {
 		culture = baguirmi
-		religion = animist
+		religion = catholic
 		size = 1800
 	}
 
 	soldiers = {
 		culture = baguirmi
-		religion = animist
+		religion = catholic
 		size = 400
 	}
 
 	farmers = {
 		culture = baguirmi
-		religion = animist
+		religion = catholic
 		size = 23100
 	}
 
 	slaves = {
 		culture = kanuri
-		religion = sunni
+		religion = catholic
 		size = 6000
 	}
 	
 	slaves = {
 		culture = sara
-		religion = sunni
+		religion = catholic
 		size = 6000
 	}
 

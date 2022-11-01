@@ -5,7 +5,7 @@ culture = yao
 culture = sukuma
 culture = kikuyu
 culture = cushitic
-religion = sunni
+religion = catholic
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
@@ -23,7 +23,7 @@ upper_house = {
 }
 
 set_country_flag = delay_unciv_annexation
-set_country_flag = sunni_country
+set_country_flag = catholic_country
 
 #Starting Consciousness
 consciousness = 0

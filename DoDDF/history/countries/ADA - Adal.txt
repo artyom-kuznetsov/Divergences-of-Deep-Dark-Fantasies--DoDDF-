@@ -2,7 +2,7 @@ capital = 1867
 primary_culture = somali
 culture = amhara
 culture = oromo
-religion = sunni
+religion = catholic
 government = feudal_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
@@ -57,7 +57,7 @@ admin_reform = yes_admin_reform
 monetary_reform = yes_monetary_reform
 foreign_weapons = yes_foreign_weapons
 
-set_country_flag = sunni_country
+set_country_flag = catholic_country
 
 # Starting Consciousness
 consciousness = 0

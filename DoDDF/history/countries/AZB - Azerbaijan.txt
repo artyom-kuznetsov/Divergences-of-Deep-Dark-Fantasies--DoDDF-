@@ -1,6 +1,6 @@
 capital = 1104
 primary_culture = azerbaijani
-religion = shiite
+religion = catholic
 government = khanate
 plurality = 25.0
 nationalvalue = nv_order
@@ -46,7 +46,7 @@ upper_house = {
 	communist = 0
 }
 
-set_country_flag = shiite_country
+set_country_flag = catholic_country
 
 govt_flag = {
 	government = khanate

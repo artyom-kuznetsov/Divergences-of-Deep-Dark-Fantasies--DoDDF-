@@ -4,31 +4,31 @@
 2528 = {
     aristocrats = {
         culture = melanesian
-        religion = animist
+        religion = catholic
         size = 1950
     }
 
     clergymen = {
         culture = melanesian
-        religion = animist
+        religion = catholic
         size = 525
     }
 
     artisans = {
         culture = melanesian
-        religion = animist
+        religion = catholic
         size = 2650
     }
 
     soldiers = {
         culture = melanesian
-        religion = animist
+        religion = catholic
         size = 1065
     }
 
     farmers = {
         culture = melanesian
-        religion = animist
+        religion = catholic
         size = 48350
     }
 }
@@ -36,19 +36,19 @@
 2529 = {
     clergymen = {
         culture = melanesian
-        religion = animist
+        religion = catholic
         size = 300
     }
 
     artisans = {
         culture = melanesian
-        religion = animist
+        religion = catholic
         size = 1450
     }
 
     farmers = {
         culture = melanesian
-        religion = animist
+        religion = catholic
         size = 26400
     }
 }
@@ -56,19 +56,19 @@
 2530 = {
     clergymen = {
         culture = melanesian
-        religion = animist
+        religion = catholic
         size = 650
     }
 
     artisans = {
         culture = melanesian
-        religion = animist
+        religion = catholic
         size = 3300
     }
 
     farmers = {
         culture = melanesian
-        religion = animist
+        religion = catholic
         size = 60075
     }
 }
@@ -76,31 +76,31 @@
 2531 = {
     aristocrats = {
         culture = melanesian
-        religion = animist
+        religion = catholic
         size = 4225
     }
 
     clergymen = {
         culture = melanesian
-        religion = animist
+        religion = catholic
         size = 750
     }
 
     artisans = {
         culture = melanesian
-        religion = animist
+        religion = catholic
         size = 3750
     }
 
     soldiers = {
         culture = melanesian
-        religion = animist
+        religion = catholic
         size = 2225
     }
 
     farmers = {
         culture = melanesian
-        religion = animist
+        religion = catholic
         size = 68375
     }
 }
@@ -110,31 +110,31 @@
 1531 = {
 	aristocrats = {
 		culture = melanesian
-		religion = animist
+		religion = catholic
 		size = 500
 	}
 
 	clergymen = {
 		culture = melanesian
-		religion = animist
+		religion = catholic
 		size = 250
 	}
 
 	artisans = {
 		culture = melanesian
-		religion = animist
+		religion = catholic
 		size = 1300
 	}
 
 	soldiers = {
 		culture = melanesian
-		religion = animist
+		religion = catholic
 		size = 275
 	}
 
 	farmers = {
 		culture = melanesian
-		religion = animist
+		religion = catholic
 		size = 23675
 	}
 }
@@ -142,31 +142,31 @@
 2537 = {
 	aristocrats = {
 		culture = melanesian
-		religion = animist
+		religion = catholic
 		size = 700
 	}
 
 	clergymen = {
 		culture = melanesian
-		religion = animist
+		religion = catholic
 		size = 350
 	}
 
 	artisans = {
 		culture = melanesian
-		religion = animist
+		religion = catholic
 		size = 1800
 	}
 
 	soldiers = {
 		culture = melanesian
-		religion = animist
+		religion = catholic
 		size = 375
 	}
 
 	farmers = {
 		culture = melanesian
-		religion = animist
+		religion = catholic
 		size = 32775
 	}
 }
@@ -174,31 +174,31 @@
 2539 = {
 	aristocrats = {
 		culture = melanesian
-		religion = animist
+		religion = catholic
 		size = 250
 	}
 
 	clergymen = {
 		culture = melanesian
-		religion = animist
+		religion = catholic
 		size = 150
 	}
 
 	artisans = {
 		culture = melanesian
-		religion = animist
+		religion = catholic
 		size = 700
 	}
 
 	soldiers = {
 		culture = melanesian
-		religion = animist
+		religion = catholic
 		size = 150
 	}
 
 	farmers = {
 		culture = melanesian
-		religion = animist
+		religion = catholic
 		size = 12750
 	}
 }

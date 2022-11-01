@@ -1,18 +1,3 @@
-leader = {
-	name = "Gjon Buzuku"
-	type = land
-	date = 1836.1.1
-	personality = stout
-	background = cavalry_school
-}
-
-leader = {
-	name = "Bamir Berisha"
-	type = land
-	date = 1836.1.1
-	personality = bastard
-	background = aristocrat
-}
 
 army = {
 	name = "Army of the Bey of Albania"

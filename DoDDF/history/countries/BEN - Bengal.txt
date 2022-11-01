@@ -1,6 +1,6 @@
 capital = 1251
 primary_culture = bengali
-religion = sunni
+religion = catholic
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
@@ -60,7 +60,7 @@ firearms_production = yes_firearms_production
 monetary_reform = yes_monetary_reform
 land_reform = yes_land_reform
 
-set_country_flag = sunni_country
+set_country_flag = catholic_country
 
 # Starting Consciousness
 consciousness = 0

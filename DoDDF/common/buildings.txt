@@ -607,6 +607,19 @@ fertilizer_factory = {
 
 ############# Military Buildings and Infrastructure
 
+province_selector = {
+	type = province_selector
+	goods_cost =
+	{
+	}
+	time = 1
+	visibility = no
+	onmap = no
+	max_level = 2
+	province = yes
+	#one_per_state = yes
+	
+}
 fort = {
     type = fort
     goods_cost = {
@@ -624,6 +637,27 @@ fort = {
     max_level = 6
     province = yes
     fort_level = 1
+}
+
+
+railroad = {
+    type = infrastructure
+    goods_cost = {
+        lumber = 100
+        cement = 100
+        steel = 100
+    }
+    time = 730
+    visibility = yes
+    onmap = yes
+    max_level = 6
+    province = yes
+
+    infrastructure = 0.16
+    movement_cost = -0.05
+
+    pop_build_factory = yes
+    spawn_railway_track = yes
 }
 
 naval_base = {
@@ -650,24 +684,4 @@ naval_base = {
     one_per_state = yes
     colonial_range = 25
     local_ship_build = -0.10
-}
-
-railroad = {
-    type = infrastructure
-    goods_cost = {
-        lumber = 100
-        cement = 100
-        steel = 100
-    }
-    time = 730
-    visibility = yes
-    onmap = yes
-    max_level = 6
-    province = yes
-
-    infrastructure = 0.16
-    movement_cost = -0.05
-
-    pop_build_factory = yes
-    spawn_railway_track = yes
 }

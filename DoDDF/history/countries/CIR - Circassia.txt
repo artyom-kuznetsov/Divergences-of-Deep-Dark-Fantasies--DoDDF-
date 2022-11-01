@@ -1,6 +1,6 @@
 capital = 1056
 primary_culture = north_caucasian
-religion = sunni
+religion = catholic
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_order
@@ -40,7 +40,7 @@ nonstate_consciousness = 0
 
 oob = "CIR_oob.txt"
 
-set_country_flag = sunni_country
+set_country_flag = catholic_country
 
 foreign_weapons = yes_foreign_weapons
 foreign_artillery = yes_foreign_artillery

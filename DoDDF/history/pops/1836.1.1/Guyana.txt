@@ -74,32 +74,32 @@
 2242 = {
 	aristocrats = {
 		culture = amazonian_native
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
 		culture = amazonian_native
-		religion = animist
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
 		culture = amazonian_native
-		religion = animist
+		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
 		culture = amazonian_native
-		religion = animist
+		religion = catholic
 		size= 15
 
 	}
 
 	farmers = {
 		culture = amazonian_native
-		religion = animist
+		religion = catholic
 		size = 900
 	}
 }
@@ -171,32 +171,32 @@
 1979 = {
 	aristocrats = {
 		culture = amazonian_native
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
 		culture = amazonian_native
-		religion = animist
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
 		culture = amazonian_native
-		religion = animist
+		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
 		culture = amazonian_native
-		religion = animist
+		religion = catholic
 		size= 15
 
 	}
 
 	farmers = {
 		culture = amazonian_native
-		religion = animist
+		religion = catholic
 		size = 900
 	}
 
@@ -276,32 +276,32 @@
 
 	aristocrats = {
 		culture = amazonian_native
-		religion = animist
+		religion = catholic
 		size = 2
 	}
 
 	clergymen = {
 		culture = amazonian_native
-		religion = animist
+		religion = catholic
 		size = 3
 	}
 
 	artisans = {
 		culture = amazonian_native
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	soldiers = {
 		culture = amazonian_native
-		religion = animist
+		religion = catholic
 		size= 5
 
 	}
 
 	farmers = {
 		culture = amazonian_native
-		religion = animist
+		religion = catholic
 		size = 230
 	}
 }
@@ -309,32 +309,32 @@
 2246 = {
 	aristocrats = {
 		culture = amazonian_native
-		religion = animist
+		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
 		culture = amazonian_native
-		religion = animist
+		religion = catholic
 		size = 15
 	}
 
 	artisans = {
 		culture = amazonian_native
-		religion = animist
+		religion = catholic
 		size = 35
 	}
 
 	soldiers = {
 		culture = amazonian_native
-		religion = animist
+		religion = catholic
 		size= 10
 
 	}
 
 	farmers = {
 		culture = amazonian_native
-		religion = animist
+		religion = catholic
 		size = 680
 	}
 
@@ -404,32 +404,32 @@
 2245 = {
 	aristocrats = {
 		culture = amazonian_native
-		religion = animist
+		religion = catholic
 		size = 25
 	}
 
 	clergymen = {
 		culture = amazonian_native
-		religion = animist
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
 		culture = amazonian_native
-		religion = animist
+		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
 		culture = amazonian_native
-		religion = animist
+		religion = catholic
 		size= 25
 
 	}
 
 	farmers = {
 		culture = amazonian_native
-		religion = animist
+		religion = catholic
 		size = 1750
 	}
 

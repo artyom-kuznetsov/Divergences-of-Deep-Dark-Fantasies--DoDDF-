@@ -1,7 +1,7 @@
 capital = 562
 primary_culture = north_german
 culture = south_german
-religion = protestant
+religion = catholic
 government = absolute_monarchy
 plurality = 25.0
 nationalvalue = nv_order
@@ -37,7 +37,7 @@ child_labor = child_labor_legal
 citizens_rights = primary_culture_only
 border_policy = open_borders
 
-set_country_flag = protestant_country
+set_country_flag = catholic_country
 
 ruling_party = COB_conservative_2
 upper_house = {
@@ -122,7 +122,7 @@ oob = "COB_oob.txt"
 	stock_exchange = 1
 	business_banks = 1
 	no_standard = 1
-	ad_hoc_money_bill_printing = 1
+	ad_hoc_money_bill_prcatholicng = 1
 	early_classical_theory_and_critique = 1
 	late_classical_theory = 1
 	freedom_of_trade = 1

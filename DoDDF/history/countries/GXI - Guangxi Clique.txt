@@ -2,7 +2,7 @@ capital = 1502
 primary_culture = zhuang
 culture = yue
 culture = nanfaren
-religion = mahayana
+religion = catholic
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
@@ -34,7 +34,7 @@ child_labor = child_labor_legal
 citizens_rights = primary_culture_only
 border_policy = closed_borders
 
-set_country_flag = mahayana_country
+set_country_flag = catholic_country
 
 ruling_party = GXI_reactionary
 upper_house = {

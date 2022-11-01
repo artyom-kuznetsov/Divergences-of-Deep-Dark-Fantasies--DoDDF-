@@ -1,7 +1,7 @@
 capital = 1116      
 primary_culture = persian
 culture = turkmen
-religion = sunni
+religion = catholic
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
@@ -59,7 +59,7 @@ army_schools = yes_army_schools
 foreign_weapons = yes_foreign_weapons
 foreign_training = foreign_training_two
 
-set_country_flag = sunni_country
+set_country_flag = catholic_country
 
 # Starting Consciousness
 consciousness = 0

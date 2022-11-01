@@ -1,10 +1,4 @@
-leader = {
-	name = "Faisal I"
-	type = land
-	date = 1836.1.1
-	personality = unruly
-	background = aristocrat
-}
+
 
 army = {
 	name = "Army of Baghdad"

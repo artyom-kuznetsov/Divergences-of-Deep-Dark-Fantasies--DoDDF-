@@ -3,7 +3,7 @@ political_decisions = {
         picture = courland
         potential = {
             tag = SCA
-            is_greater_power = yes
+           # is_greater_power = yes
             KRL = { exists = yes }
             OR = {
                 AND = {
@@ -43,7 +43,7 @@ political_decisions = {
         picture = courland_2
         potential = {
             tag = SCA
-            is_greater_power = yes
+           # is_greater_power = yes
             has_country_flag = baltic_claimed
             KRL = { exists = yes }
             NOT = { has_country_flag = fall_of_kurland }

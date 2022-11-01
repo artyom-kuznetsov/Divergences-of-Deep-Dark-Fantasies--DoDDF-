@@ -1510,27 +1510,27 @@
 	}
 
 	aristocrats = {
-		culture = nahua
+		culture = mayan
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = nahua
+		culture = mayan
 		religion = catholic
 		size = 200
 		militancy = 9
 	}
 
 	artisans = {
-		culture = nahua
+		culture = mayan
 		religion = catholic
 		size = 2150
 		militancy = 9
 	}
 
 	soldiers = {
-		culture = nahua
+		culture = mayan
 		religion = catholic
 		size= 450
 
@@ -1538,7 +1538,7 @@
 	}
 
 	farmers = {
-		culture = nahua
+		culture = mayan
 		religion = catholic
 		size = 20200
 		militancy = 9
@@ -1608,31 +1608,31 @@
 	}
 
 	aristocrats = {
-		culture = tarascan
+		culture = mayan
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = tarascan
+		culture = mayan
 		religion = catholic
 		size = 140
 	}
 
 	artisans = {
-		culture = tarascan
+		culture = mayan
 		religion = catholic
 		size = 1250
 	}
 	
 	soldiers = {
-		culture = tarascan
+		culture = mayan
 		religion = catholic
 		size = 1250
 	}
 
 	farmers = {
-		culture = tarascan
+		culture = mayan
 		religion = catholic
 		size = 10300
 	}
@@ -1695,25 +1695,25 @@
 	}
 
 	clergymen = {
-		culture = tarascan
+		culture = mayan
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = tarascan
+		culture = mayan
 		religion = catholic
 		size = 200
 	}
 
 	soldiers = {
-		culture = tarascan
+		culture = mayan
 		religion = catholic
 		size = 1500
 	}
 	
 	farmers = {
-		culture = tarascan
+		culture = mayan
 		religion = catholic
 		size = 9700
 	}
@@ -1780,31 +1780,31 @@
 	}
 
 	aristocrats = {
-		culture = nahua
+		culture = mayan
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = nahua
+		culture = mayan
 		religion = catholic
 		size = 175
 	}
 
 	artisans = {
-		culture = nahua
+		culture = mayan
 		religion = catholic
 		size = 1650
 	}
 
 	soldiers = {
-		culture = nahua
+		culture = mayan
 		religion = catholic
 		size = 1500
 	}
 
 	farmers = {
-		culture = nahua
+		culture = mayan
 		religion = catholic
 		size = 15525
 		militancy = 9
@@ -1888,26 +1888,26 @@
 	}
 
 	aristocrats = {
-		culture = nahua
+		culture = mayan
 		religion = catholic
 		size = 230
 	}
 
 	clergymen = {
-		culture = nahua
+		culture = mayan
 		religion = catholic
 		size = 500
 	}
 
 	artisans = {
-		culture = nahua
+		culture = mayan
 		religion = catholic
 		size = 5250
 		militancy = 9
 	}
 
 	soldiers = {
-		culture = nahua
+		culture = mayan
 		religion = catholic
 		size= 1050
 
@@ -1915,7 +1915,7 @@
 	}
 
 	farmers = {
-		culture = nahua
+		culture = mayan
 		religion = catholic
 		size = 18300
 	}
@@ -1986,20 +1986,20 @@
 	}
 
 	clergymen = {
-		culture = nahua
+		culture = mayan
 		religion = catholic
 		size = 250
 	}
 
 	artisans = {
-		culture = nahua
+		culture = mayan
 		religion = catholic
 		size = 2800
 		militancy = 9
 	}
 
 	soldiers = {
-		culture = nahua
+		culture = mayan
 		religion = catholic
 		size= 3000
 
@@ -2007,7 +2007,7 @@
 	}
 
 	farmers = {
-		culture = nahua
+		culture = mayan
 		religion = catholic
 		size = 28275
 		militancy = 9
@@ -2098,27 +2098,27 @@
 	}
 
 	aristocrats = {
-		culture = nahua
+		culture = mayan
 		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
-		culture = nahua
+		culture = mayan
 		religion = catholic
 		size = 100
 		militancy = 5
 	}
 
 	artisans = {
-		culture = nahua
+		culture = mayan
 		religion = catholic
 		size = 1050
 		militancy = 5
 	}
 
 	soldiers = {
-		culture = nahua
+		culture = mayan
 		religion = catholic
 		size= 225
 
@@ -2126,7 +2126,7 @@
 	}
 
 	farmers = {
-		culture = nahua
+		culture = mayan
 		religion = catholic
 		size = 10025
 		militancy = 5
@@ -2183,26 +2183,26 @@
 	}
 
 	clergymen = {
-		culture = nahua
+		culture = mayan
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = nahua
+		culture = mayan
 		religion = catholic
 		size = 900
 	}
 
 	soldiers = {
-		culture = nahua
+		culture = mayan
 		religion = catholic
 		size= 200
 
 	}
 
 	farmers = {
-		culture = nahua
+		culture = mayan
 		religion = catholic
 		size = 7850
 	}
@@ -2264,19 +2264,19 @@
 	}
 
 	clergymen = {
-		culture = zapotec
+		culture = mayan
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = zapotec
+		culture = mayan
 		religion = catholic
 		size = 550
 	}
 
 	farmers = {
-		culture = zapotec
+		culture = mayan
 		religion = catholic
 		size = 14400
 	}
@@ -2428,25 +2428,25 @@
 	}
 
 	clergymen = {
-		culture = tarascan
+		culture = mayan
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = tarascan
+		culture = mayan
 		religion = catholic
 		size = 550
 	}
 
 	soldiers = {
-		culture = tarascan
+		culture = mayan
 		religion = catholic
 		size = 900
 	}
 
 	farmers = {
-		culture = tarascan
+		culture = mayan
 		religion = catholic
 		size = 19560
 	}
@@ -2492,19 +2492,19 @@
 	}
 
 	clergymen = {
-		culture = tarascan
+		culture = mayan
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = tarascan
+		culture = mayan
 		religion = catholic
 		size = 650
 	}
 
 	farmers = {
-		culture = tarascan
+		culture = mayan
 		religion = catholic
 		size = 12775
 	}
@@ -2551,31 +2551,31 @@
 	}
 
 	aristocrats = {
-		culture = tarascan
+		culture = mayan
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = tarascan
+		culture = mayan
 		religion = catholic
 		size = 200
 	}
 
 	artisans = {
-		culture = tarascan
+		culture = mayan
 		religion = catholic
 		size = 2100
 	}
 
 	soldiers = {
-		culture = tarascan
+		culture = mayan
 		religion = catholic
 		size = 700
 	}
 
 	farmers = {
-		culture = tarascan
+		culture = mayan
 		religion = catholic
 		size = 13200
 	}
@@ -2632,25 +2632,25 @@
 	}
 
 	clergymen = {
-		culture = tarascan
+		culture = mayan
 		religion = catholic
 		size = 175
 	}
 
 	artisans = {
-		culture = tarascan
+		culture = mayan
 		religion = catholic
 		size = 1800
 	}
 
 	soldiers = {
-		culture = tarascan
+		culture = mayan
 		religion = catholic
 		size = 3000
 	}
 
 	farmers = {
-		culture = tarascan
+		culture = mayan
 		religion = catholic
 		size = 33650
 	}
@@ -2695,25 +2695,25 @@
 	}
 
 	clergymen = {
-		culture = tarascan
+		culture = mayan
 		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = tarascan
+		culture = mayan
 		religion = catholic
 		size = 400
 	}
 
 	soldiers = {
-		culture = tarascan
+		culture = mayan
 		religion = catholic
 		size = 600
 	}
 
 	farmers = {
-		culture = tarascan
+		culture = mayan
 		religion = catholic
 		size = 17425
 	}
@@ -2777,31 +2777,31 @@
 	}
 
 	clergymen = {
-		culture = nahua
+		culture = mayan
 		religion = catholic
 		size = 250
 	}
 
 	artisans = {
-		culture = nahua
+		culture = mayan
 		religion = catholic
 		size = 10000
 	}
 	
 	artisans = {
-		culture = nahua
+		culture = mayan
 		religion = catholic
 		size = 9250
 	}
 
 	soldiers = {
-		culture = nahua
+		culture = mayan
 		religion = catholic
 		size = 3000
 	}
 
 	farmers = {
-		culture = nahua
+		culture = mayan
 		religion = catholic
 		size = 39000
 	}
@@ -2869,25 +2869,25 @@
 	}
 
 	clergymen = {
-		culture = nahua
+		culture = mayan
 		religion = catholic
 		size = 150
 	}
 
 	artisans = {
-		culture = nahua
+		culture = mayan
 		religion = catholic
 		size = 1700
 	}
 
 	soldiers = {
-		culture = nahua
+		culture = mayan
 		religion = catholic
 		size = 650
 	}
 
 	farmers = {
-		culture = nahua
+		culture = mayan
 		religion = catholic
 		size = 31800
 	}
@@ -2933,19 +2933,19 @@
 	}
 
 	clergymen = {
-		culture = nahua
+		culture = mayan
 		religion = catholic
 		size = 125
 	}
 
 	artisans = {
-		culture = nahua
+		culture = mayan
 		religion = catholic
 		size = 1400
 	}
 
 	farmers = {
-		culture = nahua
+		culture = mayan
 		religion = catholic
 		size = 20175
 	}
@@ -3020,19 +3020,19 @@
 	}
 
 	clergymen = {
-		culture = nahua
+		culture = mayan
 		religion = catholic
 		size = 375
 	}
 
 	artisans = {
-		culture = nahua
+		culture = mayan
 		religion = catholic
 		size = 6500
 	}
 
 	farmers = {
-		culture = nahua
+		culture = mayan
 		religion = catholic
 		size = 33625
 	}
@@ -3115,25 +3115,25 @@
 	}
 
 	clergymen = {
-		culture = zapotec
+		culture = mayan
 		religion = catholic
 		size = 350
 	}
 
 	artisans = {
-		culture = zapotec
+		culture = mayan
 		religion = catholic
 		size = 4500
 	}
 
 	soldiers = {
-		culture = zapotec
+		culture = mayan
 		religion = catholic
 		size = 3000
 	}
 
 	farmers = {
-		culture = zapotec
+		culture = mayan
 		religion = catholic
 		size = 65450
 	}
@@ -3178,25 +3178,25 @@
 	}
 
 	clergymen = {
-		culture = zapotec
+		culture = mayan
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = zapotec
+		culture = mayan
 		religion = catholic
 		size = 1100
 	}
 
 	soldiers = {
-		culture = zapotec
+		culture = mayan
 		religion = catholic
 		size = 1200
 	}
 
 	farmers = {
-		culture = zapotec
+		culture = mayan
 		religion = catholic
 		size = 18700
 	}
@@ -3255,25 +3255,25 @@
 	}
 
 	clergymen = {
-		culture = tarascan
+		culture = mayan
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = tarascan
+		culture = mayan
 		religion = catholic
 		size = 1050
 	}
 
 	soldiers = {
-		culture = tarascan
+		culture = mayan
 		religion = catholic
 		size = 3000
 	}
 
 	farmers = {
-		culture = tarascan
+		culture = mayan
 		religion = catholic
 		size = 19625
 	}
@@ -3318,26 +3318,26 @@
 	}
 
 	clergymen = {
-		culture = tarascan
+		culture = mayan
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = tarascan
+		culture = mayan
 		religion = catholic
 		size = 550
 	}
 
 	soldiers = {
-		culture = tarascan
+		culture = mayan
 		religion = catholic
 		size= 125
 
 	}
 
 	farmers = {
-		culture = tarascan
+		culture = mayan
 		religion = catholic
 		size = 10275
 	}

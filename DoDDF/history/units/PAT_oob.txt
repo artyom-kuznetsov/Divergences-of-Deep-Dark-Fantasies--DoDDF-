@@ -1,10 +1,3 @@
-leader = {
-	name = "Thirathep Siyaphan"
-	type = land
-	date = 1836.1.1
-	personality = resolute
-	background = clueless
-}
 
 army = {
 	name = "Army of the Sultan of Pattani"

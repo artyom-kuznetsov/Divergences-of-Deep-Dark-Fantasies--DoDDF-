@@ -1,34 +1,4 @@
-leader = {
-	name = "Philipp de Vries"
-	type = land
-	date = 1836.1.1
-	personality = hellbent
-	background = school_of_the_bayonet
-}
 
-leader = {
-	name = "Jean Rousseau"
-	type = land
-	date = 1836.1.1
-	personality = charismatic
-	background = innovative_tactician
-}
-
-leader = {
-	name = "Denoel Nânesse"
-	type = land
-	date = 1836.1.1
-	personality = openminded
-	background = sycophant
-}
-
-leader = {
-	name = "Alexander Galen"
-	type = sea
-	date = 1836.1.1
-	personality = merciless
-	background = pawn
-}
 
 army = {
 	name = "1ère Division d'Infanterie"

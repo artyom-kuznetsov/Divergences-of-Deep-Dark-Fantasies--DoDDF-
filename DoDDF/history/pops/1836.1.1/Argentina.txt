@@ -4,50 +4,50 @@
 2348 = {
 	aristocrats = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 625
 	}
 
 	bureaucrats = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 500
 	}
 
 	officers = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 75
 	}
 
 	clergymen = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 375
 	}
 
 	artisans = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 10000
 	}
 	
 	artisans = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 5000
 	}
 
 	soldiers = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size= 3000
 
 	}
 
 	farmers = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 49825
 	}
 }
@@ -55,39 +55,39 @@
 2349 = {
 	aristocrats = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 275
 	}
 
 	clergymen = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 175
 	}
 
 	artisans = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 5100
 	}
 
 	soldiers = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size= 3000
 
 	}
 
 	soldiers = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size= 1000
 
 	}
 
 	farmers = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 25550
 	}
 }
@@ -95,20 +95,20 @@
 2350 = {
 	aristocrats = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 75
 	}
 
 
 	farmers = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 15700
 	}
 }
@@ -116,19 +116,19 @@
 2351 = {
 	aristocrats = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 15
 	}
 
 	clergymen = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 25
 	}
 
 	farmers = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 19000
 	}
 }
@@ -136,19 +136,19 @@
 2352 = {
 	aristocrats = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 75
 	}
 
 	farmers = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 20700
 	}
 }
@@ -157,20 +157,20 @@
 2353 = {
 	clergymen = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 75
 	}
 
 
 	farmers = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 2700
 	}
 
 	aristocrats = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 25
 	}
 }
@@ -178,19 +178,19 @@
 2354 = {
 	clergymen = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 150
 	}
 
 	farmers = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 5425
 	}
 
 	aristocrats = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 50
 	}
 }
@@ -198,32 +198,32 @@
 2355 = {
 	clergymen = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 125
 	}
 
 	soldiers = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size= 25
 
 	}
 
 	farmers = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 6150
 	}
 
 	aristocrats = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 50
 	}
 
 	farmers = {
-		culture = patagonian
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 1425
 	}
 }
@@ -233,7 +233,7 @@
 2356 = {
 	aristocrats = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size = 450
 	}
 
@@ -245,57 +245,57 @@
 
 	officers = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 35
 	}
 
 	clergymen = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size = 225
 	}
 
 	artisans = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size = 4000
 	}
 
 	soldiers = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size= 225
 
 	}
 
 	farmers = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size = 10015
 	}
 
 	clergymen = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 75
 	}
 
 	soldiers = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size= 25
 
 	}
 
 	farmers = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 15750
 	}
 
 	slaves = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 15340
 	}
 }
@@ -303,45 +303,45 @@
 2357 = {
 	aristocrats = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size = 25
 	}
 
 	clergymen = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size= 25
 
 	}
 
 	farmers = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size = 2500
 	}
 
 	clergymen = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size= 25
 
 	}
 
 	farmers = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 1825
 	}
 }
@@ -349,64 +349,64 @@
 2358 = {
 	clergymen = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size= 25
 
 	}
 
 	farmers = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size = 1875
 	}
 
 	clergymen = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size= 25
 
 	}
 
 	farmers = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 1825
 	}
 
 	aristocrats = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 75
 	}
 
 	soldiers = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size= 25
 
 	}
 
 	farmers = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 2700
 	}
 }
@@ -414,26 +414,26 @@
 2359 = {
 	aristocrats = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size = 25
 	}
 
 	clergymen = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size= 25
 
 	}
 
 	farmers = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size = 1900
 	}
 }
@@ -441,26 +441,26 @@
 2360 = {
 	aristocrats = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size = 75
 	}
 
 	clergymen = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size= 50
 
 	}
 
 	farmers = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size = 3825
 	}
 }
@@ -470,38 +470,38 @@
 2361 = {
 	aristocrats = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 25
 	}
 
 	clergymen = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size= 25
 
 	}
 
 	farmers = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 3400
 	}
 
 	clergymen = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 25
 	}
 
 	farmers = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 2400
 	}
 }
@@ -509,44 +509,44 @@
 2362 = {
 	aristocrats = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 275
 	}
 
 	bureaucrats = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 300
 	}
 
 	officers = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 20
 	}
 
 	clergymen = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 175
 	}
 
 	artisans = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 4000
 	}
 
 	soldiers = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size= 150
 
 	}
 
 	farmers = {
-		culture = guarani
-		religion = protestant
+		culture = amazonian_native
+		religion = catholic
 		size = 19350
 	}
 }
@@ -554,26 +554,26 @@
 2363 = {
 	aristocrats = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 25
 	}
 
 	clergymen = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size= 25
 
 	}
 
 	farmers = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 1800
 	}
 }
@@ -582,98 +582,98 @@
 #Resistencia (16000/4000 POPS)
 2364 = {
 	aristocrats = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 75
 	}
 
 	soldiers = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size= 25
 
 	}
 
 	farmers = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 2700
 	}
 
 	bureaucrats = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 2
 	}
 
 	clergymen = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 23
 	}
 
 	soldiers = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size= 25
 
 	}
 
 	farmers = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 1200
 	}
 }
 #Villa Angela (16000/4000 POPS)
 2365 = {
 	aristocrats = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 75
 	}
 
 	soldiers = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size= 25
 
 	}
 
 	farmers = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 2700
 	}
 
 	clergymen = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 25
 	}
 
 	soldiers = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size= 25
 
 	}
 
 	farmers = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 900
 	}
 }
@@ -681,79 +681,79 @@
 #Formosa (24000/6000 POPS) #now part of Argentina
 2366 = {
 	aristocrats = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 75
 	}
 
 	clergymen = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 75
 	}
 
 	soldiers = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size= 50
 
 	}
 
 	farmers = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 4575
 	}
 
 	bureaucrats = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 2
 	}
 
 	clergymen = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 23
 	}
 
 	soldiers = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size= 25
 
 	}
 
 	farmers = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 900
 	}
 }
 #Xolotas (20000/5000 POPS) #now part of Argentina
 2367 = {
 	aristocrats = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 75
 	}
 
 	clergymen = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 75
 	}
 
 	soldiers = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size= 50
 
 	}
 
 	farmers = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 4575
 	}
 }
@@ -763,43 +763,43 @@
 1714 = {
 	aristocrats = {
 		culture = aimara
-		religion = inti
+		religion = catholic
 		size = 5
 	}
 
 	bureaucrats = {
 		culture = aimara
-		religion = inti
+		religion = catholic
 		size = 15
 	}
 
 	clergymen = {
 		culture = aimara
-		religion = inti
+		religion = catholic
 		size = 10
 	}
 	
 	artisans = {
 		culture = aimara
-		religion = inti
+		religion = catholic
 		size = 10
 	}
 
 	soldiers = {
 		culture = aimara
-		religion = inti
+		religion = catholic
 		size = 60
 	}
 
 	farmers = {
 		culture = aimara
-		religion = inti
+		religion = catholic
 		size = 300
 	}
 	
 	farmers = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 200
 	}
 }
@@ -807,232 +807,232 @@
 #Salta (16000/4000 POPS)
 2368 = {
 	aristocrats = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 175
 	}
 
 	bureaucrats = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 215
 	}
 
 	officers = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 110
 	}
 
 	clergymen = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 250
 	}
 
 	artisans = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 6500
 	}
 
 	soldiers = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 1500
 	}
 
 	farmers = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 12000
 	}
 
 	aristocrats = {
 		culture = aimara
-		religion = inti
+		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
 		culture = aimara
-		religion = inti
+		religion = catholic
 		size = 200
 	}
 
 	artisans = {
 		culture = aimara
-		religion = inti	
+		religion = catholic	
 		size = 3400
 	}
 
 	soldiers = {
 		culture = aimara
-		religion = inti
+		religion = catholic
 		size= 3000
 
 	}
 
 	farmers = {
 		culture = aimara
-		religion = inti
+		religion = catholic
 		size = 22300
 	}
 }
 #Jujuy (8000/2000 POPS)
 2369 = {
 	aristocrats = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 25
 	}
 
 	clergymen = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 150
 	}
 
 	artisans = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 3800
 	}
 
 	farmers = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 8700
 	}
 
 	aristocrats = {
 		culture = aimara
-		religion = inti	
+		religion = catholic	
 		size = 50
 	}
 
 	clergymen = {
 		culture = aimara
-		religion = inti
+		religion = catholic
 		size = 100
 	}
 
 	artisans = {
 		culture = aimara
-		religion = inti
+		religion = catholic
 		size = 4400
 	}
 
 	soldiers = {
 		culture = aimara
-		religion = inti
+		religion = catholic
 		size= 500
 	}
 
 	farmers = {
 		culture = aimara
-		religion = inti
+		religion = catholic
 		size = 10900
 	}
 }
 #Cochinoca (4000/1000 POPS)
 2370 = {
 	aristocrats = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 150
 	}
 
 	clergymen = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 125
 	}
 
 	soldiers = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size= 500
 
 	}
 
 	artisans = {
-		culture = quechua
-		religion = inti	
+		culture = aimara
+		religion = catholic	
 		size = 1200
 	}
 
 	farmers = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 16400
 	}
 
 	clergymen = {
 		culture = aimara
-		religion = inti	
+		religion = catholic	
 		size = 250
 	}
 
 	artisans =  {
 		culture = aimara
-		religion = inti
+		religion = catholic
 		size = 2300
 	}
 
 	farmers = {
 		culture = aimara
-		religion = inti
+		religion = catholic
 		size = 23600
 	}
 }
 #Equia (4000/1000 POPS)
 2371 = {
 	aristocrats = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 145
 	}
 
 	clergymen = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 325
 	}
 
 	soldiers = {
 		culture = aimara
-		religion = inti
+		religion = catholic
 		size= 250
 	}
 
 	clergymen = {	
 		culture = aimara
-		religion = inti
+		religion = catholic
 		size = 100
 	}
 
 	artisans = {
 		culture = aimara
-		religion = inti
+		religion = catholic
 		size = 2300
 	}
 
 	farmers = {
 		culture = aimara
-		religion = inti
+		religion = catholic
 		size = 18000
 	}
 
 	artisans = {	
-		culture = quechua
-		religion = inti	
+		culture = aimara
+		religion = catholic	
 		size = 1200
 	}
 
 	farmers = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 10400
 	}
 
@@ -1040,51 +1040,51 @@
 #Rivadavia (4000/1000 POPS)
 2372 = {
 	aristocrats = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 15
 	}
 
 	clergymen = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 225
 	}
 
 	clergymen = {
 		culture = aimara
-		religion = inti
+		religion = catholic
 		size = 225
 	}
 
 	artisans = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 1000
 	}
 
 	artisans = {
 		culture = aimara
-		religion = inti	
+		religion = catholic	
 		size = 2000
 	}
 
 	soldiers = {
 		culture = aimara
-		religion = inti
+		religion = catholic
 		size= 10
 
 	}
 
 	farmers = {
 		culture = aimara
-		religion = inti
+		religion = catholic
 		size = 9500
 	}
 
 	farmers = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 6400
 	}
 }
@@ -1093,122 +1093,122 @@
 #Tucuman (20000/5000 POPS)
 2373 = {
 	aristocrats = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 100
 	}
 
 	bureaucrats = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 150
 	}
 
 	officers = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
 		culture = aimara
-		religion = inti
+		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 2500
 	}
 
 	soldiers = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 1200
 	}
 
 	soldiers = {
 		culture = aimara
-		religion = inti
+		religion = catholic
 		size= 3000
 	}
 
 	farmers = {
 		culture = aimara
-		religion = inti
+		religion = catholic
 		size = 18225
 	}
 
 	farmers = {	
-		culture = quechua
-		religion = inti	
+		culture = aimara
+		religion = catholic	
 		size = 4700
 	}
 }
 #Catamarca (12000/3000 POPS)
 2374 = {
 	aristocrats = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
 		culture = aimara
-		religion = inti
+		religion = catholic
 		size = 275
 	}
 
 	artisans = {
 		culture = aimara
-		religion = inti
+		religion = catholic
 		size = 3200
 	}
 
 	soldiers = {
 		culture = aimara
-		religion = inti
+		religion = catholic
 		size= 25
 
 	}
 
 	farmers = {
 		culture = aimara
-		religion = inti
+		religion = catholic
 		size = 22700
 	}
 }
 #Vinchina (4000/1000 POPS)
 2375 = {
 	aristocrats = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 15
 	}
 
 	clergymen = {
 		culture = aimara
-		religion = inti
+		religion = catholic
 		size = 125
 	}
 
 	artisans = {
 		culture = aimara
-		religion = inti
+		religion = catholic
 		size = 4500
 	}
 
 	soldiers = {
 		culture = aimara
-		religion = inti
+		religion = catholic
 		size= 10
 
 	}
 
 	farmers = {
 		culture = aimara
-		religion = inti
+		religion = catholic
 		size = 14900
 	}
 }
@@ -1218,62 +1218,62 @@
 2376 = {
 	aristocrats = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 75
 	}
 
 	bureaucrats = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 10
 	}
 
 	officers = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 25
 	}
 
 	soldiers = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size= 50
 
 	}
 
 	farmers = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 1005
 	}
 
 	farmers = {
-		culture = quechua
-		religion = protestant
+		culture = aimara
+		religion = catholic
 		size = 300
 	}
 
 	farmers = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 700
 	}
 
 	farmers = {
 		culture = aimara
-		religion = inti
+		religion = catholic
 		size = 1600
 	}
 }
@@ -1281,45 +1281,45 @@
 2377 = {
 	clergymen = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 25
 	}
 
 	soldiers = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size= 25
 
 	}
 
 	farmers = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 900
 	}
 
 	aristocrats = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 75
 	}
 
 	soldiers = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size= 25
 
 	}
 
 	farmers = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 2700
 	}
 }
@@ -1327,32 +1327,32 @@
 2378 = {
 	aristocrats = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 25
 	}
 
 	clergymen = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size= 25
 
 	}
 
 	farmers = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 500
 	}
 
 	farmers = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 1300
 	}
 }
@@ -1362,63 +1362,63 @@
 2379 = {
 	aristocrats = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 425
 	}
 
 	bureaucrats = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 40
 	}
 
 	officers = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 35
 	}
 
 	clergymen = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 150
 	}
 
 	clergymen = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 3000
 	}
 
 	soldiers = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size= 3000
 
 	}
 
 	soldiers = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size= 2000
 
 	}
 
 	farmers = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 4300
 	}
 
 	farmers = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 6000
 	}
 }
@@ -1426,32 +1426,32 @@
 2380 = {
 	aristocrats = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 25
 	}
 
 	clergymen = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size= 125
 
 	}
 
 	farmers = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 1000
 	}
 
 	farmers = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 800
 	}
 }
@@ -1459,26 +1459,26 @@
 2381 = {
 	aristocrats = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 25
 	}
 
 	clergymen = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size= 125
 
 	}
 
 	farmers = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 1800
 	}
 }
@@ -1486,26 +1486,26 @@
 2383 = {
 	aristocrats = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 25
 	}
 
 	clergymen = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size= 125
 
 	}
 
 	farmers = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 1800
 	}
 }
@@ -1514,26 +1514,26 @@
 2382 = {
 	clergymen = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 125
 	}
 
 	soldiers = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size= 300
 
 	}
 
 	farmers = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 4525
 	}
 
 	aristocrats = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 50
 	}
 }
@@ -1541,26 +1541,26 @@
 2384 = {
 	clergymen = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size= 130
 
 	}
 
 	farmers = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 1800
 	}
 
 	aristocrats = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 10
 	}
 }
@@ -1570,44 +1570,44 @@
 2385 = {
 	aristocrats = {
 		culture = aimara
-		religion = inti
+		religion = catholic
 		size = 175
 	}
 
 	bureaucrats = {
 		culture = aimara
-		religion = inti
+		religion = catholic
 		size = 215
 	}
 
 	officers = {
 		culture = aimara
-		religion = inti
+		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
 		culture = aimara
-		religion = inti
+		religion = catholic
 		size = 250
 	}
 
 	artisans = {
 		culture = aimara
-		religion = inti	
+		religion = catholic	
 		size = 2500
 	}
 
 	soldiers = {
 		culture = aimara
-		religion = inti
+		religion = catholic
 		size= 250
 
 	}
 
 	farmers = {
 		culture = aimara
-		religion = inti
+		religion = catholic
 		size = 13700
 	}
 }
@@ -1615,32 +1615,32 @@
 2386 = {
 	aristocrats = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 25
 	}
 
 	clergymen = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size= 125
 
 	}
 
 	farmers = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 900
 	}
 
 	farmers = {
 		culture = aimara
-		religion = inti
+		religion = catholic
 		size = 900
 	}
 }
@@ -1648,31 +1648,31 @@
 2387 = {
 	aristocrats = {
 		culture = aimara
-		religion = inti
+		religion = catholic
 		size = 150
 	}
 
 	clergymen = {
 		culture = aimara
-		religion = inti
+		religion = catholic
 		size = 175
 	}
 
 	artisans = {
 		culture = aimara
-		religion = inti
+		religion = catholic
 		size = 4500
 	}
 
 	soldiers = {
 		culture = aimara
-		religion = inti
+		religion = catholic
 		size= 1500
 	}
 
 	farmers = {
 		culture = aimara
-		religion = inti
+		religion = catholic
 		size = 22700
 	}
 }
@@ -1680,33 +1680,33 @@
 2388 = {
 	aristocrats = {
 		culture = aimara
-		religion = inti
+		religion = catholic
 		size = 15
 	}
 
 	clergymen = {
 		culture = aimara
-		religion = inti
+		religion = catholic
 		size = 125
 	}
 
 
 	artisans = {
 		culture = aimara
-		religion = inti
+		religion = catholic
 		size = 3200
 	}
 
 	soldiers = {
 		culture = aimara
-		religion = inti
+		religion = catholic
 		size= 900
 
 	}
 
 	farmers = {
 		culture = aimara
-		religion = inti
+		religion = catholic
 		size = 10900
 	}
 }
@@ -1716,43 +1716,43 @@
 2389 = {
 	aristocrats = {
 		culture = aimara
-		religion = inti
+		religion = catholic
 		size = 250
 	}
 
 	bureaucrats = {
 		culture = aimara
-		religion = inti
+		religion = catholic
 		size = 250
 	}
 
 	officers = {
 		culture = aimara
-		religion = inti
+		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
 		culture = aimara
-		religion = inti
+		religion = catholic
 		size = 375
 	}
 
 	artisans = {
 		culture = aimara
-		religion = inti
+		religion = catholic
 		size = 6700
 	}
 
 	soldiers = {
 		culture = aimara
-		religion = inti
+		religion = catholic
 		size= 900
 	}
 
 	farmers = {
 		culture = aimara
-		religion = inti
+		religion = catholic
 		size = 42660
 	}
 }
@@ -1760,32 +1760,32 @@
 2390 = {
 	aristocrats = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 25
 	}
 
 	clergymen = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size= 125
 
 	}
 
 	farmers = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 1200
 	}
 
 	farmers = {
 		culture = aimara
-		religion = inti
+		religion = catholic
 		size = 600
 	}
 }
@@ -1793,27 +1793,27 @@
 #Neuquen (12000/3000 POPS)
 2391 = {
 	aristocrats = {
-		culture = patagonian
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 25
 	}
 
 	clergymen = {
-		culture = patagonian
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 75
 	}
 
 	soldiers = {
-		culture = patagonian
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size= 200
 
 	}
 
 	farmers = {
-		culture = patagonian
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 2700
 	}
 }
@@ -1823,27 +1823,27 @@
 #Viedma (12000/3000 POPS)
 2392 = {
 	aristocrats = {
-		culture = patagonian
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
-		culture = patagonian
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 75
 	}
 
 	soldiers = {
-		culture = patagonian
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size= 175
 
 	}
 
 	farmers = {
-		culture = patagonian
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 2700
 	}
 }
@@ -1851,58 +1851,58 @@
 2393 = {
 	aristocrats = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 75
 	}
 
 	soldiers = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size= 175
 
 	}
 
 	farmers = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 1700
 	}
 
 	farmers = {
-		culture = patagonian
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 1000
 	}
 }
 #Bariloche (16000/4000 POPS)
 2394 = {
 	aristocrats = {
-		culture = patagonian
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 75
 	}
 
 	clergymen = {
-		culture = patagonian
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 75
 	}
 
 	soldiers = {
-		culture = patagonian
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size= 325
 	}
 
 	farmers = {
-		culture = patagonian
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 4575
 	}
 }
@@ -1910,32 +1910,32 @@
 2395 = {
 	aristocrats = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 75
 	}
 
 	soldiers = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size= 175
 
 	}
 
 	farmers = {
 		culture = beornian
-		religion = protestant
+		religion = catholic
 		size = 1600
 	}
 
 	farmers = {
-		culture = patagonian
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 1100
 	}
 }
@@ -1944,135 +1944,135 @@
 #Rawson (4000/1000 POPS)
 2396 = {
 	aristocrats = {
-		culture = patagonian
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
-		culture = patagonian
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 25
 	}
 
 	soldiers = {
-		culture = patagonian
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size= 65
 
 	}
 
 	farmers = {
-		culture = patagonian
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 900
 	}
 }
 #Esquel (4000/1000 POPS)
 2397 = {
 	aristocrats = {
-		culture = patagonian
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
-		culture = patagonian
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 25
 	}
 
 	soldiers = {
-		culture = patagonian
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size= 65
 
 	}
 
 	farmers = {
-		culture = patagonian
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 900
 	}
 }
 #Puerto Deseado (4000/1000 POPS)
 2398 = {
 	aristocrats = {
-		culture = patagonian
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
-		culture = patagonian
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 25
 	}
 
 	soldiers = {
-		culture = patagonian
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size= 65
 
 	}
 
 	farmers = {
-		culture = patagonian
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 900
 	}
 }
 #Rio Gallegos (4000/1000 POPS)
 2399 = {
 	aristocrats = {
-		culture = patagonian
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
-		culture = patagonian
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 25
 	}
 
 	soldiers = {
-		culture = patagonian
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size= 65
 
 	}
 
 	farmers = {
-		culture = patagonian
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 900
 	}
 }
 #Rio Grande (4000/1000 POPS)
 2400 = {
 	aristocrats = {
-		culture = patagonian
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
-		culture = patagonian
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 25
 	}
 
 	soldiers = {
-		culture = patagonian
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size= 65
 
 	}
 
 	farmers = {
-		culture = patagonian
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 900
 	}
 }
@@ -2082,45 +2082,45 @@
 2554 = {
 	clergymen = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size = 75
 	}
 
 	soldiers = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size= 25
 
 	}
 
 	farmers = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size = 900
 	}
 
 	aristocrats = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 75
 	}
 
 	soldiers = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size= 175
 
 	}
 
 	farmers = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 2700
 	}
 

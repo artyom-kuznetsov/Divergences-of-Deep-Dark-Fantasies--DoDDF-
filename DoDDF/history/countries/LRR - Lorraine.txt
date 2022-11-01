@@ -1,7 +1,7 @@
 capital = 411
 primary_culture = burgundian
 culture = rheinish
-religion = protestant
+religion = catholic
 government = democracy
 plurality = 0.0
 nationalvalue = nv_equality
@@ -36,7 +36,7 @@ child_labor = child_labor_legal
 citizens_rights = primary_culture_only
 border_policy = open_borders
 
-set_country_flag = protestant_country
+set_country_flag = catholic_country
 
 ruling_party = AAA_liberal_5
 upper_house = {

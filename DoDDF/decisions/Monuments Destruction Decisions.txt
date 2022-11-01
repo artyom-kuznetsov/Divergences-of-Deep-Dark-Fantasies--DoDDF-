@@ -3,7 +3,7 @@ political_decisions = {
         picture = build_the_eiffel_tower
         potential = {
             FRA = { has_country_flag = eiffel_tower_built }
-            is_greater_power = yes
+          #  is_greater_power = yes
             425 = {
                 has_province_modifier = the_eiffel_tower
                 controlled_by = THIS
@@ -63,7 +63,7 @@ political_decisions = {
         picture = destroy_westminster
         potential = {
             ENG = { has_country_flag = big_ben_construction }
-            is_greater_power = yes
+         #   is_greater_power = yes
             300 = {
                 has_province_modifier = the_big_ben
                 controlled_by = THIS

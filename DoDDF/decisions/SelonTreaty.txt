@@ -11,7 +11,7 @@ political_decisions = {
             NOT = { has_global_flag = DVG_infamy }
         }
         allow = {
-            is_greater_power = yes
+         #   is_greater_power = yes
             NOT = { war = yes }
             SPA = { is_greater_power = no }
             SPC = { exists = no }
@@ -35,7 +35,7 @@ political_decisions = {
             NOT = { has_global_flag = selon_treaty }
         }
         allow = {
-            is_greater_power = yes
+        #    is_greater_power = yes
             war = no
 			nationalism_n_imperialism = 1
         }

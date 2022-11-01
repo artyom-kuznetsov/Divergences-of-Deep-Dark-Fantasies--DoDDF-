@@ -16,7 +16,7 @@ country_event = {
             who = HUN
             value = 50
         }
-        prestige = -20
+        prestige = -10
         FROM = { country_event = 265402 }
         ai_chance = {
             factor = 10

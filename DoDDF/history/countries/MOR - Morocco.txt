@@ -2,7 +2,7 @@ capital = 1680
 primary_culture = castilian
 culture = berber
 culture = maghrebi
-religion = sunni
+religion = catholic
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
@@ -47,7 +47,7 @@ upper_house = {
 	communist = 0
 }
 
-set_country_flag = sunni_country
+set_country_flag = catholic_country
 
 govt_flag = {
 	government = hms_government

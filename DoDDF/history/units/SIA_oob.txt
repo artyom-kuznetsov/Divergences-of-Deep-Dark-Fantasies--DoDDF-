@@ -1,18 +1,3 @@
-leader = {
-	name = "Rama VII"
-	type = land
-	date = 1836.1.1
-	personality = romantic
-	background = warmonger
-}
-
-leader = {
-	name = "Surayud Chulanont"
-	type = land
-	date = 1836.1.1
-	personality = romantic
-	background = powerful_friends
-}
 
 army = {
 	name = "Royal Siamese Army"

@@ -1,6 +1,6 @@
 capital = 313
 primary_culture = norwegian
-religion = protestant
+religion = catholic
 government = hms_government
 plurality = 0.0
 nationalvalue = nv_equality
@@ -35,7 +35,7 @@ child_labor = child_labor_legal
 citizens_rights = primary_culture_only
 border_policy = open_borders
 
-set_country_flag = protestant_country
+set_country_flag = catholic_country
 
 ruling_party = NOR_conservative
 last_election = 1833.1.1
@@ -134,7 +134,7 @@ school_reforms = low_schools
 	stock_exchange = 1
 	business_banks = 1
 	no_standard = 1
-	ad_hoc_money_bill_printing = 1
+	ad_hoc_money_bill_prcatholicng = 1
 	early_classical_theory_and_critique = 1
 	late_classical_theory = 1
 	freedom_of_trade = 1

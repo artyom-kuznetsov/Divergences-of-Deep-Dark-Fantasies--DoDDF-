@@ -5,7 +5,7 @@ culture = telegu
 culture = marathi
 culture = rajput
 culture = gujarati
-religion = sunni
+religion = catholic
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
@@ -57,7 +57,7 @@ foreign_artillery = yes_foreign_artillery
 admin_reform = yes_admin_reform
 monetary_reform = yes_monetary_reform
 
-set_country_flag = sunni_country
+set_country_flag = catholic_country
 
 # Technologies
 flintlock_rifles = 1

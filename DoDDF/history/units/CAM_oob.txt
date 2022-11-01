@@ -1,10 +1,3 @@
-leader = {
-	name = "Ponhea Yat"
-	type = land
-	date = 1836.1.1
-	personality = unsound
-	background = war_college
-}
 
 army = {
 	name = "Imperial Khmer Army"

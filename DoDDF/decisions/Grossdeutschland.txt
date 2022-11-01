@@ -58,7 +58,7 @@ political_decisions = {
         picture = Reich_kaiser
         potential = {
             tag = BOH
-            is_greater_power = yes
+          #  is_greater_power = yes
             NOT = { has_global_flag = liberal_revolutions_should_now_fire }
         }
 
@@ -110,7 +110,7 @@ political_decisions = {
         }
 
         allow = {
-            is_greater_power = yes
+          #  is_greater_power = yes
             state_n_government = 1
         }
 
@@ -141,7 +141,7 @@ political_decisions = {
         }
 
         allow = {
-            is_greater_power = yes
+          #  is_greater_power = yes
             OR = {
                 AND = {
                     HOL = {
@@ -442,7 +442,7 @@ political_decisions = {
         }
 
         allow = {
-            is_greater_power = yes
+         #   is_greater_power = yes
             war_policy = jingoism
             military_score = 75
             NOT = { has_recently_lost_war = yes }
@@ -474,7 +474,7 @@ political_decisions = {
         }
 
         allow = {
-            is_greater_power = yes
+          #  is_greater_power = yes
             war = no
             CAE = {
                 all_core = { owned_by = THIS }
@@ -506,7 +506,7 @@ political_decisions = {
         }
 
         allow = {
-            is_greater_power = yes
+          #  is_greater_power = yes
             war = no
             CAE = {
                 all_core = { owned_by = THIS }
@@ -535,7 +535,7 @@ political_decisions = {
         }
 
         allow = {
-            is_greater_power = yes
+       #     is_greater_power = yes
             war = no
             CAE = {
                 all_core = { owned_by = THIS }
@@ -574,7 +574,7 @@ political_decisions = {
         }
 
         allow = {
-            is_greater_power = yes
+        #    is_greater_power = yes
             war = no
             NOT = { has_recently_lost_war = yes }
             revolution_n_counterrevolution = 1
@@ -801,7 +801,7 @@ political_decisions = {
         }
 
         allow = {
-            is_greater_power = yes
+        #    is_greater_power = yes
             war = no
             NOT = { has_recently_lost_war = yes }
             revolution_n_counterrevolution = 1

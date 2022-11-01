@@ -1,6 +1,6 @@
 capital = 1426
 primary_culture = tionghoa
-religion = mahayana
+religion = catholic
 government = democracy
 plurality = 0.0
 nationalvalue = nv_order
@@ -35,7 +35,7 @@ child_labor = child_labor_legal
 citizens_rights = culture_voting_only
 border_policy = quota_immigration
 
-set_country_flag = mahayana_country
+set_country_flag = catholic_country
 
 ruling_party = AAA_conservative_3
 upper_house = {

@@ -2,7 +2,7 @@ capital = 2061
 primary_culture = swahili
 culture = makua
 culture = yao
-religion = sunni
+religion = catholic
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_order
@@ -47,7 +47,7 @@ upper_house = {
 	communist = 0
 }
 
-set_country_flag = sunni_country
+set_country_flag = catholic_country
 set_country_flag = lacking_writing_system
 
 # Starting Consciousness

@@ -3,25 +3,25 @@
 253 = {
 	bureaucrats = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size = 15
 	}
 
 	clergymen = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size = 75
 	}
 
 	artisans = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size = 135
 	}
 
 	farmers = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size = 1575
 	}
 
@@ -31,49 +31,49 @@
 366 = {
 	aristocrats = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size = 500
 	}
 
 	bureaucrats = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size = 350
 	}
 
 	officers = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size = 200
 	}
 
 	clergymen = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size = 375
 	}
 
 	artisans = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size = 10000
 	}
 
 	soldiers = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size = 2500
 	}
 
 	farmers = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size = 48075
 	}
 	
 	artisans = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 226
 	}
 }
@@ -82,31 +82,31 @@
 367 = {
 	aristocrats = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size = 250
 	}
 
 	clergymen = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size = 250
 	}
 
 	artisans = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size = 7000
 	}
 
 	soldiers = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size = 14500
 	}
 }
@@ -116,31 +116,31 @@
 368 = {
 	aristocrats = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size = 250
 	}
 
 	clergymen = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size = 250
 	}
 
 	artisans = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size = 1100 
 	}
 
 	soldiers = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size = 23400 
 	}
 
@@ -150,27 +150,27 @@
 2557 = {
 	artisans = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size = 1100
 	}
 	clergymen = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size = 125
 	}
 	soldiers = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size = 1100
 	}
 	aristocrats = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size = 250
 	}
 	farmers = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size = 23550
 	}
 }
@@ -181,81 +181,81 @@
 370 = {
 	bureaucrats = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size = 180
 	}
 
 	clergymen = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size = 225
 	}
 
 	artisans = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size = 5500
 	}
 
 	soldiers = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size= 3000
 
 	}
 
 	soldiers = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size = 1500
 	}
 	
 	farmers = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size = 34025
 	}
 
 	aristocrats = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size = 650
 	}
 
 	bureaucrats = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 20
 	}
 
 	officers = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size = 150
 	}
 
 	clergymen = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 150
 	}
 
 	artisans = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 2500
 	}
 
 	soldiers = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size= 1500
 
 	}
 
 	farmers = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 14850
 	}
 }
@@ -263,32 +263,32 @@
 371 = {
 	clergymen = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size = 175
 	}
 
 	artisans = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size = 1350
 	}
 
 	soldiers = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size= 300
 
 	}
 
 	farmers = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size = 23175
 	}
 
 	aristocrats = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
@@ -298,113 +298,113 @@
 372 = {
 	aristocrats = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size = 2250
 	}
 
 	bureaucrats = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size = 1500
 	}
 
 	capitalists = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size = 1300
 	}
 
 	officers = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size = 1500
 	}
 
 	clergymen = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size = 2750
 	}
 
 	artisans = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size = 10000
 	}
 	
 	artisans = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size = 10000
 	}
 	
 	artisans = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size = 10000
 	}
 
 	artisans = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size = 7000
 	}
 	
 	craftsmen = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size = 56000
 	}
 
 	soldiers = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size= 3000
 
 	}
 
 	soldiers = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size= 3000
 
 	}
 
 	soldiers = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size= 3000
 
 	}
 
 	soldiers = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size= 3000
 
 	}
 
 	soldiers = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size = 3000
 	}
 	
 	soldiers = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size = 3000
 	}
 	
 	farmers = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size = 87000
 	}
 
 	artisans = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 5100
 	}
 }
@@ -412,46 +412,46 @@
 373 = {
 	aristocrats = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size = 500
 	}
 
 	clergymen = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size = 250
 	}
 
 	artisans = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size = 3000
 	}
 
 	soldiers = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size= 3000
 
 	}
 
 	soldiers = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size= 3000
 
 	}
 
 	soldiers = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size= 1000
 
 	}
 
 	farmers = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size = 41250
 	}
 }
@@ -459,26 +459,26 @@
 374 = {
 	clergymen = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size = 400
 	}
 
 	soldiers = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size= 50
 
 	}
 
 	farmers = {
 		culture = scandinavian
-		religion = protestant
+		religion = catholic
 		size = 3500
 	}
 

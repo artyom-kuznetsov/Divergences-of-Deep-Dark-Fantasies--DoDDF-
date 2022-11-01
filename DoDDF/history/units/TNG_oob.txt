@@ -1,26 +1,3 @@
-leader = {
-	name = "Zheng Jing"
-	type = land
-	date = 1836.1.1
-	personality = undisciplined
-	background = cavalry_school
-}   
-leader = {
-	name = "Li Zicheng"
-	type = land
-	date = 1836.1.1
-	personality = choleric
-	background = womanizer
-}
-
-
-leader = {
-	name = "Zheng Keshuang"
-	type = sea
-	date = 1836.1.1
-	personality = shrinking_violet
-	background = aristocrat
-}
 
 army = {
 	name = "Army of the Phoenix Emperor"

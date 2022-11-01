@@ -35,7 +35,7 @@ insurance_companies = {
             slavery = no_slavery
         }
     }
-    effect = { tax_eff = 1 }
+    effect = { tax_eff = 1 activate_building = province_selector }
 }
 regulated_buying_and_selling_of_stocks = {
     limit = {

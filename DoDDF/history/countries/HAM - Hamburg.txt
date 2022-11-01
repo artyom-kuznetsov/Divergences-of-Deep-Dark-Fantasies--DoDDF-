@@ -1,6 +1,6 @@
 capital = 528
 primary_culture = north_german
-religion = protestant
+religion = catholic
 government = democracy
 plurality = 25.0
 nationalvalue = nv_liberty
@@ -36,7 +36,7 @@ child_labor = child_labor_legal
 citizens_rights = culture_voting_only
 border_policy = open_borders
 
-set_country_flag = protestant_country
+set_country_flag = catholic_country
 
 ruling_party = HAM_conservative_2
 upper_house = {
@@ -131,7 +131,7 @@ oob = "HAM_oob.txt"
 	stock_exchange = 1
 	business_banks = 1
 	no_standard = 1
-	ad_hoc_money_bill_printing = 1
+	ad_hoc_money_bill_prcatholicng = 1
 	early_classical_theory_and_critique = 1
 	late_classical_theory = 1
 	freedom_of_trade = 1

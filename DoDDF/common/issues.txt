@@ -428,14 +428,14 @@ political_reforms = {
     conscription = {
         next_step_only = yes
         mandatory_service = {
-            mobilisation_size = 0.06
+            mobilisation_size = 0.04
             mobilisation_economy_impact = 1
             land_unit_start_experience = 10
             global_immigrant_attract = -0.1
             education_efficiency_modifier = -0.01
         }
         four_year_draft = {
-            mobilisation_size = 0.04
+            mobilisation_size = 0.03
             mobilisation_economy_impact = 0.1
             land_unit_start_experience = 5
             global_immigrant_attract = -0.05

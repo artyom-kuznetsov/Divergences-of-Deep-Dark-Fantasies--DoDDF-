@@ -4838,7 +4838,7 @@ country_event = {
                 owner = { has_country_flag = change_to_protestant }
             }
             owner = {
-                religion = protestant
+                religion = catholic
                 set_country_flag = protestant_country
                 clr_country_flag = change_to_protestant
                 FROM = {
@@ -4858,7 +4858,7 @@ country_event = {
                 owner = { has_country_flag = change_to_orthodox }
             }
             owner = {
-                religion = orthodox
+                religion = catholic
                 set_country_flag = orthodox_country
                 clr_country_flag = change_to_orthodox
                 FROM = {
@@ -4878,7 +4878,7 @@ country_event = {
                 owner = { has_country_flag = change_to_sunni }
             }
             owner = {
-                religion = sunni
+                religion = catholic
                 set_country_flag = sunni_country
                 clr_country_flag = change_to_sunni
                 FROM = {

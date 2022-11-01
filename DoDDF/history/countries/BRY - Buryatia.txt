@@ -1,6 +1,6 @@
 capital = 2670
 primary_culture = mongol
-religion = gelugpa
+religion = catholic
 government = absolute_monarchy
 plurality = 0.02
 nationalvalue = nv_order
@@ -34,7 +34,7 @@ child_labor = child_labor_legal
 citizens_rights = primary_culture_only
 border_policy = open_borders
 
-set_country_flag = gelugpa_country
+set_country_flag = catholic_country
 
 ruling_party = BRY_conservative
 upper_house = {

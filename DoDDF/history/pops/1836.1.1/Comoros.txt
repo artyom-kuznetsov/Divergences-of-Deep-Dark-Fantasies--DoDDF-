@@ -4,67 +4,67 @@
 2123 = {
 	aristocrats = {
 		culture = kilombero
-		religion = sunni
+		religion = catholic
 		size = 150
 	}
 
 	clergymen = {
 		culture = kilombero
-		religion = sunni
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
 		culture = kilombero
-		religion = sunni
+		religion = catholic
 		size = 325
 	}
 
 	soldiers = {
 		culture = kilombero
-		religion = sunni
+		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
 		culture = kilombero
-		religion = sunni
+		religion = catholic
 		size = 3425
 	}
 
 	aristocrats = {
 		culture = kilombero
-		religion = sunni
+		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
 		culture = kilombero
-		religion = sunni
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
 		culture = kilombero
-		religion = sunni
+		religion = catholic
 		size = 300
 	}
 
 	soldiers = {
 		culture = kilombero
-		religion = sunni
+		religion = catholic
 		size = 50
 	}
 
 	farmers = {
 		culture = kilombero
-		religion = sunni
+		religion = catholic
 		size = 8219
 	}
 
 	slaves = {
 		culture = kilombero
-		religion = animist
+		religion = catholic
 		size = 281
 	}
 }
@@ -72,67 +72,67 @@
 2124 = {
 	aristocrats = {
 		culture = kilombero
-		religion = sunni
+		religion = catholic
 		size = 15
 	}
 
 	clergymen = {
 		culture = kilombero
-		religion = sunni
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
 		culture = kilombero
-		religion = sunni
+		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
 		culture = kilombero
-		religion = sunni
+		religion = catholic
 		size = 10
 	}
 
 	farmers = {
 		culture = kilombero
-		religion = sunni
+		religion = catholic
 		size = 400
 	}
 
 	aristocrats = {
 		culture = kilombero
-		religion = sunni
+		religion = catholic
 		size = 15
 	}
 
 	clergymen = {
 		culture = kilombero
-		religion = sunni
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
 		culture = kilombero
-		religion = sunni
+		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
 		culture = kilombero
-		religion = sunni
+		religion = catholic
 		size = 10
 	}
 
 	farmers = {
 		culture = kilombero
-		religion = sunni
+		religion = catholic
 		size = 1340
 	}
 
 	slaves = {
 		culture = kilombero
-		religion = animist
+		religion = catholic
 		size = 60
 	}
 

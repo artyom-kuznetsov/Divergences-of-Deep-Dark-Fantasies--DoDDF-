@@ -2,7 +2,7 @@ capital = 1117
 primary_culture = lurish
 culture = kurdish
 culture = persian
-religion = shiite
+religion = catholic
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
@@ -35,7 +35,7 @@ child_labor = child_labor_legal
 citizens_rights = culture_voting_only
 border_policy = open_borders
 
-set_country_flag = shiite_country
+set_country_flag = catholic_country
 
 ruling_party = AAA_conservative_5
 upper_house = {

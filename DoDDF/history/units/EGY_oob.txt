@@ -1,18 +1,4 @@
-leader = {
-	name = "Saad Zaghlul"
-	type = land
-	date = 1836.1.1
-	personality = vicious
-	background = sad_sack
-}
 
-leader = {
-	name = "Mohammed Anwar El-Sadat"
-	type = land
-	date = 1836.1.1
-	personality = choleric
-	background = innovative_tactician
-}
 
 army = {
 	name = "Egyptian Army"

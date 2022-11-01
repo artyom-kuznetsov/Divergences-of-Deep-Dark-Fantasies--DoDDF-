@@ -58,13 +58,13 @@
 	}
 	clergymen = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 10
 	}
 
 	artisans = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 490
 	}
 }
@@ -102,13 +102,13 @@
 
 	clergymen = {
 		culture = provencal
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
 	farmers = {
 		culture = provencal
-		religion = protestant
+		religion = catholic
 		size = 20600
 	}
 }
@@ -233,13 +233,13 @@
 
 	clergymen = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 5
 	}
 
 	artisans = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 195
 	}
 }
@@ -338,13 +338,13 @@
 
 	clergymen = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 5
 	}
 
 	artisans = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 95
 	}
 }
@@ -505,13 +505,13 @@
 
 	clergymen = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 210
 	}
 
 	artisans = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 3490
 	}
 }
@@ -1211,13 +1211,13 @@
 
 	clergymen = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 10
 	}
 
 	artisans = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 490
 	}
 }
@@ -1262,13 +1262,13 @@
 
 	clergymen = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 1225
 	}
 }
@@ -1445,13 +1445,13 @@
 
 	clergymen = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 1375
 	}
 }
@@ -1941,13 +1941,13 @@
 	
 	farmers = {
 		culture = albanian
-		religion = orthodox
+		religion = catholic
 		size = 6000
 	}
 	
 	farmers = {
 		culture = greek
-		religion = orthodox
+		religion = catholic
 		size = 2000
 	}
 }
@@ -1992,7 +1992,7 @@
 	
 	farmers = {
 		culture = albanian
-		religion = orthodox
+		religion = catholic
 		size = 3550
 	}
 }
@@ -2107,7 +2107,7 @@
 	
 	farmers = {
 		culture = albanian
-		religion = orthodox
+		religion = catholic
 		size = 4450
 	}
 }
@@ -2151,7 +2151,7 @@
 	
 	farmers = {
 		culture = albanian
-		religion = orthodox
+		religion = catholic
 		size = 2000
 	}
 	
@@ -2190,7 +2190,7 @@
 	
 	farmers = {
 		culture = greek
-		religion = orthodox
+		religion = catholic
 		size = 1000
 	}
 }

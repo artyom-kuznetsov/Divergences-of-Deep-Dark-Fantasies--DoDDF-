@@ -90,57 +90,57 @@
 
 	clergymen = {
 		culture = hungarian
-		religion = protestant
+		religion = catholic
 		size = 125
 	}
 
 	artisans = {
 		culture = hungarian
-		religion = protestant
+		religion = catholic
 		size = 1100  
 	}
 
 	soldiers = {
 		culture = hungarian
-		religion = protestant
+		religion = catholic
 		size= 150
 
 	}
 
 	farmers = {
 		culture = hungarian
-		religion = protestant
+		religion = catholic
 		size = 14725    
 	}
 
 	clergymen = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 175  
 	}
 
 	artisans = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 10000 
 	}
 	
 	artisans = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 1100 
 	}
 
 	soldiers = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size= 200
 
 	}
 
 	farmers = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 8625  
 	}
 
@@ -222,26 +222,26 @@
 
 	clergymen = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 25  
 	}
 
 	artisans = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 1100 
 	}
 
 	soldiers = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size= 25
 
 	}
 
 	farmers = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 850    
 	}
 
@@ -336,51 +336,51 @@
 
 	clergymen = {
 		culture = hungarian
-		religion = protestant
+		religion = catholic
 		size = 50  
 	}
 
 	artisans = {
 		culture = hungarian
-		religion = protestant
+		religion = catholic
 		size = 400 
 	}
 
 	soldiers = {
 		culture = hungarian
-		religion = protestant
+		religion = catholic
 		size= 75
 
 	}
 
 	farmers = {
 		culture = hungarian
-		religion = protestant
+		religion = catholic
 		size = 7475    
 	}
 
 	clergymen = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 25  
 	}
 
 	artisans = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 1100 
 	}
 
 	soldiers = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size= 25
 
 	}
 
 	farmers = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 850    
 	}
 
@@ -444,26 +444,26 @@
 
 	clergymen = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 50  
 	}
 
 	artisans = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 1600  
 	}
 
 	soldiers = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size= 25
 
 	}
 
 	farmers = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 1325    
 	}
 }
@@ -553,51 +553,51 @@
 
 	clergymen = {
 		culture = hungarian
-		religion = protestant
+		religion = catholic
 		size = 175 
 	}
 
 	artisans = {
 		culture = hungarian
-		religion = protestant
+		religion = catholic
 		size = 1100 
 	}
 
 	soldiers = {
 		culture = hungarian
-		religion = protestant
+		religion = catholic
 		size= 200
 
 	}
 
 	farmers = {
 		culture = hungarian
-		religion = protestant
+		religion = catholic
 		size = 18525
 	}
 
 	clergymen = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 50  
 	}
 
 	artisans = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 1100 
 	}
 
 	soldiers = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size= 25
 
 	}
 
 	farmers = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 825    
 	}
 
@@ -640,26 +640,26 @@
 
 	clergymen = {
 		culture = ruthenian
-		religion = orthodox
+		religion = catholic
 		size = 75  
 	}
 
 	artisans = {
 		culture = ruthenian
-		religion = orthodox
+		religion = catholic
 		size = 400 
 	}
 
 	soldiers = {
 		culture = ruthenian
-		religion = orthodox
+		religion = catholic
 		size= 75
 
 	}
 
 	farmers = {
 		culture = ruthenian
-		religion = orthodox
+		religion = catholic
 		size = 8450
 	}
 
@@ -748,51 +748,51 @@
 
 	clergymen = {
 		culture = hungarian
-		religion = protestant
+		religion = catholic
 		size = 50  
 	}
 
 	artisans = {
 		culture = hungarian
-		religion = protestant
+		religion = catholic
 		size = 400 
 	}
 
 	soldiers = {
 		culture = hungarian
-		religion = protestant
+		religion = catholic
 		size= 75
 
 	}
 
 	farmers = {
 		culture = hungarian
-		religion = protestant
+		religion = catholic
 		size = 6475    
 	}
 
 	clergymen = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 50  
 	}
 
 	artisans = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 1100 
 	}
 
 	soldiers = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size= 25
 
 	}
 
 	farmers = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 825    
 	}
 }

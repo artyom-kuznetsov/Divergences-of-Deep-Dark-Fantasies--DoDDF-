@@ -1,10 +1,3 @@
-leader = {
-	name = "Shaka"
-	type = land
-	date = 1836.1.1
-	personality = fanatic
-	background = school_of_offense
-}
 
 army = {
 	name = "Impi of the Zulu"

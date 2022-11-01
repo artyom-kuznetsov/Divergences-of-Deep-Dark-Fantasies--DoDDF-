@@ -27,7 +27,6 @@ country_event = {
     }
     option = {
         name = "EVTOPTB20000" # decline
-        prestige_factor = -0.2
         ai_chance = { factor = 0 }
     }
 }
@@ -77,7 +76,6 @@ province_event = {
         name = "EVTOPTB20100" #
         ai_chance = { factor = 5 }
 
-        owner = { prestige_factor = -0.15 }
     }
 }
 
@@ -126,8 +124,6 @@ province_event = {
     option = {
         name = "EVTOPTB20101" # decline
         ai_chance = { factor = 30 }
-
-        owner = { prestige_factor = -0.1 }
     }
 }
 
@@ -172,8 +168,6 @@ country_event = {
     option = {
         name = "EVTOPTB20102" #
         ai_chance = { factor = 5 }
-
-        prestige_factor = -0.15
     }
 }
 
@@ -218,8 +212,6 @@ country_event = {
     option = {
         name = "EVTOPTB20103" #
         ai_chance = { factor = 5 }
-
-        prestige_factor = -0.15
     }
 }
 
@@ -384,7 +376,6 @@ province_event = {
     option = {
         name = "EVT20110OPTB"
         owner = {
-            prestige_factor = -0.1
             plurality = 1
             any_pop = {
                 limit = { is_primary_culture = yes }

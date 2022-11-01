@@ -11,7 +11,7 @@ culture = polynesian
 culture = malagasy
 culture = maori
 
-religion = sunni
+religion = catholic
 government = hms_government
 plurality = 0.0
 nationalvalue = nv_tradition

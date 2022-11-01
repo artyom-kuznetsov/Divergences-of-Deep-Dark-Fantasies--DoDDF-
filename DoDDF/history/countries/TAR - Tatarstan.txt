@@ -1,6 +1,6 @@
 capital = 1030
 primary_culture = crimean
-religion = sunni
+religion = catholic
 government = absolute_monarchy
 plurality = 0.03
 nationalvalue = nv_tradition
@@ -46,7 +46,7 @@ upper_house = {
 	communist = 0
 }
 
-set_country_flag = sunni_country
+set_country_flag = catholic_country
 
 # Unciv Reforms
 admin_reform = yes_admin_reform

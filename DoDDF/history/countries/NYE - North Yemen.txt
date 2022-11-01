@@ -1,7 +1,7 @@
 capital = 1178
 primary_culture = mashriqi
 culture = bedouin
-religion = shiite
+religion = catholic
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
@@ -51,7 +51,7 @@ govt_flag = {
 	flag = fascist_dictatorship
 }
 
-set_country_flag = shiite_country
+set_country_flag = catholic_country
 foreign_weapons = yes_foreign_weapons
 
 # Technologies

@@ -1,7 +1,7 @@
 capital = 2221
 primary_culture = beifaren
 culture = nanfaren
-religion = mahayana
+religion = catholic
 government = presidential_dictatorship
 plurality = 0.0
 nationalvalue = nv_tradition
@@ -34,7 +34,7 @@ child_labor = child_labor_legal
 citizens_rights = culture_voting_only
 border_policy = quota_immigration
 
-set_country_flag = mahayana_country
+set_country_flag = catholic_country
 
 ruling_party = MIG_reactionary
 upper_house = {

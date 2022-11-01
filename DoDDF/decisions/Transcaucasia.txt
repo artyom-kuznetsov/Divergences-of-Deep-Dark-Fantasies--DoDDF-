@@ -175,7 +175,7 @@ political_decisions = {
         }
         effect = {
             add_accepted_culture = north_caucasian
-            add_accepted_culture = avar			
+            add_accepted_culture = chechen			
             add_accepted_culture = chechen			
             add_accepted_culture = ingush
             add_accepted_culture = ossetian			

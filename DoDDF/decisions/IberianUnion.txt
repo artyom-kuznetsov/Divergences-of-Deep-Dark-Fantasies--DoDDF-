@@ -15,7 +15,7 @@ political_decisions = {
         allow = {
             NOT = { war = yes }
             prestige = 80
-            is_greater_power = yes
+            #is_greater_power = yes
             revolution_n_counterrevolution = 1
             NOT = { exists = ARI }
             SPA = {
@@ -66,7 +66,7 @@ political_decisions = {
         ai_will_do = { factor = 1 }
     }
 
-    integrate_navarra = {
+    integrate_nchechenra = {
         picture = euskadia
         potential = {
             tag = SPA

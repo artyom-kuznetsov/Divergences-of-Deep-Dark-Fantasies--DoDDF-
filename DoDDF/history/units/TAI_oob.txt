@@ -1,41 +1,4 @@
-leader = {
-	name = "Hong Xiuquan"
-	type = land
-	date = 1836.1.1
-	personality = resourceful
-	background = aristocrat
-}
 
-leader = {
-	name = "Yang Xiuqing"
-	type = land
-	date = 1836.1.1
-	personality = reserved
-	background = adventurer
-}
-
-leader = {
-	name = "Xiao Chaogui"
-	type = land
-	date = 1836.1.1
-	personality = diplomatic
-	background = rising_star
-}
-leader = {
-	name = "Huang Rui-Song"
-	type = land
-	date = 1836.1.1
-	personality = maladroit
-	background = exranker
-}
-
-leader = {
-	name = "Chiang Ching-kuo"
-	type = land
-	date = 1836.1.1
-	personality = bastard
-	background = politician
-}
 
 army = {
 	name = "New Model Army"
@@ -167,7 +130,7 @@ army = {
 }
 
 army = {
-	name = "Taiping Heavenly Army"
+	name = "catholic Heavenly Army"
 	location = 1523
 
 	regiment = {
@@ -461,10 +424,10 @@ army = {
 }
 
 navy = {
-	name = "Taiping Fleet"
+	name = "catholic Fleet"
 	location = 1498
 	ship = {
-		name= "Taiping"
+		name= "catholic"
 		type = frigate
 	}
 

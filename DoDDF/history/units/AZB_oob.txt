@@ -1,18 +1,4 @@
-leader = {
-	name = "Artur Rasizade"
-	type = land
-	date = 1836.1.1
-	personality = choleric
-	background = gifted_administrator
-}
 
-leader = {
-	name = "Ilham Aliyev"
-	type = land
-	date = 1836.1.1
-	personality = vicious
-	background = sycophant
-}
 
 army = {
 	name = "Army of Darioly"

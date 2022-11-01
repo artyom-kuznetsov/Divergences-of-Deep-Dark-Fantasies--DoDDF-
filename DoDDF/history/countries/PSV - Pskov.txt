@@ -1,6 +1,6 @@
 capital = 1006
 primary_culture = russian
-religion = orthodox
+religion = catholic
 government = presidential_dictatorship # Lord Protector assigned by Scandinavian Emperor
 plurality = 0.0
 nationalvalue = nv_order
@@ -35,7 +35,7 @@ child_labor = child_labor_legal
 citizens_rights = culture_voting_only
 border_policy = closed_borders
 
-set_country_flag = orthodox_country
+set_country_flag = catholic_country
 
 ruling_party = RUS_reactionary_1
 upper_house = {

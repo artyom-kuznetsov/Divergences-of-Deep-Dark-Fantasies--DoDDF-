@@ -7,25 +7,43 @@ political_decisions = {
             NOT = { has_country_flag = Italyrulezz }
         }
         allow = {
-            is_greater_power = yes
+            #is_greater_power = yes
             NOT = { war = yes }
             owns = 754 # Napoli
             owns = 762 # Palermo
             NOT = { exists = ITA }
-            OR = {
-                government = absolute_monarchy
-                government = prussian_constitutionalism
-                government = hms_government
-            }
             prestige = 50
-            ITA = {
-                all_core = {
-                    OR = {
-                        owned_by = THIS
-                        owner = { in_sphere = THIS }
-                    }
-                }
-            }
+            
+			749 = { 
+				OR = { 
+					owned_by = THIS
+					owner = { in_sphere = THIS }
+				}
+			}
+			744 = { 
+				OR = { 
+					owned_by = THIS
+					owner = { in_sphere = THIS }
+				}
+			}
+			742 = { 
+				OR = { 
+					owned_by = THIS
+					owner = { in_sphere = THIS }
+				}
+			}
+			739 = { 
+				OR = { 
+					owned_by = THIS
+					owner = { in_sphere = THIS }
+				}
+			}
+			724 = { 
+				OR = { 
+					owned_by = THIS
+					owner = { in_sphere = THIS }
+				}
+			}
         }
 
         effect = {
@@ -116,7 +134,7 @@ political_decisions = {
         picture = north_italy
         potential = {
             tag = ARI
-            is_greater_power = yes
+            #is_greater_power = yes
             LOM = { is_vassal = yes }
             NOT = { has_country_flag = waroveritaly }
             NOT = { has_country_flag = waroveritalyend }
@@ -198,7 +216,7 @@ political_decisions = {
 
         allow = {
             all_core = { owned_by = THIS }
-            is_greater_power = yes
+            #is_greater_power = yes
         }
 
         effect = {
@@ -227,7 +245,7 @@ political_decisions = {
 
         allow = {
             all_core = { owned_by = THIS }
-            rank = 4
+            #rank = 4
             revolution_n_counterrevolution = 1
         }
 
@@ -296,7 +314,7 @@ political_decisions = {
             tag = ARI
             has_country_flag = latin_empire
             PRV = { exists = yes }
-            is_greater_power = yes
+            #is_greater_power = yes
             NOT = {
                 458 = { owned_by = PRV }
             }

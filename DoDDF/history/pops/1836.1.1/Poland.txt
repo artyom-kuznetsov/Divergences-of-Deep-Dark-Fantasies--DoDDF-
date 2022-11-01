@@ -4,60 +4,60 @@
 546 = {
 	aristocrats = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 1250 
 	}
 
 	bureaucrats = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 1300
 	}
 
 	officers = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 350 
 	}
 
 	clergymen = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 1125
 	}
 
 	artisans = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 8250
 	}
 	craftsmen = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 20000
 	}
 	soldiers = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size= 3000
 
 	}
 
 	farmers = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 90425
 	}
 
 	clergymen = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 25 
 	}
 
 	artisans = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 975 
 	}
 
@@ -90,57 +90,57 @@
 679 = {
 	aristocrats = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 350 
 	}
 
 	clergymen = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 375
 	}
 
 	artisans = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 1900
 	}
 
 	soldiers = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size= 1000
 
 	}
 
 	farmers = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 34375
 	}
 
 	clergymen = {
 		culture = polish
-		religion = protestant
+		religion = catholic
 		size = 50   
 	}
 
 	artisans = {
 		culture = polish
-		religion = protestant
+		religion = catholic
 		size = 100    
 	}
 
 	soldiers = {
 		culture = polish
-		religion = protestant
+		religion = catholic
 		size= 25
 
 	}
 
 	farmers = {
 		culture = polish
-		religion = protestant
+		religion = catholic
 		size = 1825    
 	}
 }
@@ -148,82 +148,82 @@
 680 = {
 	aristocrats = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 250 
 	}
 
 	clergymen = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 250 
 	}
 
 	artisans = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 1350
 	}
 
 	soldiers = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size= 1000
 
 	}
 
 	farmers = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 24150
 	}
 
 	clergymen = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 100    
 	}
 
 	artisans = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 550    
 	}
 
 	soldiers = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size= 100
 
 	}
 
 	farmers = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 10250     
 	}
 
 	clergymen = {
 		culture = polish
-		religion = protestant
+		religion = catholic
 		size = 50   
 	}
 
 	artisans = {
 		culture = polish
-		religion = protestant
+		religion = catholic
 		size = 100     
 	}
 
 	soldiers = {
 		culture = polish
-		religion = protestant
+		religion = catholic
 		size= 25
 
 	}
 
 	farmers = {
 		culture = polish
-		religion = protestant
+		religion = catholic
 		size = 1825   
 	}
 }
@@ -233,38 +233,38 @@
 681 = {
 	aristocrats = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 525 
 	}
 
 	clergymen = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 450 
 	}
 
 	artisans = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 2400
 	}
 
 	soldiers = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size= 2000
 
 	}
 
 	farmers = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 46425
 	}
 
 	artisans = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 200    
 	}
 }
@@ -366,31 +366,31 @@
 
 	clergymen = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 25  
 	}
 
 	clerks = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 125
 	}
 
 	craftsmen = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 250
 	}
 
 	artisans = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 1350
 	}
 
 	farmers = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 450  
 	}
 
@@ -562,26 +562,26 @@
 
 	clergymen = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 25  
 	}
 
 	artisans = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 1100 
 	}
 
 	soldiers = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size= 25
 
 	}
 
 	farmers = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 850  
 	}
 
@@ -764,62 +764,62 @@
 690 = {
 	aristocrats = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 50
 	}
 
 	bureaucrats = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 375
 	}
 
 	officers = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 200 
 	}
 
 	clergymen = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 75  
 	}
 
 	artisans = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 9500  
 	}
 
 	soldiers = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size= 125
 
 	}
 
 	farmers = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 1100
 	}
 	
 	farmers = {
 		culture = polish
-		religion = protestant
+		religion = catholic
 		size = 275
 	}
 
 	clergymen = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 15  
 	}
 
 	artisans = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 595 
 	}
 
@@ -858,13 +858,13 @@
 
 	clergymen = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 200  
 	}
 
 	farmers = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 21325
 	}
 
@@ -903,32 +903,32 @@
 692 = {
 	aristocrats = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 625
 	}
 
 	clergymen = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 175  
 	}
 
 	artisans = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 1250  
 	}
 
 	soldiers = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size= 1000
 
 	}
 
 	farmers = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 25950
 	}
 
@@ -961,32 +961,32 @@
 693 = {
 	aristocrats = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 700
 	}
 
 	clergymen = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 125  
 	}
 
 	artisans = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 1400  
 	}
 
 	soldiers = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size= 1000
 
 	}
 
 	farmers = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 24425 
 	}
 
@@ -1019,44 +1019,44 @@
 694 = {
 	aristocrats = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 850
 	}
 
 	clergymen = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 125  
 	}
 
 	artisans = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 800  
 	}
 
 	soldiers = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size= 175
 
 	}
 
 	farmers = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 13900 
 	}
 
 	clergymen = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 10  
 	}
 
 	artisans = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 345 
 	}
 
@@ -1116,57 +1116,57 @@
 696 = {
 	aristocrats = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 2000 
 	}
 
 	clergymen = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 550   
 	}
 
 	artisans = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 2900   
 	}
 
 	soldiers = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size= 2000
 
 	}
 
 	farmers = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 50550
 	}
 
 	clergymen = {
 		culture = polish
-		religion = protestant
+		religion = catholic
 		size = 325 
 	}
 
 	artisans = {
 		culture = polish
-		religion = protestant
+		religion = catholic
 		size = 1800 
 	}
 
 	soldiers = {
 		culture = polish
-		religion = protestant
+		religion = catholic
 		size= 1000
 
 	}
 
 	farmers = {
 		culture = polish
-		religion = protestant
+		religion = catholic
 		size = 32875  
 	}
 
@@ -1201,44 +1201,44 @@
 699 = {
 	aristocrats = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 2000 
 	}
  
 	bureaucrats = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 700 
 	}
 
 	officers = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 350   
 	}
 
 	clergymen = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 325  
 	}
 
 	artisans = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 2650   
 	}
 
 	soldiers = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size= 1000
 
 	}
 
 	farmers = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 26825
 	}
 
@@ -1269,13 +1269,13 @@
 
 	clergymen = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 50   
 	}
 
 	artisans = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 2075  
 	}
 
@@ -1287,7 +1287,7 @@
 
 	bureaucrats = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 100   
 	}
 
@@ -1320,32 +1320,32 @@
 700 = {
 	aristocrats = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 800 
 	}
 
 	clergymen = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 200   
 	}
 
 	artisans = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 1050   
 	}
 
 	soldiers = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size= 1000
 
 	}
 
 	farmers = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 20150
 	}
 
@@ -1376,19 +1376,19 @@
 
 	bureaucrats = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 80   
 	}
 
 	clergymen = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 30   
 	}
 
 	artisans = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 1530  
 	}
 
@@ -1427,32 +1427,32 @@
 701 = {
 	aristocrats = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 1750 
 	}
 
 	clergymen = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 125   
 	}
 
 	artisans = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 750   
 	}
 
 	soldiers = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size= 1000
 
 	}
 
 	farmers = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 12125
 	}
 
@@ -1483,19 +1483,19 @@
 
 	bureaucrats = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 150   
 	}
 
 	clergymen = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 75   
 	}
 
 	artisans = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 2225  
 	}
 
@@ -1578,82 +1578,82 @@
 
 	clergymen = {
 		culture = polish
-		religion = protestant
+		religion = catholic
 		size = 75 
 	}
 
 	artisans = {
 		culture = polish
-		religion = protestant
+		religion = catholic
 		size = 500
 	}
 
 	soldiers = {
 		culture = polish
-		religion = protestant
+		religion = catholic
 		size= 100
 
 	}
 
 	farmers = {
 		culture = polish
-		religion = protestant
+		religion = catholic
 		size = 9325 
 	}
 
 	clergymen = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 75   
 	}
 
 	artisans = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 200   
 	}
 
 	soldiers = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size= 25
 
 	}
 
 	farmers = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 3700
 	}
 
 	bureaucrats = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 90   
 	}
 
 	clergymen = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 65    
 	}
 
 	artisans = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 2750  
 	}
 
 	soldiers = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size= 65
 
 	}
 
 	farmers = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 4150 
 	}
 }
@@ -1692,81 +1692,81 @@
 
 	clergymen = {
 		culture = polish
-		religion = protestant
+		religion = catholic
 		size = 50 
 	}
 
 	artisans = {
 		culture = polish
-		religion = protestant
+		religion = catholic
 		size = 150
 	}
 
 	soldiers = {
 		culture = polish
-		religion = protestant
+		religion = catholic
 		size= 25
 
 	}
 
 	farmers = {
 		culture = polish
-		religion = protestant
+		religion = catholic
 		size = 2775 
 	}
 
 	clergymen = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 50   
 	}
 
 	artisans = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 200   
 	}
 
 	soldiers = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size= 25
 
 	}
 
 	farmers = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 3725  
 	}
 
 	bureaucrats = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 85   
 	}
 
 	clergymen = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 100  
 	}
 
 	artisans = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 2200  
 	}
 
 	soldiers = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size= 50
 	}
 
 	farmers = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 3000  
 	}
 
@@ -1820,57 +1820,57 @@
 
 	clergymen = {
 		culture = ruthenian
-		religion = orthodox
+		religion = catholic
 		size = 75
 	}
 
 	artisans = {
 		culture = ruthenian
-		religion = orthodox
+		religion = catholic
 		size = 200
 	}
 
 	soldiers = {
 		culture = ruthenian
-		religion = orthodox
+		religion = catholic
 		size= 25
 
 	}
 
 	farmers = {
 		culture = ruthenian
-		religion = orthodox
+		religion = catholic
 		size = 3700
 	}
 
 	bureaucrats = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 310   
 	}
 
 	clergymen = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 350
 	}
 
 	artisans = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 6800
 	}
 
 	soldiers = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size= 100
 
 	}
 
 	farmers = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 5650
 	}
 
@@ -1947,56 +1947,56 @@
 
 	clergymen = {
 		culture = ruthenian
-		religion = orthodox
+		religion = catholic
 		size = 175
 	}
 
 	artisans = {
 		culture = ruthenian
-		religion = orthodox
+		religion = catholic
 		size = 450
 	}
 
 	soldiers = {
 		culture = ruthenian
-		religion = orthodox
+		religion = catholic
 		size= 175
 
 	}
 
 	farmers = {
 		culture = ruthenian
-		religion = orthodox
+		religion = catholic
 		size = 18200
 	}
 
 	bureaucrats = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 270   
 	}
 
 	clergymen = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 155
 	}
 
 	artisans = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 4950
 	}
 
 	soldiers = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size= 150
 	}
 
 	farmers = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 9200
 	}
 
@@ -2060,31 +2060,31 @@
 
 	bureaucrats = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 265   
 	}
 
 	clergymen = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 340
 	}
 
 	artisans = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 5600
 	}
 
 	soldiers = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size= 250
 	}
 
 	farmers = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 8250
 	}
 
@@ -2161,32 +2161,32 @@
 
 	bureaucrats = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 325   
 	}
 
 	clergymen = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 230
 	}
 
 	artisans = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 6550
 	}
 
 	soldiers = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size= 200
 
 	}
 
 	farmers = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 9200
 	}
 }
@@ -2225,56 +2225,56 @@
 
 	clergymen = {
 		culture = ruthenian
-		religion = orthodox
+		religion = catholic
 		size = 200
 	}
 
 	artisans = {
 		culture = ruthenian
-		religion = orthodox
+		religion = catholic
 		size = 1100
 	}
 
 	soldiers = {
 		culture = ruthenian
-		religion = orthodox
+		religion = catholic
 		size= 225
 
 	}
 
 	farmers = {
 		culture = ruthenian
-		religion = orthodox
+		religion = catholic
 		size = 20475
 	}
 
 	bureaucrats = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 350   
 	}
 
 	clergymen = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 250
 	}
 
 	artisans = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 6550
 	}
 
 	soldiers = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size= 200
 	}
 
 	farmers = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 9000
 	}
 }
@@ -2313,56 +2313,56 @@
 
 	clergymen = {
 		culture = polish
-		religion = protestant
+		religion = catholic
 		size = 15
 	}
 
 	artisans = {
 		culture = polish
-		religion = protestant
+		religion = catholic
 		size = 400
 	}
 
 	soldiers = {
 		culture = polish
-		religion = protestant
+		religion = catholic
 		size= 10
 
 	}
 
 	farmers = {
 		culture = polish
-		religion = protestant
+		religion = catholic
 		size = 575
 	}
 
 	bureaucrats = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 150   
 	}
 
 	clergymen = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 200
 	}
 
 	artisans = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 5050
 	}
 
 	soldiers = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size= 200
 	}
 
 	farmers = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 8500
 	}
 }
@@ -2372,26 +2372,26 @@
 705 = {
 	clergymen = {
 		culture = ruthenian
-		religion = orthodox
+		religion = catholic
 		size = 175
 	}
 
 	artisans = {
 		culture = ruthenian
-		religion = orthodox
+		religion = catholic
 		size = 950
 	}
 
 	soldiers = {
 		culture = ruthenian
-		religion = orthodox
+		religion = catholic
 		size= 175
 
 	}
 
 	farmers = {
 		culture = ruthenian
-		religion = orthodox
+		religion = catholic
 		size = 17700
 	}
 
@@ -2428,32 +2428,32 @@
 
 	bureaucrats = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 400   
 	}
 
 	clergymen = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 200
 	}
 
 	artisans = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 7550
 	}
 
 	soldiers = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size= 150
 
 	}
 
 	farmers = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 9025
 	}
 
@@ -2530,7 +2530,7 @@
 	
 	craftsmen = {
 		culture = polish
-		religion = protestant
+		religion = catholic
 		size = 20000
 	}
 	soldiers = {
@@ -2548,88 +2548,88 @@
 
 	clergymen = {
 		culture = polish
-		religion = protestant
+		religion = catholic
 		size = 75
 	}
 
 	artisans = {
 		culture = polish
-		religion = protestant
+		religion = catholic
 		size = 1500
 	}
 
 	soldiers = {
 		culture = polish
-		religion = protestant
+		religion = catholic
 		size= 25
 
 	}
 
 	farmers = {
 		culture = polish
-		religion = protestant
+		religion = catholic
 		size = 2400
 	}
 
 	bureaucrats = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 400  
 	}
 
 	clergymen = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 300
 	}
 
 	artisans = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 10000
 	}
 
 	artisans = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 1250
 	}
 
 	soldiers = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size= 500
 
 	}
 
 	farmers = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 12600
 	}
 
 	clergymen = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 2500
 	}
 
 	soldiers = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size= 50
 
 	}
 
 	farmers = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 3400
 	}
 }
@@ -2693,31 +2693,31 @@
 
 	bureaucrats = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 65  
 	}
 
 	clergymen = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 75
 	}
 
 	artisans = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 2500
 	}
 
 	soldiers = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size= 75
 	}
 
 	farmers = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 3300
 	}
 }
@@ -2756,57 +2756,57 @@
 
 	bureaucrats = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 200  
 	}
 
 	clergymen = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 340
 	}
 
 	artisans = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 5500
 	}
 
 	soldiers = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size= 150
 
 	}
 
 	farmers = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 6350
 	}
 
 	clergymen = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 35
 	}
 
 	artisans = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 250
 	}
 
 	soldiers = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size= 25
 
 	}
 
 	farmers = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 2690
 	}
 }
@@ -2845,31 +2845,31 @@
 
 	bureaucrats = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 75 
 	}
 
 	clergymen = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 100
 	}
 
 	artisans = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 3050
 	}
 
 	soldiers = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size= 100
 	}
 
 	farmers = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 7025
 	}
 }
@@ -2908,56 +2908,56 @@
 
 	bureaucrats = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 200 
 	}
 
 	clergymen = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 150
 	}
 
 	artisans = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 6500
 	}
 
 	soldiers = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size= 250
 	}
 
 	farmers = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 7500
 	}
 
 	clergymen = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 250
 	}
 
 	soldiers = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size= 25
 
 	}
 
 	farmers = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 1700
 	}
 }
@@ -2996,32 +2996,32 @@
 
 	bureaucrats = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 300  
 	}
 
 	clergymen = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 265
 	}
 
 	artisans = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 6550
 	}
 
 	soldiers = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size= 250
 
 	}
 
 	farmers = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 8500
 	}
 }
@@ -3031,26 +3031,26 @@
 719 = {
 	clergymen = {
 		culture = ruthenian
-		religion = orthodox
+		religion = catholic
 		size = 325
 	}
 
 	artisans = {
 		culture = ruthenian
-		religion = orthodox
+		religion = catholic
 		size = 250
 	}
 
 	soldiers = {
 		culture = ruthenian
-		religion = orthodox
+		religion = catholic
 		size= 125
 
 	}
 
 	farmers = {
 		culture = ruthenian
-		religion = orthodox
+		religion = catholic
 		size = 19150
 	}
 
@@ -3112,49 +3112,49 @@
 
 	farmers = {
 		culture = polish
-		religion = orthodox
+		religion = catholic
 		size = 4525
 	}
 
 	artisans = {
 		culture = polish
-		religion = orthodox
+		religion = catholic
 		size = 250
 	}
 
 	bureaucrats = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 150  
 	}
 
 	clergymen = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 200
 	}
 
 	artisans = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 4050
 	}
 
 	farmers = {
 		culture = ashkenazi
-		religion = jewish
+		religion = catholic
 		size = 7575
 	}
 
 	soldiers = {
 		culture = crimean
-		religion = sunni
+		religion = catholic
 		size= 3000
 	}
 
 	farmers = {
 		culture = crimean
-		religion = sunni
+		religion = catholic
 		size = 4000
 	}
 

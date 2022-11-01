@@ -1,26 +1,4 @@
-leader = {
-	name = "Aurangzeb Alamgir"
-	type = land
-	date = 1836.1.1
-	personality = gallant
-	background = priest
-}
 
-leader = {
-	name = "Sher Shah Suri"
-	type = land
-	date = 1836.1.1
-	personality = stout
-	background = artillerist
-}
-
-leader = {
-	name = "Bahadur Suri"
-	type = land
-	date = 1836.1.1
-	personality = diplomatic
-	background = uncommonly_young
-}
 
 army = {
 	name = "Army of the Mughal Emperor"

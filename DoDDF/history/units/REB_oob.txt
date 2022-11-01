@@ -1,34 +1,4 @@
-leader = {
-	name = "Mehmed Girik"
-	type = land
-	date = 1836.1.1
-	personality = efficient
-	background = resolute
-}
 
-leader = {
-	name = "Tuman Girik"
-	type = land
-	date = 1836.1.1
-	personality = keen
-	background = armchair_general
-}
-
-leader = {
-	name = "Muhammad al-Antalya"
-	type = land
-	date = 1836.1.1
-	personality = dauntless
-	background = eccentric_eccentric_genius
-}
-
-leader = {
-	name = "Muhammad Girik"
-	type = land
-	date = 1836.1.1
-	personality = dauntless
-	background = aristocrat
-}
 
 army = {
 	name = "1st Kurdish Army"

@@ -1,18 +1,4 @@
-leader = {
-	name = "Arthur Brown"
-	type = land
-	date = 1836.1.1
-	personality = persistant
-	background = aristocrat
-}
 
-leader = {
-	name = "John Silkington"
-	type = sea
-	date = 1836.1.1
-	personality = stout
-	background = bureaucrat_speed
-}
 
 army = {
 	name = "Lord's Army"

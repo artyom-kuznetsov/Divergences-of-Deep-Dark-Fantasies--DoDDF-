@@ -1,22 +1,22 @@
 political_decisions = {
 
-    CIR_integrate_abkhaz = {
-        picture = abkhazia
-        potential = {
-			tag = CIR
-            NOT = { has_country_flag = integrated_abkhaz }
-        }
-        allow = {
-            war = no
-			owns = 1095			
-        }
-        effect = {
-			prestige = 2
-            add_accepted_culture = abkhaz							
-			set_country_flag = integrated_abkhaz	
-        }
-        ai_will_do = { factor = 1 }
-    }
+   # CIR_integrate_abkhaz = {
+   #     picture = abkhazia
+   #     potential = {
+	#		tag = CIR
+   #         NOT = { has_country_flag = integrated_abkhaz }
+   #     }
+   #     allow = {
+   #         war = no
+	#		owns = 1095			
+   #     }
+   #     effect = {
+	#		prestige = 2
+   #         add_accepted_culture = abkhaz							
+	#		set_country_flag = integrated_abkhaz	
+   #     }
+   #     ai_will_do = { factor = 1 }
+   # }
 	
     overthrow_xacitarxan = {
         picture = tatar_vanguard

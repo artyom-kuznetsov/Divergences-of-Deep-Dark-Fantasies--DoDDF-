@@ -4,73 +4,73 @@
 1849 = {
 	aristocrats = {
 		culture = tigray
-		religion = sunni
+		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
 		culture = tigray
-		religion = sunni
+		religion = catholic
 		size = 165
 	}
 
 	artisans = {
 		culture = tigray
-		religion = sunni
+		religion = catholic
 		size = 235
 	}
 
 	soldiers = {
 		culture = tigray
-		religion = sunni
+		religion = catholic
 		size= 500
 	}
 
 	farmers = {
 		culture = tigray
-		religion = sunni
+		religion = catholic
 		size = 4950
 	}
 
 	bureaucrats = {
 		culture = misri
-		religion = sunni
+		religion = catholic
 		size = 30
 	}
 
 	soldiers = {
 		culture = misri
-		religion = sunni
+		religion = catholic
 		size= 200
 	}
 
 	aristocrats = {
 		culture = bedouin
-		religion = sunni
+		religion = catholic
 		size = 170
 	}
 
 	clergymen = {
 		culture = bedouin
-		religion = sunni
+		religion = catholic
 		size = 195
 	}
 
 	artisans = {
 		culture = bedouin
-		religion = sunni
+		religion = catholic
 		size = 555
 	}
 
 	soldiers = {
 		culture = bedouin
-		religion = sunni
+		religion = catholic
 		size= 900
 	}
 
 	farmers = {
 		culture = bedouin
-		religion = sunni
+		religion = catholic
 		size = 7100
 	}
 }
@@ -78,61 +78,61 @@
 1851 = {
 	aristocrats = {
 		culture = tigray
-		religion = sunni
+		religion = catholic
 		size = 250
 	}
 
 	clergymen = {
 		culture = tigray
-		religion = sunni
+		religion = catholic
 		size = 195
 	}
 
 	artisans = {
 		culture = tigray
-		religion = sunni
+		religion = catholic
 		size = 740
 	}
 
 	soldiers = {
 		culture = tigray
-		religion = sunni
+		religion = catholic
 		size= 750
 	}
 
 	farmers = {
 		culture = tigray
-		religion = sunni
+		religion = catholic
 		size = 10275
 	}
 
 	aristocrats = {
 		culture = afar
-		religion = sunni
+		religion = catholic
 		size = 165
 	}
 
 	clergymen = {
 		culture = afar
-		religion = sunni
+		religion = catholic
 		size = 200
 	}
 
 	artisans = {
 		culture = afar
-		religion = sunni
+		religion = catholic
 		size = 510
 	}
 
 	soldiers = {
 		culture = afar
-		religion = sunni
+		religion = catholic
 		size= 500
 	}
 
 	farmers = {
 		culture = afar
-		religion = sunni
+		religion = catholic
 		size = 7000
 	}
 }
@@ -141,78 +141,78 @@
 1848 = {
 	aristocrats = {
 		culture = tigray
-		religion = coptic
+		religion = catholic
 		size = 450
 	}
 
 	bureaucrats = {
 		culture = tigray
-		religion = coptic
+		religion = catholic
 		size = 75
 	}
 
 	officers = {
 		culture = tigray
-		religion = coptic
+		religion = catholic
 		size = 125
 	}
 
 	clergymen = {
 		culture = tigray
-		religion = coptic
+		religion = catholic
 		size = 285
 	}
 
 	artisans = {
 		culture = tigray
-		religion = coptic
+		religion = catholic
 		size = 1250
 	}
 
 	soldiers = {
 		culture = tigray
-		religion = coptic
+		religion = catholic
 		size = 3500
 	}
 
 	farmers = {
 		culture = tigray
-		religion = coptic
+		religion = catholic
 		size = 38925
 	}
 
 	aristocrats = {
 		culture = tigray
-		religion = sunni
+		religion = catholic
 		size = 340
 	}
 
 	clergymen = {
 		culture = tigray
-		religion = sunni
+		religion = catholic
 		size = 219
 	}
 
 	artisans = {
 		culture = tigray
-		religion = sunni
+		religion = catholic
 		size = 1000
 	}
 
 	soldiers = {
 		culture = tigray
-		religion = sunni
+		religion = catholic
 		size= 3750
 	}
 
 	farmers = {
 		culture = tigray
-		religion = sunni
+		religion = catholic
 		size = 20430
 	}
 	slaves = {
 		culture = cushitic
-		religion = sunni
+		religion = catholic
 		size = 500
 	}
 }
@@ -220,55 +220,55 @@
 1850 = {
 	aristocrats = {
 		culture = tigray
-		religion = coptic
+		religion = catholic
 		size = 250
 	}
 
 	clergymen = {
 		culture = tigray
-		religion = coptic
+		religion = catholic
 		size = 210
 	}
 
 	artisans = {
 		culture = tigray
-		religion = coptic
+		religion = catholic
 		size = 1350
 	}
 
 	soldiers = {
 		culture = tigray
-		religion = coptic
+		religion = catholic
 		size= 750
 	}
 
 	farmers = {
 		culture = tigray
-		religion = coptic
+		religion = catholic
 		size = 32575
 	}
 
 	clergymen = {
 		culture = beja
-		religion = sunni
+		religion = catholic
 		size = 80
 	}
 
 	farmers = {
 		culture = beja
-		religion = sunni
+		religion = catholic
 		size = 6300
 	}
 
 	clergymen = {
 		culture = nubian
-		religion = sunni
+		religion = catholic
 		size = 60
 	}
 
 	farmers = {
 		culture = nubian
-		religion = sunni
+		religion = catholic
 		size = 4050
 	}
 }

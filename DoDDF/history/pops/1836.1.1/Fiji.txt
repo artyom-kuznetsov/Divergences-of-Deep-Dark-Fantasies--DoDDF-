@@ -4,43 +4,43 @@
 2454 = {
     aristocrats = {
         culture = melanesian
-        religion = animist
+        religion = catholic
         size = 425
     }
 
     clergymen = {
         culture = melanesian
-        religion = animist
+        religion = catholic
         size = 225
     }
 
     bureaucrats = {
         culture = melanesian
-        religion = animist
+        religion = catholic
         size = 12
     }
 
     officers = {
         culture = melanesian
-        religion = animist
+        religion = catholic
         size = 10
     }
 
     artisans = {
         culture = melanesian
-        religion = animist
+        religion = catholic
         size = 1100
     }
 
     soldiers = {
         culture = melanesian
-        religion = animist
+        religion = catholic
         size = 225
     }
 
     farmers = {
         culture = melanesian
-        religion = animist
+        religion = catholic
         size = 20025
     }
 }
@@ -48,55 +48,55 @@
 2520 = {
     aristocrats = {
         culture = melanesian
-        religion = animist
+        religion = catholic
         size = 25
     }
 
     clergymen = {
         culture = melanesian
-        religion = animist
+        religion = catholic
         size = 50
     }
 
     artisans = {
         culture = melanesian
-        religion = animist
+        religion = catholic
         size = 100
     }
 
     soldiers = {
         culture = melanesian
-        religion = animist
+        religion = catholic
         size = 25
     }
 
     farmers = {
         culture = melanesian
-        religion = animist
+        religion = catholic
         size = 1800
     }
 
     aristocrats = {
         culture = micronesian
-        religion = animist
+        religion = catholic
         size = 5
     }
 
     aristocrats = {
         culture = polynesian
-        religion = animist
+        religion = catholic
         size = 5
     }
 
     soldiers = {
         culture = micronesian
-        religion = animist
+        religion = catholic
         size = 5
     }
 
     soldiers = {
         culture = polynesian
-        religion = animist
+        religion = catholic
         size = 5
     }
 }

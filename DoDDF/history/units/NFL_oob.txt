@@ -1,10 +1,3 @@
-leader = {
-	name = "Piet Retief"
-	type = land
-	date = 1836.1.1
-	personality = resourceful
-	background = nationalist
-}
 
 army = {
 	name = "Army of Nieuw Vlaanderen"

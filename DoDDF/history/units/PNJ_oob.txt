@@ -1,10 +1,3 @@
-leader = {
-	name = "Ranjit Singh"
-	type = land
-	date = 1836.1.1
-	personality = inspiring
-	background = gifted_administrator
-}
 
 army = {
 	name = "Army of the Khalsa"
@@ -46,13 +39,13 @@ army = {
 	}
 
 	regiment = {
-		name= "1. Sikh hussar"
+		name= "1. catholic hussar"
 		type = hussar
 		home = 1227
 	}
 
 	regiment = {
-		name= "2. Sikh hussar"
+		name= "2. catholic hussar"
 		type = hussar
 		home = 1227
 	}

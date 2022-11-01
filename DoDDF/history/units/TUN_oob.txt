@@ -1,18 +1,4 @@
-leader = {
-	name = "Al-Husayn ibn Mahmud"
-	type = land
-	date = 1836.1.1
-	personality = aggressive
-	background = uncommonly_young
-}
 
-leader = {
-	name = "Uthman ibn Ishaq"
-	type = land
-	date = 1836.1.1
-	personality = meticulous
-	background = gifted_administrator
-}
 
 army = {
 	name = "Army of the Bey of Tunis"

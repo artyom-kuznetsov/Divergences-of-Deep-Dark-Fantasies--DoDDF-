@@ -56,7 +56,7 @@ political_decisions = {
                 TUR = { is_greater_power = yes }
             }
             NOT = { war = yes }
-            is_greater_power = yes
+           # is_greater_power = yes
             all_core = { owned_by = THIS }
             NOT = {
                 GRE = { exists = yes }

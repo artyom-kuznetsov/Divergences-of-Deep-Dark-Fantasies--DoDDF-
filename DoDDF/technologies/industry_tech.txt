@@ -1243,7 +1243,7 @@ basic_chemistry = {
 }
 medicine = {
     area = chemistry_and_electricity
-    year = 1836
+    year = 1845
     cost = 7200
 
     supply_limit = 0.25

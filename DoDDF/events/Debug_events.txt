@@ -14,7 +14,7 @@ country_event = {
         #any_owned = { limit = { NOT = { is_core = THIS } } secede_province = IBR }
         #any_country = { any_owned = { limit = { continent = africa } secede_province = THIS } }
         #add_country_modifier = { name = multicultural_empire duration = -1 }
-        #any_owned = { limit = { has_pop_religion = protestant } add_core = SPA }
+        #any_owned = { limit = { has_pop_religion = catholic } add_core = SPA }
     }
 }
 

@@ -114,7 +114,7 @@ jewish_group = {
 }
 
 yazidi_group = {
-    yazidi = {
+    jewish = {
         icon = 16
         color = {
             0.4 0.0 1.0

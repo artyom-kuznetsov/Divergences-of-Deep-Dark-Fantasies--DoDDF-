@@ -48,58 +48,58 @@
 	}
 
 	clergymen = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size= 25
 
 	}
 
 	farmers = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 850
 	}
 
 	aristocrats = {
 		culture = amazonian_native
-		religion = animist
+		religion = catholic
 		size = 175
 	}
 
 	clergymen = {
 		culture = amazonian_native
-		religion = animist
+		religion = catholic
 		size = 100
 	}
 
 	artisans = {
 		culture = amazonian_native
-		religion = animist
+		religion = catholic
 		size = 500
 	}
 
 	soldiers = {
 		culture = amazonian_native
-		religion = animist
+		religion = catholic
 		size= 100
 
 	}
 
 	farmers = {
 		culture = amazonian_native
-		religion = animist
+		religion = catholic
 		size = 9125
 	}
 }
@@ -108,32 +108,32 @@
 2287 = {
 	aristocrats = {
 		culture = amazonian_native
-		religion = animist
+		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
 		culture = amazonian_native
-		religion = animist
+		religion = catholic
 		size = 75
 	}
 
 	artisans = {
 		culture = amazonian_native
-		religion = animist
+		religion = catholic
 		size = 150
 	}
 
 	soldiers = {
 		culture = amazonian_native
-		religion = animist
+		religion = catholic
 		size= 25
 
 	}
 
 	farmers = {
 		culture = amazonian_native
-		religion = animist
+		religion = catholic
 		size = 2700
 	}
 }
@@ -141,32 +141,32 @@
 2288 = {
 	aristocrats = {
 		culture = amazonian_native
-		religion = animist
+		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
 		culture = amazonian_native
-		religion = animist
+		religion = catholic
 		size = 75
 	}
 
 	artisans = {
 		culture = amazonian_native
-		religion = animist
+		religion = catholic
 		size = 150
 	}
 
 	soldiers = {
 		culture = amazonian_native
-		religion = animist
+		religion = catholic
 		size= 25
 
 	}
 
 	farmers = {
 		culture = amazonian_native
-		religion = animist
+		religion = catholic
 		size = 2700
 	}
 }
@@ -174,32 +174,32 @@
 2289 = {
 	aristocrats = {
 		culture = amazonian_native
-		religion = animist
+		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
 		culture = amazonian_native
-		religion = animist
+		religion = catholic
 		size = 75
 	}
 
 	artisans = {
 		culture = amazonian_native
-		religion = animist
+		religion = catholic
 		size = 150
 	}
 
 	soldiers = {
 		culture = amazonian_native
-		religion = animist
+		religion = catholic
 		size= 25
 
 	}
 
 	farmers = {
 		culture = amazonian_native
-		religion = animist
+		religion = catholic
 		size = 2700
 	}
 }
@@ -251,33 +251,33 @@
 	}
 
 	clergymen = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 125
 	}
 
 	artisans = {
-		culture = quechua
+		culture = aimara
 		religion = catholic
 		size = 1300
 	}
 
 	soldiers = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size= 250
 
 	}
 
 	farmers = {
-		culture = quechua
+		culture = aimara
 		religion = catholic
 		size = 10000
 	}
 
 	slaves = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 9325
 	}
 }
@@ -315,33 +315,33 @@
 	}
 
 	clergymen = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = quechua
+		culture = aimara
 		religion = catholic
 		size = 500
 	}
 
 	soldiers = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size= 100
 
 	}
 
 	farmers = {
-		culture = quechua
+		culture = aimara
 		religion = catholic
 		size = 5000
 	}
 
 	slaves = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 5000
 	}
 
@@ -410,33 +410,33 @@
 	}
 
 	clergymen = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = quechua
+		culture = aimara
 		religion = catholic
 		size = 450
 	}
 
 	soldiers = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size= 100
 
 	}
 
 	farmers = {
-		culture = quechua
+		culture = aimara
 		religion = catholic
 		size = 4150
 	}
 
 	slaves = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 4225
 	}
 
@@ -505,58 +505,58 @@
 	}
 
 	clergymen = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size= 10
 
 	}
 
 	farmers = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 915
 	}
 
 	aristocrats = {
 		culture = amazonian_native
-		religion = animist
+		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
 		culture = amazonian_native
-		religion = animist
+		religion = catholic
 		size = 75
 	}
 
 	artisans = {
 		culture = amazonian_native
-		religion = animist
+		religion = catholic
 		size = 150
 	}
 
 	soldiers = {
 		culture = amazonian_native
-		religion = animist
+		religion = catholic
 		size= 25
 
 	}
 
 	farmers = {
 		culture = amazonian_native
-		religion = animist
+		religion = catholic
 		size = 2700
 	}
 }
@@ -596,33 +596,33 @@
 	}
 
 	clergymen = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = quechua
+		culture = aimara
 		religion = catholic
 		size = 350
 	}
 
 	soldiers = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size= 75
 
 	}
 
 	farmers = {
-		culture = quechua
+		culture = aimara
 		religion = catholic
 		size = 3200
 	}
 
 	slaves = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 3300
 	}
 }
@@ -660,26 +660,26 @@
 	}
 
 	clergymen = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = quechua
+		culture = aimara
 		religion = catholic
 		size = 650
 	}
 
 	soldiers = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size= 125
 
 	}
 
 	farmers = {
-		culture = quechua
+		culture = aimara
 		religion = catholic
 		size = 12175
 	}
@@ -730,33 +730,33 @@
 	}
 
 	clergymen = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 1150
 	}
 
 	soldiers = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size= 225
 
 	}
 
 	farmers = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 20525
 	}
 
 	slaves = {
-		culture = quechua
-		religion = inti	
+		culture = aimara
+		religion = catholic	
 		size = 21000
 	}
 }
@@ -807,27 +807,27 @@
 	}
 
 	clergymen = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = quechua
+		culture = aimara
 		religion = catholic
 		size = 800
 	}
 
 	farmers = {
-		culture = quechua
+		culture = aimara
 		religion = catholic
 		size = 7450
 	}
 
 
 	slaves = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 7675
 	}
 
@@ -889,33 +889,33 @@
 	}
 
 	clergymen = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 500
 	}
 
 	soldiers = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size= 100
 
 	}
 
 	farmers = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 10050
 	}
 
 	slaves = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 10000
 	}
 
@@ -984,33 +984,33 @@
 	}
 
 	clergymen = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = quechua
+		culture = aimara
 		religion = catholic
 		size = 850
 	}
 
 	soldiers = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size= 175
 
 	}
 
 	farmers = {
-		culture = quechua
+		culture = aimara
 		religion = catholic
 		size = 7000
 	}
 
 	slaves = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 8900
 	}
 
@@ -1088,32 +1088,32 @@
 
 	aristocrats = {
 		culture = amazonian_native
-		religion = animist
+		religion = catholic
 		size = 75
 	}
 
 	clergymen = {
 		culture = amazonian_native
-		religion = animist
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
 		culture = amazonian_native
-		religion = animist
+		religion = catholic
 		size = 200
 	}
 
 	soldiers = {
 		culture = amazonian_native
-		religion = animist
+		religion = catholic
 		size= 50
 
 	}
 
 	farmers = {
 		culture = amazonian_native
-		religion = animist
+		religion = catholic
 		size = 36225
 	}
 }
@@ -1121,32 +1121,32 @@
 2301 = {
 	aristocrats = {
 		culture = amazonian_native
-		religion = animist
+		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
 		culture = amazonian_native
-		religion = animist
+		religion = catholic
 		size = 75
 	}
 
 	artisans = {
 		culture = amazonian_native
-		religion = animist
+		religion = catholic
 		size = 150
 	}
 
 	soldiers = {
 		culture = amazonian_native
-		religion = animist
+		religion = catholic
 		size= 25
 
 	}
 
 	farmers = {
 		culture = amazonian_native
-		religion = animist
+		religion = catholic
 		size = 2700
 	}
 }
@@ -1198,68 +1198,68 @@
 	}
 
 	aristocrats = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 1000
 	}
 
 	bureaucrats = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 1400
 	}
 
 	officers = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 400
 	}
 
 	clergymen = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 1200
 	}
 
 	artisans = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 10000
 	}
 
 	artisans = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 10000
 	}
 
 	artisans = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 2000
 	}
 
 	soldiers = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 3000
 	}
 
 	soldiers = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 900
 	}
 
 	farmers = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 89275
 	}
 
 	slaves = {
-		culture = quechua
-		religion = inti	
+		culture = aimara
+		religion = catholic	
 		size = 39200
 	}
 }
@@ -1297,33 +1297,33 @@
 	}
 
 	clergymen = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 1150
 	}
 
 	soldiers = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size= 250
 
 	}
 
 	farmers = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 21500
 	}
 
 	slaves = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 20000
 	}
 }
@@ -1361,33 +1361,33 @@
 	}
 
 	clergymen = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 700
 	}
 
 	soldiers = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size= 150
 
 	}
 
 	farmers = {
-		culture = quechua
+		culture = aimara
 		religion = catholic
 		size = 23100
 	}
 
 	slaves = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 22100
 	}
 }
@@ -1439,33 +1439,33 @@
 	}
 
 	clergymen = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 1100
 	}
 
 	soldiers = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size= 200
 
 	}
 
 	farmers = {
-		culture = quechua
-		religion = inti
+		culture = aimara
+		religion = catholic
 		size = 28700
 	}
 
 	slaves = {
-		culture = quechua
-		religion = inti	
+		culture = aimara
+		religion = catholic	
 		size = 10000
 	}
 }

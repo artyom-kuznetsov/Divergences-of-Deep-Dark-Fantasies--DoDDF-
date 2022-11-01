@@ -1,12 +1,5 @@
 #Sphere of Influence
 
-leader = {
-	name = "Anton Schremmer"
-	type = land
-	date = 1836.1.1
-	personality = intuitive
-	background = engineer
-}
 
 #Army
 army = {

@@ -1,10 +1,3 @@
-leader = {
-	name = "Luo Fangbo"
-	type = land
-	date = 1836.1.1
-	personality = aggressive
-	background = school_of_defense
-}
 
 army = {
 	name = "Army of the Lanfang Protectorate"

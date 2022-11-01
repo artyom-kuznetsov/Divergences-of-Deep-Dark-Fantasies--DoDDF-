@@ -1,10 +1,3 @@
-leader = {
-	name = "Giovanni Rivera"
-	type = land
-	date = 1836.1.1
-	personality = romantic
-	background = sycophant
-}
 
 army = {
 	name = "Esercito di Modena"

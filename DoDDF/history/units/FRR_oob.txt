@@ -1,18 +1,4 @@
-leader = {
-	name = "Giancarlo Bartoldi"
-	type = land
-	date = 1836.1.1
-	personality = skilled
-	background = professor
-}
 
-leader = {
-	name = "Tiziano Tagliani"
-	type = sea
-	date = 1836.1.1
-	personality = efficient
-	background = exranker
-}
 
 army = {
 	name = "Esercito di Romagna"

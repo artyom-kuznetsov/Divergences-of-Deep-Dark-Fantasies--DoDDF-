@@ -193,26 +193,26 @@
 
 	clergymen = {
 		culture = serb
-		religion = orthodox
+		religion = catholic
 		size = 100
 	}
 
 	artisans = {
 		culture = serb
-		religion = orthodox
+		religion = catholic
 		size = 550
 	}
 
 	soldiers = {
 		culture = serb
-		religion = orthodox
+		religion = catholic
 		size= 125
 
 	}
 
 	farmers = {
 		culture = serb
-		religion = orthodox
+		religion = catholic
 		size = 10225
 	}
 }
@@ -251,26 +251,26 @@
 
 	clergymen = {
 		culture = serb
-		religion = orthodox
+		religion = catholic
 		size = 125
 	}
 
 	artisans = {
 		culture = serb
-		religion = orthodox
+		religion = catholic
 		size = 600
 	}
 
 	soldiers = {
 		culture = serb
-		religion = orthodox
+		religion = catholic
 		size= 150
 
 	}
 
 	farmers = {
 		culture = serb
-		religion = orthodox
+		religion = catholic
 		size = 11125
 	}
 }
@@ -309,26 +309,26 @@
 
 	clergymen = {
 		culture = serb
-		religion = orthodox
+		religion = catholic
 		size = 100
 	}
 
 	artisans = {
 		culture = serb
-		religion = orthodox
+		religion = catholic
 		size = 550
 	}
 
 	soldiers = {
 		culture = serb
-		religion = orthodox
+		religion = catholic
 		size= 125
 
 	}
 
 	farmers = {
 		culture = serb
-		religion = orthodox
+		religion = catholic
 		size = 10225
 	}
 }
@@ -394,26 +394,26 @@
 
 	clergymen = {
 		culture = serb
-		religion = orthodox
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
 		culture = serb
-		religion = orthodox
+		religion = catholic
 		size = 250
 	}
 
 	soldiers = {
 		culture = serb
-		religion = orthodox
+		religion = catholic
 		size= 75
 
 	}
 
 	farmers = {
 		culture = serb
-		religion = orthodox
+		religion = catholic
 		size = 4625
 	}
 }
@@ -557,32 +557,32 @@
 
 	clergymen = {
 		culture = serb
-		religion = orthodox
+		religion = catholic
 		size = 50  
 	}
 
 	artisans = {
 		culture = serb
-		religion = orthodox
+		religion = catholic
 		size = 350 
 	}
 
 	soldiers = {
 		culture = serb
-		religion = orthodox
+		religion = catholic
 		size= 100
 
 	}
 
 	farmers = {
 		culture = serb
-		religion = orthodox
+		religion = catholic
 		size = 3900   
 	}
 	
 	serfs = {
 		culture = serb
-		religion = orthodox
+		religion = catholic
 		size = 2600   
 	}	
 
@@ -625,13 +625,13 @@
 
 	farmers = {
 		culture = hungarian
-		religion = sunni
+		religion = catholic
 		size = 750
 	}
 	
 	serfs = {
 		culture = hungarian
-		religion = sunni
+		religion = catholic
 		size = 300
 	}	
 
@@ -673,14 +673,14 @@
 	}
 
 	farmers = {
-		culture = bosniak
-		religion = sunni
+		culture = serb
+		religion = catholic
 		size = 2300 
 	}
 	
 	serfs = {
-		culture = bosniak
-		religion = sunni
+		culture = serb
+		religion = catholic
 		size = 1445 
 	}	
 	
@@ -822,7 +822,7 @@
 
 	farmers = {
 		culture = serb
-		religion = orthodox
+		religion = catholic
 		size = 5550
 	}
 }
@@ -892,26 +892,26 @@
 
 	clergymen = {
 		culture = serb
-		religion = orthodox
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
 		culture = serb
-		religion = orthodox
+		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
 		culture = serb
-		religion = orthodox
+		religion = catholic
 		size= 25
 
 	}
 
 	farmers = {
 		culture = serb
-		religion = orthodox
+		religion = catholic
 		size = 1825
 	}
 
@@ -947,26 +947,26 @@
 
 	clergymen = {
 		culture = serb
-		religion = orthodox
+		religion = catholic
 		size = 75  
 	}
 
 	artisans = {
 		culture = serb
-		religion = orthodox
+		religion = catholic
 		size = 350
 	}
 
 	soldiers = {
 		culture = serb
-		religion = orthodox
+		religion = catholic
 		size= 100
 
 	}
 
 	farmers = {
 		culture = serb
-		religion = orthodox
+		religion = catholic
 		size = 7475 
 	}
 
@@ -1002,8 +1002,8 @@
 	}
 
 	farmers = {
-		culture = bosniak
-		religion = sunni
+		culture = serb
+		religion = catholic
 		size = 1000 
 	}	
 	

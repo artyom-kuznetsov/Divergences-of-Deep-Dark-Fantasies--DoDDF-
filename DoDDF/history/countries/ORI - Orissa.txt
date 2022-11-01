@@ -1,7 +1,7 @@
 capital = 1261
 primary_culture = oriya
 culture = marathi
-religion = hindu
+religion = catholic
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
@@ -33,7 +33,7 @@ child_labor = child_labor_legal
 citizens_rights = primary_culture_only
 border_policy = open_borders
 
-set_country_flag = hindu_country
+set_country_flag = catholic_country
 
 ruling_party = AAA_conservative_3
 upper_house = {

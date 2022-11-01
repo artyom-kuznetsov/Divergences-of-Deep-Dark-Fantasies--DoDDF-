@@ -1,6 +1,6 @@
 capital = 718
 primary_culture = ruthenian
-religion = orthodox
+religion = catholic
 government = democracy
 plurality = 0.0
 nationalvalue = nv_order

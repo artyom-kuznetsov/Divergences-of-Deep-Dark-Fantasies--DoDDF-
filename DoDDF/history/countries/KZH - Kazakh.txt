@@ -1,7 +1,7 @@
 capital = 1185
 primary_culture = kazak
 culture = uzbek
-religion = sunni
+religion = catholic
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
@@ -34,7 +34,7 @@ child_labor = child_labor_legal
 citizens_rights = primary_culture_only
 border_policy = closed_borders
 
-set_country_flag = sunni_country
+set_country_flag = catholic_country
 
 ruling_party = AAA_conservative_1
 upper_house = {

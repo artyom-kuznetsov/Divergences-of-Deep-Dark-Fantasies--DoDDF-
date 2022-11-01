@@ -1,13 +1,13 @@
 capital = 50
 primary_culture = algonquin
-religion = animist
+religion = catholic
 government = feudal_monarchy
 plurality = 0.05
 nationalvalue = nv_tradition
 literacy = 0.15
 
 set_country_flag = new_world_nation
-set_country_flag = animist_country
+set_country_flag = catholic_country
 
 # Political reforms
 slavery = yes_slavery

@@ -1,6 +1,6 @@
 capital = 1416
 primary_culture = javan
-religion = sunni
+religion = catholic
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
@@ -49,7 +49,7 @@ admin_reform = yes_admin_reform
 monetary_reform = yes_monetary_reform
 flintlock_rifles = 1
 
-set_country_flag = sunni_country
+set_country_flag = catholic_country
 
 oob = "JAV_oob.txt"
 

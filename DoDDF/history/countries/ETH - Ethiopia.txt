@@ -3,7 +3,7 @@ primary_culture = amhara
 culture = tigray
 culture = oromo
 culture = cushitic
-religion = coptic
+religion = catholic
 government = absolute_monarchy
 plurality = 5.0
 nationalvalue = nv_tradition
@@ -35,7 +35,7 @@ child_labor = child_labor_legal
 citizens_rights = culture_voting_only
 border_policy = open_borders
 
-set_country_flag = coptic_country
+set_country_flag = catholic_country
 
 ruling_party = AAA_reactionary_1
 upper_house = {

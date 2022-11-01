@@ -129,7 +129,7 @@ political_decisions = {
     encourage_arab_nationalism = {
         picture = form_the_ikhwan
         potential = {
-            is_greater_power = yes
+            #is_greater_power = yes
             NOT = { has_global_flag = arab_nationalism_encouraged }
             NOT = { tag = TUR }
             TUR = {

@@ -4,7 +4,7 @@ culture = senufo
 culture = mande
 culture = akan
 culture = western_nigritic
-religion = sunni
+religion = catholic
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
@@ -50,7 +50,7 @@ upper_house = {
 }
 
 set_country_flag = lacking_writing_system
-set_country_flag = sunni_country
+set_country_flag = catholic_country
 
 # Technologies
 

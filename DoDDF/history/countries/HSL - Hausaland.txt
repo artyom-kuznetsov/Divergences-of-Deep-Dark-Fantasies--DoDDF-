@@ -4,7 +4,7 @@ culture = hausa
 culture = east_kwa
 culture = tiv
 culture = bedouin
-religion = sunni
+religion = catholic
 government = presidential_dictatorship
 plurality = 0.0
 nationalvalue = nv_order
@@ -37,7 +37,7 @@ child_labor = child_labor_legal
 citizens_rights = primary_culture_only
 border_policy = open_borders
 
-set_country_flag = sunni_country
+set_country_flag = catholic_country
 
 set_country_flag = post_colonial_country
 

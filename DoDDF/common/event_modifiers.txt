@@ -2,6 +2,21 @@
 # scriptable and usable for event-system below.
 ##################################################################################################
 
+cannot_pass_reform = {
+	icon = 6
+}
+cannot_pass_reform = {
+	icon = 6
+}
+reform_passed = {
+	core_pop_militancy_modifier = 0.03
+	core_pop_militancy_modifier = 0.01
+	icon = 6
+}
+force_reform  = {
+	icon = 5
+}
+
 french_liberal_school = {
     max_tariff = -0.25
     administrative_efficiency_modifier = 0.2

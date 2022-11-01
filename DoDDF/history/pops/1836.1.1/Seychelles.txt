@@ -4,19 +4,19 @@
 2127 = {
     aristocrats = {
         culture = scandinavian
-        religion = protestant
+        religion = catholic
         size = 20
     }
 
     bureaucrats = {
         culture = scandinavian
-        religion = protestant
+        religion = catholic
         size = 6
     }
 
     officers = {
         culture = scandinavian
-        religion = protestant
+        religion = catholic
         size = 3
     }
 

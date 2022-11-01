@@ -58,7 +58,7 @@
 
 	slaves = {
 		culture = forest_bantu
-		religion = animist
+		religion = catholic
 		size = 3450
 	}
 

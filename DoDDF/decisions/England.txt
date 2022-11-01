@@ -13,7 +13,7 @@ political_decisions = {
         allow = {
             NOT = { war = yes }
             NOT = { part_of_sphere = yes }
-            is_greater_power = yes
+           # is_greater_power = yes
             WLS = {
                 all_core = {
                     OR = {
@@ -155,7 +155,7 @@ political_decisions = {
         potential = {
             tag = DUA
             has_global_flag = ENL_loss
-            is_greater_power = yes
+            #is_greater_power = yes
         }
 
         allow = {
@@ -220,7 +220,7 @@ political_decisions = {
         potential = {
             tag = DUA
             has_global_flag = OCC_loss
-            is_greater_power = yes
+           # is_greater_power = yes
         }
 
         allow = {
@@ -286,7 +286,7 @@ political_decisions = {
         potential = {
             tag = DUA
             has_global_flag = IRE_loss
-            is_greater_power = yes
+           # is_greater_power = yes
         }
 
         allow = {
@@ -352,7 +352,7 @@ political_decisions = {
         potential = {
             tag = SCA
             has_global_flag = SCO_loss
-            is_greater_power = yes
+           # is_greater_power = yes
             NOT = {
                 ENG = { exists = yes }
             }

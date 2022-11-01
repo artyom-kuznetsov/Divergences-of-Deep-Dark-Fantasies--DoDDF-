@@ -3,66 +3,66 @@
 #Fortin Falcon (8000/2000 POPS)
 2337 = {
 	aristocrats = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 25
 	}
 
 	clergymen = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size= 25
 
 	}
 
 	farmers = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 1800
 	}
 }
-#Puerto Guarani (8000/2000 POPS)
+#Puerto amazonian_native (8000/2000 POPS)
 2338 = {
 	aristocrats = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 25
 	}
 
 	clergymen = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size= 25
 
 	}
 
 	farmers = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 1800
 	}
 }
@@ -72,37 +72,37 @@
 2339 = {
 	aristocrats = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size = 450
 	}
 
 	bureaucrats = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size = 200
 	}
 
 	officers = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size = 150
 	}
 
 	clergymen = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size = 275
 	}
 
 	artisans = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size = 2200
 	}
 
 	soldiers = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size= 3000
 
 	}
@@ -110,70 +110,70 @@
 
 	soldiers = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size= 2100
 
 	}
 
 	farmers = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size = 7825
 	}
 
 	clergymen = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 125
 	}
 
 	artisans = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 1200
 	}
 
 	soldiers = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size= 1250
 
 	}
 
 	farmers = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 27425
 	}
 
 	clergymen = {
 		culture = afro_frankish
-		religion = protestant
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
 		culture = afro_frankish
-		religion = protestant
+		religion = catholic
 		size = 250
 	}
 
 	soldiers = {
 		culture = afro_frankish
-		religion = protestant
+		religion = catholic
 		size= 50
 
 	}
 
 	farmers = {
 		culture = afro_frankish
-		religion = protestant
+		religion = catholic
 		size = 450
 	}
 
 	slaves = {
 		culture = afro_frankish
-		religion = protestant
+		religion = catholic
 		size = 4500
 	}
 }
@@ -181,57 +181,57 @@
 2340 = {
 	aristocrats = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size = 350
 	}
 
 	clergymen = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
 	artisans = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size = 200
 	}
 
 	soldiers = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size= 50
 
 	}
 
 	farmers = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size = 3300
 	}
 
 	clergymen = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 600
 	}
 
 	soldiers = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size= 125
 
 	}
 
 	farmers = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 11225
 	}
 }
@@ -239,57 +239,57 @@
 2341 = {
 	aristocrats = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size = 500
 	}
 
 	clergymen = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size = 125
 	}
 
 	artisans = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size = 1200
 	}
 
 	soldiers = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size= 1050
 
 	}
 
 	farmers = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size = 8125
 	}
 
 	clergymen = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 1100
 	}
 
 	soldiers = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size= 1100
 
 	}
 
 	farmers = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 19300
 	}
 }
@@ -297,63 +297,63 @@
 2342 = {
 	aristocrats = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size = 425
 	}
 
 	clergymen = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size = 125
 	}
 
 	artisans = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size = 1200
 	}
 
 	soldiers = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size= 1050
 
 	}
 
 	farmers = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size = 4200
 	}
 
 	clergymen = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 800
 	}
 
 	soldiers = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size= 1100
 
 	}
 
 	farmers = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 10125
 	}
 
 	slaves = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 4300
 	}
 }
@@ -361,57 +361,57 @@
 2343 = {
 	clergymen = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size= 25
 
 	}
 
 	farmers = {
 		culture = lotharian
-		religion = protestant
+		religion = catholic
 		size = 900
 	}
 
 	aristocrats = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 150
 	}
 
 	soldiers = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size= 25
 
 	}
 
 	farmers = {
-		culture = guarani
-		religion = animist
+		culture = amazonian_native
+		religion = catholic
 		size = 2700
 	}
 

@@ -6,13 +6,6 @@ leader = {
 	background = drillmaster
 }
 
-leader = {
-	name = "Yar Mohammed"
-	type = land
-	date = 1836.1.1
-	personality = resourceful 
-	background = aristocrat
-}
 
 army = {
 	name = "Army of Kohun-dil-Khan"

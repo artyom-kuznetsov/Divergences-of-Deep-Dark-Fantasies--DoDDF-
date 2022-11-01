@@ -1,18 +1,3 @@
-leader = {
-	name = "Pakubuwono III"
-	type = land
-	date = 1836.1.1
-	personality = relentless
-	background = disgraced
-}
-
-leader = {
-	name = "Ki Ageng Sela"
-	type = sea
-	date = 1836.1.1
-	personality = earnest
-	background = colonial_b
-}
 
 army = {
 	name = "Army of the Sultan of Java"

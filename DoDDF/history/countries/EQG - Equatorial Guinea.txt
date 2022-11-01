@@ -2,7 +2,7 @@ capital = 1955
 primary_culture = forest_bantu
 culture = fang
 culture = ibo
-religion = animist
+religion = catholic
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_order
@@ -36,7 +36,7 @@ child_labor = child_labor_legal
 citizens_rights = primary_culture_only
 border_policy = open_borders
 
-set_country_flag = animist_country
+set_country_flag = catholic_country
 
 ruling_party = EQG_reactionary
 upper_house = {

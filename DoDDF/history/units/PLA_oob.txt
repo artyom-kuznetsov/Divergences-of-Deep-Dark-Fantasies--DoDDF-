@@ -1,34 +1,3 @@
-leader = {
-	name = "Pierre Duchesne"
-	type = land
-	date = 1836.1.1
-	personality = arrogant
-	background = cavalry_school
-}
-
-leader = {
-	name = "Roland Claudric"
-	type = land
-	date = 1836.1.1
-	personality = deeply_religious
-	background = gifted_administrator
-}
-
-leader = {
-	name = "Lucas Rodrigue"
-	type = land
-	date = 1836.1.1
-	personality = bigoted
-	background = armchair_general
-}
-
-leader = {
-	name = "Samuel de Champlain"
-	type = sea
-	date = 1836.1.1
-	personality = tactful
-	background = innovative_tactician
-}
 
 army = {
 	name = "1ère Division d'Infanterie"

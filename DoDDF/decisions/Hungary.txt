@@ -65,7 +65,7 @@ political_decisions = {
         potential = {
             tag = HUN
             OR = {
-                is_greater_power = yes
+            #    is_greater_power = yes
                 has_country_flag = holy_crown
             }
             NOT = { has_country_flag = Hungarian_CRO }

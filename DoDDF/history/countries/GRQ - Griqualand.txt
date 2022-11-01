@@ -8,7 +8,7 @@ culture = tswana
 culture = herero
 culture = xhosa
 culture = african_minor
-religion = protestant
+religion = catholic
 government = democracy
 plurality = 0.1
 nationalvalue = nv_order
@@ -42,7 +42,7 @@ child_labor = child_labor_legal
 citizens_rights = culture_voting_only
 border_policy = quota_immigration
 
-set_country_flag = protestant_country
+set_country_flag = catholic_country
 
 ruling_party = AAA_liberal_3
 upper_house = {

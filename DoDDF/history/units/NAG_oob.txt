@@ -1,10 +1,4 @@
-leader = {
-	name = "Ankush Dhanvijay"
-	type = land
-	date = 1836.1.1
-	personality = brutish
-	background = amateur
-}
+
 
 army = {
 	name = "Army of Nagpur"

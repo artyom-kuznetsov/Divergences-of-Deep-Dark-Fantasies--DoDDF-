@@ -1,18 +1,4 @@
-leader = {
-	name = "Tahmasp Timurtash"
-	type = land
-	date = 1836.1.1
-	personality = spirited
-	background = eccentric_genius
-}
 
-leader = {
-	name = "Adil Artuqid"
-	type = land
-	date = 1836.1.1
-	personality = inspiring
-	background = megalomaniac
-}
 
 army = {
 	name = "Timurtash Army"

@@ -424,13 +424,13 @@
 
     clergymen = {
         culture = south_german
-        religion = jewish
+        religion = catholic
         size = 5
     }
 
     artisans = {
         culture = south_german
-        religion = jewish
+        religion = catholic
         size = 495
     }
 }
@@ -536,19 +536,19 @@
 
     clergymen = {
         culture = hungarian
-        religion = protestant
+        religion = catholic
         size = 35
     }
 
     artisans = {
         culture = hungarian
-        religion = protestant
+        religion = catholic
         size = 150
     }
 
     farmers = {
         culture = hungarian
-        religion = protestant
+        religion = catholic
         size = 1790
     }
 }

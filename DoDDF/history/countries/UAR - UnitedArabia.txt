@@ -3,7 +3,7 @@ primary_culture = bedouin
 culture = sudanese
 culture = misri
 culture = mashriqi
-religion = sunni
+religion = catholic
 government = hms_government
 plurality = 0.0
 nationalvalue = nv_tradition
@@ -36,7 +36,7 @@ child_labor = child_labor_legal
 citizens_rights = culture_voting_only
 border_policy = open_borders
 
-set_country_flag = sunni_country
+set_country_flag = catholic_country
 set_country_flag = theocracy_allowed
 
 ruling_party = AAA_conservative_4

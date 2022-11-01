@@ -1,7 +1,7 @@
 capital = 2313
 primary_culture = quechua
 culture = aimara
-religion = inti
+religion = catholic
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_equality

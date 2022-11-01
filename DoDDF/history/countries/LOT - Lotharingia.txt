@@ -1,6 +1,6 @@
 capital = 2463
 primary_culture = lotharian
-religion = protestant
+religion = catholic
 government = presidential_dictatorship
 plurality = 0.0
 nationalvalue = nv_order
@@ -35,7 +35,7 @@ child_labor = child_labor_legal
 citizens_rights = primary_culture_only
 border_policy = quota_immigration
 
-set_country_flag = protestant_country
+set_country_flag = catholic_country
 set_country_flag = new_world_nation
 
 ruling_party = AAA_reactionary_2

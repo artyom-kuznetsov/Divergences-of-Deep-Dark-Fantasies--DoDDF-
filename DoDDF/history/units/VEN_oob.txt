@@ -1,18 +1,4 @@
-leader = {
-	name = "Marco Monteverdi"
-	type = land
-	date = 1836.1.1
-	personality = clever
-	background = politician
-}
 
-leader = {
-	name = "Pietro Vivaldi"
-	type = sea
-	date = 1836.1.1
-	personality = earnest
-	background = corrupt
-}
 
 army = {
 	name = "Army of the Serenessima"

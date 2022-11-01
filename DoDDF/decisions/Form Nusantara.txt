@@ -73,7 +73,7 @@ political_decisions = {
         }
 
         allow = {
-            is_greater_power = yes
+           # is_greater_power = yes
             NOT = { war = yes }
             NUS = {
                 all_core = { owned_by = THIS }
@@ -185,7 +185,7 @@ political_decisions = {
         }
 
         allow = {
-            is_greater_power = yes
+           # is_greater_power = yes
             NOT = { war = yes }
             NUS = {
                 all_core = { owned_by = THIS }

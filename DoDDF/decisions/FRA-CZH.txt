@@ -70,7 +70,7 @@ political_decisions = {
                     alliance_with = BOH
                     BOH = { is_greater_power = yes }
                 }
-                is_greater_power = yes
+               # is_greater_power = yes
             }
             ITA = { exists = no }
             ARI = { exists = no }
@@ -136,7 +136,7 @@ political_decisions = {
         allow = {
             PRV = { exists = no }
             NOT = { war = yes }
-            is_greater_power = yes
+           # is_greater_power = yes
             PRV = {
                 all_core = { owned_by = THIS }
             }
@@ -180,7 +180,7 @@ political_decisions = {
                 }
             }
             ITA = { exists = no }
-            is_greater_power = yes
+            #is_greater_power = yes
             PRV = {
                 all_core = { owned_by = THIS }
             }

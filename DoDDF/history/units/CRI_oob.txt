@@ -1,26 +1,4 @@
-leader = {
-	name = "Selamet III Giray"
-	type = land
-	date = 1836.1.1
-	personality = wrathful
-	background = powerful_friends
-}
 
-leader = {
-	name = "Galiaskar Rustam"
-	type = land
-	date = 1836.1.1
-	personality = resourceful
-	background = exranker
-}
-
-leader = {
-	name = "Baqi Tukay"
-	type = land
-	date = 1836.1.1
-	personality = reserved
-	background = diplomat
-}
 
 army = {
 	name = "Army of the Khanate of Crimea"

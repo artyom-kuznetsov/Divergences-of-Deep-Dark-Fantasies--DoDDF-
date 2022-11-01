@@ -1,7 +1,7 @@
 capital = 919
 primary_culture = ashkenazi
 culture = sephardic
-religion = jewish
+religion = catholic
 government = democracy
 plurality = 0.15
 nationalvalue = nv_productivity
@@ -35,7 +35,7 @@ child_labor = child_labor_legal
 citizens_rights = primary_culture_only
 border_policy = open_borders
 
-set_country_flag = jewish_country
+set_country_flag = catholic_country
 
 ruling_party = ISR_liberal
 upper_house = {
@@ -80,8 +80,8 @@ interchangeable_parts = 1
 battleship_column_doctrine = 1
 naval_professionalism = 1
 stock_exchange = 1
-ad_hoc_money_bill_printing = 1
-private_bank_money_bill_printing = 1
+ad_hoc_money_bill_prcatholicng = 1
+private_bank_money_bill_prcatholicng = 1
 late_classical_theory = 1
 market_structure = 1
 
@@ -105,8 +105,8 @@ precision_work = yes
 	stock_exchange = 1
 	business_banks = 1
 	no_standard = 1
-	ad_hoc_money_bill_printing = 1
-	private_bank_money_bill_printing = 1
+	ad_hoc_money_bill_prcatholicng = 1
+	private_bank_money_bill_prcatholicng = 1
 	ideological_thought = 1
 	state_n_government = 1
 	nationalism_n_imperialism = 1

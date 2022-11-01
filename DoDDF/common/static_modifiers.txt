@@ -143,7 +143,7 @@ war = {
     max_war_exhaustion = 100 #base max at war.
     supply_consumption = -0.5
     #war_exhaustion = 0.1
-    badboy = -0.033
+    badboy = -0.1
     import_cost = 0.01
 }
 
@@ -189,7 +189,7 @@ great_power = {
 
 second_power = {
     prestige = 0.025
-    research_points = 1.25
+    research_points = 1.4
     diplomatic_points_modifier = 0.25
     leadership = 1.0
     global_immigrant_attract = 0.05
@@ -197,7 +197,7 @@ second_power = {
 
 civ_nation = {
     prestige = 0.01
-    research_points = 1
+    research_points = 1.3
     leadership = 0.5
 }
 

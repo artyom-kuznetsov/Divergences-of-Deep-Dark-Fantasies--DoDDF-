@@ -10,14 +10,6 @@
 #		90=200
 #	}
 
-leader = {
-	name = "Wang Yangming"
-	type = land
-	date = 1836.1.1
-	personality = glory_hound
-	background = war_college
-}
-
 army = {
 	name = "1st Army of the Standard of Qingqiu"
 	location = 84
