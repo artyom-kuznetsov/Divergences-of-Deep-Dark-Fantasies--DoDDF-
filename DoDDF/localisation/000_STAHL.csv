@@ -1,5 +1,9 @@
 #;;x
-merge_the_crowns_ari_title;§R*§B*§R*§! Proclaim the kingdom of Aragon-Italy;X
+free_peoples;Освобождение народа;X
+free_peoples_short;$THIRD$ acquires $STATE$;X
+free_peoples_desc;Освободить страну §Ycountry§W от их угнетателей.;X
+free_peoples_setup;Вернуть $STATE$ стране $THIRD$ от $RECIPIENT$;X
+merge_the_crowns_ari_title;§R*§B*§R*§! Провозгласить королевство Арагон-Италия;X
 switch_to_traditional_academic_title;§G*§Y*§G*§! Восстановление Академии;X
 accept_rhenish_BRG_title;§R*§B*§R*§! Интеграция Рейнланда;X
 claim_savoy_title;§R*§B*§R*§! Претензии на Савойю;X
