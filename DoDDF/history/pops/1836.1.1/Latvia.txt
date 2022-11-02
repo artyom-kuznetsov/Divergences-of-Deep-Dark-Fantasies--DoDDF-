@@ -88,37 +88,37 @@
     }
 
     aristocrats = {
-        culture = lithuanian
+        culture = polish
         religion = catholic
         size = 400
     }
 
     bureaucrats = {
-        culture = lithuanian
+        culture = polish
         religion = catholic
         size = 75
     }
 
     officers = {
-        culture = lithuanian
+        culture = polish
         religion = catholic
         size = 100
     }
 
     clergymen = {
-        culture = lithuanian
+        culture = polish
         religion = catholic
         size = 150
     }
 
     artisans = {
-        culture = lithuanian
+        culture = polish
         religion = catholic
         size = 1500
     }
 
     soldiers = {
-        culture = lithuanian
+        culture = polish
         religion = catholic
         size = 900
     }
@@ -264,19 +264,19 @@
     }
 
     clergymen = {
-        culture = lithuanian
+        culture = polish
         religion = catholic
         size = 300
     }
 
     artisans = {
-        culture = lithuanian
+        culture = polish
         religion = catholic
         size = 400
     }
 
     farmers = {
-        culture = lithuanian
+        culture = polish
         religion = catholic
         size = 4394
     }

@@ -1,5 +1,5 @@
 capital = 273
-primary_culture = welsh
+primary_culture = anglois
 religion = catholic
 government = hms_government
 plurality = 0.1

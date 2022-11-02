@@ -241,7 +241,7 @@
   	}
 
 	  craftsmen = {
-        culture = slovene
+        culture = croat
         religion = catholic
 		    size = 2000
   	}
@@ -271,7 +271,7 @@
     }
 
     soldiers = {
-        culture = slovene
+        culture = croat
         religion = catholic
         size = 600
     }
@@ -317,19 +317,19 @@
     }
 
     clergymen = {
-        culture = slovene
+        culture = croat
         religion = catholic
         size = 175
     }
 
     artisans = {
-        culture = slovene
+        culture = croat
         religion = catholic
         size = 950
     }
 
     farmers = {
-        culture = slovene
+        culture = croat
         religion = catholic
         size = 16675
     }

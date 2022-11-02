@@ -75,7 +75,7 @@
     }
 
     aristocrats = {
-        culture = yakut
+        culture = ugrian
         religion = catholic
         size = 50
     }
@@ -87,7 +87,7 @@
     }
 
     soldiers = {
-        culture = yakut
+        culture = ugrian
         religion = catholic
         size = 25
     }
@@ -139,19 +139,19 @@
     }
 
     clergymen = {
-        culture = yakut
+        culture = ugrian
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = yakut
+        culture = ugrian
         religion = catholic
         size = 125
     }
 
     farmers = {
-        culture = yakut
+        culture = ugrian
         religion = catholic
         size = 2750
     }

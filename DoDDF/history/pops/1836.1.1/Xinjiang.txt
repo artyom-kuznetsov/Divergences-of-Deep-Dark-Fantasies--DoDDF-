@@ -46,32 +46,32 @@
 	}
 
 	aristocrats = {
-		culture = kirgiz
+		culture = oirat
 		religion = catholic
 		size = 85
 	}
 
 	clergymen = {
-		culture = kirgiz
+		culture = oirat
 		religion = catholic
 		size = 45
 	}
 
 	artisans = {
-		culture = kirgiz
+		culture = oirat
 		religion = catholic
 		size = 212
 	}
 
 	soldiers = {
-		culture = kirgiz
+		culture = oirat
 		religion = catholic
 		size= 37
 
 	}
 
 	farmers = {
-		culture = kirgiz
+		culture = oirat
 		religion = catholic
 		size = 4060
 	}
@@ -95,13 +95,13 @@
 	}
 
 	clergymen = {
-		culture = uzbek
+		culture = oirat
 		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = uzbek
+		culture = oirat
 		religion = catholic
 		size = 360
 	}
@@ -194,13 +194,13 @@
 	}
 
 	clergymen = {
-		culture = uzbek
+		culture = oirat
 		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = uzbek
+		culture = oirat
 		religion = catholic
 		size = 615
 	}

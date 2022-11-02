@@ -313,7 +313,7 @@ political_decisions = {
         }
     }
 
-    integrate_bretons = {
+    integrate_angloiss = {
         picture = brittany
         potential = {
             OR = {
@@ -339,7 +339,7 @@ political_decisions = {
 
         effect = {
             set_country_flag = britany_acc
-            add_accepted_culture = breton
+            add_accepted_culture = anglois
         }
     }
 

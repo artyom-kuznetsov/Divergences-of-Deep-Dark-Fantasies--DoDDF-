@@ -1,5 +1,5 @@
 capital = 424
-primary_culture = breton
+primary_culture = anglois
 culture = anglois
 religion = catholic
 government = hms_government

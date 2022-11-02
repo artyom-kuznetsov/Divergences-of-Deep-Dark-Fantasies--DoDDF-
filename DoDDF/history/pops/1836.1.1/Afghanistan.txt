@@ -114,13 +114,13 @@
 	}
 
 	clergymen = {
-		culture = parsi
+		culture = persian
 		religion = catholic
 		size = 40
 	}
 
 	farmers = {
-		culture = parsi
+		culture = persian
 		religion = catholic
 		size = 560
 	}
@@ -184,43 +184,43 @@
 	}
 
 	clergymen = {
-		culture = parsi
+		culture = persian
 		religion = catholic
 		size = 25
 	}
 
 	farmers = {
-		culture = parsi
+		culture = persian
 		religion = catholic
 		size = 1250
 	}
 	
 	aristocrats = {
-		culture = uzbek
+		culture = oirat
 		religion = catholic
 		size = 750
 	}
 
 	clergymen = {
-		culture = uzbek
+		culture = oirat
 		religion = catholic
 		size = 388
 	}
 
 	artisans = {
-		culture = uzbek
+		culture = oirat
 		religion = catholic
 		size = 400
 	}
 
 	soldiers = {
-		culture = uzbek
+		culture = oirat
 		religion = catholic
 		size = 3375
 	}
 
 	farmers = {
-		culture = uzbek
+		culture = oirat
 		religion = catholic
 		size = 12000
 	}
@@ -332,13 +332,13 @@
 	}
 
 	clergymen = {
-		culture = parsi
+		culture = persian
 		religion = catholic
 		size = 185
 	}
 
 	farmers = {
-		culture = parsi
+		culture = persian
 		religion = catholic
 		size = 2725
 	}
@@ -425,7 +425,7 @@
 	}
 
 	slaves = {
-		culture = uzbek
+		culture = oirat
 		religion = catholic
 		size = 2500
 	}	
@@ -888,27 +888,27 @@
 	}
 	
 	aristocrats = {
-		culture = uzbek
+		culture = oirat
 		religion = catholic
 		size = 20
 	}
 	clergymen = {
-		culture = uzbek
+		culture = oirat
 		religion = catholic
 		size = 50
 	}
 	artisans = {
-		culture = uzbek
+		culture = oirat
 		religion = catholic
 		size = 1300
 	}
 	soldiers = {
-		culture = uzbek
+		culture = oirat
 		religion = catholic
 		size = 1250
 	}
 	farmers = {
-		culture = uzbek
+		culture = oirat
 		religion = catholic
 		size = 9162
 	}
@@ -983,31 +983,31 @@
 	}
 	
 	aristocrats = {
-		culture = uzbek
+		culture = oirat
 		religion = catholic
 		size = 700
 	}
 	
 	clergymen = {
-		culture = uzbek
+		culture = oirat
 		religion = catholic
 		size = 650
 	}
 
 	soldiers = {
-		culture = uzbek
+		culture = oirat
 		religion = catholic
 		size = 2200
 	}
 	
 	artisans = {
-		culture = uzbek
+		culture = oirat
 		religion = catholic
 		size = 3000
 	}
 	
 	farmers = {
-		culture = uzbek
+		culture = oirat
 		religion = catholic
 		size = 10000
 	}
@@ -1016,19 +1016,19 @@
 #Sar-e Pol (996000/249000 POPS)
 3344 = {
 	clergymen = {
-		culture = uzbek
+		culture = oirat
 		religion = catholic
 		size = 75
 	}
 
 	soldiers = {
-		culture = uzbek
+		culture = oirat
 		religion = catholic
 		size = 500
 	}
 	
 	farmers = {
-		culture = uzbek
+		culture = oirat
 		religion = catholic
 		size = 10025
 	}
@@ -1158,7 +1158,7 @@
 	}
 
 	slaves = {
-		culture = uzbek
+		culture = oirat
 		religion = catholic
 		size = 4580
 	}
@@ -1330,32 +1330,32 @@
 #Faizabad (340000/85000 POPS)
 1210 = {
 	aristocrats = {
-		culture = uzbek
+		culture = oirat
 		religion = catholic
 		size = 125
 	}
 
 	clergymen = {
-		culture = uzbek
+		culture = oirat
 		religion = catholic
 		size = 63
 	}
 
 	artisans = {
-		culture = uzbek
+		culture = oirat
 		religion = catholic
 		size = 350
 	}
 
 	soldiers = {
-		culture = uzbek
+		culture = oirat
 		religion = catholic
 		size= 1000
 
 	}
 
 	farmers = {
-		culture = uzbek
+		culture = oirat
 		religion = catholic
 		size = 5512
 	}

@@ -191,19 +191,19 @@
 	}
 
 	bureaucrats = {
-		culture = sephardic
+		culture = north_german
 		religion = catholic 
 		size = 30
 	}
 	
 	clergymen = {
-	    culture = sephardic
+	    culture = north_german
 		religion = catholic 
 		size = 50
 	}
 
 	artisans = {
-	    culture = sephardic
+	    culture = north_german
 		religion = catholic 
 		size = 900
 	}	
@@ -565,19 +565,19 @@
 	}
 
 	bureaucrats = {
-		culture = sephardic
+		culture = north_german
 		religion = catholic
 		size = 75
 	}
 
 	clergymen = {
-		culture = sephardic
+		culture = north_german
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = sephardic
+		culture = north_german
 		religion = catholic
 		size = 4425
 	}
@@ -996,37 +996,37 @@
 	}
 	
 	farmers = {
-		culture = lurish
+		culture = qashqai
 		religion = catholic
 		size = 1300
 	}
 
 	aristocrats = {
-		culture = lurish
+		culture = qashqai
 		religion = catholic
 		size = 25
 	}
 
 	clergymen = {
-		culture = lurish
+		culture = qashqai
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = lurish
+		culture = qashqai
 		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
-		culture = lurish
+		culture = qashqai
 		religion = catholic
 		size = 25
 	}
 
 	farmers = {
-		culture = lurish
+		culture = qashqai
 		religion = catholic
 		size = 800
 	}	

@@ -5856,7 +5856,7 @@
 		size = 650
 	}
 	aristocrats = {
-		culture = siberian
+		culture = ugrian
 		religion = catholic
 		size = 25
 	}
@@ -5871,7 +5871,7 @@
 		size = 1375
 	}
 	artisans = {
-		culture = siberian
+		culture = ugrian
 		religion = catholic
 		size = 75
 	}
@@ -5886,7 +5886,7 @@
 		size = 325
 	}
 	clergymen = {
-		culture = siberian
+		culture = ugrian
 		religion = catholic
 		size = 25
 	}
@@ -5896,7 +5896,7 @@
 		size = 30650
 	}
 	farmers = {
-		culture = siberian
+		culture = ugrian
 		religion = catholic
 		size = 1850
 	}
@@ -5906,7 +5906,7 @@
 		size = 3100
 	}
 	soldiers = {
-		culture = siberian
+		culture = ugrian
 		religion = catholic
 		size = 25
 	}
@@ -8044,7 +8044,7 @@
 		size = 7550
 	}
 	aristocrats = {
-		culture = siberian
+		culture = ugrian
 		religion = catholic
 		size = 50
 	}
@@ -8059,7 +8059,7 @@
 		size = 10000
 	}
 	artisans = {
-		culture = siberian
+		culture = ugrian
 		religion = catholic
 		size = 150
 	}
@@ -8069,7 +8069,7 @@
 		size = 3800
 	}
 	clergymen = {
-		culture = siberian
+		culture = ugrian
 		religion = catholic
 		size = 75
 	}
@@ -8079,7 +8079,7 @@
 		size = 343950
 	}
 	farmers = {
-		culture = siberian
+		culture = ugrian
 		religion = catholic
 		size = 2700
 	}
@@ -8089,7 +8089,7 @@
 		size = 3800
 	}
 	soldiers = {
-		culture = siberian
+		culture = ugrian
 		religion = catholic
 		size = 25
 	}
@@ -8240,12 +8240,12 @@
 	}
 
 	farmers = {
-		culture = siberian
+		culture = ugrian
 		religion = catholic
 		size = 120
 	}
 	farmers = {
-		culture = siberian
+		culture = ugrian
 		religion = catholic
 		size = 2500
 	}

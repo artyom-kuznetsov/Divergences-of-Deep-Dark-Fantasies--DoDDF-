@@ -66,19 +66,19 @@
     }
 
     clergymen = {
-        culture = sephardic
+        culture = north_german
         religion = catholic
         size = 1000
     }
 
     artisans = {
-        culture = sephardic
+        culture = north_german
         religion = catholic
         size = 18500
     }
 
     bureaucrats = {
-        culture = sephardic
+        culture = north_german
         religion = catholic
         size = 500
     }

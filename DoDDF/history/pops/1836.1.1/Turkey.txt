@@ -83,19 +83,19 @@
 	}
 
 	bureaucrats = {
-		culture = sephardic
+		culture = north_german
 		religion = catholic
 		size = 80
 	}
 
 	clergymen = {
-		culture = sephardic
+		culture = north_german
 		religion = catholic
 		size = 90
 	}
 
 	artisans = {
-		culture = sephardic
+		culture = north_german
 		religion = catholic
 		size = 2450
 	}
@@ -176,19 +176,19 @@
 	}
 
 	bureaucrats = {
-		culture = sephardic
+		culture = north_german
 		religion = catholic
 		size = 15
 	}
 
 	clergymen = {
-		culture = sephardic
+		culture = north_german
 		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = sephardic
+		culture = north_german
 		religion = catholic
 		size = 445
 	}
@@ -245,19 +245,19 @@
 	}
 
 	bureaucrats = {
-		culture = sephardic
+		culture = north_german
 		religion = catholic
 		size = 15
 	}
 
 	clergymen = {
-		culture = sephardic
+		culture = north_german
 		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = sephardic
+		culture = north_german
 		religion = catholic
 		size = 445
 	}
@@ -441,19 +441,19 @@
 	}
 
 	bureaucrats = {
-		culture = sephardic
+		culture = north_german
 		religion = catholic
 		size = 350
 	}
 
 	clergymen = {
-		culture = sephardic
+		culture = north_german
 		religion = catholic
 		size = 325
 	}
 
 	artisans = {
-		culture = sephardic
+		culture = north_german
 		religion = catholic
 		size = 23525
 	}
@@ -746,19 +746,19 @@
 	}
 
 	bureaucrats = {
-		culture = sephardic
+		culture = north_german
 		religion = catholic
 		size = 75
 	}
 
 	clergymen = {
-		culture = sephardic
+		culture = north_german
 		religion = catholic
 		size = 80
 	}
 
 	artisans = {
-		culture = sephardic
+		culture = north_german
 		religion = catholic
 		size = 1350
 	}
@@ -1247,19 +1247,19 @@
 	}
 
 	bureaucrats = {
-		culture = sephardic
+		culture = north_german
 		religion = catholic
 		size = 120
 	}
 
 	clergymen = {
-		culture = sephardic
+		culture = north_german
 		religion = catholic
 		size = 140
 	}
 
 	artisans = {
-		culture = sephardic
+		culture = north_german
 		religion = catholic
 		size = 5250
 	}
@@ -3582,13 +3582,13 @@
 	}
 	
 	clergymen = {
-	    culture = sephardic
+	    culture = north_german
 		religion = catholic
 		size = 20
 	}
 
 	artisans = {
-	    culture = sephardic
+	    culture = north_german
 		religion = catholic
 		size = 350
 	}

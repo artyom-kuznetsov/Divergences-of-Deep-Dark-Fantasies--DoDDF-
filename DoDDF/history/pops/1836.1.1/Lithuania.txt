@@ -3,25 +3,25 @@
 #Vilnius (168000/42000 POPS)
 360 = {
     clergymen = {
-        culture = lithuanian
+        culture = polish
         religion = catholic
         size = 150
     }
 
     artisans = {
-        culture = lithuanian
+        culture = polish
         religion = catholic
         size = 2500
     }
 
     soldiers = {
-        culture = lithuanian
+        culture = polish
         religion = catholic
         size = 3225
     }
 
     farmers = {
-        culture = lithuanian
+        culture = polish
         religion = catholic
         size = 12400
     }
@@ -93,7 +93,7 @@
     }
 
     aristocrats = {
-        culture = lithuanian
+        culture = polish
         religion = catholic
         size = 3225
     }
@@ -113,19 +113,19 @@
 #Kaunas (204000/51000 POPS)
 361 = {
     clergymen = {
-        culture = lithuanian
+        culture = polish
         religion = catholic
         size = 400
     }
 
     artisans = {
-        culture = lithuanian
+        culture = polish
         religion = catholic
         size = 1150
     }
 
     farmers = {
-        culture = lithuanian
+        culture = polish
         religion = catholic
         size = 37500
     }
@@ -169,19 +169,19 @@
 #Marjampole (240000/60000 POPS)
 362 = {
     clergymen = {
-        culture = lithuanian
+        culture = polish
         religion = catholic
         size = 250
     }
 
     artisans = {
-        culture = lithuanian
+        culture = polish
         religion = catholic
         size = 1500
     }
 
     farmers = {
-        culture = lithuanian
+        culture = polish
         religion = catholic
         size = 25000
     }
@@ -243,19 +243,19 @@
 #Panevezys (204000/51000 POPS)
 363 = {
     clergymen = {
-        culture = lithuanian
+        culture = polish
         religion = catholic
         size = 375
     }
 
     artisans = {
-        culture = lithuanian
+        culture = polish
         religion = catholic
         size = 1750
     }
 
     farmers = {
-        culture = lithuanian
+        culture = polish
         religion = catholic
         size = 34475
     }
@@ -317,19 +317,19 @@
 #Siauliai (200000/50000 POPS)
 364 = {
     clergymen = {
-        culture = lithuanian
+        culture = polish
         religion = catholic
         size = 400
     }
 
     artisans = {
-        culture = lithuanian
+        culture = polish
         religion = catholic
         size = 1250
     }
 
     farmers = {
-        culture = lithuanian
+        culture = polish
         religion = catholic
         size = 40025
     }
@@ -355,19 +355,19 @@
 #Palanga (84000/21000 POPS)
 365 = {
     clergymen = {
-        culture = lithuanian
+        culture = polish
         religion = catholic
         size = 150
     }
 
     artisans = {
-        culture = lithuanian
+        culture = polish
         religion = catholic
         size = 500
     }
 
     farmers = {
-        culture = lithuanian
+        culture = polish
         religion = catholic
         size = 15825
     }
@@ -443,19 +443,19 @@
     }
 
     clergymen = {
-        culture = lithuanian
+        culture = polish
         religion = catholic
         size = 150
     }
 
     artisans = {
-        culture = lithuanian
+        culture = polish
         religion = catholic
         size = 950
     }
 
     farmers = {
-        culture = lithuanian
+        culture = polish
         religion = catholic
         size = 17100
     }

@@ -919,25 +919,25 @@
 	}
 
 	clergymen = {
-		culture = komi
+		culture = ugrian
 		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = komi
+		culture = ugrian
 		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
-		culture = komi
+		culture = ugrian
 		religion = catholic
 		size = 25
 	}
 
 	farmers = {
-		culture = komi
+		culture = ugrian
 		religion = catholic
 		size = 2850
 	}
@@ -957,25 +957,25 @@
 	}
 	
 	clergymen = {
-		culture = komi
+		culture = ugrian
 		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = komi
+		culture = ugrian
 		religion = catholic
 		size = 75
 	}
 
 	soldiers = {
-		culture = komi
+		culture = ugrian
 		religion = catholic
 		size = 10
 	}
 
 	farmers = {
-		culture = komi
+		culture = ugrian
 		religion = catholic
 		size = 4975
 	}
@@ -1243,25 +1243,25 @@
 	}
 
 	clergymen = {
-		culture = komi
+		culture = ugrian
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = komi
+		culture = ugrian
 		religion = catholic
 		size = 200
 	}
 
 	soldiers = {
-		culture = komi
+		culture = ugrian
 		religion = catholic
 		size = 50
 	}
 
 	farmers = {
-		culture = komi
+		culture = ugrian
 		religion = catholic
 		size = 4500
 	}
@@ -2640,25 +2640,25 @@
 	}
 
 	clergymen = {
-		culture = chuvash
+		culture = ugrian
 		religion = catholic
 		size = 70
 	}
 
 	artisans = {
-		culture = chuvash
+		culture = ugrian
 		religion = catholic
 		size = 250
 	}
 
 	soldiers = {
-		culture = chuvash
+		culture = ugrian
 		religion = catholic
 		size = 225
 	}
 
 	farmers = {
-		culture = chuvash
+		culture = ugrian
 		religion = catholic
 		size = 5775
 	}
@@ -3113,19 +3113,19 @@
 	}
 	
 	artisans = {
-		culture = chuvash
+		culture = ugrian
 		religion = catholic
 		size = 300
 	}
 
 	soldiers = {
-		culture = chuvash
+		culture = ugrian
 		religion = catholic
 		size = 50
 	}
 
 	serfs = {
-		culture = chuvash
+		culture = ugrian
 		religion = catholic
 		size = 1050
 	}	
@@ -3143,25 +3143,25 @@
 	}	
 
 	clergymen = {
-		culture = komi
+		culture = ugrian
 		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = komi
+		culture = ugrian
 		religion = catholic
 		size = 250
 	}
 
 	soldiers = {
-		culture = komi
+		culture = ugrian
 		religion = catholic
 		size = 50
 	}
 
 	serfs = {
-		culture = komi
+		culture = ugrian
 		religion = catholic
 		size = 4625
 	}
@@ -3322,25 +3322,25 @@
 	}	
 
 	clergymen = {
-		culture = chuvash
+		culture = ugrian
 		religion = catholic
 		size = 350
 	}
 
 	artisans = {
-		culture = chuvash
+		culture = ugrian
 		religion = catholic
 		size = 16200
 	}
 
 	soldiers = {
-		culture = chuvash
+		culture = ugrian
 		religion = catholic
 		size = 2650
 	}
 
 	serfs = {
-		culture = chuvash
+		culture = ugrian
 		religion = catholic
 		size = 75775
 	}
@@ -3435,7 +3435,7 @@
 	}
 
 	farmers = {
-		culture = bashkir
+		culture = tatar
 		religion = catholic
 		size = 1850
 	}	
@@ -3496,7 +3496,7 @@
 	}
 	
 	farmers = {
-		culture = bashkir
+		culture = tatar
 		religion = catholic
 		size = 1850
 	}
@@ -3977,37 +3977,37 @@
 	}
 
 	aristocrats = {
-		culture = bashkir
+		culture = tatar
 		religion = catholic
 		size = 1750
 	}
 
 	officers = {
-		culture = bashkir
+		culture = tatar
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = bashkir
+		culture = tatar
 		religion = catholic
 		size = 750
 	}
 
 	artisans = {
-		culture = bashkir
+		culture = tatar
 		religion = catholic
 		size = 4000
 	}
 
 	soldiers = {
-		culture = bashkir
+		culture = tatar
 		religion = catholic
 		size = 800
 	}
 
 	farmers = {
-		culture = bashkir
+		culture = tatar
 		religion = catholic
 		size = 40600
 	}	
@@ -4086,7 +4086,7 @@
 	}
 
 	farmers = {
-		culture = bashkir
+		culture = tatar
 		religion = catholic
 		size = 5800
 	}	

@@ -112,19 +112,19 @@
 	}
 	
 	bureaucrats = {
-		culture = sephardic
+		culture = north_german
 		religion = catholic
 		size = 45
 	}
 
 	clergymen = {
-		culture = sephardic
+		culture = north_german
 		religion = catholic
 		size = 30
 	}
 
 	artisans = {
-		culture = sephardic
+		culture = north_german
 		religion = catholic
 		size = 700
 	}
@@ -184,55 +184,55 @@
 	}
 
 	clergymen = {
-		culture = dagestani
+		culture = chechen
 		religion = catholic
 		size = 2
 	}
 
 	artisans = {
-		culture = dagestani
+		culture = chechen
 		religion = catholic
 		size = 10
 	}
 
 	farmers = {
-		culture = dagestani
+		culture = chechen
 		religion = catholic
 		size = 185
 	}
 	
 	clergymen = {
-		culture = dagestani
+		culture = chechen
 		religion = catholic
 		size = 6
 	}
 
 	artisans = {
-		culture = dagestani
+		culture = chechen
 		religion = catholic
 		size = 22
 	}
 
 	farmers = {
-		culture = dagestani
+		culture = chechen
 		religion = catholic
 		size = 1000
 	}
 	
 	clergymen = {
-		culture = dagestani
+		culture = chechen
 		religion = catholic
 		size = 2
 	}
 
 	artisans = {
-		culture = dagestani
+		culture = chechen
 		religion = catholic
 		size = 10
 	}
 
 	farmers = {
-		culture = dagestani
+		culture = chechen
 		religion = catholic
 		size = 2600
 	}
@@ -295,28 +295,28 @@
 	}
 
 	aristocrats = {
-		culture = dagestani
+		culture = chechen
 		religion = catholic
 		size = 305
 		militancy = 9
 	}
 
 	clergymen = {
-		culture = dagestani
+		culture = chechen
 		religion = catholic
 		size = 210
 		militancy = 9
 	}
 
 	artisans = {
-		culture = dagestani
+		culture = chechen
 		religion = catholic
 		size = 650
 		militancy = 9
 	}
 
 	farmers = {
-		culture = dagestani
+		culture = chechen
 		religion = catholic
 		size = 14110
 		militancy = 9
@@ -341,61 +341,61 @@
 	}
 
 	artisans = {
-		culture = dagestani
+		culture = chechen
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = dagestani
+		culture = chechen
 		religion = catholic
 		size = 7680
 	}
 	
 	aristocrats = {
-		culture = dagestani
+		culture = chechen
 		religion = catholic
 		size = 105
 	}
 
 	clergymen = {
-		culture = dagestani
+		culture = chechen
 		religion = catholic
 		size = 120
 	}
 
 	artisans = {
-		culture = dagestani
+		culture = chechen
 		religion = catholic
 		size = 200
 	}
 
 	farmers = {
-		culture = dagestani
+		culture = chechen
 		religion = catholic
 		size = 7400
 	}
 
 	aristocrats = {
-		culture = dagestani
+		culture = chechen
 		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
-		culture = dagestani
+		culture = chechen
 		religion = catholic
 		size = 240
 	}
 
 	artisans = {
-		culture = dagestani
+		culture = chechen
 		religion = catholic
 		size = 500
 	}
 
 	farmers = {
-		culture = dagestani
+		culture = chechen
 		religion = catholic
 		size = 10400
 	}	
@@ -501,25 +501,25 @@
 	}
 	
 	aristocrats = {
-		culture = dagestani
+		culture = chechen
 		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
-		culture = dagestani
+		culture = chechen
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = dagestani
+		culture = chechen
 		religion = catholic
 		size = 600
 	}
 
 	farmers = {
-		culture = dagestani
+		culture = chechen
 		religion = catholic
 		size = 4900
 	}
@@ -736,25 +736,25 @@
 	}
 	
 	aristocrats = {
-		culture = caspian
+		culture = persian
 		religion = catholic
 		size = 200
 	}
 
 	clergymen = {
-		culture = caspian
+		culture = persian
 		religion = catholic
 		size = 125
 	}
 
 	artisans = {
-		culture = caspian
+		culture = persian
 		religion = catholic
 		size = 2500
 	}
 
 	farmers = {
-		culture = caspian
+		culture = persian
 		religion = catholic
 		size = 17500
 	}	

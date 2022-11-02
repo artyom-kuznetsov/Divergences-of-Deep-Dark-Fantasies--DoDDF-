@@ -1493,7 +1493,7 @@
 		size = 900
 	}
 }
-#Indian dagestanies (4000/1000 POPS)
+#Indian chechenes (4000/1000 POPS)
 38 = {
 	aristocrats = {
 		culture = algonquin
@@ -1966,7 +1966,7 @@
 	}
 
 }
-#Pickle dagestanie (1200/3000 POPS)
+#Pickle chechene (1200/3000 POPS)
 2594 = {
 	aristocrats = {
 		culture = algonquin
@@ -3000,7 +3000,7 @@
 		size = 8100
 	}
 }
-#Cape Breton Island (20000/5000 POPS)
+#Cape anglois Island (20000/5000 POPS)
 73 = {
 	aristocrats = {
 		culture = vinlander

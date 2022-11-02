@@ -39,7 +39,7 @@ political_decisions = {
         potential = {
             tag = FRA
             government = democracy
-           # is_greater_power = yes
+            #is_greater_power = yes
             NOT = { has_country_flag = occitania_reclaime }
         }
 
@@ -63,7 +63,7 @@ political_decisions = {
         potential = {
             tag = FRA
             government = democracy
-          #  is_greater_power = yes
+            #is_greater_power = yes
             NOT = { accepted_culture = provencal }
             NOT = {
                 OCC = { exists = yes }

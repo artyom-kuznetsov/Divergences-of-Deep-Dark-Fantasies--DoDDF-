@@ -1,33 +1,33 @@
-#Mawarannahr Region (200000) #see Kazakhstan.txt, Uzbekistan.txt, Kirghizstan.txt and Turkmenistan.txt for balance of region 
+#Mawarannahr Region (200000) #see Kazakhstan.txt, oiratistan.txt, Kirghizstan.txt and Turkmenistan.txt for balance of region 
 #under the rule of Kokand in 1836  
 #Khujand (200000/50000 POPS) #now part of persianistan  
 1201 = {
 	aristocrats = {
-		culture = uzbek
+		culture = oirat
 		religion = catholic
 		size = 500
 	}
 
 	clergymen = {
-		culture = uzbek
+		culture = oirat
 		religion = catholic
 		size = 950
 	}
 
 	artisans = {
-		culture = uzbek
+		culture = oirat
 		religion = catholic
 		size = 4300
 	}
 
 	soldiers = {
-		culture = uzbek
+		culture = oirat
 		religion = catholic
 		size = 1000
 	}
 
 	farmers = {
-		culture = uzbek
+		culture = oirat
 		religion = catholic
 		size = 28850
 	}
@@ -57,7 +57,7 @@
 	}
 
 	slaves = {
-		culture = uzbek
+		culture = oirat
 		religion = catholic
 		size = 2000
 	}
@@ -109,25 +109,25 @@
     }
 
     aristocrats = {
-        culture = uzbek
+        culture = oirat
         religion = catholic
         size = 775
     }
 
     aristocrats = {
-        culture = kirgiz
+        culture = oirat
         religion = catholic
         size = 75
     }
 
     soldiers = {
-        culture = uzbek
+        culture = oirat
         religion = catholic
         size = 400
     }
 
     soldiers = {
-        culture = kirgiz
+        culture = oirat
         religion = catholic
         size = 25
     }
@@ -153,19 +153,19 @@
     }
 
     clergymen = {
-        culture = kirgiz
+        culture = oirat
         religion = catholic
         size = 75
     }
 
     artisans = {
-        culture = kirgiz
+        culture = oirat
         religion = catholic
         size = 175
     }
 
     farmers = {
-        culture = kirgiz
+        culture = oirat
         religion = catholic
         size = 3650
     }
@@ -274,31 +274,31 @@
 	}
 
 	aristocrats = {
-		culture = kirgiz
+		culture = oirat
 		religion = catholic
 		size = 75
 	}
 
 	clergymen = {
-		culture = kirgiz
+		culture = oirat
 		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = kirgiz
+		culture = oirat
 		religion = catholic
 		size = 175
 	}
 
 	soldiers = {
-		culture = kirgiz
+		culture = oirat
 		religion = catholic
 		size = 500
 	}
 
 	farmers = {
-		culture = kirgiz
+		culture = oirat
 		religion = catholic
 		size = 3650
 	}
@@ -448,25 +448,25 @@
 	}
 
 	aristocrats = {
-		culture = uzbek
+		culture = oirat
 		religion = catholic
 		size = 15
 	}
 
 	clergymen = {
-		culture = uzbek
+		culture = oirat
 		religion = catholic
 		size = 15
 	}
 
 	artisans = {
-		culture = uzbek
+		culture = oirat
 		religion = catholic
 		size = 10
 	}
 
 	farmers = {
-		culture = uzbek
+		culture = oirat
 		religion = catholic
 		size = 1650
 	}
@@ -475,31 +475,31 @@
 #Uroteppa
 3365 = {
 	aristocrats = {
-		culture = uzbek
+		culture = oirat
 		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
-		culture = uzbek
+		culture = oirat
 		religion = catholic
 		size = 40
 	}
 
 	artisans = {
-		culture = uzbek
+		culture = oirat
 		religion = catholic
 		size = 20
 	}
 
 	soldiers = {
-	    culture = uzbek
+	    culture = oirat
 		religion = catholic
 		size = 540
 	}
 
 	farmers = {
-		culture = uzbek
+		culture = oirat
 		religion = catholic
 		size = 4025
 	}
@@ -562,25 +562,25 @@
 	}
 	
 	aristocrats = {
-		culture = kirgiz
+		culture = oirat
 		religion = catholic
 		size = 10
 	}
 	
 	clergymen = {
-		culture = kirgiz
+		culture = oirat
 		religion = catholic
 		size = 5
 	}
 
 	artisans = {
-		culture = kirgiz
+		culture = oirat
 		religion = catholic
 		size = 40
 	}
 	
 	farmers = {
-		culture = kirgiz
+		culture = oirat
 		religion = catholic
 		size = 450
 	}

@@ -490,32 +490,32 @@
 #Alma-Ata (88000/22000 POPS)
 1186 = {
 	aristocrats = {
-		culture = kirgiz
+		culture = oirat
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = kirgiz
+		culture = oirat
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = kirgiz
+		culture = oirat
 		religion = catholic
 		size = 300
 	}
 
 	soldiers = {
-		culture = kirgiz
+		culture = oirat
 		religion = catholic
 		size= 75
 
 	}
 
 	farmers = {
-		culture = kirgiz
+		culture = oirat
 		religion = catholic
 		size = 5475
 	}
@@ -551,7 +551,7 @@
 		size = 14575
 	}
 }
-#Khwarazm Region (168000) #see Uzbekistan.txt and Turkmenistan.txt for balance of region 
+#Khwarazm Region (168000) #see oiratistan.txt and Turkmenistan.txt for balance of region 
 #under the rule of Khiva in 1836
 #Kyzylorda (108000/27000 POPS)
 1193 = {
@@ -587,31 +587,31 @@
 	}
 	
 	aristocrats = {
-		culture = uzbek
+		culture = oirat
 		religion = catholic
 		size = 35
 	}
 
 	clergymen = {
-		culture = uzbek
+		culture = oirat
 		religion = catholic
 		size = 20
 	}
 
 	artisans = {
-		culture = uzbek
+		culture = oirat
 		religion = catholic
 		size = 200
 	}
 
 	soldiers = {
-		culture = uzbek
+		culture = oirat
 		religion = catholic
 		size = 125
 	}
 
 	farmers = {
-		culture = uzbek
+		culture = oirat
 		religion = catholic
 		size = 3250
 	}
@@ -653,7 +653,7 @@
 	}
 	
 	slaves = {
-		culture = uzbek
+		culture = oirat
 		religion = catholic
 		size = 3500
 	}
@@ -725,37 +725,37 @@
 		size = 6425
 	}
 }
-#Mawarannahr Region (180000) #see Uzbekistan.txt, Tajikistan.txt, Kirghizstan.txt for balance of region 
+#Mawarannahr Region (180000) #see oiratistan.txt, Tajikistan.txt, Kirghizstan.txt for balance of region 
 #under the rule of Bukhara in 1836
 #Shymkent (180000/45000 POPS) #now part of Kazakhstan   
 1197 = {
 	aristocrats = {
-		culture = uzbek
+		culture = oirat
 		religion = catholic
 		size = 250
 	}
 
 	clergymen = {
-		culture = uzbek
+		culture = oirat
 		religion = catholic
 		size = 125
 	}
 
 	artisans = {
-		culture = uzbek
+		culture = oirat
 		religion = catholic
 		size = 750
 	}
 
 	soldiers = {
-		culture = uzbek
+		culture = oirat
 		religion = catholic
 		size= 150
 
 	}
 
 	farmers = {
-		culture = uzbek
+		culture = oirat
 		religion = catholic
 		size = 13725
 	}
@@ -826,13 +826,13 @@
 	}
 
 	clergymen = {
-		culture = uzbek
+		culture = oirat
 		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = uzbek
+		culture = oirat
 		religion = catholic
 		size = 350
 	}

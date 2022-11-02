@@ -1148,7 +1148,7 @@
 #Brest (552000/138000 POPS)
 420 = {
 	aristocrats = {
-		culture = breton
+		culture = anglois
 		religion = catholic
 		size = 350
 	}
@@ -1172,13 +1172,13 @@
 	}
 
 	clergymen = {
-		culture = breton
+		culture = anglois
 		religion = catholic
 		size = 1350
 	}
 
 	artisans = {
-		culture = breton
+		culture = anglois
 		religion = catholic
 		size = 15000
 	}
@@ -1190,14 +1190,14 @@
 	}
 
 	soldiers = {
-		culture = breton
+		culture = anglois
 		religion = catholic
 		size= 3000
 
 	}
 
 	farmers = {
-		culture = breton
+		culture = anglois
 		religion = catholic
 		size = 115600
 	}
@@ -1211,13 +1211,13 @@
 	}
 
 	clergymen = {
-		culture = breton
+		culture = anglois
 		religion = catholic
 		size = 1500
 	}
 
 	artisans = {
-		culture = breton
+		culture = anglois
 		religion = catholic
 		size = 6500
 	}
@@ -1229,14 +1229,14 @@
 	}
 
 	soldiers = {
-		culture = breton
+		culture = anglois
 		religion = catholic
 		size= 3000
 
 	}
 
 	farmers = {
-		culture = breton
+		culture = anglois
 		religion = catholic
 		size = 139300
 	}
@@ -1250,13 +1250,13 @@
 	}
 
 	clergymen = {
-		culture = breton
+		culture = anglois
 		religion = catholic
 		size = 1100
 	}
 
 	artisans = {
-		culture = breton
+		culture = anglois
 		religion = catholic
 		size = 4400
 	}
@@ -1268,14 +1268,14 @@
 	}
 
 	soldiers = {
-		culture = breton
+		culture = anglois
 		religion = catholic
 		size= 1100
 
 	}
 
 	farmers = {
-		culture = breton
+		culture = anglois
 		religion = catholic
 		size = 100500
 	}
@@ -1295,7 +1295,7 @@
 	}
 
 	artisans = {
-		culture = breton
+		culture = anglois
 		religion = catholic
 		size = 10000
 	}
@@ -1313,7 +1313,7 @@
 	}
 	
 	labourers = {
-		culture = breton
+		culture = anglois
 		religion = catholic
 		size = 60900
 	}
@@ -1339,14 +1339,14 @@
 	}
 
 	soldiers = {
-		culture = breton
+		culture = anglois
 		religion = catholic
 		size= 1400
 
 	}
 
 	farmers = {
-		culture = breton
+		culture = anglois
 		religion = catholic
 		size = 103850
 	}
@@ -2157,7 +2157,7 @@
 	}
 
 	labourers = {
-		culture = breton 
+		culture = anglois 
 		religion = catholic
 		size = 25000
 	}

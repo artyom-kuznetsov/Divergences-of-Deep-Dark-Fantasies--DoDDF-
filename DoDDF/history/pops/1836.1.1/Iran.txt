@@ -103,13 +103,13 @@
 	}	
 
 	clergymen = {
-		culture = sephardic
+		culture = north_german
 		religion = catholic
 		size = 200
 	}
 
 	artisans = {
-		culture = sephardic
+		culture = north_german
 		religion = catholic
 		size = 1890
 	}
@@ -559,19 +559,19 @@
 	}
 
 	farmers = {
-		culture = caspian
+		culture = persian
 		religion = catholic
 		size = 2000
 	}	
 
 	clergymen = {
-		culture = sephardic
+		culture = north_german
 		religion = catholic
 		size = 200
 	}
 
 	artisans = {
-		culture = sephardic
+		culture = north_german
 		religion = catholic
 		size = 1590
 	}
@@ -605,43 +605,43 @@
 #Astara
 3324 = {
 	aristocrats = {
-		culture = caspian
+		culture = persian
 		religion = catholic
 		size = 325
 	}
 
 	clergymen = {
-		culture = caspian
+		culture = persian
 		religion = catholic
 		size = 425
 	}
 
 	artisans = {
-		culture = caspian
+		culture = persian
 		religion = catholic
 		size = 1200
 	}
 
 	soldiers = {
-		culture = caspian
+		culture = persian
 		religion = catholic
 		size = 1850
 	}
 
 	farmers = {
-		culture = caspian
+		culture = persian
 		religion = catholic
 		size = 9750
 	}
 	
 	farmers = {
-		culture = caspian
+		culture = persian
 		religion = catholic
 		size = 8250
 	}
 
 	farmers = {
-		culture = caspian
+		culture = persian
 		religion = catholic
 		size = 3000
 	}	
@@ -659,44 +659,44 @@
 #Lahijan
 3332 = {
 	aristocrats = {
-		culture = caspian
+		culture = persian
 		religion = catholic
 		size = 1015
 	}
 
 	bureaucrats = {
-		culture = caspian
+		culture = persian
 		religion = catholic
 		size = 70
 	}
 
 	officers = {
-		culture = caspian
+		culture = persian
 		religion = catholic
 		size = 160
 	}
 
 	clergymen = {
-		culture = caspian
+		culture = persian
 		religion = catholic
 		size = 300
 	}
 
 	artisans = {
-		culture = caspian
+		culture = persian
 		religion = catholic
 		size = 3800
 	}
 	
 	soldiers = {
-		culture = caspian
+		culture = persian
 		religion = catholic
 		size= 1000
 
 	}	
 
 	farmers = {
-		culture = caspian
+		culture = persian
 		religion = catholic
 		size = 50250
 	}
@@ -715,13 +715,13 @@
 	}	
 
 	clergymen = {
-		culture = sephardic
+		culture = north_german
 		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = sephardic
+		culture = north_german
 		religion = catholic
 		size = 250
 	}
@@ -754,50 +754,50 @@
 #Rasht (168000/42000 POPS)
 1113 = {
 	aristocrats = {
-		culture = caspian
+		culture = persian
 		religion = catholic
 		size = 700
 	}
 
 	bureaucrats = {
-		culture = caspian
+		culture = persian
 		religion = catholic
 		size = 55
 	}
 
 	clergymen = {
-		culture = caspian
+		culture = persian
 		religion = catholic
 		size = 210
 	}
 
 	artisans = {
-		culture = caspian
+		culture = persian
 		religion = catholic
 		size = 3000
 	}
 
 	soldiers = {
-		culture = caspian
+		culture = persian
 		religion = catholic
 		size= 3000
 
 	}
 
 	farmers = {
-		culture = caspian
+		culture = persian
 		religion = catholic
 		size = 26800
 	}
 
 	clergymen = {
-		culture = sephardic
+		culture = north_german
 		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = sephardic
+		culture = north_german
 		religion = catholic
 		size = 1250
 	}
@@ -823,31 +823,31 @@
 #Noshehr (88000/22000 POPS)
 1114 = {
 	aristocrats = {
-		culture = caspian
+		culture = persian
 		religion = catholic
 		size = 450
 	}
 
 	clergymen = {
-		culture = caspian
+		culture = persian
 		religion = catholic
 		size = 390
 	}
 
 	artisans = {
-		culture = caspian
+		culture = persian
 		religion = catholic
 		size = 2500
 	}
 
 	soldiers = {
-		culture = caspian
+		culture = persian
 		religion = catholic
 		size= 3000
 	}
 
 	farmers = {
-		culture = caspian
+		culture = persian
 		religion = catholic
 		size = 32300
 	}
@@ -867,31 +867,31 @@
 #Sari (52000/13000 POPS)
 1115 = {
 	aristocrats = {
-		culture = caspian
+		culture = persian
 		religion = catholic
 		size = 495
 	}
 
 	clergymen = {
-		culture = caspian
+		culture = persian
 		religion = catholic
 		size = 270
 	}
 
 	artisans = {
-		culture = caspian
+		culture = persian
 		religion = catholic
 		size = 6175
 	}
 
 	soldiers = {
-		culture = caspian
+		culture = persian
 		religion = catholic
 		size= 6000
 	}
 
 	farmers = {
-		culture = caspian
+		culture = persian
 		religion = catholic
 		size = 54850
 	}	
@@ -942,31 +942,31 @@
 	}
 	
 	aristocrats = {
-		culture = caspian
+		culture = persian
 		religion = catholic
 		size = 175
 	}
 	
 	bureaucrats = {
-		culture = caspian
+		culture = persian
 		religion = catholic
 		size = 25
 	}	
 
 	clergymen = {
-		culture = caspian
+		culture = persian
 		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = caspian
+		culture = persian
 		religion = catholic
 		size = 1450
 	}
 
 	farmers = {
-		culture = caspian
+		culture = persian
 		religion = catholic
 		size = 18300
 	}	
@@ -1007,25 +1007,25 @@
 #Turkmensahra (140000/35000 POPS)
 3352 = {
 	aristocrats = {
-		culture = caspian
+		culture = persian
 		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
-		culture = caspian
+		culture = persian
 		religion = catholic
 		size = 10
 	}
 
 	artisans = {
-		culture = caspian
+		culture = persian
 		religion = catholic
 		size = 50
 	}
 
 	farmers = {
-		culture = caspian
+		culture = persian
 		religion = catholic
 		size = 550
 	}
@@ -1173,25 +1173,25 @@
 	}
 	
 	aristocrats = {
-		culture = caspian
+		culture = persian
 		religion = catholic
 		size = 60
 	}
 
 	clergymen = {
-		culture = caspian
+		culture = persian
 		religion = catholic
 		size = 50
 	}
 	
 	artisans = {
-		culture = caspian
+		culture = persian
 		religion = catholic
 		size = 600
 	}
 
 	farmers = {
-		culture = caspian
+		culture = persian
 		religion = catholic
 		size = 5000
 	}
@@ -1202,25 +1202,25 @@
 #Firuzkuh (52000/13000 POPS)
 3333 = {
 	aristocrats = {
-		culture = caspian
+		culture = persian
 		religion = catholic
 		size = 75
 	}
 
 	clergymen = {
-		culture = caspian
+		culture = persian
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = caspian
+		culture = persian
 		religion = catholic
 		size = 675
 	}
 
 	farmers = {
-		culture = caspian
+		culture = persian
 		religion = catholic
 		size = 10500
 	}
@@ -1314,13 +1314,13 @@
 	}
 
 	clergymen = {
-		culture = sephardic
+		culture = north_german
 		religion = catholic
 		size = 150
 	}
 
 	artisans = {
-		culture = sephardic
+		culture = north_german
 		religion = catholic
 		size = 4050
 	}
@@ -1401,13 +1401,13 @@
 	}
 
 	clergymen = {
-		culture = sephardic
+		culture = north_german
 		religion = catholic
 		size = 45
 	}
 
 	farmers = {
-		culture = sephardic
+		culture = north_german
 		religion = catholic
 		size = 2290
 	}
@@ -1415,55 +1415,55 @@
 #Ilam (84000/21000 POPS)
 1119 = {
 	aristocrats = {
-		culture = lurish
+		culture = qashqai
 		religion = catholic
 		size = 75
 	}
 
 	clergymen = {
-		culture = lurish
+		culture = qashqai
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = lurish
+		culture = qashqai
 		religion = catholic
 		size = 600
 	}
 
 	soldiers = {
-		culture = lurish
+		culture = qashqai
 		religion = catholic
 		size = 3000
 	}
 
 	farmers = {
-		culture = lurish
+		culture = qashqai
 		religion = catholic
 		size = 5025
 	}
 
 	aristocrats = {
-		culture = lurish
+		culture = qashqai
 		religion = catholic
 		size = 325
 	}
 
 	clergymen = {
-		culture = lurish
+		culture = qashqai
 		religion = catholic
 		size = 150
 	}
 
 	artisans = {
-		culture = lurish
+		culture = qashqai
 		religion = catholic
 		size = 850
 	}
 
 	farmers = {
-		culture = lurish
+		culture = qashqai
 		religion = catholic
 		size = 13700
 	}
@@ -1471,13 +1471,13 @@
 #Khorramabad (64000/16000 POPS)
 1120 = {
 	aristocrats = {
-		culture = lurish
+		culture = qashqai
 		religion = catholic
 		size = 300
 	}
 
 	clergymen = {
-		culture = lurish
+		culture = qashqai
 		religion = catholic
 		size = 150
 	}
@@ -1489,25 +1489,25 @@
 	}
 	
 	soldiers = {
-		culture = lurish
+		culture = qashqai
 		religion = catholic
 		size = 3000
 	}	
 
 	farmers = {
-		culture = lurish
+		culture = qashqai
 		religion = catholic
 		size = 32650
 	}
 
 	clergymen = {
-		culture = parsi
+		culture = persian
 		religion = catholic
 		size = 85
 	}
 
 	farmers = {
-		culture = parsi
+		culture = persian
 		religion = catholic
 		size = 1800
 	}
@@ -1553,7 +1553,7 @@
 	}	
 	
 	farmers = {
-		culture = caspian
+		culture = persian
 		religion = catholic
 		size = 6375
 	}
@@ -1571,13 +1571,13 @@
 	}	
 
 	clergymen = {
-		culture = parsi
+		culture = persian
 		religion = catholic
 		size = 85
 	}
 
 	farmers = {
-		culture = parsi
+		culture = persian
 		religion = catholic
 		size = 1835
 	}
@@ -1641,55 +1641,55 @@
 	}	
 	
 	farmers = {
-		culture = caspian
+		culture = persian
 		religion = catholic
 		size = 8000
 	}	
 
 	farmers = {
-		culture = lurish
+		culture = qashqai
 		religion = catholic
 		size = 2100
 	}
 	
 	aristocrats = {
-		culture = lurish
+		culture = qashqai
 		religion = catholic
 		size = 180
 	}
 
 	clergymen = {
-		culture = lurish
+		culture = qashqai
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = lurish
+		culture = qashqai
 		religion = catholic
 		size = 300
 	}
 	
 	soldiers = {
-		culture = lurish
+		culture = qashqai
 		religion = catholic
 		size= 3000
 	}		
 
 	farmers = {
-		culture = lurish
+		culture = qashqai
 		religion = catholic
 		size = 16700
 	}	
 
 	clergymen = {
-		culture = sephardic
+		culture = north_german
 		religion = catholic
 		size = 55
 	}
 
 	artisans = {
-		culture = sephardic
+		culture = north_german
 		religion = catholic
 		size = 2550
 	}
@@ -1746,7 +1746,7 @@
 	}	
 	
 	farmers = {
-		culture = caspian
+		culture = persian
 		religion = catholic
 		size = 3200
 	}	
@@ -1817,19 +1817,19 @@
 	}	
 	
 	farmers = {
-		culture = caspian
+		culture = persian
 		religion = catholic
 		size = 7775
 	}
 
 	clergymen = {
-		culture = sephardic
+		culture = north_german
 		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = sephardic
+		culture = north_german
 		religion = catholic
 		size = 900
 	}
@@ -1853,13 +1853,13 @@
 	}	
 
 	clergymen = {
-		culture = parsi
+		culture = persian
 		religion = catholic
 		size = 150
 	}
 
 	artisans = {
-		culture = parsi
+		culture = persian
 		religion = catholic
 		size = 3525
 	}
@@ -1904,19 +1904,19 @@
 	}	
 	
 	farmers = {
-		culture = caspian
+		culture = persian
 		religion = catholic
 		size = 8275
 	}	
 
 	clergymen = {
-		culture = sephardic
+		culture = north_german
 		religion = catholic
 		size = 175
 	}
 
 	artisans = {
-		culture = sephardic
+		culture = north_german
 		religion = catholic
 		size = 1840
 	}
@@ -1967,19 +1967,19 @@
 	}	
 	
 	clergymen = {
-		culture = caspian
+		culture = persian
 		religion = catholic
 		size = 125
 	}
 
 	artisans = {
-		culture = caspian
+		culture = persian
 		religion = catholic
 		size = 600
 	}
 
 	farmers = {
-		culture = caspian
+		culture = persian
 		religion = catholic
 		size = 3500
 	}	
@@ -2071,25 +2071,25 @@
 	}
 	
 	aristocrats = {
-		culture = parsi
+		culture = persian
 		religion = catholic
 		size = 2
 	}
 
 	clergymen = {
-		culture = parsi
+		culture = persian
 		religion = catholic
 		size = 5
 	}
 
 	artisans = {
-		culture = parsi
+		culture = persian
 		religion = catholic
 		size = 25
 	}
 
 	farmers = {
-		culture = parsi
+		culture = persian
 		religion = catholic
 		size = 960
 	}
@@ -2147,19 +2147,19 @@
 	}	
 	
 	farmers = {
-		culture = khalaj
+		culture = qashqai
 		religion = catholic
 		size = 10950
 	}	
 
 	clergymen = {
-		culture = sephardic
+		culture = north_german
 		religion = catholic
 		size = 350
 	}
 
 	artisans = {
-		culture = sephardic
+		culture = north_german
 		religion = catholic
 		size = 4290
 	}
@@ -2234,7 +2234,7 @@
 	}	
 	
 	farmers = {
-		culture = khalaj
+		culture = qashqai
 		religion = catholic
 		size = 6750
 	}
@@ -2280,19 +2280,19 @@
 	}
 	
 	farmers = {
-		culture = khalaj
+		culture = qashqai
 		religion = catholic
 		size = 12000
 	}	
 
 	clergymen = {
-		culture = sephardic
+		culture = north_german
 		religion = catholic
 		size = 110
 	}
 
 	artisans = {
-		culture = sephardic
+		culture = north_german
 		religion = catholic
 		size = 1340
 	}
@@ -2361,19 +2361,19 @@
 	}	
 	
 	farmers = {
-		culture = khalaj
+		culture = qashqai
 		religion = catholic
 		size = 3500
 	}	
 
 	clergymen = {
-		culture = sephardic
+		culture = north_german
 		religion = catholic
 		size = 60
 	}
 
 	artisans = {
-		culture = sephardic
+		culture = north_german
 		religion = catholic
 		size = 1000
 	}
@@ -2391,13 +2391,13 @@
 	}
 
 	clergymen = {
-		culture = parsi
+		culture = persian
 		religion = catholic
 		size = 225
 	}
 
 	farmers = {
-		culture = parsi
+		culture = persian
 		religion = catholic
 		size = 4275
 	}
@@ -2479,13 +2479,13 @@
 	}
 
 	clergymen = {
-		culture = sephardic
+		culture = north_german
 		religion = catholic
 		size = 145
 	}
 
 	artisans = {
-		culture = sephardic
+		culture = north_german
 		religion = catholic
 		size = 1750
 	}
@@ -2525,31 +2525,31 @@
 #Dezful (32000/8000 POPS)
 1133 = {
 	aristocrats = {
-		culture = lurish
+		culture = qashqai
 		religion = catholic
 		size = 125
 	}
 
 	clergymen = {
-		culture = lurish
+		culture = qashqai
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = lurish
+		culture = qashqai
 		religion = catholic
 		size = 400
 	}
 
 	soldiers = {
-		culture = lurish
+		culture = qashqai
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = lurish
+		culture = qashqai
 		religion = catholic
 		size = 7275
 	}
@@ -2557,31 +2557,31 @@
 #Shahr-e Kord (32000/8000 POPS)
 1134 = {
 	aristocrats = {
-		culture = lurish
+		culture = qashqai
 		religion = catholic
 		size = 150
 	}
 
 	clergymen = {
-		culture = lurish
+		culture = qashqai
 		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = lurish
+		culture = qashqai
 		religion = catholic
 		size = 400
 	}
 
 	farmers = {
-		culture = lurish
+		culture = qashqai
 		religion = catholic
 		size = 12925
 	}
 	
 	farmers = {
-		culture = lurish
+		culture = qashqai
 		religion = catholic
 		size = 3925
 	}	
@@ -2593,13 +2593,13 @@
 	}
 
 	clergymen = {
-		culture = sephardic
+		culture = north_german
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = sephardic
+		culture = north_german
 		religion = catholic
 		size = 450
 	}
@@ -2656,31 +2656,31 @@
 	}
 
 	aristocrats = {
-		culture = lurish
+		culture = qashqai
 		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
-		culture = lurish
+		culture = qashqai
 		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = lurish
+		culture = qashqai
 		religion = catholic
 		size = 200
 	}
 
 	soldiers = {
-		culture = lurish
+		culture = qashqai
 		religion = catholic
 		size = 75
 	}
 
 	farmers = {
-		culture = lurish
+		culture = qashqai
 		religion = catholic
 		size = 2275
 	}
@@ -2762,25 +2762,25 @@
 	}	
 
 	clergymen = {
-		culture = sephardic
+		culture = north_german
 		religion = catholic
 		size = 85
 	}
 
 	artisans = {
-		culture = sephardic
+		culture = north_german
 		religion = catholic
 		size = 1140
 	}
 
 	clergymen = {
-		culture = parsi
+		culture = persian
 		religion = catholic
 		size = 150
 	}
 
 	farmers = {
-		culture = parsi
+		culture = persian
 		religion = catholic
 		size = 3560
 	}
@@ -2837,7 +2837,7 @@
 	}
 	
 	farmers = {
-		culture = parsi
+		culture = persian
 		religion = catholic
 		size = 500
 	}	
@@ -2922,37 +2922,37 @@
 	}
 	
 	aristocrats = {
-		culture = lurish
+		culture = qashqai
 		religion = catholic
 		size = 200
 	}
 
 	clergymen = {
-		culture = lurish
+		culture = qashqai
 		religion = catholic
 		size = 350
 	}
 
 	artisans = {
-		culture = lurish
+		culture = qashqai
 		religion = catholic
 		size = 200
 	}
 
 	soldiers = {
-		culture = lurish
+		culture = qashqai
 		religion = catholic
 		size = 3250
 	}
 	
 	farmers = {
-		culture = lurish
+		culture = qashqai
 		religion = catholic
 		size = 8000
 	}
 	
 	farmers = {
-		culture = lurish
+		culture = qashqai
 		religion = catholic
 		size = 2150
 	}	
@@ -2970,7 +2970,7 @@
 	}	
 	
 	farmers = {
-		culture = khalaj
+		culture = qashqai
 		religion = catholic
 		size = 4000
 	}	
@@ -3054,7 +3054,7 @@
 	}	
 	
 	farmers = {
-		culture = khalaj
+		culture = qashqai
 		religion = catholic
 		size = 1000
 	}	
@@ -3113,31 +3113,31 @@
 	}	
 	
 	farmers = {
-		culture = khalaj
+		culture = qashqai
 		religion = catholic
 		size = 6025
 	}	
 
 	clergymen = {
-		culture = parsi
+		culture = persian
 		religion = catholic
 		size = 265
 	}
 
 	farmers = {
-		culture = parsi
+		culture = persian
 		religion = catholic
 		size = 1885
 	}
 
 	clergymen = {
-		culture = sephardic
+		culture = north_german
 		religion = catholic
 		size = 225
 	}
 
 	artisans = {
-		culture = sephardic
+		culture = north_german
 		religion = catholic
 		size = 1095
 	}
@@ -3305,7 +3305,7 @@
 	}	
 	
 	farmers = {
-		culture = khalaj
+		culture = qashqai
 		religion = catholic
 		size = 5500
 	}	
@@ -3625,13 +3625,13 @@
 	}
 
 	clergymen = {
-		culture = sephardic
+		culture = north_german
 		religion = catholic
 		size = 170
 	}
 
 	artisans = {
-		culture = sephardic
+		culture = north_german
 		religion = catholic
 		size = 3405
 	}
@@ -3712,13 +3712,13 @@
 	}	
 
 	clergymen = {
-		culture = parsi
+		culture = persian
 		religion = catholic
 		size = 80
 	}
 
 	farmers = {
-		culture = parsi
+		culture = persian
 		religion = catholic
 		size = 1100
 	}

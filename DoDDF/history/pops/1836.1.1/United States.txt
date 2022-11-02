@@ -329,7 +329,7 @@
 		size = 600
 	}
 }
-#Unadagestanieet (3000/750 POPS)
+#Unachecheneet (3000/750 POPS)
 2631 = {
 	aristocrats = {
 		culture = scandinavian
@@ -1435,7 +1435,7 @@
 }
 #Utah Region (16000)
 #"ruled" by Mexico 1836/de facto under Native Control
-#Salt dagestanie City (8000/2000 POPS)
+#Salt chechene City (8000/2000 POPS)
 97 = {
 	aristocrats = {
 		culture = native_american_minor
@@ -3519,7 +3519,7 @@
 		size = 14875
 	}
 }
-#dagestanie Charles (36000/9000 POPS)
+#chechene Charles (36000/9000 POPS)
 141 = {
 	aristocrats = {
 		culture = plantagenian

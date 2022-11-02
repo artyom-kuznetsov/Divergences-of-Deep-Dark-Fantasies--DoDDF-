@@ -293,13 +293,13 @@
 	}
 
 	clergymen = {
-		culture = parsi
+		culture = persian
 		religion = catholic
 		size = 62
 	}
 
 	farmers = {
-		culture = parsi
+		culture = persian
 		religion = catholic
 		size = 700
 	}
@@ -1763,19 +1763,19 @@
 	}
 
 	clergymen = {
-		culture = parsi
+		culture = persian
 		religion = catholic
 		size = 45
 	}
 
 	bureaucrats = {
-		culture = parsi
+		culture = persian
 		religion = catholic
 		size = 190
 	}
 
 	farmers = {
-		culture = parsi
+		culture = persian
 		religion = catholic
 		size = 1470
 	}
@@ -6690,19 +6690,19 @@
 	}
 
 	clergymen = {
-		culture = parsi
+		culture = persian
 		religion = catholic
 		size = 500
 	}
 
 	artisans = {
-		culture = parsi
+		culture = persian
 		religion = catholic
 		size = 250
 	}
 
 	farmers = {
-		culture = parsi
+		culture = persian
 		religion = catholic
 		size = 3000
 	}
@@ -6778,19 +6778,19 @@
 	}
 
 	clergymen = {
-		culture = parsi
+		culture = persian
 		religion = catholic
 		size = 900
 	}
 
 	artisans = {
-		culture = parsi
+		culture = persian
 		religion = catholic
 		size = 1000
 	}
 
 	farmers = {
-		culture = parsi
+		culture = persian
 		religion = catholic
 		size = 4000
 	}
@@ -7346,31 +7346,31 @@
 	}
 
 	aristocrats = {
-		culture = parsi
+		culture = persian
 		religion = catholic
 		size = 1200
 	}
 
 	clergymen = {
-		culture = parsi
+		culture = persian
 		religion = catholic
 		size = 5250
 	}
 
 	bureaucrats = {
-		culture = parsi
+		culture = persian
 		religion = catholic
 		size = 1780
 	}
 
 	artisans = {
-		culture = parsi
+		culture = persian
 		religion = catholic
 		size = 10000
 	}
 
 	farmers = {
-		culture = parsi
+		culture = persian
 		religion = catholic
 		size = 105000
 	}

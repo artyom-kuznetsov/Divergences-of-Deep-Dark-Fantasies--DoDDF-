@@ -3,43 +3,43 @@
 #Valetta (110000/27500 POPS)
 854 = {
     aristocrats = {
-        culture = maltese
+        culture = south_italian
         religion = catholic
         size = 180
     }
 
     officers = {
-        culture = maltese
+        culture = south_italian
         religion = catholic
         size = 25
     }
 
     soldiers = {
-        culture = maltese
+        culture = south_italian
         religion = catholic
         size = 1500
     }
 
     bureaucrats = {
-        culture = maltese
+        culture = south_italian
         religion = catholic
         size = 15
     }
 
     clergymen = {
-        culture = maltese
+        culture = south_italian
         religion = catholic
         size = 330
     }
 
     artisans = {
-        culture = maltese
+        culture = south_italian
         religion = catholic
         size = 9600
     }
 
     farmers = {
-        culture = maltese
+        culture = south_italian
         religion = catholic
         size = 18570
     }

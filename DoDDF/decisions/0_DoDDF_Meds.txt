@@ -6,6 +6,7 @@ political_decisions = {
 			#	health_care = low_health_care
 			#}
 			ai = no
+			civilized = yes
 		}
 		
 		allow = {

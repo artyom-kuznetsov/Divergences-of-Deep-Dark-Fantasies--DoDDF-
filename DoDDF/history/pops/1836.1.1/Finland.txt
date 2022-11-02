@@ -91,7 +91,7 @@
     }
 
     farmers = {
-        culture = sami
+        culture = scandinavian
         religion = catholic
         size = 465
     }

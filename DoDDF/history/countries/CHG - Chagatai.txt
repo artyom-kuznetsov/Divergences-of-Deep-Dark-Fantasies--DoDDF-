@@ -1,7 +1,6 @@
 capital = 1600
 primary_culture = oirat
 culture = mongol
-culture = uzbek
 culture = uighur
 culture = kazak
 religion = catholic
