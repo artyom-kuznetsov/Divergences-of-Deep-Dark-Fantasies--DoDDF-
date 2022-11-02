@@ -3873,9 +3873,9 @@ free_peoples_setup;§B12§! Отнять у державы $RECIPIENT$ регион $STATE$ и передать
 protect_minor;Защита слабого;X
 protect_minor_short;Передача региона $STATE$ державе $THIRD$;X
 protect_minor_setup;Заставить державу $RECIPIENT$ передать регион $STATE$ обратно державе $THIRD$.;X
-humiliate;§B10§! Унижение;X
-humiliate_short;§B10§! Унижение державы $RECIPIENT$;X
-humiliate_setup;§B10§! Унизить державу $RECIPIENT$. ;X
+humiliate;Унижение;X
+humiliate_short;Унижение державы $RECIPIENT$;X
+humiliate_setup;Унизить державу $RECIPIENT$. ;X
 WETARGET_DISCREDIT_LOG;Держава $ACTOR$ дискредитировала нас перед высшими лицами державы $RECIPIENT$.;X
 WETARGET_EXPELADVISORS_LOG;Держава $ACTOR$ убедила державу $RECIPIENT$ выслать всех наших советников!;X
 WETARGET_BANEMBASSY_LOG;Держава $ACTOR$ убедила державу $RECIPIENT$ закрыть наше посольство!;X
