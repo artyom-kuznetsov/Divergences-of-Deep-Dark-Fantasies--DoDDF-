@@ -31,19 +31,6 @@ political_decisions = {
         }
     }
 
-    option_disable_anarcho_liberals = {
-        alert = no
-        potential = {
-            ai = no
-            has_country_flag = country_looking_through_options
-            NOT = { year = 1837 }
-            NOT = { has_global_flag = anarcho_liberals_disabled }
-        }
-
-        allow = {}
-
-        effect = { set_global_flag = anarcho_liberals_disabled }
-    }
 
     option_disable_hpm_crisis = {
         alert = no
@@ -218,7 +205,7 @@ political_decisions = {
 				regular_clothes = 400
 			}
 			
-
+			set_global_flag = anarcho_liberals_disabled
             set_global_flag = setup_complete
 			
         }

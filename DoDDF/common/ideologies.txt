@@ -16,6 +16,14 @@ fascist_group = {
                 factor = -1
                 NOT = { ruling_party_ideology = fascist }
             }
+			modifier = {
+				factor = -1
+				has_country_flag = cannot_pass_reform
+			}
+			modifier = {
+				factor = 1
+				has_country_flag = force_reform
+			}
         }
 
 
@@ -25,6 +33,14 @@ fascist_group = {
                 factor = -1
                 NOT = { ruling_party_ideology = fascist }
             }
+			modifier = {
+				factor = -1
+				has_country_flag = cannot_pass_reform
+			}
+			modifier = {
+				factor = 1
+				has_country_flag = force_reform
+			}
         }
 
 
@@ -34,6 +50,14 @@ fascist_group = {
                 factor = -1
                 NOT = { ruling_party_ideology = fascist }
             }
+			modifier = {
+				factor = -1
+				has_country_flag = cannot_pass_reform
+			}
+			modifier = {
+				factor = 1
+				has_country_flag = force_reform
+			}
         }
 
 
@@ -43,6 +67,14 @@ fascist_group = {
                 factor = -1
                 NOT = { ruling_party_ideology = fascist }
             }
+			modifier = {
+				factor = -1
+				has_country_flag = cannot_pass_reform
+			}
+			modifier = {
+				factor = 1
+				has_country_flag = force_reform
+			}
         }
     }
 }
@@ -137,6 +169,15 @@ conservative_group = {
                     }
                 }
             }
+			
+			modifier = {
+				factor = -1
+				has_country_flag = cannot_pass_reform
+			}
+			modifier = {
+				factor = 1
+				has_country_flag = force_reform
+			}
         }
         remove_political_reform = { base = 0 }
         add_social_reform = {
@@ -207,12 +248,45 @@ conservative_group = {
                     }
                 }
             }
+			
+			modifier = {
+				factor = -1
+				has_country_flag = cannot_pass_reform
+			}
+			modifier = {
+				factor = 1
+				has_country_flag = force_reform
+			}
         }
-        remove_social_reform = { base = 0 }
+        remove_social_reform = { base = 0 
+			modifier = {
+				factor = -1
+				has_country_flag = cannot_pass_reform
+			}
+			modifier = {
+				factor = 1
+				has_country_flag = force_reform
+			}}
 
-        add_military_reform = { base = 0.5 }
+        add_military_reform = { base = 0.5 
+			modifier = {
+				factor = -1
+				has_country_flag = cannot_pass_reform
+			}
+			modifier = {
+				factor = 1
+				has_country_flag = force_reform
+			}}
 
-        add_economic_reform = { base = -0.5 }
+        add_economic_reform = { base = -0.5 
+			modifier = {
+				factor = -1
+				has_country_flag = cannot_pass_reform
+			}
+			modifier = {
+				factor = 1
+				has_country_flag = force_reform
+			}}
     }
 }
 socialist_group = {
@@ -290,10 +364,43 @@ socialist_group = {
                     }
                 }
             }
+			
+			modifier = {
+				factor = -1
+				has_country_flag = cannot_pass_reform
+			}
+			modifier = {
+				factor = 1
+				has_country_flag = force_reform
+			}
         }
-        remove_political_reform = { base = 0 }
-        add_social_reform = { base = 1 }
-        remove_social_reform = { base = 0 }
+        remove_political_reform = { base = 0 
+			modifier = {
+				factor = -1
+				has_country_flag = cannot_pass_reform
+			}
+			modifier = {
+				factor = 1
+				has_country_flag = force_reform
+			}}
+        add_social_reform = { base = 1 
+			modifier = {
+				factor = -1
+				has_country_flag = cannot_pass_reform
+			}
+			modifier = {
+				factor = 1
+				has_country_flag = force_reform
+			}}
+        remove_social_reform = { base = 0 
+			modifier = {
+				factor = -1
+				has_country_flag = cannot_pass_reform
+			}
+			modifier = {
+				factor = 1
+				has_country_flag = force_reform
+			}}
     }
 
     communist = {
@@ -311,10 +418,42 @@ socialist_group = {
                 militancy = 9
                 political_movement_strength = 0.9
             }
+			modifier = {
+				factor = -1
+				has_country_flag = cannot_pass_reform
+			}
+			modifier = {
+				factor = 1
+				has_country_flag = force_reform
+			}
         }
-        remove_political_reform = { base = 1 }
-        add_social_reform = { base = 1 }
-        remove_social_reform = { base = 0 }
+        remove_political_reform = { base = 1 
+			modifier = {
+				factor = -1
+				has_country_flag = cannot_pass_reform
+			}
+			modifier = {
+				factor = 1
+				has_country_flag = force_reform
+			}}
+        add_social_reform = { base = 1 
+			modifier = {
+				factor = -1
+				has_country_flag = cannot_pass_reform
+			}
+			modifier = {
+				factor = 1
+				has_country_flag = force_reform
+			}}
+        remove_social_reform = { base = 0 
+			modifier = {
+				factor = -1
+				has_country_flag = cannot_pass_reform
+			}
+			modifier = {
+				factor = 1
+				has_country_flag = force_reform
+			}}
     }
 }
 
@@ -325,8 +464,24 @@ liberal_group = {
         }
 
 
-        add_political_reform = { base = 1 }
-        remove_political_reform = { base = 0 }
+        add_political_reform = { base = 1 
+			modifier = {
+				factor = -1
+				has_country_flag = cannot_pass_reform
+			}
+			modifier = {
+				factor = 1
+				has_country_flag = force_reform
+			}}
+        remove_political_reform = { base = 0 
+			modifier = {
+				factor = -1
+				has_country_flag = cannot_pass_reform
+			}
+			modifier = {
+				factor = 1
+				has_country_flag = force_reform
+			}}
         add_social_reform = {
             base = 0
 
@@ -395,12 +550,44 @@ liberal_group = {
                     }
                 }
             }
+			modifier = {
+				factor = -1
+				has_country_flag = cannot_pass_reform
+			}
+			modifier = {
+				factor = 1
+				has_country_flag = force_reform
+			}
         }
-        remove_social_reform = { base = 0 }
+        remove_social_reform = { base = 0 
+			modifier = {
+				factor = -1
+				has_country_flag = cannot_pass_reform
+			}
+			modifier = {
+				factor = 1
+				has_country_flag = force_reform
+			}}
 
-        add_military_reform = { base = 0.5 }
+        add_military_reform = { base = 0.5 
+			modifier = {
+				factor = -1
+				has_country_flag = cannot_pass_reform
+			}
+			modifier = {
+				factor = 1
+				has_country_flag = force_reform
+			}}
 
-        add_economic_reform = { base = 1 }
+        add_economic_reform = { base = 1 
+			modifier = {
+				factor = -1
+				has_country_flag = cannot_pass_reform
+			}
+			modifier = {
+				factor = 1
+				has_country_flag = force_reform
+			}}
     }
 
     anarcho_liberal = {
@@ -418,13 +605,61 @@ liberal_group = {
                 militancy = 9
                 political_movement_strength = 0.9
             }
+			modifier = {
+				factor = -1
+				has_country_flag = cannot_pass_reform
+			}
+			modifier = {
+				factor = 1
+				has_country_flag = force_reform
+			}
         }
-        remove_political_reform = { base = 0 }
-        add_social_reform = { base = 0 }
-        remove_social_reform = { base = 1 }
+        remove_political_reform = { base = 0 
+			modifier = {
+				factor = -1
+				has_country_flag = cannot_pass_reform
+			}
+			modifier = {
+				factor = 1
+				has_country_flag = force_reform
+			}}
+        add_social_reform = { base = 0 
+			modifier = {
+				factor = -1
+				has_country_flag = cannot_pass_reform
+			}
+			modifier = {
+				factor = 1
+				has_country_flag = force_reform
+			}}
+        remove_social_reform = { base = 1 
+			modifier = {
+				factor = -1
+				has_country_flag = cannot_pass_reform
+			}
+			modifier = {
+				factor = 1
+				has_country_flag = force_reform
+			}}
 
-        add_military_reform = { base = -1 }
+        add_military_reform = { base = -1 
+			modifier = {
+				factor = -1
+				has_country_flag = cannot_pass_reform
+			}
+			modifier = {
+				factor = 1
+				has_country_flag = force_reform
+			}}
 
-        add_economic_reform = { base = -1 }
+        add_economic_reform = { base = -1 
+			modifier = {
+				factor = -1
+				has_country_flag = cannot_pass_reform
+			}
+			modifier = {
+				factor = 1
+				has_country_flag = force_reform
+			}}
     }
 }

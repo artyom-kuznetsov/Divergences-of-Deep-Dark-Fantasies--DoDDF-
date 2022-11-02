@@ -2254,7 +2254,7 @@ guiTypes = {
 	windowType = {
 		name = "party_window"
 		backGround =""
-		size = { x=340 y=152 }
+		size = { x=340 y=252 }
 		moveable = 0
 		dontRender = ""
 		horizontalBorder = "0"
@@ -2288,7 +2288,7 @@ guiTypes = {
 			name ="issue_listbox"
 			position = { x = 0 y = 52 }
 			backGround=""
-			size = { x=200 y = 137 }
+			size = { x=200 y = 274 }
 			Orientation = "UPPER_LEFT"
 			spacing = 2
 			scrollbartype = "standardlistbox_slider"
@@ -2358,7 +2358,7 @@ guiTypes = {
 	windowType = {
 		name = "party_issue_option_window"
 		backGround =""
-		size = { x=200 y=16 }
+		size = { x=200 y=32 }
 		moveable = 0
 		dontRender = ""
 		horizontalBorder = "0"
@@ -2371,7 +2371,7 @@ guiTypes = {
 			font = "Arial12_black"
 			text = " "	
 			maxWidth = 90
-			maxHeight = 20
+			maxHeight = 40
 		}
 		
 		instantTextBoxType = { 
@@ -2380,7 +2380,7 @@ guiTypes = {
 			font = "vic_18_black"
 			text = " "	
 			maxWidth = 115
-			maxHeight = 20	
+			maxHeight = 40
 		}
 	}
 	########################

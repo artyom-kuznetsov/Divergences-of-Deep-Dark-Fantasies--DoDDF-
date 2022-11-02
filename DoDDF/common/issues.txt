@@ -159,39 +159,31 @@ party_issues = {
     war_policy = {
         jingoism = {
             max_military_spending = 1.0
-            supply_consumption = 0.1
             war_exhaustion_effect = 0.5
             is_jingoism = yes
             cb_generation_speed_modifier = 0.3
-            mobilization_impact = 4
-            org_regain = 0.5
-            reinforce_speed = 0.5
+            mobilization_impact = 3
+            reinforce_speed = 0.1
         }
         pro_military = {
             max_military_spending = 1.0
             war_exhaustion_effect = 0.7
             cb_generation_speed_modifier = 0.2
             mobilization_impact = 3
-            org_regain = 0.25
-            reinforce_speed = 0.25
+            reinforce_speed = 0.07
         }
         anti_military = {
-            max_military_spending = 0.5
-            supply_consumption = -0.25
+            max_military_spending = 1.0
             war_exhaustion_effect = 1.2
             cb_generation_speed_modifier = -0.2
-            mobilization_impact = 2
-            org_regain = -0.25
-            reinforce_speed = -0.25
+            mobilization_impact = 3
+            reinforce_speed = 0.5
         }
         pacifism = {
-            max_military_spending = 0.4
-            supply_consumption = -0.5
+            max_military_spending = 1.0
             war_exhaustion_effect = 1.5
             cb_generation_speed_modifier = -0.4
-            mobilization_impact = 1
-            org_regain = -0.5
-            reinforce_speed = -0.5
+            mobilization_impact = 3
         }
     }
     social_policy = {
@@ -795,14 +787,14 @@ social_reforms = {
         next_step_only = yes
         child_labor_legal = {
             #global_population_growth = -0.001
-            education_efficiency_modifier = -0.1
-            factory_throughput = 0.1
-            artisan_throughput = 0.1
-            RGO_throughput = 0.25
+            education_efficiency_modifier = -0.2
+            factory_throughput = 0.05
+            artisan_throughput = 0.05
+            RGO_throughput = 0.15
         }
 
         child_labor_restricted = {
-            education_efficiency_modifier = -0.03
+            education_efficiency_modifier = -0.1
             poor_savings_modifier = 0.05
             RGO_throughput = 0.05
             artisan_throughput = 0.05

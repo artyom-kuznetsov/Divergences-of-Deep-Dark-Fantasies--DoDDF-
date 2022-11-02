@@ -1,3 +1,405 @@
+#;;x
+merge_the_crowns_ari_title;§R*§B*§R*§! Proclaim the kingdom of Aragon-Italy;X
+switch_to_traditional_academic_title;§G*§Y*§G*§! Восстановление Академии;X
+accept_rhenish_BRG_title;§R*§B*§R*§! Интеграция Рейнланда;X
+claim_savoy_title;§R*§B*§R*§! Претензии на Савойю;X
+AUS_733;Фриули;X
+AUS_734;Южный Тироль;X
+AUS_702;Малая Польша;X
+AUS_662;Восточная Галиция;X
+AUS_633;Словакия;X
+AUS_780;Далмация;X
+AUS_771;Хорватия;X
+AUS_647;Альфёльд;X
+AUS_623;Трансданубия;X
+AUS_736;Истрия;X
+AUS_729;Венето;X
+AUS_726;Ломбардия;X
+AUS_625;Богемия;X
+AUS_626;Моравия;X
+AUS_641;Центральная Венгрия;X
+AUS_613;Каринтия-Штирия;X
+AUS_612;Тироль;X
+AUS_619;Австрия;X
+AUS_768;Словения;X
+AUS_777;Славония-Воеводина;X
+border_policy;Статус Границ;X
+closed_borders;Закрытые Границы;X
+closed_borders_l;Закрытые Границы;X
+closed_borders_desc;People aren't allowed in or out of our country. The effectiveness of this policy is based on our administration and military spending. Some people might still emigrate illegally, either by crossing the border or hiding in ships. The veil of secrecy that shrouds our country makes other nations mistrust us.;X
+movement_closed_borders;Movement for the Protection of the Country;X
+quota_immigration;Иммиграционные Квоты;X
+quota_immigration_l;Иммиграционные Квоты;X
+quota_immigration_desc;Foreign nationals are allowed to immigrate to our country, as long as they have a literacy above 60% and aren't citizens of countries that were recently or are currently at war with our country. There are no restrictions for emigration.;X
+movement_quota_immigration;Движение за иммиграционные квоты;X
+open_borders;Открытые Границы;X
+open_borders_l;Открытые Границы;X
+open_borders_desc;Our country is completly open for immigration and emigration, either by deliberate choice or because of the lack of appropriate border controls.;X
+capital_punishment;Смертная Казнь;X
+capital_punishment_l;Смертная Казнь;X
+capital_punishment_desc;Convicts are killed for relatively minor crimes.;X
+movement_capital_punishment;Движение за смертную казнь;X
+penal_system;Судебная Система;X
+penal_system_l;Судебная Система;X
+colonial_transportation;Ссылка;X
+colonial_transportation_l;Ссылка;X
+citizens_rights;Полит. Права;X
+culture_voting_only;Культурные Права;X
+all_voting_pops;Равноправие;X
+primary_culture_only;Огранич. Права;X
+low_pensions;Низкий фонд;X
+low_pensions_desc;Низкие государственные пенсии.;X
+acceptable_pensions;Приемлемый фонд;X
+acceptable_pensions_desc;Приемлемые государственные пенсии.;X
+good_pensions;Хороший фонд;X
+good_pensions_desc;Высокие государственные пенсии.;X
+safety_regulations;Безопасность;X
+unemployment_subsidies;Пособия;X
+no_subsidies;Нет субсидий;X
+no_subsidies_desc;Нет пособий по безработице.;X
+trinket_subsidies;Минимум субсидий;X
+trinket_subsidies_desc;Очень низкие пособия по безработице.;X
+low_subsidies;Низкие субсидии;X
+low_subsidies_desc;Низкие пособия по безработице.;X
+acceptable_subsidies;Приемлемые субсидии;X
+acceptable_subsidies_desc;Приемлемые пособия по безработице.;X
+good_subsidies;Щедрые субсидии;X
+good_subsidies_desc;Щедрые пособия по безработице.;X
+pensions;Пенсии;X
+no_pensions;Нет пенсий;X
+no_pensions_desc;Нет государственных пенсий.;X
+trinket_pensions;Минимальный фонд;X
+trinket_pensions_desc;Очень низкие государственные пенсии.;X
+bankruptcy;Банкротство;X
+bankruptcy_l;Банкротство;X
+public_meetings;Общ. собрания;X
+yes_meeting;Разрешены;X
+yes_meeting_desc;Разрешены общественные собрания и митинги.;X
+no_meeting;Запрещены;X
+no_meeting_desc;Общественные собрания запрещены.;X
+press_rights;Права прессы;X
+state_press;Гос. пресса;X
+state_press_desc;Разрешена пресса, контролируемая государством.;X
+censored_press;Цензура прессы;X
+censored_press_desc;Разрешена свободная пресса, но под цензурой государства.;X
+free_press;Свободная пресса;X
+free_press_desc;Разрешена свободная пресса без государственного вмешательства.;X
+trade_unions;Профсоюзы;X
+no_trade_unions;Незаконны;X
+no_trade_unions_desc;Профсоюзы запрещены.;X
+state_controlled;Контролируемые;X
+state_controlled_desc;Разрешены только контролируемые государством профсоюзы.;X
+non_socialist;Не-социалисты;X
+non_socialist_desc;Разрешены только несоциалистические профсоюзы.;X
+all_trade_unions;Все разрешены;X
+all_trade_unions_desc;Разрешены все профсоюзы.;X
+political_parties;Полит. партии;X
+underground_parties;Только подпольные;X
+underground_parties_desc;Правительство активное препятствует другим партиям вести публичную борьбу за голоса избирателей.;X
+harassment;Притеснения;X
+harassment_desc;Правящая партия изводит население, заставляя голосовать за нее.;X
+gerrymandering;Джерримэндеринг;X
+gerrymandering_desc;Количество избирательных округа или их границы сознательно изменяются в предвыборных целях, что приносит правящей партии больше голосов. Партия власти может использовать джерримэндеринг, чтобы заставить население голосовать за нее.;X
+non_secret_ballots;Открытое голосование;X
+non_secret_ballots_desc;Проводимые в стране выборы являются открытыми. Правящая партия знает, кто как голосует, и потому может давить на избирателей, дабы заставить их голосовать за нее.;X
+secret_ballots;Тайное голосование;X
+secret_ballots_desc;Выбор избирателя является конфиденциальной информацией, дабы никто не мог повлиять на него посредством подкупа или угрозами. В результате правящая партия не может влиять на выбор населения.;X
+social_reforms;Социальные реформы;X
+wage_reform;Мин. зарплата;X
+no_minimum_wage;Нет минимума;X
+no_minimum_wage_desc;Нет минимального уровня оплаты труда.;X
+REMOVE_trinket_wage;Крайне низкая зарплата;X
+trinket_wage_desc;Очень низкая оплата труда.;X
+low_minimum_wage;Низкая зарплата;X
+low_minimum_wage_desc;Низкая оплата труда.;X
+acceptable_minimum_wage;Приемлемая зарплата;X
+acceptable_minimum_wage_desc;Приемлемая оплата труда.;X
+good_minimum_wage;Хорошая зарплата;X
+good_minimum_wage_desc;Оплата труда выше обычного уровня.;X
+work_hours;Макс. рабочий день;X
+no_work_hour_limit;Максимум не установлен;X
+no_work_hour_limit_desc;Нет ограничения рабочего дня.;X
+fourteen_hours;14-часовой рабочий день;X
+fourteen_hours_desc;Максимальный рабочий день равен 14 часам.;X
+twelve_hours;12-часовой рабочий день;X
+twelve_hours_desc;Максимальный рабочий день равен 12 часам.;X
+ten_hours;10-часовой рабочий день;X
+ten_hours_desc;Максимальный рабочий день равен 10 часам.;X
+eight_hours;8-часовой рабочий день;X
+eight_hours_desc;Максимальный рабочий день равен 8 часам.;X
+health_care;Здравоохранение;X
+debtors_prisons;Тюрьмы Должников;X
+debtors_prisons_l;Тюрьмы Должников;X
+peonage;Батрачество;X
+peonage_l;Батрачество;X
+first_past_the_post;Мажоритарная;X
+first_past_the_post_desc;Побеждает кандидат, получивший большинство голосов избирателей.;X
+jefferson_method;Метод Джефферсона;X
+jefferson_method_desc;Метод Джефферсона - метод наибольшего среднего, используемый при распределении мест в парламенте.;X
+proportional_representation;Пропорциональная;X
+proportional_representation_desc;Процент голосос избирателей, полученных кандидатами на выборах, равен проценту полученных в парламенте мест.;X
+debt_law;Долговое Рабство;X
+serfdom;Крепостничество;X
+serfdom_l;Крепостничество;X
+movement_no_slavery;Движение аболиционистов;x
+movement_yes_slavery;Лига рабства;x
+movement_landed_voting;Движение за избирательные права;x
+movement_wealth_weighted_voting;Движение за избирательные права;x
+movement_wealth_voting;Движение за избирательные права;x
+movement_universal_weighted_voting;Движение за избирательные права;x
+movement_universal_voting;Движение за избирательные права;x
+movement_party_appointed;Движение за политическое представительство;x
+movement_appointed;Движение за политическое представительство;x
+movement_state_equal_weight;Движение за политическое представительство;x
+movement_population_equal_weight;Движение за политическое представительство;x
+movement_first_past_the_post;Движение за политическое представительство;x
+movement_jefferson_method;Движение за политическое представительство;x
+movement_proportional_representation;Движение за политическое представительство;x
+movement_no_meeting;Движение за отмену общественных собраний;x
+movement_yes_meeting;Движение за общественные собрания;x
+movement_censored_press;Движение за цензуру прессы;x
+movement_free_press;Движение за свободную прессу;x
+movement_state_controlled;Движение за контролируемые государством профсоюзы;x
+movement_non_socialist;Движение за не-социалистические профсоюзы;x
+movement_all_trade_unions;Движение за свободные профсоюзы;x
+movement_harassment;Движение за права избирателей;x
+movement_gerrymandering;Движение за права избирателей;x
+movement_non_secret_ballots;Движение за права избирателей;x
+movement_secret_ballots;Движение за права избирателей;x
+movement_trinket_wage;Движение за минимальную зарплату;x
+movement_low_minimum_wage;Движение за минимальную зарплату;x
+movement_acceptable_minimum_wage;Движение за минимальную зарплату;x
+movement_good_minimum_wage;Движение за минимальную зарплату;x
+movement_fourteen_hours;Движение за уменьшение максимального рабочего дня;x
+movement_twelve_hours;Движение за уменьшение максимального рабочего дня;x
+movement_ten_hours;Движение за уменьшение максимального рабочего дня;x
+movement_eight_hours;Движение за уменьшение максимального рабочего дня;x
+movement_trinket_safety;Движение за охрану труда;x
+movement_low_safety;Движение за охрану труда;x
+movement_acceptable_safety;Движение за охрану труда;x
+movement_good_safety;Движение за охрану труда;x
+movement_trinket_subsidies;Движение за пособиями безработным;x
+movement_low_subsidies;Движение за пособиями безработным;x
+movement_acceptable_subsidies;Движение за пособиями безработным;x
+movement_good_subsidies;Движение за пособиями безработным;x
+movement_trinket_pensions;Единое движение за достоиные пенсии;x
+movement_low_pensions;Единое движение за достоиные пенсии;x
+movement_acceptable_pensions;Единое движение за достоиные пенсии;x
+movement_good_pensions;Единое движение за достоиные пенсии;x
+movement_trinket_health_care;Единое движение за достоиное здравохранение;x
+movement_low_health_care;Единое движение за достоиное здравохранение;x
+movement_acceptable_health_care;Единое движение за достоиное здравохранение;x
+movement_good_health_care;Единое движение за достоиное здравохранение;x
+movement_low_schools;Общее школьное движение;x
+movement_acceptable_schools;Общее школьное движение;x
+movement_good_schools;Общее школьное движение;x
+no_slavery;Запрещено;X
+freedom_of_womb;Самовыкуп;X
+freedom_of_womb_l;Самовыкуп;X
+freedom_of_womb_law;Закон о самовыкупе;X
+freedom_of_womb_law_l;Закон о самовыкупе;X
+no_health_care;Нет Здравоохранения;X
+no_health_care_l;Нет Здравоохранения;X
+protectionism_l;Протекционизм;X
+free_trade_l;Свободная торговля;X
+laissez_faire_l;Рыночная экономика;X
+interventionism_l;Гос. вмешательство;X
+state_capitalism_l;Гос. капитализм;X
+planned_economy_l;Плановая экономика;X
+pro_atheism_l;Атеизм;X
+secularized_l;Секуляризация;X
+pluralism_l;Плюрализм;X
+moralism_l;Морализм;X
+residency_l;Вид на жительство;X
+limited_citizenship_l;Огр. гражданство;X
+full_citizenship_l;Полное гражданство;X
+jingoism_l;Шовинизм;X
+pro_military_l;Милитаризм;X
+anti_military_l;Антимилитаризм;X
+pacifism_l;Пацифизм;X
+yes_slavery_l;Рабство разрешено;X
+no_slavery_l;Рабство запрещено;X
+appointed_l;Назначаемая ВП;X
+party_appointed_l;ВП на основе правящей партии;X
+state_equal_weight_l;ВП по два от области;X
+population_equal_weight_l;ВП от населения;X
+none_voting_l;Нет прав;X
+landed_voting_l;Права землевладельцев;X
+wealth_weighted_voting_l;Взвешенные права богатых;X
+wealth_voting_l;Права обеспеченных;X
+universal_weighted_voting_l;Взвешенные права всех;X
+universal_voting_l;Всеобщие права;X
+first_past_the_post_l;Мажоритарная;X
+jefferson_method_l;Метод Джефферсона;X
+proportional_representation_l;Пропорциональная;X
+yes_meeting_l;Собрания разрешены;X
+no_meeting_l;Собрания запрещены;X
+state_press_l;Государственная пресса;X
+censored_press_l;Цензура прессы;X
+free_press_l;Свободная пресса;X
+no_trade_unions_l;Нет профсоюзов;X
+state_controlled_l;Контролируемые государством профсоюзы;X
+non_socialist_l;Несоциалистические профсоюзы;X
+all_trade_unions_l;Всевозможные профсоюзы;X
+underground_parties_l;Партии вне закона;X
+harassment_l;Партии притесняются;X
+gerrymandering_l;Джерримэндеринг;X
+non_secret_ballots_l;Открытое голосование;X
+secret_ballots_l;Тайное голосование;X
+no_minimum_wage_l;Нет мин. зарплаты;X
+trinket_wage_l;Крайне низкая зарплата;X
+low_minimum_wage_l;Низкая зарплата;X
+acceptable_minimum_wage_l;Приемлемая зарплата;X
+good_minimum_wage_l;Хорошая зарплата;X
+no_work_hour_limit_l;Неограниченный рабочий день;X
+fourteen_hours_l;14-часовой день;X
+twelve_hours_l;12-часовой день;X
+ten_hours_l;10-часовой день;X
+eight_hours_l;8-часовой день;X
+population_equal_weight;Взвешен. по Населению;X
+state_equal_weight;Взвешен. Страны;X
+appointed;Назначаемая;X
+party_appointed;Правящая Партия;X
+upper_house_composition;Верхняя Палата;X
+voting_system;Система Голос.;X
+vote_franschise;Избир. Права;X
+none_voting;Нет прав;X
+landed_voting;Голос Землевладельцев;X
+wealth_weighted_voting;Взвешен. Богатых;X
+universal_weighted_voting;Взвешен. Всех;X
+wealth_voting;Голос Богатых;X
+universal_voting;Всеобщие Права;X
+child_labor;Детский Труд;X
+child_labor_legal;Легален;X
+child_labor_legal_l;Детский Труд Легален;X
+child_labor_legal_desc;No child labor regulation exists.;X
+movement_child_labor_legal;Движение за индустриальную свободу;;X
+child_labor_restricted;Ограничен;X
+child_labor_restricted_l;Детский Labor Ограничен;X
+child_labor_restricted_desc;Children cannot work in certain dangerous professions.;X
+movement_child_labor_restricted;Child Labor Abolition Movement;X
+child_labor_illegal;Нелегален;X
+child_labor_illegal_l;Детский Труд Нелегален;X
+child_labor_illegal_desc;Child Labor is viewed as immoral and is illegal.;X
+movement_child_labor_illegal;Движение за запрет детского труда;X
+no_health_care_desc;The government doesn't care about healthcare and no funding for it exists. The few health institutions that exist are inherited from medieval times and are equipped accordingly. The medical career is an informal profession, mainly linked to the church. Hospitals use rudimentary lighting, facilities are overcrowded and infectious diseases round the halls and corners of the buildings. Prayers are commonly recommended to treat ailments.;X
+trinket_health_care;Благотворительные Лечебницы;X
+trinket_health_care_desc;Doctors and nurses have a rudimentary understanding of wounds and diseases, partially relying on old beliefs when treating patients, but they do have formal training. Hospitals have rules to reduce overcrowding (beds are spaced a meter apart), provisions for ventilation, and the sewers leading from the hospital are flushed several times a day while the latrines/drains are disinfected with peat charcoal. There is meager collection of patient data but there aren't any proper sanitation standards for hospitals nor government agencies to check them. Healthcare facilities are hard to find.\n?For the full effects of this reform, your administration spending should be at least 20%.?;x
+low_health_care;Частное Здравоохранение;X
+low_health_care_desc;"Doctors and nurses are starting to understand wounds and diseases better during their studies and apply the principles of the so-called 'germ theory' when treating patients. A Sanitary Commission was founded and its agents can be seen patrolling the hospitals, albeit infrequently, to guarantee a rudimentary sanitation standard. Healthcare facilities are starting to become common.\n?For the full effects of this reform, your administration spending should be at least 30%.?;X
+acceptable_health_care;Приемлимое Здравоохранение;X
+acceptable_health_care_desc;Medicine is a fully-fledged profession, with doctors and nurses graduating with complete understanding of the human body and a vast knowledge of diseases and how to treat them. Sterilization of the facilities and equipment is common, with Chamberland Filters used to filter water and the Chamberland Autoclave used for heating solutions above their boiling point to destroy dangerous microorganisms. Government agencies exist to enforce sanitation controls and ensure there's no overcrowding. Finding a clinic in an urban center is a relatively easy job and hospitals abandoned oil lamps in favor of gaslights that increase the efficiency of staff.\n?For the full effects of this reform, your administration spending should be at least 40%.?;X
+good_health_care;Всеобщее Здравоохранение;X
+good_health_care_desc;The discovery of several vaccines revolutionized medicine, with vaccination being mandatory or strongly encouraged by the government. Doctors now use pharmaceuticals to treat patients and full sterilization of all medical equipment and facilities, quarantine procedures for infectious diseases and proper disposal of medical waste are mandatory practices enforced by the sanitation standards of the government agencies. Finding clinics or hospitals in smaller population centers is common, overcrowding is rare and some smaller health centers are starting to appear even in rural areas. Hospitals are equipped with modern electric lights and informational posters for staff.\n?For the full effects of this reform, your administration spending should be at least 50%.\nA fully funded administration provides a bonus to this reform.?;x
+school_reforms;Образование;X
+no_schools_l;Нет Школьной Система;X
+no_schools;Нет Школьной Система;X
+no_schools_desc;There's no organized school system or budget for education. The scarce literacy gain that is achieved comes from religious schools or it is based on informal community teaching, though these places get some funding, indirectly, from the government. Higher education institutions are either non existent or completely religious and medieval.\n?If average literacy is more than 25%, education funding needs to be more than 10%. If it is 50%, funding needs to be at least 20%. If it is 75%, funding needs to be at least 30%. Otherwise literacy will start to fall.?;X
+low_schools;Базовая Школьная Система;X
+low_schools_l;Базовая Школьная Система;X
+low_schools_desc;A rudimentary school system exists in the capital and a few important cities but enrollment is completely optional. Schools limits themselves to teaching pupils how to read and write. There's no government agency to inspect schools and they have no common standards for teaching, with the few courses that exist being overcrowded. Private schools are commonly in the same conditions. Teachers don't have professional formation and are often just literate men, while pupils often leave school without being properly schooled.\n?For the full effects of this reform, your education spending should be at least 30%.?\n?If average literacy is more than 25%, education funding needs to be more than 10%. If it is 50%, funding needs to be at least 20%. If it is 75%, funding needs to be at least 30%. Otherwise literacy will start to fall.?;X
+acceptable_schools;Приемлимая Школьная Система;X
+acceptable_schools_l;Приемлимая Школьная Система;X
+acceptable_schools_desc;Schools can be found in every major and most of the medium cities. A government agency exists to ensure quality standards in education and to inspect that proper facilities are used for it. Enrollment is encouraged and sometimes it's outright mandatory, but it's not properly enforced and pupils often don't go to school for a variety of reasons. Children are also taught math and a few other subjects. Education institutions for teenagers are starting to appear, and secular, higher education institutions for adults are common. Teachers are formally trained, but oftentimes poorly.\n?For the full effects of this reform, your education spending should be at least 40%.?\n?If average literacy is more than 25%, education funding needs to be more than 10%. If it is 50%, funding needs to be at least 20%. If it is 75%, funding needs to be at least 30%. Otherwise literacy will start to fall.?;X
+good_schools;Хорошая Школьная Система;X
+good_schools_l;Хорошая Школьная Система;X
+good_schools_desc;Schools can be found in almost every city. Government agencies take education with the utmost seriousness, and enrollment is mandatory and tightly controlled. Children and teenagers are taught a variety of subjects besides reading and writing and teachers are taught pedagogy during their formation. Literacy campaigns for adults and the elderly are a part of the government's effort to eradicate illiteracy. Higher education institutions are considered good, with opportunities for the poor classes to enroll.\n?For the full effects of this reform, your education spending should be at least 50%.\nA fully funded education provides a bonus to this reform.?\n?If average literacy is more than 25%, education funding needs to be more than 10%. If it is 50%, funding needs to be at least 20%. If it is 75%, funding needs to be at least 30%. Otherwise literacy will start to fall.?;X
+RULE_RICH_ONLY;\nТолько Богатые;X
+RULE_SAME_AS_RULING_PARTY;\nТот же, что и Правящая Партия;X
+RULE_STATE_VOTE;\nГолос Государства;X
+RULE_POPULATION_VOTE;\nГолос Населения;X
+ISSUE_MOVE_EFFECT;$PERCENTAGE$% of pops move from $FROM$ to $TO$\n;X
+social_policy;Социальная Политика;X
+colonial_spending_policy;Колониальный;X
+colonial_spending_policy_l;Колониальный;X
+colonial_spending_policy_desc;The government has a colonial policy towards its subjects and has no intention of spending any money on their welfare.;X
+no_state_interference;Притеснение;X
+no_state_interference_l;Притеснение;X
+no_state_interference_desc;The government feels that welfare expenditures are unnecessary and that individuals should look after themselves.;X
+no_position_set;Нет оф. политики;X
+no_position_set_l;Нет Официальной Политики;X
+no_position_set_desc;There's no official position on welfare policy and how much should the government spend on it, the amount being largely left for the ruler to decide.;X
+populist_welfare;Патерналистск.;X
+populist_welfare_l;Патерналистск.;X
+populist_welfare_desc;The welfare system in this government has a paternalistic characteristic, with a minimum amount set to be spent in support of this oftentimes populist policy.;X
+welfare_state;Полн. соц. обеспечение;X
+welfare_state_l;Полн. соц. обеспечение;;X
+welfare_state_desc;This government feels that the welfare of the less fortunate is of the utmost importance and dedicates a piece of the budget to pursue this objective.;X
+rail_focus;Колониальная Политика;X
+colonial_immigration;Поддержать Колониальную Миграцию;X
+encourage_agriculture;Поддержать Сельское Хозяйство;X
+encourage_mining;Поддержать Горнодобывающую Индустрию;X
+encourage_business;Поддержать Бизнес;X
+militancy_appeasement;Колониальное Умиротворение;X
+consciousness_appeasement;Колониальная Пропоганда;X
+native_enslavement;Порабощение Туземцев;X
+NO_RAIL_YET;Мы не можем поощрять строительство железных дорог, когда мы еще не знаем, как их строить.;X
+CAN_NOT_BUILD_FACTORY;Нельзя построить завод.\n;X
+CAN_BUILD_FACTORY;Можно построить завод.\n;;X
+no_safety;Нет Контроля Безопасности;X
+no_safety_desc;Death or grievous injuries in the workplace isn't a rare occurrence as employers don't need to think about safety, only profit. The government has no governing legislation covering safety in the workplace and workers rarely manage to sue their employers over accidents.;X
+trinket_safety;Базовый Контроль Безопасности;X
+trinket_safety_desc;Factories are required to provide proper ventilation and a regularly cleaned workspace. Workers can sue their employers in case of an accident but they rarely win any compensation. When they do the amount is usually negligible. Safety regulations only applies to factories.;X
+low_safety;Ограниченный Контроль Безопасности;X
+low_safety_desc;Safety regulations extend to the agricultural, civil construction and mining sectors. In mines, the use of safety lamps is mandatory. Employees suing their employers still have a hard time winning any significant compensation, but the government offers help to the affected families, albeit the amount given is barely enough to scrap an existence.;X
+acceptable_safety;Нормальный Контроль Безопасности;X
+acceptable_safety_desc;Safety regulations extend to all workplaces in our country. Government agencies label agricultural chemicals for toxicity and potential health impacts, mining and construction workers are required to use protection gear and hand brakes operated by workers riding on top of train cars were abolished. Employees have their rights guaranteed and getting compensation for accidents that happen due to employer negligence is a common occurrence. Government help to the victims is reasonable.;X
+good_safety;Хороший Контроль Безопасности;X
+good_safety_desc;Safety regulations extend to all workplaces in our country and cover potential psychological problems due to extended isolation and even minor injuries. Employers are obliged to supply workers with protection equipment and safety training. Warnings and reminders are spread through the workplace to guarantee workers remember their safety instructions. Getting compensation for employer negligence in the workplace is easy and the government supports victims with a good amount of money.;X
+no_work_hour_limit_desc;No limit on working hours per day. Workers have virtually no rights and employers do as they please with their workers. Conditions in some workplaces are analogue to slavery.;X
+fourteen_hours_desc;Working hours legislation aims to not only reduce the workload, but it also gives the right to a minimum number of holidays each year, restricts excessive night work and establishes the right to vacations, all this without a reduction of the workers' salaries. While wages grow and working hours decline, the people have more time for leisure and for consuming, driving demand up. At fourteen hours per day, most workers have barely any time for their families.;X
+twelve_hours_desc;Working hours legislation aims to not only reduce the workload, but it also gives the right to a minimum number of holidays each year, restricts excessive night work and establishes the right to vacations, all this without a reduction of the workers' salaries. While wages grow and working hours decline, the people have more time for leisure and for consuming, driving demand up. At twelve hours per day, workers are starting to have time to spend with their families and are quickly becoming common visitors of taverns and cabarets after work.;X
+ten_hours_desc;Working hours legislation aims to not only reduce the workload, but it also gives the right to a minimum number of holidays each year, restricts excessive night work and establishes the right to vacations, all this without a reduction of the workers' salaries. While wages grow and working hours decline, the people have more time for leisure and for consuming, driving demand up. Weekends without work are a common occurrence and white-collar workers have a system of annual vacations.;X
+eight_hours_desc;Working hours legislation aims to not only reduce the workload, but it also gives the right to a minimum number of holidays each year, restricts excessive night work and establishes the right to vacations, all this without a reduction of the workers' salaries. While wages grow and working hours decline, the people have more time for leisure and for consuming, driving demand up. At eight hours per day, almost all workers have the right to weekends off and annual vacations. Free time for leisure is at an all time high and the entertainment industry is in the middle of a boom. All over our country resorts emerge thanks to cheap hotels and inexpensive railway fares, widespread banking holidays and we watch the fading of many religious prohibitions against secular activities on Sundays.;X
+work_hours;Max. Work Hours;X
+movement_fourteen_hours;Maximum Work Hours Movement;X
+movement_twelve_hours;Maximum Work Hours Movement;X
+movement_ten_hours;Maximum Work Hours Movement;X
+movement_eight_hours;Maximum Work Hours Movement;X
+POLITICS_UPPERHOUSE;Верхняя Палата;X
+BUDGET_TAX_RICH;Налоги (Высший Класс);X
+BUDGET_TAX_MIDDLE;Налоги (Средний Класс);X
+BUDGET_TAX_POOR;Налоги (Низший Класс);X
+NATIONAL_BANK;Национальный Банк;X
+NA_9;Торсмарк;X
+NA_10;Кита Каиган;;X
+NA_11;Гуретоносу;X
+NA_12;Оденсмарк;X
+NA_16;Афесия;X
+NA_30;Роннст;X
+TEX_132;Лузитания;X
+TEX_134;Байя;X
+UCA_2186;Гватемала;X
+UCA_2191;Сан Сальвадор;X
+UCA_2197;Манагуа;X
+UCA_2201;Коста Рика;X
+CLM_1723;Андагойя;X
+ECU_2279;Эквадор;X
+SWE_318;Норрланд;X
+SCA_345;Западная Финляндия;X
+SWE_322;Свеаланд;X
+SIC_763;Сицилия;X
+GRE_826;Пелопоннес;X
+TUR_853;Албания;X
+TUR_788;Босния;X
+AUS_657;Восточная Трансильвания;X
+HAW_658;Гавайские о-ва;X
+AUS_654;Западная Трансильвания;X
+MOL_673;Молдавия;X
+WAL_665;Валахия;X
+SPA_474;Галисия;X
+SPA_477;Леон-Кастилия;X
+SPA_492;Арагон;X
+ESK_1;Эскадия;X
+SPA_498;Каталония;X
+ENG_2509;Моту Пари;X
+ENG_2513;Моту Тиму;X
+SPA_2517;Микронезия;X
+ENG_1321;Селон;X
+integrate_elbe_title;§R*§B*§R*§! Интеграция Севера;X
+integrate_rhineland_title;§R*§B*§R*§! Интеграция Рейна;X
+integrate_prussia_title;§R*§B*§R*§! Интеграция Пруссии;X
+form_elbian_confederation_title;§R*§B*§R*§! Сформировать Эльбийскую конфедерацию;X
 kefficho;Omotic;X
 matters_of_state;Государственные Дела;X
 germanic;Germanic;X

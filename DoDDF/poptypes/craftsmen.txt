@@ -454,40 +454,24 @@ promote_to = {
         }
         group = {
             modifier = {
-                factor = 1
+                factor = -3
                 clergymen = 0.004
             }
             modifier = {
-                factor = 1
+                factor = -3
                 clergymen = 0.008
             }
             modifier = {
-                factor = 1
+                factor = -3
                 clergymen = 0.012
             }
             modifier = {
-                factor = 1
+                factor = -3
                 clergymen = 0.016
             }
             modifier = {
-                factor = 1
+                factor = -3
                 clergymen = 0.02
-            }
-            modifier = {
-                factor = 1
-                clergymen = 0.024
-            }
-            modifier = {
-                factor = 1
-                clergymen = 0.028
-            }
-            modifier = {
-                factor = 1
-                clergymen = 0.032
-            }
-            modifier = {
-                factor = 1
-                clergymen = 0.036
             }
         }
         group = {
@@ -883,27 +867,27 @@ promote_to = {
                 soldiers = 0.015
             }
             modifier = {
-                factor = -2
+                factor = -1
                 soldiers = 0.02
             }
             modifier = {
-                factor = -2
+                factor = -1
                 soldiers = 0.025
             }
             modifier = {
-                factor = -2
+                factor = -1
                 soldiers = 0.03
             }
             modifier = {
-                factor = -2
+                factor = -1
                 soldiers = 0.035
             }
             modifier = {
-                factor = -2
+                factor = -1
                 soldiers = 0.04
             }
             modifier = {
-                factor = -2
+                factor = -1
                 soldiers = 0.045
             }
             modifier = {
@@ -1209,28 +1193,28 @@ promote_to = {
         }
         group = {
             modifier = {
-                factor = -0.5
-                consciousness = 2
+                factor = -3
+                clergymen = 0.004
             }
             modifier = {
-                factor = -0.5
-                consciousness = 4
+                factor = -3
+                clergymen = 0.008
             }
             modifier = {
-                factor = -0.5
-                consciousness = 5
+                factor = -3
+                clergymen = 0.012
             }
             modifier = {
-                factor = -1
-                consciousness = 6
+                factor = -3
+                clergymen = 0.016
             }
             modifier = {
-                factor = -1.5
-                consciousness = 7
+                factor = -3
+                clergymen = 0.02
             }
             modifier = {
-                factor = -2
-                consciousness = 8
+                factor = -100
+                clergymen = 0.04
             }
         }
     }

@@ -1,4 +1,5 @@
 import sys,os
+import re
 from PIL import Image
 from collections import defaultdict
 
@@ -16,23 +17,6 @@ with open("./map/default.map") as fp:
     sea_provinces2 = sea_provinces[0].strip()
     sea_province_list = sea_provinces2.split()
 
-print("Finding land provinces...")
-land_provinces = []
-#Get land provinces from region.txt
-with open("./map/region.txt") as fp:
-    for line in fp:
-        if line[0] in disallowedcharacters:
-            continue
-        else:
-            line_no_spaces = line.strip()
-            line_replace_brackets = line_no_spaces.replace("}", "{")
-            line_split = line_replace_brackets.split("{")
-            land_provinces_spaces = line_split[1]
-            land_provinces_str = land_provinces_spaces.strip()
-            land_provinces_list = land_provinces_str.split()
-            for x in land_provinces_list:
-                land_provinces.append(x)
-
 list_of_provinces_ID = defaultdict(list)
 
 print("Finding province IDs...")
@@ -45,7 +29,7 @@ with open("./map/definition.csv") as fp:
             tempprovince = raw_province.split(";")
             del tempprovince[4:]
             prov_ID = tempprovince[0]
-            if prov_ID in land_provinces:
+            if prov_ID not in sea_province_list:
                 #is land province or not
                 is_land = "1"
             elif prov_ID in sea_province_list:

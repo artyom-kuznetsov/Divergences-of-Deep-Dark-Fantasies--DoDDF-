@@ -660,7 +660,7 @@ social_darwinism = {
             invention = national_fraternity
         }
     }
-    effect = { war_exhaustion = -0.05 }
+    effect = { war_exhaustion = -0.1 }
 }
 #social_science
 sociology = {
@@ -748,7 +748,7 @@ the_revolt_of_the_masses = {
     }
     effect = {
         plurality = 0.10
-        war_exhaustion = -0.25
+        war_exhaustion = -0.15
     }
 }
 the_decline_of_the_west_and_the_lost_generation = {
@@ -1194,7 +1194,7 @@ national_fraternity = {
         }
     }
     effect = {
-        war_exhaustion = -0.05
+        war_exhaustion = -0.1
         plurality = 0.05
     }
 }
@@ -1469,7 +1469,7 @@ rhetoric_of_hate = {
         }
     }
     effect = {
-        war_exhaustion = -0.05
+        war_exhaustion = -0.1
         soldier_to_pop_loss = 0.01
     }
 }
