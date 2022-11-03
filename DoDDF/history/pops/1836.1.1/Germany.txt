@@ -4090,13 +4090,13 @@
 	aristocrats = {
 		culture = north_german
 		religion = catholic
-		size = 250 
+		size = 740 
 	}
 
 	bureaucrats = {
 		culture = north_german
 		religion = catholic
-		size = 50 
+		size = 150 
 	}
 
 	officers = {
@@ -4108,26 +4108,26 @@
 	clergymen = {
 		culture = north_german
 		religion = catholic
-		size = 125
+		size = 375
 	}
 
 	artisans = {
 		culture = north_german
 		religion = catholic
-		size = 1150
+		size = 3150
 	}
 
 	soldiers = {
 		culture = north_german
 		religion = catholic
-		size= 1000
+		size= 3000
 
 	}
 
 	farmers = {
 		culture = north_german
 		religion = catholic
-		size = 14810
+		size = 42810
 	}
 
 	clergymen = {
@@ -4139,7 +4139,7 @@
 	farmers = {
 		culture = north_german
 		religion = catholic
-		size = 6980    
+		size = 15980    
 	}
 }
 #Baden Region (1040000) 

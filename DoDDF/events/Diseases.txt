@@ -52,15 +52,6 @@ country_event = {
                 random_state = {
                     limit = { total_pops = 10000 }
                     any_pop = {
-                        reduce_pop = 0.96
-                        militancy = -0.5
-                    }
-                }
-            }
-            25 = {
-                random_state = {
-                    limit = { total_pops = 10000 }
-                    any_pop = {
                         reduce_pop = 0.97
                         militancy = -0.5
                     }
@@ -70,7 +61,16 @@ country_event = {
                 random_state = {
                     limit = { total_pops = 10000 }
                     any_pop = {
-                        reduce_pop = 0.95
+                        reduce_pop = 0.98
+                        militancy = -0.5
+                    }
+                }
+            }
+            25 = {
+                random_state = {
+                    limit = { total_pops = 10000 }
+                    any_pop = {
+                        reduce_pop = 0.99
                         militancy = -0.5
                     }
                 }
@@ -110,7 +110,7 @@ country_event = {
             50 = {
                 random_state = {
                     limit = { total_pops = 20000 }
-                    poor_strata = { reduce_pop = 0.96 }
+                    poor_strata = { reduce_pop = 0.97 }
                 }
             }
             25 = {
@@ -126,8 +126,7 @@ country_event = {
                 }
             }
         }
-        add_tax_relative_income = -5
-        #treasury = -1500
+        treasury = -50000
         ai_chance = {
             factor = 50
             modifier = {
@@ -144,7 +143,7 @@ country_event = {
                 random_state = {
                     limit = { total_pops = 10000 }
                     poor_strata = {
-                        reduce_pop = 0.9
+                        reduce_pop = 0.95
                         militancy = 1
                     }
                 }
@@ -153,7 +152,7 @@ country_event = {
                 random_state = {
                     limit = { total_pops = 10000 }
                     poor_strata = {
-                        reduce_pop = 0.88
+                        reduce_pop = 0.93
                         militancy = 1
                     }
                 }
@@ -162,7 +161,7 @@ country_event = {
                 random_state = {
                     limit = { total_pops = 10000 }
                     poor_strata = {
-                        reduce_pop = 0.86
+                        reduce_pop = 0.91
                         militancy = 1
                     }
                 }
@@ -256,7 +255,7 @@ country_event = {
     option = {
         name = "EVTOPTA21020"
         random_state = {
-            any_pop = { reduce_pop = 0.9 }
+            any_pop = { reduce_pop = 0.95 }
         }
     }
 
@@ -267,7 +266,16 @@ country_event = {
                 random_state = {
                     limit = { total_pops = 10000 }
                     any_pop = {
-                        reduce_pop = 0.96
+                        reduce_pop = 0.98
+                        militancy = 2
+                    }
+                }
+            }
+            25 = {
+                random_state = {
+                    limit = { total_pops = 10000 }
+                    any_pop = {
+                        reduce_pop = 0.99
                         militancy = 2
                     }
                 }
@@ -277,15 +285,6 @@ country_event = {
                     limit = { total_pops = 10000 }
                     any_pop = {
                         reduce_pop = 0.97
-                        militancy = 2
-                    }
-                }
-            }
-            25 = {
-                random_state = {
-                    limit = { total_pops = 10000 }
-                    any_pop = {
-                        reduce_pop = 0.95
                         militancy = 2
                     }
                 }
@@ -370,7 +369,7 @@ country_event = {
             50 = {
                 add_country_modifier = {
                     name = pandemic_influenza
-                    duration = 365
+                    duration = 183
                 }
                 any_owned = {
                     limit = {
@@ -385,7 +384,7 @@ country_event = {
             30 = {
                 add_country_modifier = {
                     name = pandemic_influenza
-                    duration = 305
+                    duration = 152
                 }
                 any_owned = {
                     limit = {
@@ -393,14 +392,14 @@ country_event = {
                     }
                     add_province_modifier = {
                         name = pandemic_influenza_immunity
-                        duration = 305
+                        duration = 152
                     }
                 }
             }
             15 = {
                 add_country_modifier = {
                     name = pandemic_influenza
-                    duration = 395
+                    duration = 198
                 }
                 any_owned = {
                     limit = {
@@ -408,14 +407,14 @@ country_event = {
                     }
                     add_province_modifier = {
                         name = pandemic_influenza_immunity
-                        duration = 395
+                        duration = 198
                     }
                 }
             }
             05 = {
                 add_country_modifier = {
                     name = pandemic_influenza
-                    duration = 425
+                    duration = 212
                 }
                 any_owned = {
                     limit = {
@@ -423,18 +422,18 @@ country_event = {
                     }
                     add_province_modifier = {
                         name = pandemic_influenza_immunity
-                        duration = 425
+                        duration = 212
                     }
                 }
             }
         }
 
-        add_tax_relative_income = -5
+        money = -50000
         ai_chance = {
             factor = 50
             modifier = {
                 factor = 0
-                NOT = { money = 2000 }
+                NOT = { money = 50000 }
             }
         }
     }
@@ -445,7 +444,7 @@ country_event = {
             50 = {
                 add_country_modifier = {
                     name = pandemic_influenza
-                    duration = 480
+                    duration = 240
                 }
                 any_owned = {
                     limit = {
@@ -453,14 +452,14 @@ country_event = {
                     }
                     add_province_modifier = {
                         name = pandemic_influenza_immunity
-                        duration = 480
+                        duration = 240
                     }
                 }
             }
             30 = {
                 add_country_modifier = {
                     name = pandemic_influenza
-                    duration = 425
+                    duration = 210
                 }
                 any_owned = {
                     limit = {
@@ -468,14 +467,14 @@ country_event = {
                     }
                     add_province_modifier = {
                         name = pandemic_influenza_immunity
-                        duration = 425
+                        duration = 210
                     }
                 }
             }
             15 = {
                 add_country_modifier = {
                     name = pandemic_influenza
-                    duration = 395
+                    duration = 200
                 }
                 any_owned = {
                     limit = {
@@ -483,14 +482,14 @@ country_event = {
                     }
                     add_province_modifier = {
                         name = pandemic_influenza_immunity
-                        duration = 395
+                        duration = 200
                     }
                 }
             }
             05 = {
                 add_country_modifier = {
                     name = pandemic_influenza
-                    duration = 365
+                    duration = 185
                 }
                 any_owned = {
                     limit = {
@@ -498,7 +497,7 @@ country_event = {
                     }
                     add_province_modifier = {
                         name = pandemic_influenza_immunity
-                        duration = 365
+                        duration = 185
                     }
                 }
             }
@@ -507,7 +506,7 @@ country_event = {
             factor = 50
             modifier = {
                 factor = 100
-                NOT = { money = 2000 }
+                NOT = { money = 50000 }
             }
         }
     }

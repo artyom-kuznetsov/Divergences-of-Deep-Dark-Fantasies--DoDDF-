@@ -142,141 +142,92 @@ political_decisions = {
 
         allow = {
           #  is_greater_power = yes
-            OR = {
-                AND = {
-                    HOL = {
-                        all_core = {
-                            OR = {
-                                owned_by = THIS
-                                owner = { in_sphere = THIS }
-                            }
-                        }
-                    }
-                    POM = {
-                        all_core = {
-                            OR = {
-                                owned_by = THIS
-                                owner = { in_sphere = THIS }
-                            }
-                        }
-                    }
-                    HAN = {
-                        all_core = {
-                            OR = {
-                                owned_by = THIS
-                                owner = { in_sphere = THIS }
-                            }
-                        }
-                    }
-                    BRN = {
-                        all_core = {
-                            OR = {
-                                owned_by = THIS
-                                owner = { in_sphere = THIS }
-                            }
-                        }
-                    }
-                }
-                AND = {
-                    HAN = {
-                        all_core = {
-                            OR = {
-                                owned_by = THIS
-                                owner = { in_sphere = THIS }
-                            }
-                        }
-                    }
-                    BRA = {
-                        all_core = {
-                            OR = {
-                                owned_by = THIS
-                                owner = { in_sphere = THIS }
-                            }
-                        }
-                    }
-                    THU = {
-                        all_core = {
-                            OR = {
-                                owned_by = THIS
-                                owner = { in_sphere = THIS }
-                            }
-                        }
-                    }
-                    HES = {
-                        all_core = {
-                            OR = {
-                                owned_by = THIS
-                                owner = { in_sphere = THIS }
-                            }
-                        }
-                    }
-                    HEK = {
-                        all_core = {
-                            OR = {
-                                owned_by = THIS
-                                owner = { in_sphere = THIS }
-                            }
-                        }
-                    }
-                    FRI = {
-                        all_core = {
-                            OR = {
-                                owned_by = THIS
-                                owner = { in_sphere = THIS }
-                            }
-                        }
-                    }
-                    OLD = {
-                        all_core = {
-                            OR = {
-                                owned_by = THIS
-                                owner = { in_sphere = THIS }
-                            }
-                        }
-                    }
-                    BEG = {
-                        all_core = {
-                            OR = {
-                                owned_by = THIS
-                                owner = { in_sphere = THIS }
-                            }
-                        }
-                    }
-                    BRE = {
-                        all_core = {
-                            OR = {
-                                owned_by = THIS
-                                owner = { in_sphere = THIS }
-                            }
-                        }
-                    }
-                    MNR = {
-                        all_core = {
-                            OR = {
-                                owned_by = THIS
-                                owner = { in_sphere = THIS }
-                            }
-                        }
-                    }
-                    LIP = {
-                        all_core = {
-                            OR = {
-                                owned_by = THIS
-                                owner = { in_sphere = THIS }
-                            }
-                        }
-                    }
-                    FRM = {
-                        all_core = {
-                            OR = {
-                                owned_by = THIS
-                                owner = { in_sphere = THIS }
-                            }
-                        }
-                    }
-                }
-            }
-        }
+			OR = {
+				AND = {
+					NOT = { year = 1850 }
+					625 = {
+						OR = {
+							owned_by = THIS
+							owner = { in_sphere = THIS }
+							owner = { vassal_of = THIS }
+						}
+					}
+					549 = {
+						OR = {
+							owned_by = THIS
+							owner = { in_sphere = THIS }
+							owner = { vassal_of = THIS }
+						}
+					}
+					549 = {
+						OR = {
+							owned_by = THIS
+							owner = { in_sphere = THIS }
+							owner = { vassal_of = THIS }
+						}
+					}
+					534 = {
+						OR = {
+							owned_by = THIS
+							owner = { in_sphere = THIS }
+							owner = { vassal_of = THIS }
+						}
+					}
+					547 = {
+						OR = {
+							owned_by = THIS
+							owner = { in_sphere = THIS }
+							owner = { vassal_of = THIS }
+						}
+					}
+					536 = {
+						OR = {
+							owned_by = THIS
+							owner = { in_sphere = THIS }
+							owner = { vassal_of = THIS }
+						}
+					}
+					539 = {
+						OR = {
+							owned_by = THIS
+							owner = { in_sphere = THIS }
+							owner = { vassal_of = THIS }
+						}
+					}
+				}
+				AND = {
+					year = 1850
+					625 = {
+						OR = {
+							owned_by = THIS
+							owner = { in_sphere = THIS }
+							owner = { vassal_of = THIS }
+						}
+					}
+					549 = {
+						OR = {
+							owned_by = THIS
+							owner = { in_sphere = THIS }
+							owner = { vassal_of = THIS }
+						}
+					}
+					549 = {
+						OR = {
+							owned_by = THIS
+							owner = { in_sphere = THIS }
+							owner = { vassal_of = THIS }
+						}
+					}
+					534 = {
+						OR = {
+							owned_by = THIS
+							owner = { in_sphere = THIS }
+							owner = { vassal_of = THIS }
+						}
+					}
+				}
+			}
+		}
 
         effect = {
             set_global_flag = cae_formed
@@ -298,7 +249,10 @@ political_decisions = {
             any_country = {
                 limit = {
                     primary_culture = north_german
-                    in_sphere = THIS
+					OR = {
+						in_sphere = THIS
+						vassal_of = THIS
+					}
                     NOT = {
                         tag = THIS
                         tag = KRL
