@@ -2,9 +2,8 @@ political_decisions = {
     enable_options = {
         alert = no
         potential = {
+            ai = yes
             ai = no
-            NOT = { has_global_flag = looking_through_options }
-            NOT = { year = 1837 }
         }
 
         allow = {}
