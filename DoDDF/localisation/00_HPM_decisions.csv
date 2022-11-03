@@ -366,7 +366,7 @@ ivory_coast_conquest_title;The Annexation of the Ivory Coast;;;;;;;;;;;;x,,,,,,,
 ivory_coast_conquest_desc;Several English, Dutch and Portuguese settlements and trade posts were established and eventually faded away in the Ivory Coast. If we are to establish a protectorate in the mainland we need to start controlling the coast.;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 christimas_and_cocos_adminstration_title;The Christmas and Cocos Transfer;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 christimas_and_cocos_adminstration_desc;The governor of Australia petitioned that we let them administer the Christmas and Cocos islands, arguing that the supplies already come from Australia and it would be much more efficiently administered from a nearby region.;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-organize_colonial_armies_title;Reform the $COUNTRY_ADJ$ Colonial Army;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+organize_colonial_armies_title;Ðåôîðìèðîâàòü $COUNTRY_ADJ$ Êîëîíèàëüíóþ Àðìèþ;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 organize_colonial_armies_desc;In the past, the amount of overseas colonial troops we had available was limited by logistic factors. Ships, orders, troops and officers took a long time to arrive and the control over the land coupled with the unwillingness of the natives inhabitants to cooperate meant that we didn't realize the full potential of our colonies. We now posses the technology to change that.\n\n§RNOTE: This decision increases the maximum allowed percentage of non animist soldier pops in colonies from 1% to 2%. Animist pops still need to convert before they can go over 1%.§W;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 colonial_armies;Colonial Army Reformed;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 conquest_of_mocamedes_title;The Moçâmedes Expedition;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -1882,9 +1882,7 @@ form_franche_comte_title;Form the Franche-Comte;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 form_franche_comte_desc;The French claim on the Free County of Burgundy is solid. Though we had to project our power through force, we can claim the ethernal right to these lands.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 treaty_of_neuchatel_title;Treaty of Neuchatel;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 treaty_of_neuchatel_desc;Our ground in the South started to shake… we need to secure ourselves by signing this treaty. It might be humiliating now, but it will be viewed as a right decision in the future.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-savoi_at_last_title;Claim Savoy;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 savoi_at_last_desc;We can extend our claims to the South through the creation of the Free Duchy of Geneve under our jurisdiction.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-savoi_at_last2_title;Claim Savoy;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 savoi_at_last2_desc;We can extend our rights to the South through using the claim of the Grand Duchy of Geneve.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 fall_of_burgundy_title;Fall of Burgundy;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 fall_of_burgundy_desc;We no longer have control of any of our territory in Europe and are no longer even recognized as a Great Power. Maybe it is time to admit defeat and give up our claim to Burgundy.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

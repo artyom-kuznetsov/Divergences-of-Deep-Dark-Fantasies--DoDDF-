@@ -18,3 +18,130 @@ country_event = {
 	}
 }
 
+
+#AI MEDS
+country_event = {
+	title = "aimedref1name"
+	desc = "aimedref1desc"
+	id = 11609
+	trigger = {
+		ai = yes
+		health_care = no_health_care
+		medicine = 1
+		literacy = 0.25
+	}
+	option = {
+		name = "aimedref1opta"
+		social_reform = trinket_health_care
+	}
+}
+country_event = {
+	title = "aimedref2name"
+	desc = "aimedref2desc"
+	id = 11610
+	trigger = {
+		ai = yes
+		health_care = trinket_health_care
+		literacy = 0.5
+		year = 1860
+	}
+	option = {
+		name = "aimedref2opta"
+		social_reform = low_health_care
+	}
+}
+country_event = {
+	title = "aimedref3name"
+	desc = "aimedref3desc"
+	id = 11611
+	trigger = {
+		ai = yes
+		health_care = low_health_care
+		literacy = 0.7
+		year = 1875
+	}
+	option = {
+		name = "aimedref3opta"
+		social_reform = acceptable_health_care
+	}
+}
+country_event = {
+	title = "aimedref4name"
+	desc = "aimedref4desc"
+	id = 11612
+	trigger = {
+		ai = yes
+		health_care = acceptable_health_care
+		literacy = 0.85
+		year = 1890
+	}
+	option = {
+		name = "aimedref4opta"
+		social_reform = good_health_care
+	}
+}
+
+# BADBOY
+country_event = {
+	title = "badboy_event_25_title"
+	desc = "badboy_event_25_desc"
+	id = 11602
+	trigger = {
+		badboy = 1
+		NOT = { badboy = 1.2 }
+		name = EVTOPTA11602
+
+		NOT = { has_country_modifier = above_bb_limit }
+		
+	}
+	option = {
+		name = "EVTOPTA11602"
+		
+		remove_country_modifier = above_bb_limit_1
+		remove_country_modifier = above_bb_limit_2
+		
+		add_country_modifier = { name = above_bb_limit duration = -1 }
+	}
+}
+country_event = {
+	title = "badboy_event_25_title"
+	desc = "badboy_event_28_desc"
+	id = 11603
+	trigger = {
+		badboy = 1.2
+		NOT = { badboy = 1.3 }
+		name = EVTOPTA11602
+
+		NOT = { has_country_modifier = above_bb_limit_1 }
+		
+	}
+	option = {
+		name = "EVTOPTA11602"
+		
+		remove_country_modifier = above_bb_limit
+		remove_country_modifier = above_bb_limit_2
+		
+		add_country_modifier = { name = above_bb_limit_1 duration = -1 }
+	}
+}
+
+country_event = {
+	title = "badboy_event_25_title"
+	desc = "badboy_event_30_desc"
+	id = 11605
+	trigger = {
+		badboy = 1.3
+		name = EVTOPTA11602
+
+		NOT = { has_country_modifier = above_bb_limit_2 }
+		
+	}
+	option = {
+		name = "EVTOPTA11602"
+		
+		remove_country_modifier = above_bb_limit
+		remove_country_modifier = above_bb_limit_1
+		
+		add_country_modifier = { name = above_bb_limit_2 duration = -1 }
+	}
+}
