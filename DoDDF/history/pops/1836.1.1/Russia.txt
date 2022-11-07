@@ -1150,19 +1150,19 @@
 	aristocrats = {
 		culture = russian
 		religion = catholic
-		size = 2500
+		size = 1500
 	}
 
 	bureaucrats = {
 		culture = russian
 		religion = catholic
-		size = 600
+		size = 400
 	}
 
 	officers = {
 		culture = russian
 		religion = catholic
-		size = 450
+		size = 250
 	}
 
 	artisans = {
@@ -1171,12 +1171,6 @@
 		size = 10000
 	}
 	
-	artisans = {
-		culture = russian
-		religion = catholic
-		size = 5000
-	}
-
 	soldiers = {
 		culture = russian
 		religion = catholic
@@ -1187,7 +1181,7 @@
 	farmers = {
 		culture = russian
 		religion = catholic
-		size = 167650
+		size = 107650
 	}
 
 	clergymen = {
@@ -2488,7 +2482,7 @@
 	aristocrats = {
 		culture = russian
 		religion = catholic
-		size = 4500
+		size = 3000
 	}
 
 	clergymen = {
@@ -2503,29 +2497,24 @@
 		size = 10000
 	}
 	
-	artisans = {
-		culture = russian
-		religion = catholic
-		size = 10000
-	}
 	
 	artisans = {
 		culture = russian
 		religion = catholic
-		size = 4500
+		size = 3000
 	}
 
 	soldiers = {
 		culture = russian
 		religion = catholic
-		size= 3000
+		size= 2000
 
 	}
 
 	serfs = {
 		culture = russian
 		religion = catholic
-		size = 273000
+		size = 182000
 	}
 }
 #Vladimir (544000/136000 POPS)
@@ -2568,50 +2557,50 @@
 	aristocrats = {
 		culture = russian
 		religion = catholic
-		size = 4800
+		size = 3200
 	}
 
 	bureaucrats = {
 		culture = russian
 		religion = catholic
-		size = 1275
+		size = 800
 	}
 
 	officers = {
 		culture = russian
 		religion = catholic
-		size = 1050
+		size = 660
 	}
 
 	clergymen = {
 		culture = russian
 		religion = catholic
-		size = 1650
+		size = 1050
 	}
 
 	artisans = {
 		culture = russian
 		religion = catholic
-		size = 10000
+		size = 6000
 	}
 	
 	artisans = {
 		culture = russian
 		religion = catholic
-		size = 600
+		size = 400
 	}
 
 	soldiers = {
 		culture = russian
 		religion = catholic
-		size= 6650
+		size= 4450
 
 	}
 
 	farmers = {
 		culture = russian
 		religion = catholic
-		size = 144975
+		size = 94975
 	}
 
 	clergymen = {
@@ -2660,7 +2649,7 @@
 	farmers = {
 		culture = ugrian
 		religion = catholic
-		size = 5775
+		size = 3775
 	}
 	
 	clergymen = {
@@ -2684,7 +2673,7 @@
 	farmers = {
 		culture = mari
 		religion = catholic
-		size = 90577
+		size = 60577
 	}	
 	
 }
@@ -2857,13 +2846,13 @@
 	aristocrats = {
 		culture = russian
 		religion = catholic
-		size = 5850
+		size = 4000
 	}
 
 	clergymen = {
 		culture = russian
 		religion = catholic
-		size = 1500
+		size = 1000
 	}
 
 	artisans = {
@@ -2872,16 +2861,11 @@
 		size = 10000
 	}
 	
-	artisans = {
-		culture = russian
-		religion = catholic
-		size = 5000
-	}
 
 	soldiers = {
 		culture = russian
 		religion = catholic
-		size= 3000
+		size= 2000
 
 	}
 
@@ -2895,7 +2879,7 @@
 	serfs = {
 		culture = russian
 		religion = catholic
-		size = 282050
+		size = 182050
 	}
 
 	artisans = {

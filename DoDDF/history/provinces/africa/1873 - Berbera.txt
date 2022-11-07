@@ -3,6 +3,6 @@ controller = ADA
 add_core = ETH
 add_core = ADA
 add_core = AMT
-trade_goods = cotton
+trade_goods = iron
 terrain = semidesert
 life_rating = 31

@@ -1,3 +1,18 @@
+family_planning = {
+	limit = { year = 1880 }
+	chance = {
+		base = 100
+		modifier = {
+			factor = -100
+			civilized = no
+		}
+	}
+	effect = {
+		pop_growth = -0.0003
+		#tax_eff = -5
+	}
+}
+
 #romanticism
 romanticist_literature = {
     limit = { romanticism = 1 }

@@ -6,5 +6,5 @@ add_core = NOG
 add_core = SIB
 add_core = MRL
 add_core = CHV
-trade_goods = grain
-life_rating = 40
+trade_goods = iron
+life_rating = 35

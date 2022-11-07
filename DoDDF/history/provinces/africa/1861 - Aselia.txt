@@ -3,5 +3,5 @@ controller = ADA
 add_core = ADA
 add_core = AMT
 add_core = ETH
-trade_goods = grain
+trade_goods = coal
 life_rating = 35
