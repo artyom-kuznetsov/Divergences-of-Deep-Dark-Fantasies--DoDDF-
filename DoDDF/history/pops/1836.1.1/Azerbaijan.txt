@@ -184,55 +184,55 @@
 	}
 
 	clergymen = {
-		culture = chechen
+		culture = north_caucasian
 		religion = catholic
 		size = 2
 	}
 
 	artisans = {
-		culture = chechen
+		culture = north_caucasian
 		religion = catholic
 		size = 10
 	}
 
 	farmers = {
-		culture = chechen
+		culture = north_caucasian
 		religion = catholic
 		size = 185
 	}
 	
 	clergymen = {
-		culture = chechen
+		culture = north_caucasian
 		religion = catholic
 		size = 6
 	}
 
 	artisans = {
-		culture = chechen
+		culture = north_caucasian
 		religion = catholic
 		size = 22
 	}
 
 	farmers = {
-		culture = chechen
+		culture = north_caucasian
 		religion = catholic
 		size = 1000
 	}
 	
 	clergymen = {
-		culture = chechen
+		culture = north_caucasian
 		religion = catholic
 		size = 2
 	}
 
 	artisans = {
-		culture = chechen
+		culture = north_caucasian
 		religion = catholic
 		size = 10
 	}
 
 	farmers = {
-		culture = chechen
+		culture = north_caucasian
 		religion = catholic
 		size = 2600
 	}
@@ -295,28 +295,28 @@
 	}
 
 	aristocrats = {
-		culture = chechen
+		culture = north_caucasian
 		religion = catholic
 		size = 305
 		militancy = 9
 	}
 
 	clergymen = {
-		culture = chechen
+		culture = north_caucasian
 		religion = catholic
 		size = 210
 		militancy = 9
 	}
 
 	artisans = {
-		culture = chechen
+		culture = north_caucasian
 		religion = catholic
 		size = 650
 		militancy = 9
 	}
 
 	farmers = {
-		culture = chechen
+		culture = north_caucasian
 		religion = catholic
 		size = 14110
 		militancy = 9
@@ -341,61 +341,61 @@
 	}
 
 	artisans = {
-		culture = chechen
+		culture = north_caucasian
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = chechen
+		culture = north_caucasian
 		religion = catholic
 		size = 7680
 	}
 	
 	aristocrats = {
-		culture = chechen
+		culture = north_caucasian
 		religion = catholic
 		size = 105
 	}
 
 	clergymen = {
-		culture = chechen
+		culture = north_caucasian
 		religion = catholic
 		size = 120
 	}
 
 	artisans = {
-		culture = chechen
+		culture = north_caucasian
 		religion = catholic
 		size = 200
 	}
 
 	farmers = {
-		culture = chechen
+		culture = north_caucasian
 		religion = catholic
 		size = 7400
 	}
 
 	aristocrats = {
-		culture = chechen
+		culture = north_caucasian
 		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
-		culture = chechen
+		culture = north_caucasian
 		religion = catholic
 		size = 240
 	}
 
 	artisans = {
-		culture = chechen
+		culture = north_caucasian
 		religion = catholic
 		size = 500
 	}
 
 	farmers = {
-		culture = chechen
+		culture = north_caucasian
 		religion = catholic
 		size = 10400
 	}	
@@ -477,49 +477,49 @@
 	}
 
 	aristocrats = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 75
 	}
 
 	clergymen = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 270
 	}
 
 	artisans = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 290
 	}
 
 	farmers = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 4775
 	}
 	
 	aristocrats = {
-		culture = chechen
+		culture = north_caucasian
 		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
-		culture = chechen
+		culture = north_caucasian
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = chechen
+		culture = north_caucasian
 		religion = catholic
 		size = 600
 	}
 
 	farmers = {
-		culture = chechen
+		culture = north_caucasian
 		religion = catholic
 		size = 4900
 	}

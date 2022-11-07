@@ -3,37 +3,37 @@
 #Bishkek (236000/59000 POPS) #now part of Kirghizstan   
 1189 = {
 	aristocrats = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size = 800
 	}
 
 	clergymen = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size = 425
 	}
 
 	artisans = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size = 2000
 	}
 
 	soldiers = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size = 1000
 	}
 
 	farmers = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size = 26000
 	}
 	
 	farmers = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size = 3775
 	}
@@ -65,61 +65,61 @@
 #Naryn (56000/14000 POPS) #now part of Kirghizstan    
 1190 = {
     aristocrats = {
-        culture = oirat
+        culture = mongol
         religion = catholic
         size = 1525
     }
 
     clergymen = {
-        culture = oirat
+        culture = mongol
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = oirat
+        culture = mongol
         religion = catholic
         size = 100
     }
 
     soldiers = {
-        culture = oirat
+        culture = mongol
         religion = catholic
         size = 12150
     }
 
     farmers = {
-        culture = oirat
+        culture = mongol
         religion = catholic
         size = 2775
     }
 
     aristocrats = {
-        culture = oirat
+        culture = mongol
         religion = catholic
         size = 100
     }
 
     clergymen = {
-        culture = oirat
+        culture = mongol
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = oirat
+        culture = mongol
         religion = catholic
         size = 250
     }
 
     soldiers = {
-        culture = oirat
+        culture = mongol
         religion = catholic
         size = 50
     }
 
     farmers = {
-        culture = oirat
+        culture = mongol
         religion = catholic
         size = 4575
     }
@@ -161,7 +161,7 @@
     }
 
     aristocrats = {
-        culture = oirat
+        culture = mongol
         religion = catholic
         size = 1275
     }
@@ -179,7 +179,7 @@
     }
 
     soldiers = {
-        culture = oirat
+        culture = mongol
         religion = catholic
         size = 675
     }
@@ -191,7 +191,7 @@
     }
 
     bureaucrats = {
-        culture = oirat
+        culture = mongol
         religion = catholic
         size = 200
     }
@@ -224,78 +224,78 @@
 	}
 
 	aristocrats = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size = 200
 	}
 
 	soldiers = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size = 1050
 	}
 
 	farmers = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size = 4000
 	}
 	
 	farmers = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size = 6600
 	}
 }
 
-#Mawarannahr Region (112000) #see Kazakhstan.txt, persianistan.txt, oiratistan.txt for balance of region 
+#Mawarannahr Region (112000) #see Kazakhstan.txt, persianistan.txt, mongolistan.txt for balance of region 
 #under the rule of Kokand in 1836  
 #Osh (112000/28000 POPS) #Now part of Kirghizstan   
 1203 = {
     clergymen = {
-        culture = oirat
+        culture = mongol
         religion = catholic
         size = 75
     }
 
     artisans = {
-        culture = oirat
+        culture = mongol
         religion = catholic
         size = 450
     }
 
     farmers = {
-        culture = oirat
+        culture = mongol
         religion = catholic
         size = 13550
     }
 
     clergymen = {
-        culture = oirat
+        culture = mongol
         religion = catholic
         size = 175
     }
 
     artisans = {
-        culture = oirat
+        culture = mongol
         religion = catholic
         size = 900
     }
 
     farmers = {
-        culture = oirat
+        culture = mongol
         religion = catholic
         size = 8200
     }

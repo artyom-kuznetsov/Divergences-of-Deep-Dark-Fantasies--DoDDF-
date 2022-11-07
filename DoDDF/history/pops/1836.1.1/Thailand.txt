@@ -3,56 +3,56 @@
 #Bangkok (1108000/277000 POPS)
 1346 = {
 	aristocrats = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 4500
 	}
 
 	bureaucrats = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 375
 	}
 
 	officers = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 475
 	}
 
 	clergymen = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 2375
 	}
 
 	artisans = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 10000
 	}
 	
 	artisans = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 1100
 	}
 
 	soldiers = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size= 2250
 
 	}
 
 	farmers = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 193025
 	}
 
 	slaves = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 6000
 	}
@@ -121,38 +121,38 @@
 #Lopburi (324000/81000 POPS)
 1347 = {
 	aristocrats = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 1575
 	}
 
 	clergymen = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 825
 	}
 
 	artisans = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 4000
 	}
 
 	soldiers = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size= 1100
 
 	}
 
 	farmers = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 70600
 	}
 
 	slaves = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 3000
 	}
@@ -160,38 +160,38 @@
 #Nakhon Sawan (188000/47000 POPS)
 1348 = {
 	aristocrats = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 800
 	}
 
 	clergymen = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 400
 	}
 
 	artisans = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 1500
 	}
 
 	soldiers = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size= 1100
 
 	}
 
 	farmers = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 37300
 	}
 
 	slaves = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 3000
 	}
@@ -227,35 +227,35 @@
 		size = 1650
 	}
 }
-#Sukothai (136000/34000 POPS)
+#Sukokhmer (136000/34000 POPS)
 1349 = {
 	aristocrats = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 650
 	}
 
 	clergymen = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 350
 	}
 
 	artisans = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 1700
 	}
 
 	soldiers = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size= 1100
 
 	}
 
 	farmers = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 29900
 	}
@@ -263,32 +263,32 @@
 #Nakhon Ratchasima (160000/40000 POPS)
 1350 = {
 	aristocrats = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 800
 	}
 
 	clergymen = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 425
 	}
 
 	artisans = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 2000
 	}
 
 	soldiers = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size= 1100
 
 	}
 
 	farmers = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 35775
 	}
@@ -296,38 +296,38 @@
 #Prachin Buri (164000/41000 POPS)
 1351 = {
 	aristocrats = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 575
 	}
 
 	clergymen = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 300
 	}
 
 	artisans = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 1400
 	}
 
 	soldiers = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size= 1100
 
 	}
 
 	farmers = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 27725
 	}
 
 	slaves = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 1100
 	}
@@ -368,44 +368,44 @@
 #Phuket (124000/31000 POPS)
 1352 = {
 	aristocrats = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 450
 	}
 
 	bureaucrats = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 100
 	}
 
 	officers = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 225
 	}
 
 	artisans = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 1050
 	}
 
 	soldiers = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size= 1100
 
 	}
 
 	farmers = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 20025
 	}
@@ -475,32 +475,32 @@
 #Ratchaburi (172000/43000 POPS)
 1353 = {
 	aristocrats = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 700
 	}
 
 	clergymen = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 350
 	}
 
 	artisans = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 1800
 	}
 
 	soldiers = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size= 1100
 
 	}
 
 	farmers = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 33150
 	}
@@ -539,32 +539,32 @@
 #Nakhon Si Thammanet (196000/49000 POPS)
 1354 = {
 	aristocrats = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 625
 	}
 
 	clergymen = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 325
 	}
 
 	artisans = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 1300
 	}
 
 	soldiers = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size= 1100
 
 	}
 
 	farmers = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 28800
 	}
@@ -636,44 +636,44 @@
 #Chiang Mai (332000/83000 POPS)
 1355 = {
 	aristocrats = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 550
 	}
 
 	bureaucrats = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 125
 	}
 
 	officers = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 75
 	}
 
 	clergymen = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 325
 	}
 
 	artisans = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 1600
 	}
 
 	soldiers = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size= 325
 
 	}
 
 	farmers = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 28725
 	}
@@ -718,32 +718,32 @@
 #Nan (268000/67000 POPS)
 2572 = {
 	aristocrats = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 400
 	}
 
 	clergymen = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 225
 	}
 
 	artisans = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 1100
 	}
 
 	soldiers = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size= 225
 
 	}
 
 	farmers = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 20050
 	}
@@ -812,47 +812,47 @@
 }
 #Laos Region (776000)
 #under the rule of Siam in 1836
-#Udon Thani (596000/149000 POPS) #now part of Thailand    
+#Udon Thani (596000/149000 POPS) #now part of khmerland    
 1358 = {
 	aristocrats = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 400
 	}
 
 	bureaucrats = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 150
 	}
 
 	officers = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 200
 	}
 
 	clergymen = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 225
 	}
 
 	artisans = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 1050
 	}
 
 	soldiers = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size= 225
 
 	}
 
 	farmers = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 21025
 	}
@@ -888,35 +888,35 @@
 		size = 116600
 	}
 }
-#Sisaket (180000/45000 POPS) #now part of Thailand  
+#Sisaket (180000/45000 POPS) #now part of khmerland  
 1359 = {
 	aristocrats = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 425
 	}
 
 	clergymen = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 225
 	}
 
 	artisans = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 1150
 	}
 
 	soldiers = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size= 250
 
 	}
 
 	farmers = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 20950
 	}
@@ -985,35 +985,35 @@
 }
 #Cambodia Region (72000)
 #under the rule of Siam in 1836
-#Chanthaburi (72000/18000 POPS) #now part of Thailand   
+#Chanthaburi (72000/18000 POPS) #now part of khmerland   
 1365 = {
 	aristocrats = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 75
 	}
 
 	clergymen = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 225
 	}
 
 	soldiers = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size= 50
 
 	}
 
 	farmers = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 4600
 	}
@@ -1076,7 +1076,7 @@
 }
 #Malaya Region (132000) #see Malaysia.txt for balance of region
 #under the rule of Siam in 1836
-#Pattani (132000/33000 POPS) #now part of Thailand   
+#Pattani (132000/33000 POPS) #now part of khmerland   
 1392 = {
 	aristocrats = {
 		culture = malay

@@ -3,43 +3,43 @@
 #Douala (328000/82000 POPS)
 1956 = {
 	aristocrats = {
-		culture = forest_bantu
+		culture = african_minor
 		religion = catholic
 		size = 1675
 	}
 
 	officers = {
-		culture = forest_bantu
+		culture = african_minor
 		religion = catholic
 		size = 150
 	}
 
 	clergymen = {
-		culture = forest_bantu
+		culture = african_minor
 		religion = catholic
 		size = 825
 	}
 
 	artisans = {
-		culture = forest_bantu
+		culture = african_minor
 		religion = catholic
 		size = 3300
 	}
 
 	soldiers = {
-		culture = forest_bantu
+		culture = african_minor
 		religion = catholic
 		size = 825
 	}
 
 	farmers = {
-		culture = forest_bantu
+		culture = african_minor
 		religion = catholic
 		size = 61225
 	}
 
 	slaves = {
-		culture = fang
+		culture = african_minor
 		religion = catholic
 		size = 14000
 	}
@@ -47,37 +47,37 @@
 #Buea (224000/56000 POPS)
 1957 = {
 	aristocrats = {
-		culture = forest_bantu
+		culture = african_minor
 		religion = catholic
 		size = 1075
 	}
 
 	clergymen = {
-		culture = forest_bantu
+		culture = african_minor
 		religion = catholic
 		size = 550
 	}
 
 	artisans = {
-		culture = forest_bantu
+		culture = african_minor
 		religion = catholic
 		size = 2250
 	}
 
 	soldiers = {
-		culture = forest_bantu
+		culture = african_minor
 		religion = catholic
 		size = 550
 	}
 
 	farmers = {
-		culture = forest_bantu
+		culture = african_minor
 		religion = catholic
 		size = 39575
 	}
 
 	slaves = {
-		culture = fang
+		culture = african_minor
 		religion = catholic
 		size = 12000
 	}
@@ -85,73 +85,73 @@
 #Kribi (176000/44000 POPS)
 1958 = {
 	aristocrats = {
-		culture = forest_bantu
+		culture = african_minor
 		religion = catholic
 		size = 500
 	}
 
 	clergymen = {
-		culture = forest_bantu
+		culture = african_minor
 		religion = catholic
 		size = 250
 	}
 
 	artisans = {
-		culture = forest_bantu
+		culture = african_minor
 		religion = catholic
 		size = 1050
 	}
 
 	soldiers = {
-		culture = forest_bantu
+		culture = african_minor
 		religion = catholic
 		size = 275
 	}
 
 	farmers = {
-		culture = forest_bantu
+		culture = african_minor
 		religion = catholic
 		size = 20925
 	}
 
 	slaves = {
-		culture = forest_bantu
+		culture = african_minor
 		religion = catholic
 		size = 3000
 	}
 
 	aristocrats = {
-		culture = fang
+		culture = african_minor
 		religion = catholic
 		size = 325
 	}
 
 	clergymen = {
-		culture = fang
+		culture = african_minor
 		religion = catholic
 		size = 175
 	}
 
 	artisans = {
-		culture = fang
+		culture = african_minor
 		religion = catholic
 		size = 725
 	}
 
 	soldiers = {
-		culture = fang
+		culture = african_minor
 		religion = catholic
 		size = 175
 	}
 
 	farmers = {
-		culture = fang
+		culture = african_minor
 		religion = catholic
 		size = 11600
 	}
 
 	slaves = {
-		culture = fang
+		culture = african_minor
 		religion = catholic
 		size = 5000
 	}
@@ -161,73 +161,73 @@
 #Yaounde (344000/86000 POPS)
 1959 = {
 	aristocrats = {
-		culture = fang
+		culture = african_minor
 		religion = catholic
 		size = 525
 	}
 
 	clergymen = {
-		culture = fang
+		culture = african_minor
 		religion = catholic
 		size = 275
 	}
 
 	artisans = {
-		culture = fang
+		culture = african_minor
 		religion = catholic
 		size = 1125
 	}
 
 	soldiers = {
-		culture = fang
+		culture = african_minor
 		religion = catholic
 		size = 275
 	}
 
 	farmers = {
-		culture = fang
+		culture = african_minor
 		religion = catholic
 		size = 16800
 	}
 
 	slaves = {
-		culture = fang
+		culture = african_minor
 		religion = catholic
 		size = 9000
 	}
 
 	aristocrats = {
-		culture = forest_bantu
+		culture = african_minor
 		religion = catholic
 		size = 1150
 	}
 
 	clergymen = {
-		culture = forest_bantu
+		culture = african_minor
 		religion = catholic
 		size = 575
 	}
 
 	artisans = {
-		culture = forest_bantu
+		culture = african_minor
 		religion = catholic
 		size = 2325
 	}
 
 	soldiers = {
-		culture = forest_bantu
+		culture = african_minor
 		religion = catholic
 		size = 600
 	}
 
 	farmers = {
-		culture = forest_bantu
+		culture = african_minor
 		religion = catholic
 		size = 39350
 	}
 
 	slaves = {
-		culture = tiv
+		culture = african_minor
 		religion = catholic
 		size = 14000
 	}
@@ -235,37 +235,37 @@
 #Bafoussam (276000/69000 POPS)
 1960 = {
 	aristocrats = {
-		culture = tiv
+		culture = african_minor
 		religion = catholic
 		size = 1375
 	}
 
 	clergymen = {
-		culture = tiv
+		culture = african_minor
 		religion = catholic
 		size = 700
 	}
 
 	artisans = {
-		culture = tiv
+		culture = african_minor
 		religion = catholic
 		size = 2775
 	}
 
 	soldiers = {
-		culture = tiv
+		culture = african_minor
 		religion = catholic
 		size = 700
 	}
 
 	farmers = {
-		culture = tiv
+		culture = african_minor
 		religion = catholic
 		size = 44450
 	}
 
 	slaves = {
-		culture = tiv
+		culture = african_minor
 		religion = catholic
 		size = 19000
 	}
@@ -273,113 +273,113 @@
 #Bertoua (320000/80000 POPS)
 1962 = {
 	aristocrats = {
-		culture = fang
+		culture = african_minor
 		religion = catholic
 		size = 1225
 	}
 
 	clergymen = {
-		culture = fang
+		culture = african_minor
 		religion = catholic
 		size = 625
 	}
 
 	artisans = {
-		culture = fang
+		culture = african_minor
 		religion = catholic
 		size = 2500
 	}
 
 	soldiers = {
-		culture = fang
+		culture = african_minor
 		religion = catholic
 		size = 625
 	}
 
 	farmers = {
-		culture = fang
+		culture = african_minor
 		religion = catholic
 		size = 34025
 	}
 
 	slaves = {
-		culture = fang
+		culture = african_minor
 		religion = catholic
 		size = 17000
 	}
 
 	aristocrats = {
-		culture = forest_bantu
+		culture = african_minor
 		religion = catholic
 		size = 325
 	}
 
 	clergymen = {
-		culture = forest_bantu
+		culture = african_minor
 		religion = catholic
 		size = 175
 	}
 
 	artisans = {
-		culture = forest_bantu
+		culture = african_minor
 		religion = catholic
 		size = 725
 	}
 
 	soldiers = {
-		culture = forest_bantu
+		culture = african_minor
 		religion = catholic
 		size = 175
 	}
 
 	farmers = {
-		culture = forest_bantu
+		culture = african_minor
 		religion = catholic
 		size = 10600
 	}
 
 	slaves = {
-		culture = ubangian
+		culture = african_minor
 		religion = catholic
 		size = 6000
 	}
 }
-#Kwararafa Region (372000) #see Nigeria.txt for balance of region   
+#african_minorrarafa Region (372000) #see Nigeria.txt for balance of region   
 #uncolonized in 1836
 #Bamenda (372000/93000 POPS) #now part of Cameroun
 1961 = {
 	aristocrats = {
-		culture = tiv
+		culture = african_minor
 		religion = catholic
 		size = 1850
 	}
 
 	clergymen = {
-		culture = tiv
+		culture = african_minor
 		religion = catholic
 		size = 950
 	}
 
 	artisans = {
-		culture = tiv
+		culture = african_minor
 		religion = catholic
 		size = 3725
 	}
 
 	soldiers = {
-		culture = tiv
+		culture = african_minor
 		religion = catholic
 		size = 950
 	}
 
 	farmers = {
-		culture = tiv
+		culture = african_minor
 		religion = catholic
 		size = 75575
 	}
 
 	slaves = {
-		culture = ibibio
+		culture = african_minor
 		religion = catholic
 		size = 10000
 	}
@@ -389,79 +389,79 @@
 #Ngaoundere (160000/40000 POPS) #now part of Cameroun
 1963 = {
 	aristocrats = {
-		culture = fulbe
+		culture = african_minor
 		religion = catholic
 		size = 500
 	}
 
 	bureaucrats = {
-		culture = fulbe
+		culture = african_minor
 		religion = catholic
 		size = 25
 	}
 
 	officers = {
-		culture = fulbe
+		culture = african_minor
 		religion = catholic
 		size = 75
 	}
 
 	clergymen = {
-		culture = fulbe
+		culture = african_minor
 		religion = catholic
 		size = 250
 	}
 
 	artisans = {
-		culture = fulbe
+		culture = african_minor
 		religion = catholic
 		size = 1050
 	}
 
 	soldiers = {
-		culture = fulbe
+		culture = african_minor
 		religion = catholic
 		size = 3000
 	}
 
 	farmers = {
-		culture = fulbe
+		culture = african_minor
 		religion = catholic
 		size = 19825
 	}
 
 	aristocrats = {
-		culture = ubangian
+		culture = african_minor
 		religion = catholic
 		size = 275
 	}
 
 	clergymen = {
-		culture = ubangian
+		culture = african_minor
 		religion = catholic
 		size = 150
 	}
 
 	artisans = {
-		culture = ubangian
+		culture = african_minor
 		religion = catholic
 		size = 575
 	}
 
 	soldiers = {
-		culture = ubangian
+		culture = african_minor
 		religion = catholic
 		size = 150
 	}
 
 	farmers = {
-		culture = ubangian
+		culture = african_minor
 		religion = catholic
 		size = 12850
 	}
 
 	slaves = {
-		culture = tiv
+		culture = african_minor
 		religion = catholic
 		size = 4000
 	}
@@ -470,61 +470,61 @@
 #Maroua (433600/108400 POPS) #now part of Cameroun
 1964 = {
 	aristocrats = {
-		culture = fulbe
+		culture = african_minor
 		religion = catholic
 		size = 700
 	}
 
 	clergymen = {
-		culture = fulbe
+		culture = african_minor
 		religion = catholic
 		size = 800
 	}
 
 	artisans = {
-		culture = fulbe
+		culture = african_minor
 		religion = catholic
 		size = 700
 	}
 
 	soldiers = {
-		culture = fulbe
+		culture = african_minor
 		religion = catholic
 		size = 400
 	}
 
 	farmers = {
-		culture = fulbe
+		culture = african_minor
 		religion = catholic
 		size = 27400
 	}
 
 	aristocrats = {
-		culture = hausa
+		culture = african_minor
 		religion = catholic
 		size = 200
 	}
 
 	clergymen = {
-		culture = hausa
+		culture = african_minor
 		religion = catholic
 		size = 200
 	}
 
 	artisans = {
-		culture = hausa
+		culture = african_minor
 		religion = catholic
 		size = 800
 	}
 
 	soldiers = {
-		culture = hausa
+		culture = african_minor
 		religion = catholic
 		size = 200
 	}
 
 	farmers = {
-		culture = hausa
+		culture = african_minor
 		religion = catholic
 		size = 20600
 	}
@@ -560,43 +560,43 @@
 	}
 
 	aristocrats = {
-		culture = baguirmi
+		culture = african_minor
 		religion = catholic
 		size = 700
 	}
 
 	clergymen = {
-		culture = baguirmi
+		culture = african_minor
 		religion = catholic
 		size = 400
 	}
 
 	artisans = {
-		culture = baguirmi
+		culture = african_minor
 		religion = catholic
 		size = 1800
 	}
 
 	soldiers = {
-		culture = baguirmi
+		culture = african_minor
 		religion = catholic
 		size = 400
 	}
 
 	farmers = {
-		culture = baguirmi
+		culture = african_minor
 		religion = catholic
 		size = 23100
 	}
 
 	slaves = {
-		culture = kanuri
+		culture = african_minor
 		religion = catholic
 		size = 6000
 	}
 	
 	slaves = {
-		culture = sara
+		culture = african_minor
 		religion = catholic
 		size = 6000
 	}

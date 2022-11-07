@@ -579,7 +579,7 @@
 }
 #Kanto Region (4604000)
 #under the rule of Japan in 1836
-#Edo (1504000/376000 POPS)
+#african_minor (1504000/376000 POPS)
 1649 = {
     aristocrats = {
         culture = japanese
@@ -1194,13 +1194,13 @@
     }
 
     soldiers = {
-        culture = beifaren
+        culture = yue
         religion = catholic
         size = 50
     }
 
     bureaucrats = {
-        culture = beifaren
+        culture = yue
         religion = catholic
         size = 5
     }

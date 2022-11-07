@@ -52,7 +52,7 @@
 	}
 
 	slaves = {
-		culture = zanj
+		culture = maghrebi
 		religion = catholic
 		size = 6500
 	}
@@ -134,7 +134,7 @@
 	}
 
 	slaves = {
-		culture = zanj
+		culture = maghrebi
 		religion = catholic
 		size = 2000
 	}
@@ -204,7 +204,7 @@
 	}
 
 	slaves = {
-		culture = zanj
+		culture = maghrebi
 		religion = catholic
 		size = 5000
 	}
@@ -267,7 +267,7 @@
 	}
 
 	slaves = {
-		culture = zanj
+		culture = maghrebi
 		religion = catholic
 		size = 4000
 	}
@@ -351,7 +351,7 @@
 	}
 
 	slaves = {
-		culture = zanj
+		culture = maghrebi
 		religion = catholic
 		size = 6000
 	}
@@ -407,7 +407,7 @@
 	}
 
 	slaves = {
-		culture = zanj
+		culture = maghrebi
 		religion = catholic
 		size = 2000
 	}
@@ -477,7 +477,7 @@
 	}
 
 	slaves = {
-		culture = zanj
+		culture = maghrebi
 		religion = catholic
 		size = 3000
 	}
@@ -551,61 +551,61 @@
 	}
 
 	aristocrats = {
-		culture = tuareg
+		culture = african_minor
 		religion = catholic
 		size = 15
 	}
 
 	clergymen = {
-		culture = tuareg
+		culture = african_minor
 		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = tuareg
+		culture = african_minor
 		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
-		culture = tuareg
+		culture = african_minor
 		religion = catholic
 		size = 10
 	}
 
 	farmers = {
-		culture = tuareg
+		culture = african_minor
 		religion = catholic
 		size = 900
 	}
 	aristocrats = {
-		culture = teda
+		culture = african_minor
 		religion = catholic
 		size = 15
 	}
 
 	clergymen = {
-		culture = teda
+		culture = african_minor
 		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = teda
+		culture = african_minor
 		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
-		culture = teda
+		culture = african_minor
 		religion = catholic
 		size= 10
 
 	}
 
 	farmers = {
-		culture = teda
+		culture = african_minor
 		religion = catholic
 		size = 900
 	}	
@@ -613,32 +613,32 @@
 #Matan al Sarah (4000/1000 POPS)
 2585 = {
 	aristocrats = {
-		culture = teda
+		culture = african_minor
 		religion = catholic
 		size = 15
 	}
 
 	clergymen = {
-		culture = teda
+		culture = african_minor
 		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = teda
+		culture = african_minor
 		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
-		culture = teda
+		culture = african_minor
 		religion = catholic
 		size= 10
 
 	}
 
 	farmers = {
-		culture = teda
+		culture = african_minor
 		religion = catholic
 		size = 900
 	}
@@ -679,38 +679,38 @@
 	}
 
 	aristocrats = {
-		culture = tuareg
+		culture = african_minor
 		religion = catholic
 		size = 25
 	}
 
 	clergymen = {
-		culture = tuareg
+		culture = african_minor
 		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = tuareg
+		culture = african_minor
 		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
-		culture = tuareg
+		culture = african_minor
 		religion = catholic
 		size= 25
 
 	}
 
 	farmers = {
-		culture = tuareg
+		culture = african_minor
 		religion = catholic
 		size = 1875
 	}
 
 	slaves = {
-		culture = zanj
+		culture = maghrebi
 		religion = catholic
 		size = 500
 	}
@@ -761,38 +761,38 @@
 	}
 
 	aristocrats = {
-		culture = tuareg
+		culture = african_minor
 		religion = catholic
 		size = 25
 	}
 
 	clergymen = {
-		culture = tuareg
+		culture = african_minor
 		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = tuareg
+		culture = african_minor
 		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
-		culture = tuareg
+		culture = african_minor
 		religion = catholic
 		size= 25
 
 	}
 
 	farmers = {
-		culture = tuareg
+		culture = african_minor
 		religion = catholic
 		size = 1875
 	}
 
 	slaves = {
-		culture = zanj
+		culture = maghrebi
 		religion = catholic
 		size = 1100
 	}
@@ -832,38 +832,38 @@
 	}
 
 	aristocrats = {
-		culture = tuareg
+		culture = african_minor
 		religion = catholic
 		size = 15
 	}
 
 	clergymen = {
-		culture = tuareg
+		culture = african_minor
 		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = tuareg
+		culture = african_minor
 		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
-		culture = tuareg
+		culture = african_minor
 		religion = catholic
 		size= 10
 
 	}
 
 	farmers = {
-		culture = tuareg
+		culture = african_minor
 		religion = catholic
 		size = 900
 	}
 
 	slaves = {
-		culture = zanj
+		culture = maghrebi
 		religion = catholic
 		size = 2000
 	}
@@ -903,38 +903,38 @@
 	}
 
 	aristocrats = {
-		culture = tuareg
+		culture = african_minor
 		religion = catholic
 		size = 25
 	}
 
 	clergymen = {
-		culture = tuareg
+		culture = african_minor
 		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = tuareg
+		culture = african_minor
 		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
-		culture = tuareg
+		culture = african_minor
 		religion = catholic
 		size= 1100
 
 	}
 
 	farmers = {
-		culture = tuareg
+		culture = african_minor
 		religion = catholic
 		size = 900
 	}
 
 	slaves = {
-		culture = zanj
+		culture = maghrebi
 		religion = catholic
 		size = 1100
 	}

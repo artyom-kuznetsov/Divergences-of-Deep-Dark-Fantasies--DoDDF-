@@ -744,31 +744,31 @@
     }
 
     aristocrats = {
-        culture = tuareg
+        culture = african_minor
         religion = catholic
         size = 100
     }
 
     clergymen = {
-        culture = tuareg
+        culture = african_minor
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = tuareg
+        culture = african_minor
         religion = catholic
         size = 500
     }
 
     soldiers = {
-        culture = tuareg
+        culture = african_minor
         religion = catholic
         size = 3100
     }
 
     farmers = {
-        culture = tuareg
+        culture = african_minor
         religion = catholic
         size = 9200
     }
@@ -796,19 +796,19 @@
     }
 
     clergymen = {
-        culture = tuareg
+        culture = african_minor
         religion = catholic
         size = 85
     }
 
     artisans = {
-        culture = tuareg
+        culture = african_minor
         religion = catholic
         size = 185
     }
 
     farmers = {
-        culture = tuareg
+        culture = african_minor
         religion = catholic
         size = 5600
     }
@@ -816,19 +816,19 @@
 #Tuggurt (12000/3000 POPS)
 1712 = {
     clergymen = {
-        culture = tuareg
+        culture = african_minor
         religion = catholic
         size = 60
     }
 
     artisans = {
-        culture = tuareg
+        culture = african_minor
         religion = catholic
         size = 160
     }
 
     farmers = {
-        culture = tuareg
+        culture = african_minor
         religion = catholic
         size = 3700
     }
@@ -854,19 +854,19 @@
 #Laghwat (104000/26000 POPS)
 1713 = {
     clergymen = {
-        culture = tuareg
+        culture = african_minor
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = tuareg
+        culture = african_minor
         religion = catholic
         size = 6500
     }
 
     farmers = {
-        culture = tuareg
+        culture = african_minor
         religion = catholic
         size = 12000
     }
@@ -912,31 +912,31 @@
 #Naama (92000/23000 POPS)
 1715 = {
     aristocrats = {
-        culture = tuareg
+        culture = african_minor
         religion = catholic
         size = 100
     }
 
     clergymen = {
-        culture = tuareg
+        culture = african_minor
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = tuareg
+        culture = african_minor
         religion = catholic
         size = 600
     }
 
     soldiers = {
-        culture = tuareg
+        culture = african_minor
         religion = catholic
         size = 13000
     }
 
     farmers = {
-        culture = tuareg
+        culture = african_minor
         religion = catholic
         size = 10200
     }
@@ -968,19 +968,19 @@
 #Tindouf (8000/2000 POPS)
 1716 = {
     clergymen = {
-        culture = tuareg
+        culture = african_minor
         religion = catholic
         size = 15
     }
 
     artisans = {
-        culture = tuareg
+        culture = african_minor
         religion = catholic
         size = 35
     }
 
     farmers = {
-        culture = tuareg
+        culture = african_minor
         religion = catholic
         size = 1900
     }
@@ -988,19 +988,19 @@
 #Chenachene (8000/2000 POPS)
 1717 = {
     clergymen = {
-        culture = tuareg
+        culture = african_minor
         religion = catholic
         size = 15
     }
 
     artisans = {
-        culture = tuareg
+        culture = african_minor
         religion = catholic
         size = 35
     }
 
     farmers = {
-        culture = tuareg
+        culture = african_minor
         religion = catholic
         size = 1900
     }
@@ -1010,31 +1010,31 @@
 #Tuat (8000/2000 POPS)
 1718 = {
     aristocrats = {
-        culture = tuareg
+        culture = african_minor
         religion = catholic
         size = 25
     }
 
     clergymen = {
-        culture = tuareg
+        culture = african_minor
         religion = catholic
         size = 15
     }
 
     artisans = {
-        culture = tuareg
+        culture = african_minor
         religion = catholic
         size = 35
     }
 
     soldiers = {
-        culture = tuareg
+        culture = african_minor
         religion = catholic
         size = 25
     }
 
     farmers = {
-        culture = tuareg
+        culture = african_minor
         religion = catholic
         size = 1900
     }
@@ -1042,19 +1042,19 @@
 #Illizi (8000/2000 POPS)
 1719 = {
     clergymen = {
-        culture = tuareg
+        culture = african_minor
         religion = catholic
         size = 15
     }
 
     artisans = {
-        culture = tuareg
+        culture = african_minor
         religion = catholic
         size = 35
     }
 
     farmers = {
-        culture = tuareg
+        culture = african_minor
         religion = catholic
         size = 1900
     }
@@ -1062,19 +1062,19 @@
 #Timimoun (16000/4000 POPS)
 1720 = {
     clergymen = {
-        culture = tuareg
+        culture = african_minor
         religion = catholic
         size = 30
     }
 
     artisans = {
-        culture = tuareg
+        culture = african_minor
         religion = catholic
         size = 70
     }
 
     farmers = {
-        culture = tuareg
+        culture = african_minor
         religion = catholic
         size = 3800
     }
@@ -1084,19 +1084,19 @@
 #In Guezzam (8000/2000 POPS)
 1721 = {
     clergymen = {
-        culture = tuareg
+        culture = african_minor
         religion = catholic
         size = 15
     }
 
     artisans = {
-        culture = tuareg
+        culture = african_minor
         religion = catholic
         size = 35
     }
 
     farmers = {
-        culture = tuareg
+        culture = african_minor
         religion = catholic
         size = 1900
     }
@@ -1104,19 +1104,19 @@
 #Tin Zawatene (16000/4000 POPS)
 1722 = {
     clergymen = {
-        culture = tuareg
+        culture = african_minor
         religion = catholic
         size = 30
     }
 
     artisans = {
-        culture = tuareg
+        culture = african_minor
         religion = catholic
         size = 70
     }
 
     farmers = {
-        culture = tuareg
+        culture = african_minor
         religion = catholic
         size = 3800
     }

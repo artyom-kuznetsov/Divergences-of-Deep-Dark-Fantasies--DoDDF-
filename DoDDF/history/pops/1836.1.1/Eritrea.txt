@@ -3,31 +3,31 @@
 #Massawa (28000/7000 POPS)  
 1849 = {
 	aristocrats = {
-		culture = tigray
+		culture = african_minor
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = tigray
+		culture = african_minor
 		religion = catholic
 		size = 165
 	}
 
 	artisans = {
-		culture = tigray
+		culture = african_minor
 		religion = catholic
 		size = 235
 	}
 
 	soldiers = {
-		culture = tigray
+		culture = african_minor
 		religion = catholic
 		size= 500
 	}
 
 	farmers = {
-		culture = tigray
+		culture = african_minor
 		religion = catholic
 		size = 4950
 	}
@@ -77,61 +77,61 @@
 #Assab (44000/11000 POPS)  
 1851 = {
 	aristocrats = {
-		culture = tigray
+		culture = african_minor
 		religion = catholic
 		size = 250
 	}
 
 	clergymen = {
-		culture = tigray
+		culture = african_minor
 		religion = catholic
 		size = 195
 	}
 
 	artisans = {
-		culture = tigray
+		culture = african_minor
 		religion = catholic
 		size = 740
 	}
 
 	soldiers = {
-		culture = tigray
+		culture = african_minor
 		religion = catholic
 		size= 750
 	}
 
 	farmers = {
-		culture = tigray
+		culture = african_minor
 		religion = catholic
 		size = 10275
 	}
 
 	aristocrats = {
-		culture = afar
+		culture = african_minor
 		religion = catholic
 		size = 165
 	}
 
 	clergymen = {
-		culture = afar
+		culture = african_minor
 		religion = catholic
 		size = 200
 	}
 
 	artisans = {
-		culture = afar
+		culture = african_minor
 		religion = catholic
 		size = 510
 	}
 
 	soldiers = {
-		culture = afar
+		culture = african_minor
 		religion = catholic
 		size= 500
 	}
 
 	farmers = {
-		culture = afar
+		culture = african_minor
 		religion = catholic
 		size = 7000
 	}
@@ -140,78 +140,78 @@
 #Asmara (80000/20000 POPS)  
 1848 = {
 	aristocrats = {
-		culture = tigray
+		culture = african_minor
 		religion = catholic
 		size = 450
 	}
 
 	bureaucrats = {
-		culture = tigray
+		culture = african_minor
 		religion = catholic
 		size = 75
 	}
 
 	officers = {
-		culture = tigray
+		culture = african_minor
 		religion = catholic
 		size = 125
 	}
 
 	clergymen = {
-		culture = tigray
+		culture = african_minor
 		religion = catholic
 		size = 285
 	}
 
 	artisans = {
-		culture = tigray
+		culture = african_minor
 		religion = catholic
 		size = 1250
 	}
 
 	soldiers = {
-		culture = tigray
+		culture = african_minor
 		religion = catholic
 		size = 3500
 	}
 
 	farmers = {
-		culture = tigray
+		culture = african_minor
 		religion = catholic
 		size = 38925
 	}
 
 	aristocrats = {
-		culture = tigray
+		culture = african_minor
 		religion = catholic
 		size = 340
 	}
 
 	clergymen = {
-		culture = tigray
+		culture = african_minor
 		religion = catholic
 		size = 219
 	}
 
 	artisans = {
-		culture = tigray
+		culture = african_minor
 		religion = catholic
 		size = 1000
 	}
 
 	soldiers = {
-		culture = tigray
+		culture = african_minor
 		religion = catholic
 		size= 3750
 	}
 
 	farmers = {
-		culture = tigray
+		culture = african_minor
 		religion = catholic
 		size = 20430
 	}
 	slaves = {
-		culture = cushitic
+		culture = african_minor
 		religion = catholic
 		size = 500
 	}
@@ -219,43 +219,43 @@
 #Akordat (28000/7000 POPS)  
 1850 = {
 	aristocrats = {
-		culture = tigray
+		culture = african_minor
 		religion = catholic
 		size = 250
 	}
 
 	clergymen = {
-		culture = tigray
+		culture = african_minor
 		religion = catholic
 		size = 210
 	}
 
 	artisans = {
-		culture = tigray
+		culture = african_minor
 		religion = catholic
 		size = 1350
 	}
 
 	soldiers = {
-		culture = tigray
+		culture = african_minor
 		religion = catholic
 		size= 750
 	}
 
 	farmers = {
-		culture = tigray
+		culture = african_minor
 		religion = catholic
 		size = 32575
 	}
 
 	clergymen = {
-		culture = beja
+		culture = african_minor
 		religion = catholic
 		size = 80
 	}
 
 	farmers = {
-		culture = beja
+		culture = african_minor
 		religion = catholic
 		size = 6300
 	}

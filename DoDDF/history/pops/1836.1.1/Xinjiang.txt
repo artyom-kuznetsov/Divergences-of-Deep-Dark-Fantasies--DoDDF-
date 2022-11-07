@@ -46,32 +46,32 @@
 	}
 
 	aristocrats = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size = 85
 	}
 
 	clergymen = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size = 45
 	}
 
 	artisans = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size = 212
 	}
 
 	soldiers = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size= 37
 
 	}
 
 	farmers = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size = 4060
 	}
@@ -95,13 +95,13 @@
 	}
 
 	clergymen = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size = 360
 	}
@@ -145,32 +145,32 @@
 	}
 
 	aristocrats = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size = 140
 	}
 
 	clergymen = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size = 80
 	}
 
 	artisans = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size = 363
 	}
 
 	soldiers = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size= 63
 
 	}
 
 	farmers = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size = 6915
 	}
@@ -194,13 +194,13 @@
 	}
 
 	clergymen = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size = 615
 	}
@@ -208,38 +208,38 @@
 #Ili (168000/42000 POPS)
 1595 = {
 	aristocrats = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size = 575
 	}
 	
 	bureaucrats = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size = 150
 	}
 
 	clergymen = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size = 300
 	}
 
 	artisans = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size = 1500
 	}
 
 	soldiers = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size= 300
 
 	}
 
 	farmers = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size = 27325
 	}
@@ -276,32 +276,32 @@
 	}
 
 	aristocrats = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size = 250
 	}
 
 	soldiers = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size= 50
 
 	}
 
 	farmers = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size = 4550
 	}
@@ -309,32 +309,32 @@
 #Tulta (88000/22000 POPS)
 1596 = {
 	aristocrats = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size = 125
 	}
 
 	clergymen = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size = 350
 	}
 
 	soldiers = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size= 75
 
 	}
 
 	farmers = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size = 6375
 	}
@@ -371,32 +371,32 @@
 	}
 
 	aristocrats = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size = 125
 	}
 
 	clergymen = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size = 350
 	}
 
 	soldiers = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size= 75
 
 	}
 
 	farmers = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size = 6375
 	}
@@ -470,32 +470,32 @@
 #Kumul (188000/47000 POPS)
 1599 = {
 	aristocrats = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size = 850
 	}
 
 	clergymen = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size = 425
 	}
 
 	artisans = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size = 2150
 	}
 
 	soldiers = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size= 425
 
 	}
 
 	farmers = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size = 39200
 	}
@@ -503,7 +503,7 @@
 #Urumqi (Tihwa) (332000/83000 POPS)
 1600 = {
 	aristocrats = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size = 1200
 	}
@@ -520,19 +520,19 @@
 	}
 	
 	clergymen = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size = 600
 	}
 
 	artisans = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size = 3300
 	}
 
 	soldiers = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size= 3000
 
@@ -546,7 +546,7 @@
 	}
 
 	farmers = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size = 80225
 	}
@@ -558,75 +558,75 @@
 	}
 
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 400
 	}
 
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 7325
 	}
 
 	bureaucrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 150
 	}
 
 	soldiers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size= 50
 
 	}
 
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 2750
 	}
 
 	aristocrats = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size = 25
 	}
 
 	clergymen = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size= 25
 
 	}
 
 	farmers = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size = 1800
 	}
@@ -695,13 +695,13 @@
 	}
 
 	artisans = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size = 800
 	}
@@ -740,13 +740,13 @@
 	}
 	
 	aristocrats = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size = 150
 	}	
 	
 	soldiers = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size= 1000
 	}	
@@ -786,31 +786,31 @@
 	}
 	
 	aristocrats = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size = 150
 	}	
 	
 	soldiers = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size= 1000
 	}
 
 	farmers = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size = 14000
 	}	
 	
 	farmers = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size = 3000
 	}		
 	
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 2000
 	}
@@ -850,13 +850,13 @@
 	}
 	
 	aristocrats = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size = 50
 	}	
 	
 	soldiers = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size= 500
 	}	
@@ -896,19 +896,19 @@
 	}
 	
 	aristocrats = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size = 100
 	}	
 	
 	soldiers = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size= 750
 	}
 
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 500
 	}	
@@ -948,7 +948,7 @@
 	}
 	
 	farmers = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size= 750
 	}	

@@ -1,77 +1,77 @@
 #Gruzhia Region (644000)    
 #under the rule of Russia in 1836  
-#Tblisi (232000/58000 POPS) #north_caucasian-catholic = georgian
+#Tblisi (232000/58000 POPS) #north_caucasian-catholic = north_caucasuian
 1090 = {
 
 	aristocrats = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 1775
 	}
 
 	bureaucrats = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 75
 	}
 
 	officers = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 200
 	}
 
 	clergymen = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 560
 	}
 
 	artisans = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 10880
 	}
 
 	soldiers = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size= 3000
 	}
 
 	farmers = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 50625
 	}
 
 	aristocrats = {
-		culture = chechen
+		culture = north_caucasian
 		religion = catholic
 		size = 35
 	}
 
 	clergymen = {
-		culture = chechen
+		culture = north_caucasian
 		religion = catholic
 		size = 40
 	}
 
 	artisans = {
-		culture = chechen
+		culture = north_caucasian
 		religion = catholic
 		size = 200
 	}
 
 	soldiers = {
-		culture = chechen
+		culture = north_caucasian
 		religion = catholic
 		size= 50
 
 	}
 
 	farmers = {
-		culture = chechen
+		culture = north_caucasian
 		religion = catholic
 		size = 4175
 	}
@@ -157,37 +157,37 @@
 	}
 
 	clergymen = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 150
 	}
 
 	farmers = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 3850
 	}
 
 	clergymen = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 160
 	}
 
 	artisans = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 200
 	}
 
 	farmers = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 2100
 	}
@@ -195,63 +195,63 @@
 #Pasanauri (76000/19000 POPS)
 1091 = {
 	aristocrats = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 260
 	}
 
 	clergymen = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 125
 	}
 
 	artisans = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 750
 	}
 
 	soldiers = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size= 200
 
 	}
 
 	farmers = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 14100
 	}
 
 	aristocrats = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 125
 	}
 
 	clergymen = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 90
 	}
 
 	artisans = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 375
 	}
 
 	soldiers = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size= 75
 
 	}
 
 	farmers = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 7750
 	}
@@ -290,32 +290,32 @@
 #Kutaisi (120000/30000 POPS)
 1092 = {
 	aristocrats = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 710
 	}
 
 	clergymen = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 390
 	}
 
 	artisans = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 3000
 	}
 
 	soldiers = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size= 1000
 
 	}
 
 	farmers = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 41300
 	}
@@ -339,19 +339,19 @@
 	}
 
 	clergymen = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 40
 	}
 
 	farmers = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 900
 	}
@@ -359,31 +359,31 @@
 #Akhaltcatholicle (40000/10000 POPS)
 1093 = {
 	aristocrats = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 120
 	}
 
 	artisans = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 400
 	}
 
 	soldiers = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size= 150
 	}
 
 	farmers = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 5825
 	}
@@ -452,50 +452,50 @@
 #Poti (104000/26000 POPS)
 1094 = {
 	aristocrats = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 800
 	}
 
 	clergymen = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 450
 	}
 
 	artisans = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 2200
 	}
 
 	soldiers = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size= 750
 
 	}
 
 	farmers = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 30675
 	}
 
 	clergymen = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 150
 	}
 
 	artisans = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 650
 	}
 
 	farmers = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 3150
 	}
@@ -507,100 +507,100 @@
 	}
 	
 	farmers = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 1000
 	}	
 	
 }
-#Sukhumi (72000/18000 POPS) #north_caucasian = georgian
+#Sukhumi (72000/18000 POPS) #north_caucasian = north_caucasuian
 1095 = {
 	aristocrats = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 150
 	}
 
 	clergymen = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 300
 	}
 
 	soldiers = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size= 1100
 	}
 
 	farmers = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 18600
 	}
 
 	aristocrats = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 150
 	}
 
 	clergymen = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 450
 	}
 	
 	farmers = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 28225
 	}
 
 	aristocrats = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 250
 	}
 
 	soldiers = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 50
 	}
 
 	farmers = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 20550
 	}
 
 	soldiers = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size= 3000
 		militancy = 9
@@ -643,50 +643,50 @@
 	}
 
 	clergymen = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 140
 	}
 
 	artisans = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 310
 	}
 
 	farmers = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 7025
 	}
 
 	aristocrats = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 400
 	}
 
 	clergymen = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 1825
 	}
 
 	artisans = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 1200
 	}
 
 	soldiers = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size= 500
 
 	}
 
 	farmers = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 31250
 	}

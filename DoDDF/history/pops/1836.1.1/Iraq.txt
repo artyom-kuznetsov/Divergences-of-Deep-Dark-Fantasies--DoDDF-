@@ -638,7 +638,7 @@
 	}
 	
 	slaves = {
-		culture = forest_bantu #african_minor
+		culture = african_minor #african_minor
 		religion = catholic
 		size = 1000
 	}

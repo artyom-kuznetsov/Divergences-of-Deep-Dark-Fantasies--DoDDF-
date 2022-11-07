@@ -3,32 +3,32 @@
 #Anqing (5472000/1368000 POPS)
 1470 = {
 	aristocrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10550
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 4350
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	bureaucrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 2750
 	}
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 3175
 	}
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 408625
 	}
@@ -38,12 +38,12 @@
 		size = 9075
 	}
 	officers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 2600
 	}
 	soldiers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 7400
 	}
@@ -51,27 +51,27 @@
 #Chizhou (5088000/1272000 POPS)
 1471 = {
 	aristocrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10400
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 4600
 	}
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 5850
 	}
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 457400
 	}
 	soldiers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 3750
 	}
@@ -79,7 +79,7 @@
 #Fengyang (2224000/556000 POPS)
 1472 = {
 	aristocrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10750
 	}
@@ -89,17 +89,17 @@
 		size = 200
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 2200
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
@@ -109,7 +109,7 @@
 		size = 600
 	}
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 5500
 	}
@@ -119,7 +119,7 @@
 		size = 125
 	}
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 495100
 	}
@@ -129,7 +129,7 @@
 		size = 10950
 	}
 	soldiers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 3450
 	}
@@ -142,221 +142,156 @@
 #Huizhou (4476000/1119000 POPS)
 1473 = {
 	aristocrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
-		size = 21000
-	}
-	aristocrats = {
-		culture = hui
-		religion = catholic
-		size = 825
+		size = 11000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 3050
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
-		size = 10000
-	}
-	artisans = {
-		culture = beifaren
-		religion = catholic
-		size = 10000
-	}
-	artisans = {
-		culture = hui
-		religion = catholic
-		size = 2525
+		size = 5000
 	}
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
-		size = 10775
-	}
-	clergymen = {
-		culture = hui
-		religion = catholic
-		size = 425
+		size = 5775
 	}
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
-		size = 980575
+		size = 490575
 	}
 	farmers = {
 		culture = hui
 		religion = catholic
-		size = 37800
+		size = 23800
 	}
 	soldiers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
-		size = 6800
-	}
-	soldiers = {
-		culture = hui
-		religion = catholic
-		size = 3425
+		size = 5800
 	}
 }
 #Luzhou (4484000/1121000 POPS)
 1474 = {
 	aristocrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
-		size = 22100
-	}
-	aristocrats = {
-		culture = hui
-		religion = catholic
-		size = 250
+		size = 11100
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 9400
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
-		size = 10000
-	}
-	artisans = {
-		culture = beifaren
-		religion = catholic
-		size = 10000
-	}
-	artisans = {
-		culture = beifaren
-		religion = catholic
-		size = 10000
-	}
-	artisans = {
-		culture = hui
-		religion = catholic
-		size = 650
+		size = 5000
 	}
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
-		size = 11125
-	}
-	clergymen = {
-		culture = hui
-		religion = catholic
-		size = 125
+		size = 6125
 	}
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
-		size = 1008275
-	}
-	farmers = {
-		culture = hui
-		religion = catholic
-		size = 11850
+		size = 508275
 	}
 	soldiers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
-		size = 11100
-	}
-	soldiers = {
-		culture = hui
-		religion = catholic
-		size = 125
+		size = 5100
 	}
 }
 #Ningguo (4312000/1078000 POPS)
 1475 = {
 	aristocrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
-		size = 21500
+		size = 11500
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 7000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
-		size = 10000
-	}
-	artisans = {
-		culture = beifaren
-		religion = catholic
-		size = 10000
+		size = 3000
 	}
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
-		size = 10800
+		size = 5800
 	}
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
-		size = 980900
+		size = 490900
 	}
 	soldiers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
-		size = 6800
+		size = 3800
 	}
 }
 #Sizhou (2688000/672000 POPS)
 1476 = {
 	aristocrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 13425
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 5600
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 6725
 	}
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 611525
 	}
 	soldiers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 3725
 	}
@@ -364,85 +299,75 @@
 #catholic (4180000/1045000 POPS)
 1477 = {
 	aristocrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
-		size = 20900
+		size = 10900
 	}
 	artisans = {
-		culture = beifaren
-		religion = catholic
-		size = 5250
-	}
-	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
-		religion = catholic
-		size = 10000
-	}
-	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	bureaucrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
-		size = 7000
+		size = 3000
 	}
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
-		size = 10500
+		size = 5500
 	}
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
-		size = 950900
+		size = 470900
 	}
 	soldiers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
-		size = 10450
+		size = 5450
 	}
 }
 #Yingzhou (2320000/580000 POPS)
 1478 = {
 	aristocrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 11250
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 7000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 5875
 	}
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 528075
 	}
 	soldiers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 9800
 	}
@@ -518,45 +443,45 @@
 	}
 	aristocrats = {
 
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 1025
 	}
 	
 	officers = {
 
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 135
 	}
 	clergymen = {
 
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 225
 	}
 	artisans = {
 
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 8600
 	}
 	soldiers = {
 
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 1325
 	}
 	
 	farmers = {
 
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 65100
 	}
 	slaves = {
 
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 29125
 	}
@@ -595,26 +520,26 @@
 	}
 	clergymen = {
 
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 150
 	}
 	artisans = {
 
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 700
 	}
 	soldiers = {
 
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 150
 	}
 	
 	farmers = {
 
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 122750
 	}
@@ -653,31 +578,31 @@
 	}
 	aristocrats = {
 
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 100
 	}
 	clergymen = {
 
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 50
 	}
 	artisans = {
 
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 250
 	}
 	soldiers = {
 
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 50
 	}
 	farmers = {
 
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 8550
 	}
@@ -692,7 +617,7 @@
 		size = 3700
 	}
 	aristocrats = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 675
 	}
@@ -707,7 +632,7 @@
 		size = 13500
 	}
 	artisans = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 1800
 	}
@@ -732,7 +657,7 @@
 		size = 3375
 	}
 	clergymen = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 350
 	}
@@ -742,7 +667,7 @@
 		size = 198100
 	}
 	farmers = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 32825
 	}
@@ -772,7 +697,7 @@
 		size = 3175
 	}
 	soldiers = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 350
 	}
@@ -1022,7 +947,7 @@
 		size = 1004
 	}
 	aristocrats = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 2831
 	}
@@ -1042,7 +967,7 @@
 		size = 2522
 	}
 	artisans = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 348
 	}
@@ -1077,12 +1002,12 @@
 		size = 45906
 	}
 	farmers = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 143398
 	}
 	farmers = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 119002
 	}
@@ -1181,7 +1106,7 @@
 #Gansu Jiayuguan(6048000/1512000 POPS)
 1488 = {
 	aristocrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 3800
 	}
@@ -1201,12 +1126,12 @@
 		size = 1900
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 490
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
@@ -1226,7 +1151,7 @@
 		size = 5400
 	}
 	bureaucrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 850
 	}
@@ -1236,7 +1161,7 @@
 		size = 350
 	}
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 1925
 	}
@@ -1256,7 +1181,7 @@
 		size = 960
 	}
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 172845
 	}
@@ -1276,7 +1201,7 @@
 		size = 86980
 	}
 	officers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 750
 	}
@@ -1286,7 +1211,7 @@
 		size = 250
 	}
 	soldiers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 1020
 	}
@@ -1309,7 +1234,7 @@
 #Gongchang (2256000/554000 POPS)
 1489 = {
 	aristocrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10500
 	}
@@ -1319,17 +1244,17 @@
 		size = 250
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 9500
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
@@ -1339,7 +1264,7 @@
 		size = 700
 	}
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 5500
 	}
@@ -1349,7 +1274,7 @@
 		size = 150
 	}
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 555500
 	}
@@ -1359,7 +1284,7 @@
 		size = 12750
 	}
 	soldiers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 3500
 	}
@@ -1372,7 +1297,7 @@
 #Lanzhou (3592000/898000 POPS)
 1490 = {
 	aristocrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 13500
 	}
@@ -1392,22 +1317,22 @@
 		size = 3350
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 7900
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
@@ -1427,7 +1352,7 @@
 		size = 8450
 	}
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 7000
 	}
@@ -1447,7 +1372,7 @@
 		size = 1700
 	}
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 635600
 	}
@@ -1467,7 +1392,7 @@
 		size = 153800
 	}
 	soldiers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 4000
 	}
@@ -1490,7 +1415,7 @@
 #Ningxia (956000/239000 POPS)
 1491 = {
 	aristocrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 3000
 	}
@@ -1505,7 +1430,7 @@
 		size = 1300
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 7600
 	}
@@ -1520,7 +1445,7 @@
 		size = 3350
 	}
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 1525
 	}
@@ -1535,7 +1460,7 @@
 		size = 675
 	}
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 138350
 	}
@@ -1550,7 +1475,7 @@
 		size = 60975
 	}
 	soldiers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 1525
 	}
@@ -1568,7 +1493,7 @@
 #Pingliang (3168000/792000 POPS)
 1492 = {
 	aristocrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 15300
 	}
@@ -1578,27 +1503,27 @@
 		size = 500
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 1300
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
@@ -1608,7 +1533,7 @@
 		size = 1300
 	}
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 7650
 	}
@@ -1618,7 +1543,7 @@
 		size = 250
 	}
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 697075
 	}
@@ -1628,7 +1553,7 @@
 		size = 23675
 	}
 	soldiers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 4675
 	}
@@ -1643,12 +1568,12 @@
 #Canton (4532000/1133000 POPS)
 1493 = {
 	aristocrats = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 524
 	}
 	aristocrats = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 201
 	}
@@ -1673,7 +1598,7 @@
 		size = 12104
 	}
 	artisans = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 513
 	}
@@ -1763,12 +1688,12 @@
 		size = 1123
 	}
 	clergymen = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 271
 	}
 	clergymen = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 104
 	}
@@ -1838,7 +1763,7 @@
 		size = 1456
 	}
 	soldiers = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 271
 	}
@@ -1871,7 +1796,7 @@
 #Chaozhou (3600000/900000 POPS)
 1494 = {
 	aristocrats = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 7895
 	}
@@ -1881,12 +1806,12 @@
 		size = 1861
 	}
 	artisans = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 8561
 	}
@@ -1901,17 +1826,17 @@
 		size = 4687
 	}
 	clergymen = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 2897
 	}
 	farmers = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 136809
 	}
 	farmers = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 28216
 	}
@@ -1926,7 +1851,7 @@
 		size = 46432
 	}
 	soldiers = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 3915
 	}
@@ -2045,7 +1970,7 @@
 	}
 }
 
-#Kwangchowan (Former Augmagsalik and also called Isortoq) (23625 POPS)
+#african_minorngchowan (Former Augmagsalik and also called Isortoq) (23625 POPS)
 2632 = {
 	clergymen = {
 		culture = yue
@@ -2131,12 +2056,12 @@
 #Waizao (2200000/550000 POPS)
 1497 = {
 	aristocrats = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 4650
 	}
 	aristocrats = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 1475
 	}
@@ -2151,12 +2076,12 @@
 		size = 921
 	}
 	artisans = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 9793
 	}
 	artisans = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 3107
 	}
@@ -2176,12 +2101,12 @@
 		size = 3758
 	}
 	clergymen = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 1575
 	}
 	clergymen = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 500
 	}
@@ -2196,12 +2121,12 @@
 		size = 705
 	}
 	farmers = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 224927
 	}
 	farmers = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 71373
 	}
@@ -2216,12 +2141,12 @@
 		size = 49555
 	}
 	soldiers = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 3366
 	}
 	soldiers = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 434
 	}
@@ -2372,12 +2297,12 @@
 #Shaozhou (2384000/596000 POPS)
 1500 = {
 	aristocrats = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 4176
 	}
 	aristocrats = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 1324
 	}
@@ -2392,17 +2317,17 @@
 		size = 1523
 	}
 	artisans = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 1237
 	}
 	artisans = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 3563
 	}
@@ -2422,12 +2347,12 @@
 		size = 4092
 	}
 	clergymen = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 2107
 	}
 	clergymen = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 668
 	}
@@ -2442,12 +2367,12 @@
 		size = 770
 	}
 	farmers = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 190711
 	}
 	farmers = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 60464
 	}
@@ -2462,12 +2387,12 @@
 		size = 70117
 	}
 	soldiers = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 1329
 	}
 	soldiers = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 421
 	}
@@ -2646,13 +2571,13 @@
 	}
 	
 	slaves = {
-		culture = ovimbundu
+		culture = african_minor
 		religion = catholic
 		size = 250
 	}
 	
 	slaves = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 200
 	}
@@ -3331,115 +3256,60 @@
 #Kaifeng (3872000/968000 POPS)
 1508 = {
 	aristocrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
-		size = 18250
-	}
-	aristocrats = {
-		culture = hui
-		religion = catholic
-		size = 1050
+		size = 9250
 	}
 	artisans = {
-		culture = beifaren
-		religion = catholic
-		size = 495
-	}
-	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 9650
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
-	}
-	artisans = {
-		culture = beifaren
-		religion = catholic
-		size = 10000
-	}
-	artisans = {
-		culture = beifaren
-		religion = catholic
-		size = 10000
-	}
-	artisans = {
-		culture = hui
-		religion = catholic
-		size = 2750
 	}
 	bureaucrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
-		size = 5000
-	}
-	bureaucrats = {
-		culture = manchu
-		religion = catholic
-		size = 250
+		size = 3000
 	}
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
-		size = 5
-	}
-	clergymen = {
-		culture = beifaren
-		religion = catholic
-		size = 9175
-	}
-	clergymen = {
-		culture = hui
-		religion = catholic
-		size = 550
+		size = 5175
 	}
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
-		size = 817525
+		size = 407525
 	}
 	farmers = {
 		culture = hui
 		religion = catholic
-		size = 49600
+		size = 24600
 	}
 	officers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
-		size = 6850
-	}
-	officers = {
-		culture = manchu
-		religion = catholic
-		size = 150
+		size = 3050
 	}
 	soldiers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
-		size = 5150
-	}
-	soldiers = {
-		culture = hui
-		religion = catholic
-		size = 550
-	}
-	soldiers = {
-		culture = manchu
-		religion = catholic
-		size = 1100
+		size = 4150
 	}
 }
 #Guide (3248000/812000 POPS)
 1509 = {
 	aristocrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 15400
 	}
@@ -3449,27 +3319,27 @@
 		size = 750
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 1750
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
@@ -3479,7 +3349,7 @@
 		size = 1900
 	}
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 7750
 	}
@@ -3489,7 +3359,7 @@
 		size = 400
 	}
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 704350
 	}
@@ -3499,7 +3369,7 @@
 		size = 34575
 	}
 	soldiers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 4750
 	}
@@ -3512,7 +3382,7 @@
 #Henan (3304000/826000 POPS)
 1510 = {
 	aristocrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 15500
 	}
@@ -3522,27 +3392,27 @@
 		size = 750
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 2325
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
@@ -3552,7 +3422,7 @@
 		size = 1950
 	}
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 7875
 	}
@@ -3562,7 +3432,7 @@
 		size = 400
 	}
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 716425
 	}
@@ -3572,7 +3442,7 @@
 		size = 35500
 	}
 	soldiers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 6875
 	}
@@ -3585,85 +3455,60 @@
 #Huaiqing (4524000/1131000 POPS)
 1511 = {
 	aristocrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
-		size = 21500
-	}
-	aristocrats = {
-		culture = hui
-		religion = catholic
-		size = 1050
+		size = 10500
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 8825
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
-	}
-	artisans = {
-		culture = beifaren
-		religion = catholic
-		size = 10000
-	}
-	artisans = {
-		culture = beifaren
-		religion = catholic
-		size = 10000
-	}
-	artisans = {
-		culture = hui
-		religion = catholic
-		size = 2700
 	}
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
-		size = 10775
-	}
-	clergymen = {
-		culture = hui
-		religion = catholic
-		size = 550
+		size = 5775
 	}
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
-		size = 980125
+		size = 490125
 	}
 	farmers = {
 		culture = hui
 		religion = catholic
-		size = 49050
+		size = 24050
 	}
 	soldiers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
-		size = 9775
+		size = 5775
 	}
 	soldiers = {
 		culture = hui
 		religion = catholic
-		size = 3550
+		size = 1550
 	}
 }
 #Chenzhou (3268000/817000 POPS)
 1512 = {
 	aristocrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 15250
 	}
@@ -3673,27 +3518,27 @@
 		size = 725
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 2000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
@@ -3703,7 +3548,7 @@
 		size = 1850
 	}
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 7875
 	}
@@ -3713,7 +3558,7 @@
 		size = 375
 	}
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 710075
 	}
@@ -3723,7 +3568,7 @@
 		size = 33675
 	}
 	soldiers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 9800
 	}
@@ -3736,47 +3581,47 @@
 #Nanyang (3100000/775000 POPS)
 1513 = {
 	aristocrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 15000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 1750
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 7750
 	}
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 705750
 	}
 	soldiers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 4750
 	}
@@ -3784,42 +3629,42 @@
 #Runing (2936000/734000 POPS)
 1514 = {
 	aristocrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 14600
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 9700
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 7375
 	}
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 667975
 	}
 	soldiers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 12350
 	}
@@ -3827,57 +3672,57 @@
 #Weihui (4120000/1030000 POPS)
 1515 = {
 	aristocrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 20000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 6500
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	bureaucrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 6000
 	}
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10300
 	}
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 937900
 	}
 	soldiers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 5300
 	}
@@ -3953,31 +3798,31 @@
 	}
 
 	aristocrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 400
 	}
 
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 200
 	}
 
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 1050
 	}
 
 	soldiers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 225
 	}
 
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 21225
 	}
@@ -4035,12 +3880,7 @@
 	aristocrats = {
 		culture = nanfaren
 		religion = catholic
-		size = 20500
-	}
-	artisans = {
-		culture = nanfaren
-		religion = catholic
-		size = 6575
+		size = 10500
 	}
 	artisans = {
 		culture = nanfaren
@@ -4055,32 +3895,22 @@
 	artisans = {
 		culture = nanfaren
 		religion = catholic
-		size = 10000
-	}
-	artisans = {
-		culture = nanfaren
-		religion = catholic
-		size = 10000
-	}
-	artisans = {
-		culture = nanfaren
-		religion = catholic
-		size = 10000
+		size = 5000
 	}
 	clergymen = {
 		culture = nanfaren
 		religion = catholic
-		size = 10325
+		size = 5325
 	}
 	farmers = {
 		culture = nanfaren
 		religion = catholic
-		size = 939275
+		size = 469275
 	}
 	soldiers = {
 		culture = nanfaren
 		religion = catholic
-		size = 5325
+		size = 2325
 	}
 }
 #Huangzhou (3312000/828000 POPS)
@@ -4140,31 +3970,31 @@
 	}
 
 	aristocrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 325
 	}
 
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 175
 	}
 
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 850
 	}
 
 	soldiers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 175
 	}
 
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 15475
 	}
@@ -4262,31 +4092,31 @@
 	}
 
 	aristocrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 825
 	}
 
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 425
 	}
 
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 2100
 	}
 
 	soldiers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 425
 	}
 
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 38225
 	}
@@ -4451,31 +4281,31 @@
 	}
 
 	aristocrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 650
 	}
 
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 350
 	}
 
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 1750
 	}
 
 	soldiers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 350
 	}
 
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 31900
 	}
@@ -4588,27 +4418,15 @@
 	aristocrats = {
 		culture = nanfaren
 		religion = catholic
-		size = 15500
+		size = 8500
 	}
 
 	clergymen = {
 		culture = nanfaren
 		religion = catholic
-		size = 8000
+		size = 4000
 	}
 
-	artisans = {
-		culture = nanfaren
-		religion = catholic
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = catholic
-		size = 11000
-	}
-	
 	artisans = {
 		culture = nanfaren
 		religion = catholic
@@ -4627,88 +4445,46 @@
 		size = 3000
 	}
 
-	soldiers = {
-		culture = nanfaren
-		religion = catholic
-		size = 1025
-	}
-
 	farmers = {
 		culture = nanfaren
 		religion = catholic
-		size = 270475
+		size = 130475
 	}
 	
 	slaves = {
 		culture = nanfaren
 		religion = catholic
-		size = 400000
+		size = 200000
 	}
 	
 	serfs = {
 		culture = nanfaren
 		religion = catholic
-		size = 60000
+		size = 30000
 	}
-
-	aristocrats = {
-		culture = beifaren
-		religion = catholic
-		size = 2800
-	}
-
+	
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 1450
 	}
 
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
-		size = 7250
+		size = 3250
 	}
 
 	soldiers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 1450
 	}
 
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
-		size = 131050
-	}
-
-	aristocrats = {
-		culture = hui
-		religion = catholic
-		size = 20
-	}
-
-	clergymen = {
-		culture = hui
-		religion = catholic
-		size = 20
-	}
-
-	artisans = {
-		culture = hui
-		religion = catholic
-		size = 50
-	}
-
-	soldiers = {
-		culture = hui
-		religion = catholic
-		size = 10
-	}
-
-	farmers = {
-		culture = hui
-		religion = catholic
-		size = 900
+		size = 61050
 	}
 }
 #Hunan Region (20584000)
@@ -5244,7 +5020,7 @@
 		size = 2000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 200
 	}
@@ -5264,7 +5040,7 @@
 		size = 225
 	}
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 75
 	}
@@ -5274,7 +5050,7 @@
 		size = 1050
 	}
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 3625
 	}
@@ -5317,7 +5093,7 @@
 		size = 25
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 100
 	}
@@ -5332,7 +5108,7 @@
 		size = 75
 	}
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 25
 	}
@@ -5403,7 +5179,7 @@
 		size = 2225
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 100
 	}
@@ -5413,7 +5189,7 @@
 		size = 5600
 	}
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 25
 	}
@@ -5423,7 +5199,7 @@
 		size = 1125
 	}
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 1875
 	}
@@ -5521,67 +5297,67 @@
 	}
 	
 	aristocrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 6750
 	}
 
 	bureaucrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 2375
 	}
 
 	officers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 3050
 	}
 
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 3325
 	}
 
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 11000
 	}
 	
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 11000
 	}
 	
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 9000
 	}
 
 	soldiers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 3000
 	}
 
 	soldiers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 350
 	}
 
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 284325
 	}
 	
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 2000
 	}
@@ -5637,55 +5413,55 @@
 	}
 
 	aristocrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 14600
 	}
 
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 7325
 	}
 
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 11000
 	}
 	
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 11000
 	}
 	
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 11000
 	}
 	
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 6600
 	}
 
 	soldiers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 3000
 	}
 
 	soldiers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 1325
 	}
 
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 666150
 	}
@@ -5736,31 +5512,31 @@
 	}
 
 	aristocrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 3800
 	}
 
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 1950
 	}
 
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 9750
 	}
 
 	soldiers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 1950
 	}
 
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 55550
 	}
@@ -5843,31 +5619,31 @@
 	}
 
 	aristocrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 3550
 	}
 
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 1825
 	}
 
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 5000
 	}
 
 	soldiers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 3800
 	}
 
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 63825
 	}
@@ -5919,31 +5695,31 @@
 	}
 
 	aristocrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 5450
 	}
 
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 2750
 	}
 
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 3700
 	}
 
 	soldiers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 2750
 	}
 
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 89350
 	}
@@ -6000,19 +5776,19 @@
 
 	
 	aristocrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 1750
 	}
 
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 925
 	}
 
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 21925
 	}
@@ -6050,43 +5826,43 @@
 	}
 
 	aristocrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 8350
 	}
 
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 4225
 	}
 
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 11000
 	}
 	
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 11000
 	}
 	
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 1100
 	}
 
 	soldiers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 2200
 	}
 
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 382225
 	}
@@ -6124,55 +5900,55 @@
 	}
 
 	aristocrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 14000
 	}
 
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 7500
 	}
 
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 11000
 	}
 	
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 11000
 	}
 	
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 11000
 	}
 	
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 6250
 	}
 
 	soldiers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 3000
 	}
 
 	soldiers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 1250
 	}
 
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 660000
 	}
@@ -6246,43 +6022,43 @@
 	}
 	
 	aristocrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 4050
 	}
 
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 2075
 	}
 
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 11000
 	}
 	
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 250
 	}
 
 	soldiers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 3050
 	}
 
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 185575
 	}
 	
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 1000
 	}
@@ -6302,12 +6078,12 @@
 		size = 4259
 	}
 	aristocrats = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 489
 	}
 	aristocrats = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 211
 	}
@@ -6347,12 +6123,12 @@
 		size = 10000
 	}
 	artisans = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 1221
 	}
 	artisans = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 529
 	}
@@ -6397,12 +6173,12 @@
 		size = 1978
 	}
 	clergymen = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 262
 	}
 	clergymen = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 113
 	}
@@ -6427,12 +6203,12 @@
 		size = 178600
 	}
 	farmers = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 22212
 	}
 	farmers = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 9613
 	}
@@ -6477,12 +6253,12 @@
 		size = 1994
 	}
 	soldiers = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 244
 	}
 	soldiers = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 106
 	}
@@ -6508,31 +6284,31 @@
 	}
 
 	bureaucrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 1625
 	}
 
 	officers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 1425
 	}
 
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 1550
 	}
 
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 7800
 	}
 
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 140075
 	}
@@ -6651,25 +6427,25 @@
 	}
 
 	aristocrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 3025
 	}
 
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 1525
 	}
 
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 7600
 	}
 
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 138325
 	}
@@ -6687,12 +6463,12 @@
 		size = 1768
 	}
 	aristocrats = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 8628
 	}
 	aristocrats = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 5272
 	}
@@ -6707,22 +6483,22 @@
 		size = 7438
 	}
 	artisans = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 5367
 	}
 	artisans = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 4383
 	}
@@ -6732,7 +6508,7 @@
 		size = 1252
 	}
 	clergymen = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 8352
 	}
@@ -6742,12 +6518,12 @@
 		size = 199384
 	}
 	farmers = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 456552
 	}
 	farmers = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 139848
 	}
@@ -6770,12 +6546,12 @@
 		size = 1384
 	}
 	aristocrats = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 1898
 	}
 	aristocrats = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 602
 	}
@@ -6795,12 +6571,12 @@
 		size = 3707
 	}
 	artisans = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 4783
 	}
 	artisans = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 1517
 	}
@@ -6815,12 +6591,12 @@
 		size = 698
 	}
 	clergymen = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 949
 	}
 	clergymen = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 301
 	}
@@ -6835,12 +6611,12 @@
 		size = 63081
 	}
 	farmers = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 87070
 	}
 	farmers = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 27605
 	}
@@ -6855,12 +6631,12 @@
 		size = 698
 	}
 	soldiers = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 968
 	}
 	soldiers = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 307
 	}
@@ -6878,12 +6654,12 @@
 		size = 4556
 	}
 	aristocrats = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 475
 	}
 	aristocrats = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 150
 	}
@@ -6918,12 +6694,12 @@
 		size = 10000
 	}
 	artisans = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 1215
 	}
 	artisans = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 385
 	}
@@ -6938,12 +6714,12 @@
 		size = 2281
 	}
 	clergymen = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 247
 	}
 	clergymen = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 78
 	}
@@ -6958,12 +6734,12 @@
 		size = 207903
 	}
 	farmers = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 22607
 	}
 	farmers = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 7168
 	}
@@ -6978,42 +6754,42 @@
 		size = 1570
 	}
 	soldiers = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 247
 	}
 	soldiers = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 78
 	}
 
 	aristocrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 3825
 	}
 
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 1925
 	}
 
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 9650
 	}
 
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 75650
 	}
 	
 	slaves = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 100000
 	}
@@ -7021,17 +6797,17 @@
 #Ganzhou (4940000/1235000 POPS)
 1550 = {
 	aristocrats = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 6876
 	}
 	artisans = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 5820
 	}
 	artisans = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 10000
 	}
@@ -7046,12 +6822,12 @@
 		size = 831
 	}
 	clergymen = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 8438
 	}
 	farmers = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 368535
 	}
@@ -7061,7 +6837,7 @@
 		size = 18564
 	}
 	soldiers = {
-		culture = hakka
+		culture = nanfaren
 		religion = catholic
 		size = 1910
 	}
@@ -7140,25 +6916,25 @@
 	}
 
 	aristocrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 3000
 	}
 
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 1500
 	}
 
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 7550
 	}
 
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 137425
 	}
@@ -7701,7 +7477,7 @@
 #Xian (3168000/792000 POPS)
 1559 = {
 	aristocrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 15000
 	}
@@ -7711,22 +7487,22 @@
 		size = 800
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 3000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
@@ -7736,7 +7512,7 @@
 		size = 2100
 	}
 	bureaucrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 1850
 	}
@@ -7746,7 +7522,7 @@
 		size = 75
 	}
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 7500
 	}
@@ -7756,7 +7532,7 @@
 		size = 400
 	}
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 685300
 	}
@@ -7766,7 +7542,7 @@
 		size = 38225
 	}
 	officers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 2200
 	}
@@ -7776,7 +7552,7 @@
 		size = 75
 	}
 	soldiers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 6500
 	}
@@ -7794,7 +7570,7 @@
 #Yenan (1088000/272000 POPS)
 1561 = {
 	aristocrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 5050
 	}
@@ -7804,12 +7580,12 @@
 		size = 325
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 3700
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
@@ -7819,7 +7595,7 @@
 		size = 900
 	}
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 2550
 	}
@@ -7829,7 +7605,7 @@
 		size = 175
 	}
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 231150
 	}
@@ -7839,7 +7615,7 @@
 		size = 16400
 	}
 	soldiers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 3550
 	}
@@ -7852,43 +7628,43 @@
 #Hanzhong (3492000/873000 POPS)
 1562 = {
 	aristocrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 7750
 	}
 
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 3900
 	}
 
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 11000
 	}
 	
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 9400
 	}
 
 	soldiers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 3000
 	}
 
 	soldiers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 3900
 	}
 
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 353050
 	}
@@ -7974,7 +7750,7 @@
 #Shangzhou (1352000/338000 POPS)
 2062 = {
 	aristocrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 6325
 	}
@@ -7984,12 +7760,12 @@
 		size = 375
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 6900
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
@@ -7999,7 +7775,7 @@
 		size = 1100
 	}
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 3175
 	}
@@ -8009,7 +7785,7 @@
 		size = 200
 	}
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 289400
 	}
@@ -8019,7 +7795,7 @@
 		size = 18225
 	}
 	soldiers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 3200
 	}
@@ -8034,42 +7810,42 @@
 #Jinan (5916000/1479000 POPS)
 1563 = {
 	aristocrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 8100
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	bureaucrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 2700
 	}
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 7100
 	}
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 565600
 	}
@@ -8079,12 +7855,12 @@
 		size = 64625
 	}
 	officers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 2900
 	}
 	soldiers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 7100
 	}
@@ -8092,52 +7868,52 @@
 #Caozhou (3704000/926000 POPS)
 1564 = {
 	aristocrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 18500
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 300
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 9250
 	}
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 842948
 	}
 	soldiers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 6275
 	}
@@ -8145,52 +7921,52 @@
 #Laizhou (3636000/909000 POPS)
 1565 = {
 	aristocrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 18150
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 9450
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	bureaucrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 4800
 	}
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 9100
 	}
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 827200
 	}
 	soldiers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 9100
 	}
@@ -8198,27 +7974,27 @@
 #Qingdao (24000/6000 POPS)
 1566 = {
 	aristocrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 100
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 300
 	}
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 50
 	}
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 5475
 	}
 	soldiers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 75
 	}
@@ -8226,52 +8002,52 @@
 #Qingzhou (3936000/984000 POPS)
 1567 = {
 	aristocrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 19650
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 3200
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 9850
 	}
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 895450
 	}
 	soldiers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 6850
 	}
@@ -8279,52 +8055,52 @@
 #Taian (3688000/922000 POPS)
 1568 = {
 	aristocrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 18425
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 100
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 9225
 	}
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 839025
 	}
 	soldiers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 5225
 	}
@@ -8332,27 +8108,27 @@
 #Weihaiwei (28000/7000 POPS)
 1569 = {
 	aristocrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 125
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 350
 	}
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 75
 	}
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 6375
 	}
 	soldiers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 75
 	}
@@ -8360,52 +8136,52 @@
 #Wuling (3696000/924000 POPS)
 1570 = {
 	aristocrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 18450
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 200
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 9250
 	}
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 840850
 	}
 	soldiers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 5250
 	}
@@ -8413,52 +8189,52 @@
 #Yizhou (3944000/986000 POPS)
 1571 = {
 	aristocrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 19700
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 3300
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 9850
 	}
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 897275
 	}
 	soldiers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 5875
 	}
@@ -8468,7 +8244,7 @@
 #Taiyuan (4436000/1109000 POPS)
 1572 = {
 	aristocrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 21800
 	}
@@ -8478,32 +8254,32 @@
 		size = 250
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 9750
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
@@ -8513,7 +8289,7 @@
 		size = 700
 	}
 	bureaucrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 3250
 	}
@@ -8523,7 +8299,7 @@
 		size = 100
 	}
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 11000
 	}
@@ -8533,7 +8309,7 @@
 		size = 150
 	}
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 988950
 	}
@@ -8543,7 +8319,7 @@
 		size = 12750
 	}
 	officers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 3700
 	}
@@ -8553,7 +8329,7 @@
 		size = 125
 	}
 	soldiers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 5950
 	}
@@ -8571,7 +8347,7 @@
 #Fenzhou (3412000/853000 POPS)
 1573 = {
 	aristocrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 16850
 	}
@@ -8581,27 +8357,27 @@
 		size = 150
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 6200
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
@@ -8611,7 +8387,7 @@
 		size = 450
 	}
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 8450
 	}
@@ -8621,7 +8397,7 @@
 		size = 100
 	}
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 768050
 	}
@@ -8631,7 +8407,7 @@
 		size = 8200
 	}
 	soldiers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 8450
 	}
@@ -8644,7 +8420,7 @@
 #Luan (3748000/937000 POPS)
 1574 = {
 	aristocrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 18550
 	}
@@ -8654,32 +8430,32 @@
 		size = 150
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 450
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
@@ -8689,7 +8465,7 @@
 		size = 400
 	}
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 9300
 	}
@@ -8699,7 +8475,7 @@
 		size = 75
 	}
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 845400
 	}
@@ -8709,7 +8485,7 @@
 		size = 7300
 	}
 	soldiers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 5300
 	}
@@ -8722,7 +8498,7 @@
 #Pingyang (3392000/848000 POPS)
 1575 = {
 	aristocrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 16800
 	}
@@ -8732,27 +8508,27 @@
 		size = 125
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 6050
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
@@ -8762,7 +8538,7 @@
 		size = 350
 	}
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 8400
 	}
@@ -8772,7 +8548,7 @@
 		size = 75
 	}
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 765325
 	}
@@ -8782,7 +8558,7 @@
 		size = 6375
 	}
 	soldiers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 4425
 	}
@@ -8795,7 +8571,7 @@
 #Datong (232000/58000 POPS)
 1576 = {
 	aristocrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 1100
 	}
@@ -8805,7 +8581,7 @@
 		size = 25
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 2800
 	}
@@ -8815,7 +8591,7 @@
 		size = 100
 	}
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 550
 	}
@@ -8825,7 +8601,7 @@
 		size = 50
 	}
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 50975
 	}
@@ -8835,7 +8611,7 @@
 		size = 1800
 	}
 	soldiers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 3575
 	}
@@ -8852,13 +8628,13 @@
 	aristocrats = {
 		culture = nanfaren
 		religion = catholic
-		size = 19150
+		size = 9150
 	}
 
 	clergymen = {
 		culture = nanfaren
 		religion = catholic
-		size = 9600
+		size = 4600
 	}
 
 	artisans = {
@@ -8876,37 +8652,19 @@
 	artisans = {
 		culture = nanfaren
 		religion = catholic
-		size = 11000
+		size = 5000
 	}
 	
-	artisans = {
-		culture = nanfaren
-		religion = catholic
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = catholic
-		size = 7950
-	}
-
 	soldiers = {
 		culture = nanfaren
 		religion = catholic
 		size = 3000
 	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = catholic
-		size = 2600
-	}
-
+	
 	farmers = {
 		culture = nanfaren
 		religion = catholic
-		size = 872700
+		size = 432700
 	}
 }
 #Chengdu (2312000/578000 POPS)
@@ -9080,61 +8838,43 @@
 	aristocrats = {
 		culture = nanfaren
 		religion = catholic
-		size = 9900
+		size = 4400
 	}
 
 	clergymen = {
-		culture = nanfaren
-		religion = catholic
-		size = 5000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = catholic
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = catholic
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = catholic
-		size = 5000
-	}
-
-	soldiers = {
 		culture = nanfaren
 		religion = catholic
 		size = 2500
 	}
 
+	artisans = {
+		culture = nanfaren
+		religion = catholic
+		size = 11000
+	}
+	
+	artisans = {
+		culture = nanfaren
+		religion = catholic
+		size = 2000
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = catholic
+		size = 1500
+	}
+
 	farmers = {
 		culture = nanfaren
 		religion = catholic
-		size = 254100
+		size = 124100
 	}
 	
 	slaves = {
 		culture = nanfaren
 		religion = catholic
-		size = 200000
-	}
-
-	aristocrats = {
-		culture = yi
-		religion = catholic
-		size = 7300
-	}
-
-	clergymen = {
-		culture = yi
-		religion = catholic
-		size = 3750
+		size = 100000
 	}
 
 	artisans = {
@@ -9149,28 +8889,22 @@
 		size = 8500
 	}
 
-	soldiers = {
-		culture = yi
-		religion = catholic
-		size = 2700
-	}
-
 	farmers = {
 		culture = yi
 		religion = catholic
-		size = 136750
+		size = 66750
 	}
 	
 	slaves = {
 		culture = yi
 		religion = catholic
-		size = 150000
+		size = 80000
 	}
 	
 	serfs = {
 		culture = yi
 		religion = catholic
-		size = 60000
+		size = 30000
 	}
 
 	aristocrats = {
@@ -9185,34 +8919,10 @@
 		size = 1100
 	}
 
-	artisans = {
-		culture = asian_minor
-		religion = catholic
-		size = 5550
-	}
-
-	soldiers = {
-		culture = asian_minor
-		religion = catholic
-		size = 1125
-	}
-
 	farmers = {
 		culture = asian_minor
 		religion = catholic
-		size = 101025
-	}
-
-	aristocrats = {
-		culture = tibetan
-		religion = catholic
-		size = 800
-	}
-
-	clergymen = {
-		culture = tibetan
-		religion = catholic
-		size = 400
+		size = 51025
 	}
 
 	artisans = {
@@ -9221,16 +8931,10 @@
 		size = 2000
 	}
 
-	soldiers = {
-		culture = tibetan
-		religion = catholic
-		size = 400
-	}
-
 	farmers = {
 		culture = tibetan
 		religion = catholic
-		size = 36400
+		size = 18400
 	}
 }
 #Kuizhou (4292000/1073000 POPS)
@@ -9238,13 +8942,13 @@
 	aristocrats = {
 		culture = nanfaren
 		religion = catholic
-		size = 21400
+		size = 10400
 	}
 
 	clergymen = {
 		culture = nanfaren
 		religion = catholic
-		size = 10750
+		size = 5750
 	}
 
 	artisans = {
@@ -9265,40 +8969,16 @@
 		size = 11000
 	}
 	
-	artisans = {
-		culture = nanfaren
-		religion = catholic
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = catholic
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = catholic
-		size = 3650
-	}
-
 	soldiers = {
 		culture = nanfaren
 		religion = catholic
 		size = 3000
 	}
 
-	soldiers = {
-		culture = nanfaren
-		religion = catholic
-		size = 2750
-	}
-
 	farmers = {
 		culture = nanfaren
 		religion = catholic
-		size = 976450
+		size = 536450
 	}
 }
 #Longan (2796000/699000 POPS)
@@ -9446,13 +9126,13 @@
 	aristocrats = {
 		culture = nanfaren
 		religion = catholic
-		size = 22900
+		size = 11900
 	}
 
 	clergymen = {
 		culture = nanfaren
 		religion = catholic
-		size = 11500
+		size = 5500
 	}
 
 	artisans = {
@@ -9471,54 +9151,24 @@
 		culture = nanfaren
 		religion = catholic
 		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = catholic
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = catholic
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = catholic
-		size = 7250
 	}
 
 	soldiers = {
 		culture = nanfaren
 		religion = catholic
 		size = 3000
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = catholic
-		size = 3000
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = catholic
-		size = 450
 	}
 
 	farmers = {
 		culture = nanfaren
 		religion = catholic
-		size = 904190
+		size = 454190
 	}
 	
 	serfs = {
 		culture = nanfaren
 		religion = catholic
-		size = 100000
+		size = 50000
 	}
 }
 #Tongchuan (3024000/756000 POPS)
@@ -10262,79 +9912,79 @@
 #Hangzhou (1688000/422000 POPS)
 1604 = {
 	aristocrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 5450
 	}
 
 	bureaucrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 1550
 	}
 
 	officers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 2475
 	}
 
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 2750
 	}
 
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 11000
 	}
 	
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 11000
 	}
 	
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 11000
 	}
 	
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 11000
 	}
 	
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 8000
 	}
 
 	soldiers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 3750
 	}
 
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 199450
 	}
 	
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 1000
 	}
 	
 	serfs = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
@@ -10462,31 +10112,31 @@
 #Huzhou (376000/94000 POPS)
 1605 = {
 	aristocrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 725
 	}
 
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 375
 	}
 
 	artisans = {
-		culture = beifaren	
+		culture = yue	
 		religion = catholic
 		size = 1850
 	}
 
 	soldiers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 3375
 	}
 
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 33675
 	}
@@ -10530,37 +10180,37 @@
 #Jiaxing (344000/86000 POPS)
 1606 = {
 	aristocrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 950
 	}
 
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 475
 	}
 
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 2400
 	}
 
 	soldiers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 500
 	}
 
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 43175
 	}
 	
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 500
 	}
@@ -10726,37 +10376,37 @@
 #Ningbo (1156000/289000 POPS)
 1608 = {
 	aristocrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 3325
 	}
 
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 1675
 	}
 
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 8350
 	}
 
 	soldiers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 1675
 	}
 
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 151475
 	}
 	
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 500
 	}
@@ -10801,31 +10451,31 @@
 #Shaoxing (872000/218000 POPS)
 1609 = {
 	aristocrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 1725
 	}
 
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 875
 	}
 
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 4400
 	}
 
 	soldiers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 3900
 	}
 
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 80100
 	}
@@ -10991,232 +10641,127 @@
 #Beijing - Baoding (4956000/1239000 POPS)
 1612 = {
 	aristocrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
-		size = 24050
-	}
-	aristocrats = {
-		culture = hui
-		religion = catholic
-		size = 850
+		size = 12050
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 4000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
-		religion = catholic
-		size = 10000
-	}
-	artisans = {
-		culture = beifaren
-		religion = catholic
-		size = 10000
-	}
-	artisans = {
-		culture = beifaren
-		religion = catholic
-		size = 10000
-	}
-	artisans = {
-		culture = beifaren
-		religion = catholic
-		size = 10000
-	}
-	artisans = {
-		culture = beifaren
-		religion = catholic
-		size = 10000
-	}
-	artisans = {
-		culture = beifaren
-		religion = catholic
-		size = 10000
-	}
-	artisans = {
-		culture = hui
-		religion = catholic
-		size = 2100
-	}
-	artisans = {
-		culture = hui
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	bureaucrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
-		size = 9100
+		size = 4100
 	}
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
-		size = 12050
-	}
-	clergymen = {
-		culture = hui
-		religion = catholic
-		size = 450
+		size = 6050
 	}
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
-		size = 998650
+		size = 448650
 	}
 	farmers = {
 		culture = hui
 		religion = catholic
-		size = 31250
+		size = 15250
 	}
 	officers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
-		size = 6000
+		size = 3000
 	}
 	soldiers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 6550
-	}
-	soldiers = {
-		culture = hui
-		religion = catholic
-		size = 3450
 	}
 }
 #Chengde (6420000/1605000 POPS)
 1613 = {
 	aristocrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
-		size = 21750
-	}
-	aristocrats = {
-		culture = hui
-		religion = catholic
-		size = 250
+		size = 11750
 	}
 	aristocrats = {
 		culture = manchu
 		religion = catholic
-		size = 11000
+		size = 5000
 	}
 	artisans = {
-		culture = beifaren
-		religion = catholic
-		size = 4550
-	}
-	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
-	}
-	artisans = {
-		culture = beifaren
-		religion = catholic
-		size = 10000
-	}
-	artisans = {
-		culture = hui
-		religion = catholic
-		size = 700
-	}
-	artisans = {
-		culture = manchu
-		religion = catholic
-		size = 2000
-	}
-	artisans = {
-		culture = manchu
-		religion = catholic
-		size = 10000
-	}
-	artisans = {
-		culture = manchu
-		religion = catholic
-		size = 10000
-	}
-	bureaucrats = {
-		culture = manchu
-		religion = catholic
-		size = 550
 	}
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
-		size = 13000
-	}
-	clergymen = {
-		culture = hui
-		religion = catholic
-		size = 150
-	}
-	clergymen = {
-		culture = manchu
-		religion = catholic
-		size = 3000
+		size = 6000
 	}
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
-		size = 1400800
-	}
-	farmers = {
-		culture = hui
-		religion = catholic
-		size = 12750
+		size = 700800
 	}
 	farmers = {
 		culture = manchu
 		religion = catholic
-		size = 47000
+		size = 23000
 	}
 	soldiers = {
 		culture = hui
@@ -11226,73 +10771,73 @@
 	soldiers = {
 		culture = manchu
 		religion = catholic
-		size = 15900
+		size = 7900
 	}
 }
 #Daming (3364000/841000 POPS)
 1614 = {
 	aristocrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 16800
 	}
 
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 8400
 	}
 
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 11000
 	}
 	
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 11000
 	}
 	
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 11000
 	}
 	
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 11000
 	}
 	
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 2050
 	}
 
 	soldiers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 3000
 	}
 
 	soldiers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 3425
 	}
 
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 365325
 	}
 	
 	slaves = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 400000
 	}
@@ -11300,155 +10845,96 @@
 #Jizhou (4496000/1124000 POPS)
 1615 = {
 	aristocrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
-		size = 22450
+		size = 11450
 	}
 
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
-		size = 11250
+		size = 5250
 	}
 
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 11000
 	}
 	
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 11000
 	}
 	
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 11000
 	}
 	
-	artisans = {
-		culture = beifaren
-		religion = catholic
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = catholic
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = catholic
-		size = 6200
-	}
-
 	soldiers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 3000
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = catholic
-		size = 3000
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = catholic
-		size = 250
 	}
 
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
-		size = 1022850
+		size = 512850
 	}
 }
 #Shuntian (4428000/1107000 POPS)
 1616 = {
 	aristocrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
-		size = 19075
+		size = 9075
 	}
 
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
-		size = 11075
+		size = 5075
 	}
 
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 11000
 	}
 	
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 11000
 	}
 	
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 11000
 	}
 	
-	artisans = {
-		culture = beifaren
-		religion = catholic
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = catholic
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = catholic
-		size = 5350
-	}
 
 	soldiers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 3000
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = catholic
-		size = 3000
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = catholic
-		size = 75
 	}
 
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
-		size = 607425
+		size = 307425
 	}
 	
 	slaves = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
-		size = 400000
+		size = 200000
 	}
 	
 	aristocrats = {
@@ -11460,7 +10946,7 @@
 	bureaucrats = {
 		culture = manchu
 		religion = catholic
-		size = 10250
+		size = 5250
 	}
 
 	officers = {
@@ -11493,172 +10979,95 @@
 		size = 3000
 	}
 
-	soldiers = {
-		culture = manchu
-		religion = catholic
-		size = 3000
-	}
-
-	soldiers = {
-		culture = manchu
-		religion = catholic
-		size = 3000
-	}
-
-	farmers = {
-		culture = manchu
-		religion = catholic
-		size = 10750
-	}
 }
 #Tianjin (5964000/1491000 POPS)
 1617 = {
 	aristocrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
-		size = 29025
-	}
-	aristocrats = {
-		culture = hui
-		religion = catholic
-		size = 750
+		size = 14025
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 9600
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
-	}
-	artisans = {
-		culture = beifaren
-		religion = catholic
-		size = 10000
-	}
-	artisans = {
-		culture = beifaren
-		religion = catholic
-		size = 10000
-	}
-	artisans = {
-		culture = beifaren
-		religion = catholic
-		size = 10000
-	}
-	artisans = {
-		culture = beifaren
-		religion = catholic
-		size = 10000
-	}
-	artisans = {
-		culture = hui
-		religion = catholic
-		size = 1950
 	}
 	clergymen = {
-		culture = beifaren
-		religion = catholic
-		size = 14525
-	}
-	clergymen = {
-		culture = hui
-		religion = catholic
-		size = 400
-	}
-	farmers = {
-		culture = beifaren
-		religion = catholic
-		size = 1321325
-	}
-	farmers = {
-		culture = hui
-		religion = catholic
-		size = 35500
-	}
-	soldiers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 7525
 	}
-	soldiers = {
+	farmers = {
+		culture = yue
+		religion = catholic
+		size = 621325
+	}
+	farmers = {
 		culture = hui
 		religion = catholic
-		size = 3400
+		size = 17500
+	}
+	soldiers = {
+		culture = yue
+		religion = catholic
+		size = 5525
 	}
 }
 #Zhongding (5240000/1310000 POPS)
 1618 = {
 	aristocrats = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
-		size = 26150
+		size = 13150
 	}
 	artisans = {
-		culture = beifaren
-		religion = catholic
-		size = 1500
-	}
-	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	artisans = {
-		culture = beifaren
-		religion = catholic
-		size = 10000
-	}
-	artisans = {
-		culture = beifaren
-		religion = catholic
-		size = 10000
-	}
-	artisans = {
-		culture = beifaren
-		religion = catholic
-		size = 10000
-	}
-	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
 		size = 10000
 	}
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
-		size = 13125
+		size = 6125
 	}
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
-		size = 1192125
+		size = 552125
 	}
 	soldiers = {
-		culture = beifaren
+		culture = yue
 		religion = catholic
-		size = 9600
+		size = 5600
 	}
 }

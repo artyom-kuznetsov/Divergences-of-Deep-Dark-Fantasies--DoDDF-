@@ -177,7 +177,7 @@
 	}
 
 	slaves = {
-		culture = zanj
+		culture = maghrebi
 		religion = catholic
 		size = 2000
 	}

@@ -2736,7 +2736,7 @@
 	}
 	
 	farmers = {
-		culture = mordvin
+		culture = ugrian
 		religion = catholic
 		size = 127700
 	}
@@ -2950,7 +2950,7 @@
 		size = 2000
 	}	
 	artisans = {
-		culture = udmurt
+		culture = ugrian
 		religion = catholic
 		size = 6000
 	}
@@ -3000,7 +3000,7 @@
 	}	
 	
 	serfs = {
-		culture = udmurt
+		culture = ugrian
 		religion = catholic
 		size = 2522
 	}
@@ -3164,7 +3164,7 @@
 	}	
 	
 	aristocrats = {
-		culture = udmurt
+		culture = ugrian
 		religion = catholic
 		size = 100
 	}
@@ -3181,7 +3181,7 @@
 		size = 8600
 	}	
 	artisans = {
-		culture = udmurt
+		culture = ugrian
 		religion = catholic
 		size = 4600
 	}	
@@ -3198,7 +3198,7 @@
 	}
 	
 	soldiers = {
-		culture = udmurt
+		culture = ugrian
 		religion = catholic
 		size= 125
 	}
@@ -3216,7 +3216,7 @@
 	}	
 	
 	serfs = {
-		culture = udmurt
+		culture = ugrian
 		religion = catholic
 		size = 23575
 	}
@@ -3354,7 +3354,7 @@
 	}
 	
 	serfs = {
-		culture = mordvin
+		culture = ugrian
 		religion = catholic
 		size = 5550
 	}	
@@ -3456,25 +3456,25 @@
 	}
 
 	clergymen = {
-		culture = udmurt
+		culture = ugrian
 		religion = catholic
 		size = 275
 	}
 
 	artisans = {
-		culture = udmurt
+		culture = ugrian
 		religion = catholic
 		size = 2500
 	}
 
 	soldiers = {
-		culture = udmurt
+		culture = ugrian
 		religion = catholic
 		size = 2550
 	}
 
 	serfs = {
-		culture = udmurt
+		culture = ugrian
 		religion = catholic
 		size = 71675
 	}
@@ -3515,25 +3515,25 @@
 	}
 
 	clergymen = {
-		culture = udmurt
+		culture = ugrian
 		religion = catholic
 		size = 650
 	}
 
 	artisans = {
-		culture = udmurt
+		culture = ugrian
 		religion = catholic
 		size = 2950
 	}
 
 	soldiers = {
-		culture = udmurt
+		culture = ugrian
 		religion = catholic
 		size = 50
 	}
 
 	farmers = {
-		culture = udmurt
+		culture = ugrian
 		religion = catholic
 		size = 61050
 	}
@@ -3597,31 +3597,31 @@
 	}
 	
 	clergymen = {
-		culture = mordvin
+		culture = ugrian
 		religion = catholic
 		size = 70
 	}
 
 	artisans = {
-		culture = mordvin
+		culture = ugrian
 		religion = catholic
 		size = 1500
 	}
 
 	soldiers = {
-		culture = mordvin
+		culture = ugrian
 		religion = catholic
 		size = 525
 	}
 
 	farmers = {
-		culture = mordvin
+		culture = ugrian
 		religion = catholic
 		size = 96700
 	}
 
 	serfs = {
-		culture = mordvin
+		culture = ugrian
 		religion = catholic
 		size = 49125
 	}	
@@ -3766,7 +3766,7 @@
 	}
 	
 	farmers = {
-		culture = mordvin
+		culture = ugrian
 		religion = catholic
 		size = 6540
 	}	

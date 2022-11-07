@@ -1,33 +1,33 @@
-#Ubangi-Shari Region (228000)
+#african_minor-Shari Region (228000)
 #uncolonized in 1836
 #Bangui (104000/26000 POPS)
 1965 = {
 	aristocrats = {
-		culture = ubangian
+		culture = african_minor
 		religion = catholic
 		size = 500
 	}
 
 	clergymen = {
-		culture = ubangian
+		culture = african_minor
 		religion = catholic
 		size = 250
 	}
 
 	artisans = {
-		culture = ubangian
+		culture = african_minor
 		religion = catholic
 		size = 1300
 	}
 
 	soldiers = {
-		culture = ubangian
+		culture = african_minor
 		religion = catholic
 		size = 275
 	}
 
 	farmers = {
-		culture = ubangian
+		culture = african_minor
 		religion = catholic
 		size = 23675
 	}
@@ -35,101 +35,101 @@
 #Nola (40000/10000 POPS)
 1966 = {
 	aristocrats = {
-		culture = ubangian
+		culture = african_minor
 		religion = catholic
 		size = 75
 	}
 
 	clergymen = {
-		culture = ubangian
+		culture = african_minor
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = ubangian
+		culture = african_minor
 		religion = catholic
 		size = 500
 	}
 
 	soldiers = {
-		culture = ubangian
+		culture = african_minor
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = ubangian
+		culture = african_minor
 		religion = catholic
 		size = 9125
 	}
 	
 	slaves = {
-		culture = forest_bantu
+		culture = african_minor
 		religion = catholic
 		size = 500
 	}
 	
 }
-#uncolonized in 1836/under influence of Baguirmi
+#uncolonized in 1836/under influence of african_minor
 #Bouar (28000/7000 POPS)
 1967 = {
 	aristocrats = {
-		culture = ubangian
+		culture = african_minor
 		religion = catholic
 		size = 125
 	}
 
 	clergymen = {
-		culture = ubangian
+		culture = african_minor
 		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = ubangian
+		culture = african_minor
 		religion = catholic
 		size = 350
 	}
 
 	soldiers = {
-		culture = ubangian
+		culture = african_minor
 		religion = catholic
 		size = 75
 	}
 
 	farmers = {
-		culture = ubangian
+		culture = african_minor
 		religion = catholic
 		size = 6375
 	}
 	
 	aristocrats = {
-		culture = fulbe
+		culture = african_minor
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = fulbe
+		culture = african_minor
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = fulbe
+		culture = african_minor
 		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
-		culture = fulbe
+		culture = african_minor
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = fulbe
+		culture = african_minor
 		religion = catholic
 		size = 900
 	}
@@ -137,155 +137,155 @@
 #Bossangoa (56000/14000 POPS)
 1968 = {
 	aristocrats = {
-		culture = ubangian
+		culture = african_minor
 		religion = catholic
 		size = 75
 	}
 
 	clergymen = {
-		culture = ubangian
+		culture = african_minor
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = ubangian
+		culture = african_minor
 		religion = catholic
 		size = 500
 	}
 
 	soldiers = {
-		culture = ubangian
+		culture = african_minor
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = ubangian
+		culture = african_minor
 		religion = catholic
 		size = 9125
 	}
 
 	aristocrats = {
-		culture = baguirmi
+		culture = african_minor
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = baguirmi
+		culture = african_minor
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = baguirmi
+		culture = african_minor
 		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
-		culture = baguirmi
+		culture = african_minor
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = baguirmi
+		culture = african_minor
 		religion = catholic
 		size = 900
 	}
 
 	aristocrats = {
-		culture = sara
+		culture = african_minor
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = sara
+		culture = african_minor
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = sara
+		culture = african_minor
 		religion = catholic
 		size = 150
 	}
 
 	soldiers = {
-		culture = sara
+		culture = african_minor
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = sara
+		culture = african_minor
 		religion = catholic
 		size = 2700
 	}
 }
 #Dar Banda Region (128000)
-#uncolonized in 1836/under influence of Azande
+#uncolonized in 1836/under influence of african_minor
 #Zemio (44000/11000 POPS)
 1969 = {
 	aristocrats = {
-		culture = azande
+		culture = african_minor
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = azande
+		culture = african_minor
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = azande
+		culture = african_minor
 		religion = catholic
 		size = 300
 	}
 
 	soldiers = {
-		culture = azande
+		culture = african_minor
 		religion = catholic
 		size = 75
 	}
 
 	farmers = {
-		culture = azande
+		culture = african_minor
 		religion = catholic
 		size = 5475
 	}
 
 	aristocrats = {
-		culture = ubangian
+		culture = african_minor
 		religion = catholic
 		size = 75
 	}
 
 	clergymen = {
-		culture = ubangian
+		culture = african_minor
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = ubangian
+		culture = african_minor
 		religion = catholic
 		size = 250
 	}
 
 	soldiers = {
-		culture = ubangian
+		culture = african_minor
 		religion = catholic
 		size = 50
 	}
 
 	farmers = {
-		culture = ubangian
+		culture = african_minor
 		religion = catholic
 		size = 4575
 	}
@@ -293,61 +293,61 @@
 #Bangassou (56000/14000 POPS)
 1970 = {
 	aristocrats = {
-		culture = azande
+		culture = african_minor
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = azande
+		culture = african_minor
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = azande
+		culture = african_minor
 		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
-		culture = azande
+		culture = african_minor
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = azande
+		culture = african_minor
 		religion = catholic
 		size = 900
 	}
 
 	aristocrats = {
-		culture = ubangian
+		culture = african_minor
 		religion = catholic
 		size = 225
 	}
 
 	clergymen = {
-		culture = ubangian
+		culture = african_minor
 		religion = catholic
 		size = 150
 	}
 
 	artisans = {
-		culture = ubangian
+		culture = african_minor
 		religion = catholic
 		size = 650
 	}
 
 	soldiers = {
-		culture = ubangian
+		culture = african_minor
 		religion = catholic
 		size = 150
 	}
 
 	farmers = {
-		culture = ubangian
+		culture = african_minor
 		religion = catholic
 		size = 11875
 	}
@@ -356,61 +356,61 @@
 #Ndele (28000/7000 POPS)
 1971 = {
 	aristocrats = {
-		culture = fur
+		culture = african_minor
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = fur
+		culture = african_minor
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = fur
+		culture = african_minor
 		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
-		culture = fur
+		culture = african_minor
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = fur
+		culture = african_minor
 		religion = catholic
 		size = 900
 	}
 
 	aristocrats = {
-		culture = ubangian
+		culture = african_minor
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = ubangian
+		culture = african_minor
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = ubangian
+		culture = african_minor
 		religion = catholic
 		size = 300
 	}
 
 	soldiers = {
-		culture = ubangian
+		culture = african_minor
 		religion = catholic
 		size = 75
 	}
 
 	farmers = {
-		culture = ubangian
+		culture = african_minor
 		religion = catholic
 		size = 5475
 	}

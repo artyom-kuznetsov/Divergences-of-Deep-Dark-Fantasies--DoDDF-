@@ -649,7 +649,7 @@
 		size = 35440
 	}
 }
-#Beja (96000/24000 POPS)
+#african_minor (96000/24000 POPS)
 526 = {
 	aristocrats = {
 		culture = portuguese

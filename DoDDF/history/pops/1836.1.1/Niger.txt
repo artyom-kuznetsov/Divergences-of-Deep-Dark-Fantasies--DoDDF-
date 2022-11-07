@@ -3,139 +3,139 @@
 #Niamey (288000/72000 POPS)
 1808 = {
 	aristocrats = {
-		culture = fulbe
+		culture = african_minor
 		religion = catholic
 		size = 350
 	}
 
 	clergymen = {
-		culture = fulbe
+		culture = african_minor
 		religion = catholic
 		size = 200
 	}
 
 	artisans = {
-		culture = fulbe
+		culture = african_minor
 		religion = catholic
 		size = 800
 	}
 
 	soldiers = {
-		culture = fulbe
+		culture = african_minor
 		religion = catholic
 		size = 200
 	}
 
 	farmers = {
-		culture = fulbe
+		culture = african_minor
 		religion = catholic
 		size = 16450
 	}
 
 	aristocrats = {
-		culture = dyula
+		culture = african_minor
 		religion = catholic
 		size = 170
 	}
 
 	clergymen = {
-		culture = dyula
+		culture = african_minor
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = dyula
+		culture = african_minor
 		religion = catholic
 		size = 500
 	}
 
 	soldiers = {
-		culture = dyula
+		culture = african_minor
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = dyula
+		culture = african_minor
 		religion = catholic
 		size = 9150
 	}
 
 	aristocrats = {
-		culture = songhai
+		culture = african_minor
 		religion = catholic
 		size = 450
 	}
 	
 	bureaucrats = {
-		culture = songhai
+		culture = african_minor
 		religion = catholic
 		size = 450
 	}
 	
 	bureaucrats = {
-		culture = hausa
+		culture = african_minor
 		religion = catholic
 		size = 25
 	}
 
 	clergymen = {
-		culture = songhai
+		culture = african_minor
 		religion = catholic
 		size = 250
 	}
 
 	artisans = {
-		culture = songhai
+		culture = african_minor
 		religion = catholic
 		size = 1150
 	}
 
 	soldiers = {
-		culture = songhai
+		culture = african_minor
 		religion = catholic
 		size = 2280
 	}
 
 	farmers = {
-		culture = songhai
+		culture = african_minor
 		religion = catholic
 		size = 24050
 	}
 
 	slaves = {
-		culture = gur
+		culture = african_minor
 		religion = catholic
 		size = 2000
 	}
 
 	aristocrats = {
-		culture = tuareg
+		culture = african_minor
 		religion = catholic
 		size = 250
 	}
 
 	clergymen = {
-		culture = tuareg
+		culture = african_minor
 		religion = catholic
 		size = 150
 	}
 
 	artisans = {
-		culture = tuareg
+		culture = african_minor
 		religion = catholic
 		size = 700
 	}
 
 	soldiers = {
-		culture = tuareg
+		culture = african_minor
 		religion = catholic
 		size = 150
 	}
 
 	farmers = {
-		culture = tuareg
+		culture = african_minor
 		religion = catholic
 		size = 10750
 	}
@@ -143,97 +143,97 @@
 #Say (136000/34000 POPS)
 1809 = {
 	aristocrats = {
-		culture = fulbe
+		culture = african_minor
 		religion = catholic
 		size = 150
 	}
 
 	clergymen = {
-		culture = fulbe
+		culture = african_minor
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = fulbe
+		culture = african_minor
 		religion = catholic
 		size = 500
 	}
 
 	soldiers = {
-		culture = fulbe
+		culture = african_minor
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = fulbe
+		culture = african_minor
 		religion = catholic
 		size = 7150
 	}
 
 	aristocrats = {
-		culture = dyula
+		culture = african_minor
 		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
-		culture = dyula
+		culture = african_minor
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = dyula
+		culture = african_minor
 		religion = catholic
 		size = 200
 	}
 
 	soldiers = {
-		culture = dyula
+		culture = african_minor
 		religion = catholic
 		size = 50
 	}
 
 	farmers = {
-		culture = dyula
+		culture = african_minor
 		religion = catholic
 		size = 3600
 	}
 
 	aristocrats = {
-		culture = songhai
+		culture = african_minor
 		religion = catholic
 		size = 350
 	}
 
 	clergymen = {
-		culture = songhai
+		culture = african_minor
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = songhai
+		culture = african_minor
 		religion = catholic
 		size = 1000
 	}
 
 	soldiers = {
-		culture = songhai
+		culture = african_minor
 		religion = catholic
 		size = 1200
 	}
 
 	farmers = {
-		culture = songhai
+		culture = african_minor
 		religion = catholic
 		size = 35350
 	}
 
 	slaves = {
-		culture = gur
+		culture = african_minor
 		religion = catholic
 		size = 4000
 	}
@@ -241,127 +241,127 @@
 #Dosso (280000/70000 POPS)
 1810 = {
 	aristocrats = {
-		culture = fulbe
+		culture = african_minor
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = fulbe
+		culture = african_minor
 		religion = catholic
 		size = 150
 	}
 
 	artisans = {
-		culture = fulbe
+		culture = african_minor
 		religion = catholic
 		size = 350
 	}
 
 	soldiers = {
-		culture = fulbe
+		culture = african_minor
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = fulbe
+		culture = african_minor
 		religion = catholic
 		size = 5300
 	}
 
 	aristocrats = {
-		culture = hausa
+		culture = african_minor
 		religion = catholic
 		size = 700
 	}
 
 	clergymen = {
-		culture = hausa
+		culture = african_minor
 		religion = catholic
 		size = 400
 	}
 
 	artisans = {
-		culture = hausa
+		culture = african_minor
 		religion = catholic
 		size = 2200
 	}
 
 	soldiers = {
-		culture = hausa
+		culture = african_minor
 		religion = catholic
 		size = 1000
 	}
 
 	farmers = {
-		culture = hausa
+		culture = african_minor
 		religion = catholic
 		size = 47900
 	}
 
 	aristocrats = {
-		culture = songhai
+		culture = african_minor
 		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
-		culture = songhai
+		culture = african_minor
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = songhai
+		culture = african_minor
 		religion = catholic
 		size = 200
 	}
 
 	soldiers = {
-		culture = songhai
+		culture = african_minor
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = songhai
+		culture = african_minor
 		religion = catholic
 		size = 3600
 	}
 
 	slaves = {
-		culture = songhai
+		culture = african_minor
 		religion = catholic
 		size = 5800
 	}
 
 	aristocrats = {
-		culture = tuareg
+		culture = african_minor
 		religion = catholic
 		size = 350
 	}
 
 	clergymen = {
-		culture = tuareg
+		culture = african_minor
 		religion = catholic
 		size = 200
 	}
 
 	artisans = {
-		culture = tuareg
+		culture = african_minor
 		religion = catholic
 		size = 250
 	}
 
 	soldiers = {
-		culture = tuareg
+		culture = african_minor
 		religion = catholic
 		size = 200
 	}
 
 	farmers = {
-		culture = tuareg
+		culture = african_minor
 		religion = catholic
 		size = 1000
 	}
@@ -369,127 +369,127 @@
 #Maradi (280000/70000 POPS)
 1811 = {
 	aristocrats = {
-		culture = fulbe
+		culture = african_minor
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = fulbe
+		culture = african_minor
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = fulbe
+		culture = african_minor
 		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
-		culture = fulbe
+		culture = african_minor
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = fulbe
+		culture = african_minor
 		religion = catholic
 		size = 1800
 	}
 
 	aristocrats = {
-		culture = hausa
+		culture = african_minor
 		religion = catholic
 		size = 900
 	}
 
 	clergymen = {
-		culture = hausa
+		culture = african_minor
 		religion = catholic
 		size = 500
 	}
 
 	artisans = {
-		culture = hausa
+		culture = african_minor
 		religion = catholic
 		size = 2500
 	}
 
 	soldiers = {
-		culture = hausa
+		culture = african_minor
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = hausa
+		culture = african_minor
 		religion = catholic
 		size = 44000
 	}
 
 	aristocrats = {
-		culture = songhai
+		culture = african_minor
 		religion = catholic
 		size = 300
 	}
 
 	clergymen = {
-		culture = songhai
+		culture = african_minor
 		religion = catholic
 		size = 150
 	}
 
 	artisans = {
-		culture = songhai
+		culture = african_minor
 		religion = catholic
 		size = 800
 	}
 
 	soldiers = {
-		culture = songhai
+		culture = african_minor
 		religion = catholic
 		size = 150
 	}
 
 	farmers = {
-		culture = songhai
+		culture = african_minor
 		religion = catholic
 		size = 7600
 	}
 
 	slaves = {
-		culture = songhai
+		culture = african_minor
 		religion = catholic
 		size = 8000
 	}
 
 	aristocrats = {
-		culture = tuareg
+		culture = african_minor
 		religion = catholic
 		size = 20
 	}
 
 	clergymen = {
-		culture = tuareg
+		culture = african_minor
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = tuareg
+		culture = african_minor
 		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
-		culture = tuareg
+		culture = african_minor
 		religion = catholic
 		size = 30
 	}
 
 	farmers = {
-		culture = tuareg
+		culture = african_minor
 		religion = catholic
 		size = 1800
 	}
@@ -499,67 +499,67 @@
 #Agades (168000/42000 POPS)
 1812 = {
 	aristocrats = {
-		culture = tuareg
+		culture = african_minor
 		religion = catholic
 		size = 500
 	}
 
 	clergymen = {
-		culture = tuareg
+		culture = african_minor
 		religion = catholic
 		size = 300
 	}
 
 	artisans = {
-		culture = tuareg
+		culture = african_minor
 		religion = catholic
 		size = 1100
 	}
 
 	soldiers = {
-		culture = tuareg
+		culture = african_minor
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = tuareg
+		culture = african_minor
 		religion = catholic
 		size = 15000
 	}
 
 	aristocrats = {
-		culture = hausa
+		culture = african_minor
 		religion = catholic
 		size = 250
 	}
 
 	clergymen = {
-		culture = hausa
+		culture = african_minor
 		religion = catholic
 		size = 150
 	}
 
 	artisans = {
-		culture = hausa
+		culture = african_minor
 		religion = catholic
 		size = 700
 	}
 
 	soldiers = {
-		culture = hausa
+		culture = african_minor
 		religion = catholic
 		size = 150
 	}
 
 	farmers = {
-		culture = hausa
+		culture = african_minor
 		religion = catholic
 		size = 20750
 	}
 
 	slaves = {
-		culture = baguirmi
+		culture = african_minor
 		religion = catholic
 		size = 2000
 	}
@@ -567,31 +567,31 @@
 #Arlit (16000/4000 POPS)
 1813 = {
 	aristocrats = {
-		culture = tuareg
+		culture = african_minor
 		religion = catholic
 		size = 75
 	}
 
 	clergymen = {
-		culture = tuareg
+		culture = african_minor
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = tuareg
+		culture = african_minor
 		religion = catholic
 		size = 200
 	}
 
 	soldiers = {
-		culture = tuareg
+		culture = african_minor
 		religion = catholic
 		size = 50
 	}
 
 	farmers = {
-		culture = tuareg
+		culture = african_minor
 		religion = catholic
 		size = 3625
 	}
@@ -599,37 +599,37 @@
 #Madama (44000/11000 POPS)
 1814 = {
 	aristocrats = {
-		culture = tuareg
+		culture = african_minor
 		religion = catholic
 		size = 200
 	}
 
 	clergymen = {
-		culture = tuareg
+		culture = african_minor
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = tuareg
+		culture = african_minor
 		religion = catholic
 		size = 550
 	}
 
 	soldiers = {
-		culture = tuareg
+		culture = african_minor
 		religion = catholic
 		size = 125
 	}
 
 	farmers = {
-		culture = tuareg
+		culture = african_minor
 		religion = catholic
 		size = 9025
 	}
 
 	slaves = {
-		culture = teda
+		culture = african_minor
 		religion = catholic
 		size = 1000
 	}
@@ -639,103 +639,103 @@
 #Zinder (464000/116000 POPS)
 1815 = {
 	aristocrats = {
-		culture = hausa
+		culture = african_minor
 		religion = catholic
 		size = 1500
 	}
 	
 	bureaucrats = {
-		culture = hausa
+		culture = african_minor
 		religion = catholic
 		size = 600
 	}
 
 	clergymen = {
-		culture = hausa
+		culture = african_minor
 		religion = catholic
 		size = 800
 	}
 
 	artisans = {
-		culture = hausa
+		culture = african_minor
 		religion = catholic
 		size = 4000
 	}
 
 	soldiers = {
-		culture = hausa
+		culture = african_minor
 		religion = catholic
 		size = 1300
 	}
 
 	farmers = {
-		culture = hausa
+		culture = african_minor
 		religion = catholic
 		size = 79900
 	}
 
 	aristocrats = {
-		culture = songhai
+		culture = african_minor
 		religion = catholic
 		size = 650
 	}
 
 	clergymen = {
-		culture = songhai
+		culture = african_minor
 		religion = catholic
 		size = 350
 	}
 
 	artisans = {
-		culture = songhai
+		culture = african_minor
 		religion = catholic
 		size = 1800
 	}
 
 	soldiers = {
-		culture = songhai
+		culture = african_minor
 		religion = catholic
 		size = 2150
 	}
 
 	farmers = {
-		culture = songhai
+		culture = african_minor
 		religion = catholic
 		size = 10850
 	}
 
 	slaves = {
-		culture = songhai
+		culture = african_minor
 		religion = catholic
 		size = 10000
 	}
 
 	aristocrats = {
-		culture = tuareg
+		culture = african_minor
 		religion = catholic
 		size = 150
 	}
 
 	clergymen = {
-		culture = tuareg
+		culture = african_minor
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = tuareg
+		culture = african_minor
 		religion = catholic
 		size = 500
 	}
 
 	soldiers = {
-		culture = tuareg
+		culture = african_minor
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = tuareg
+		culture = african_minor
 		religion = catholic
 		size = 2150
 	}
@@ -744,97 +744,97 @@
 #Kufe (384000/96000 POPS)
 1816 = {
 	aristocrats = {
-		culture = kanuri
+		culture = african_minor
 		religion = catholic
 		size = 1800
 	}
 
 	clergymen = {
-		culture = kanuri
+		culture = african_minor
 		religion = catholic
 		size = 900
 	}
 
 	artisans = {
-		culture = kanuri
+		culture = african_minor
 		religion = catholic
 		size = 3700
 	}
 
 	soldiers = {
-		culture = kanuri
+		culture = african_minor
 		religion = catholic
 		size = 1000
 	}
 
 	farmers = {
-		culture = kanuri
+		culture = african_minor
 		religion = catholic
 		size = 17600
 	}
 
 	aristocrats = {
-		culture = tuareg
+		culture = african_minor
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = tuareg
+		culture = african_minor
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = tuareg
+		culture = african_minor
 		religion = catholic
 		size = 200
 	}
 
 	soldiers = {
-		culture = tuareg
+		culture = african_minor
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = tuareg
+		culture = african_minor
 		religion = catholic
 		size = 1600
 	}
 	
 	aristocrats = {
-		culture = hausa
+		culture = african_minor
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = hausa
+		culture = african_minor
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = tuareg
+		culture = african_minor
 		religion = catholic
 		size = 200
 	}
 
 	soldiers = {
-		culture = hausa
+		culture = african_minor
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = hausa
+		culture = african_minor
 		religion = catholic
 		size = 61600
 	}
 
 	slaves = {
-		culture = fulbe
+		culture = african_minor
 		religion = catholic
 		size = 8000
 	}
@@ -842,67 +842,67 @@
 #Bilma (36000/9000 POPS)
 1817 = {
 	aristocrats = {
-		culture = tuareg
+		culture = african_minor
 		religion = catholic
 		size = 125
 	}
 
 	clergymen = {
-		culture = tuareg
+		culture = african_minor
 		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = tuareg
+		culture = african_minor
 		religion = catholic
 		size = 350
 	}
 
 	soldiers = {
-		culture = tuareg
+		culture = african_minor
 		religion = catholic
 		size = 75
 	}
 
 	farmers = {
-		culture = tuareg
+		culture = african_minor
 		religion = catholic
 		size = 6375
 	}
 
 	aristocrats = {
-		culture = teda
+		culture = african_minor
 		religion = catholic
 		size = 25
 	}
 
 	clergymen = {
-		culture = teda
+		culture = african_minor
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = teda
+		culture = african_minor
 		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
-		culture = teda
+		culture = african_minor
 		religion = catholic
 		size = 25
 	}
 
 	farmers = {
-		culture = teda
+		culture = african_minor
 		religion = catholic
 		size = 800
 	}
 
 	slaves = {
-		culture = baguirmi
+		culture = african_minor
 		religion = catholic
 		size = 1000
 	}

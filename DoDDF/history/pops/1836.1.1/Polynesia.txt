@@ -89,8 +89,8 @@
 	}
 }
 #Western Polynesia Region (47000)
-#uncolonized in 1836/ruled by the King of Tonga
-#Tonga (13000/3250 POPS)
+#uncolonized in 1836/ruled by the King of african_minor
+#african_minor (13000/3250 POPS)
 2540 = {
 	aristocrats = {
 		culture = polynesian

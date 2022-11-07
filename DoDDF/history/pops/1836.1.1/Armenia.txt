@@ -126,26 +126,26 @@
 	}
 
 	aristocrats = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 40
 	}
 
 	clergymen = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 60
 	}
 
 	soldiers = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size= 100
 
 	}
 
 	farmers = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 3225
 	}

@@ -78,26 +78,26 @@
 	}
 	
 	artisans = {
-		culture = fahlavi
+		culture = azerbaijani
 		religion = catholic
 		size = 2300
 	}	
 	
 
 	farmers = {
-		culture = fahlavi
+		culture = azerbaijani
 		religion = catholic
 		size = 16850
 	}
 	
 	artisans = {
-		culture = fahlavi
+		culture = azerbaijani
 		religion = catholic
 		size = 9000
 	}	
 
 	farmers = {
-		culture = fahlavi
+		culture = azerbaijani
 		religion = catholic
 		size = 24175
 	}	
@@ -127,7 +127,7 @@
 	}
 	
 	slaves = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 8000
 	}
@@ -195,7 +195,7 @@
 	}
 	
 	farmers = {
-		culture = fahlavi
+		culture = azerbaijani
 		religion = catholic
 		size = 3875
 	}	
@@ -452,7 +452,7 @@
 	}
 	
 	farmers = {
-		culture = fahlavi
+		culture = azerbaijani
 		religion = catholic
 		size = 11520
 	}	
@@ -529,31 +529,31 @@
 	}
 
 	aristocrats = {
-		culture = fahlavi
+		culture = azerbaijani
 		religion = catholic
 		size = 495
 	}
 
 	clergymen = {
-		culture = fahlavi
+		culture = azerbaijani
 		religion = catholic
 		size = 405
 	}
 
 	artisans = {
-		culture = fahlavi
+		culture = azerbaijani
 		religion = catholic
 		size = 1400
 	}
 
 	soldiers = {
-		culture = fahlavi
+		culture = azerbaijani
 		religion = catholic
 		size = 550
 	}
 
 	farmers = {
-		culture = fahlavi
+		culture = azerbaijani
 		religion = catholic
 		size = 28850
 	}
@@ -739,13 +739,13 @@
 	}
 	
 	slaves = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 2000
 	}
 	
 	artisans = {
-		culture = panjabi
+		culture = marathi
 		religion = catholic
 		size = 1200
 	}	
@@ -1363,7 +1363,7 @@
 	}	
 	
 	slaves = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 4000
 	}
@@ -1706,41 +1706,41 @@
 		size = 3890
 	}
 }
-#Zanjan (44000/11000 POPS)
+#maghrebian (44000/11000 POPS)
 1123 = {
 	aristocrats = {
-		culture = fahlavi
+		culture = azerbaijani
 		religion = catholic
 		size = 245
 	}
 
 	clergymen = {
-		culture = fahlavi
+		culture = azerbaijani
 		religion = catholic
 		size = 125
 	}
 
 	artisans = {
-		culture = fahlavi
+		culture = azerbaijani
 		religion = catholic
 		size = 3850
 	}
 
 	soldiers = {
-		culture = fahlavi
+		culture = azerbaijani
 		religion = catholic
 		size= 500
 
 	}
 
 	farmers = {
-		culture = fahlavi
+		culture = azerbaijani
 		religion = catholic
 		size = 5155
 	}
 	
 	farmers = {
-		culture = fahlavi
+		culture = azerbaijani
 		religion = catholic
 		size = 2200
 	}	
@@ -2183,7 +2183,7 @@
 	}
 	
 	slaves = {
-		culture = forest_bantu #african_minor
+		culture = african_minor #african_minor
 		religion = catholic
 		size = 9000
 	}
@@ -2316,7 +2316,7 @@
 	}	
 	
 	slaves = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 2000
 	}	
@@ -2786,13 +2786,13 @@
 	}
 
 	slaves = {
-		culture = forest_bantu #african_minor
+		culture = african_minor #african_minor
 		religion = catholic
 		size = 3000
 	}
 
 	slaves = {
-		culture = panjabi
+		culture = marathi
 		religion = catholic
 		size = 2000
 	}
@@ -3261,7 +3261,7 @@
 	}
 
 	slaves = {
-		culture = forest_bantu #african_minor
+		culture = african_minor #african_minor
 		religion = catholic
 		size = 2500
 	}
@@ -3519,13 +3519,13 @@
 	}
 
 	slaves = {
-		culture = forest_bantu #african_minor
+		culture = african_minor #african_minor
 		religion = catholic
 		size = 2000
 	}
 
 	slaves = {
-		culture = panjabi
+		culture = marathi
 		religion = catholic
 		size = 4000
 	}
@@ -3649,7 +3649,7 @@
 	}
 
 	slaves = {
-		culture = forest_bantu #african_minor
+		culture = african_minor #african_minor
 		religion = catholic
 		size = 8000
 	}

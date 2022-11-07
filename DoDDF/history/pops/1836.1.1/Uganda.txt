@@ -3,109 +3,109 @@
 #Entebbe (400000/100000 POPS) 
 2019 = {
 	aristocrats = {
-		culture = baganda
+		culture = african_minor
 		religion = catholic
 		size = 1000
 	}
 	
 	aristocrats = {
-		culture = baganda
+		culture = african_minor
 		religion = catholic
 		size = 350
 	}
 
 	bureaucrats = {
-		culture = baganda
+		culture = african_minor
 		religion = catholic
 		size = 50
 	}
 
 	officers = {
-		culture = baganda
+		culture = african_minor
 		religion = catholic
 		size = 50
 	}
 	
 	officers = {
-		culture = baganda
+		culture = african_minor
 		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
-		culture = baganda
+		culture = african_minor
 		religion = catholic
 		size = 725
 	}
 
 	artisans = {
-		culture = baganda
+		culture = african_minor
 		religion = catholic
 		size = 1800
 	}
 	
 	artisans = {
-		culture = baganda
+		culture = african_minor
 		religion = catholic
 		size = 1000
 	}
 
 	soldiers = {
-		culture = baganda
+		culture = african_minor
 		religion = catholic
 		size = 1000
 	}
 	
 	soldiers = {
-		culture = baganda
+		culture = african_minor
 		religion = catholic
 		size = 1000
 	}
 
 	farmers = {
-		culture = baganda
+		culture = african_minor
 		religion = catholic
 		size = 48025
 	}
 	
 	farmers = {
-		culture = baganda
+		culture = african_minor
 		religion = catholic
 		size = 15000
 	}
 
 	aristocrats = {
-		culture = lacustrine_bantu
+		culture = african_minor
 		religion = catholic
 		size = 575
 	}
 
 	clergymen = {
-		culture = lacustrine_bantu
+		culture = african_minor
 		religion = catholic
 		size = 300
 	}
 
 	artisans = {
-		culture = lacustrine_bantu
+		culture = african_minor
 		religion = catholic
 		size = 1500
 	}
 
 	soldiers = {
-		culture = lacustrine_bantu
+		culture = african_minor
 		religion = catholic
 		size = 300
 	}
 
 	farmers = {
-		culture = lacustrine_bantu
+		culture = african_minor
 		religion = catholic
 		size = 10325
 	}
 
 	slaves = {
-		culture = lacustrine_bantu
+		culture = african_minor
 		religion = catholic
 		size = 7000
 	}
@@ -113,79 +113,79 @@
 #Mbarara (232000/53000 POPS) 
 2020 = {
 	aristocrats = {
-		culture = baganda
+		culture = african_minor
 		religion = catholic
 		size = 650
 	}
 
 	clergymen = {
-		culture = baganda
+		culture = african_minor
 		religion = catholic
 		size = 350
 	}
 
 	artisans = {
-		culture = baganda
+		culture = african_minor
 		religion = catholic
 		size = 1650
 	}
 
 	soldiers = {
-		culture = baganda
+		culture = african_minor
 		religion = catholic
 		size = 1350
 	}
 
 	farmers = {
-		culture = baganda
+		culture = african_minor
 		religion = catholic
 		size = 41920
 	}
 	
 	farmers = {
-		culture = ruanda
+		culture = african_minor
 		religion = catholic
 		size = 4000
 	}
 	
 	farmers = {
-		culture = baganda
+		culture = african_minor
 		religion = catholic
 		size = 2080
 	}
 
 	slaves = {
-		culture = lacustrine_bantu
+		culture = african_minor
 		religion = catholic
 		size = 4000
 	}
 
 	aristocrats = {
-		culture = luo
+		culture = african_minor
 		religion = catholic
 		size = 350
 	}
 
 	clergymen = {
-		culture = luo
+		culture = african_minor
 		religion = catholic
 		size = 175
 	}
 
 	artisans = {
-		culture = luo
+		culture = african_minor
 		religion = catholic
 		size = 725
 	}
 
 	soldiers = {
-		culture = luo
+		culture = african_minor
 		religion = catholic
 		size = 200
 	}
 
 	farmers = {
-		culture = luo
+		culture = african_minor
 		religion = catholic
 		size = 8550
 	}
@@ -193,25 +193,25 @@
 #Masindi (192000/48000 POPS) 
 2021 = {
 	aristocrats = {
-		culture = luo
+		culture = african_minor
 		religion = catholic
 		size = 550
 	}
 
 	clergymen = {
-		culture = luo
+		culture = african_minor
 		religion = catholic
 		size = 300
 	}
 
 	soldiers = {
-		culture = luo
+		culture = african_minor
 		religion = catholic
 		size = 300
 	}
 
 	farmers = {
-		culture = luo
+		culture = african_minor
 		religion = catholic
 		size = 700
 	}
@@ -235,31 +235,31 @@
 	}
 
 	aristocrats = {
-		culture = luo
+		culture = african_minor
 		religion = catholic
 		size = 375
 	}
 
 	clergymen = {
-		culture = luo
+		culture = african_minor
 		religion = catholic
 		size = 200
 	}
 
 	artisans = {
-		culture = luo
+		culture = african_minor
 		religion = catholic
 		size = 775
 	}
 
 	soldiers = {
-		culture = luo
+		culture = african_minor
 		religion = catholic
 		size = 200
 	}
 
 	farmers = {
-		culture = luo
+		culture = african_minor
 		religion = catholic
 		size = 20450
 	}
@@ -267,55 +267,55 @@
 #Kitgum (104000/26000 POPS) 
 2022 = {
 	aristocrats = {
-		culture = luo
+		culture = african_minor
 		religion = catholic
 		size = 375
 	}
 
 	clergymen = {
-		culture = luo
+		culture = african_minor
 		religion = catholic
 		size = 200
 	}
 
 	artisans = {
-		culture = luo
+		culture = african_minor
 		religion = catholic
 		size = 775
 	}
 
 	soldiers = {
-		culture = luo
+		culture = african_minor
 		religion = catholic
 		size = 200
 	}
 
 	farmers = {
-		culture = luo
+		culture = african_minor
 		religion = catholic
 		size = 24450
 	}
 
 	aristocrats = {
-		culture = luo
+		culture = african_minor
 		religion = catholic
 		size = 125
 	}
 
 	clergymen = {
-		culture = luo
+		culture = african_minor
 		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = luo
+		culture = african_minor
 		religion = catholic
 		size = 350
 	}
 
 	soldiers = {
-		culture = luo
+		culture = african_minor
 		religion = catholic
 		size = 75
 	}
@@ -341,79 +341,79 @@
 #Jinja (208000/52000 POPS) 
 2023 = {
 	aristocrats = {
-		culture = baganda
+		culture = african_minor
 		religion = catholic
 		size = 275
 	}
 
 	clergymen = {
-		culture = baganda
+		culture = african_minor
 		religion = catholic
 		size = 150
 	}
 	
 	aristocrats = {
-		culture = baganda
+		culture = african_minor
 		religion = catholic
 		size = 750
 	}
 
 	clergymen = {
-		culture = baganda
+		culture = african_minor
 		religion = catholic
 		size = 375
 	}
 
 	artisans = {
-		culture = baganda
+		culture = african_minor
 		religion = catholic
 		size = 575
 	}
 
 	soldiers = {
-		culture = baganda
+		culture = african_minor
 		religion = catholic
 		size = 150
 	}
 	
 	soldiers = {
-		culture = baganda
+		culture = african_minor
 		religion = catholic
 		size = 375
 	}
 
 	farmers = {
-		culture = baganda
+		culture = african_minor
 		religion = catholic
 		size = 52850
 	}
 	
 	farmers = {
-		culture = baganda
+		culture = african_minor
 		religion = catholic
 		size = 9000
 	}
 
 	artisans = {
-		culture = luo
+		culture = african_minor
 		religion = catholic
 		size = 1900
 	}
 
 	farmers = {
-		culture = luo
+		culture = african_minor
 		religion = catholic
 		size = 4400
 	}
 
 	artisans = {
-		culture = lacustrine_bantu
+		culture = african_minor
 		religion = catholic
 		size = 200
 	}
 	
 	slaves = {
-		culture = lacustrine_bantu
+		culture = african_minor
 		religion = catholic
 		size = 6000
 	}

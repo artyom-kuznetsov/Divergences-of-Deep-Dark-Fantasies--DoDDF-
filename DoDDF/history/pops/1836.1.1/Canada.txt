@@ -1493,7 +1493,7 @@
 		size = 900
 	}
 }
-#Indian chechenes (4000/1000 POPS)
+#Indian north_caucasianes (4000/1000 POPS)
 38 = {
 	aristocrats = {
 		culture = algonquin
@@ -1966,7 +1966,7 @@
 	}
 
 }
-#Pickle chechene (1200/3000 POPS)
+#Pickle north_caucasiane (1200/3000 POPS)
 2594 = {
 	aristocrats = {
 		culture = algonquin

@@ -700,7 +700,7 @@
 }
 #Cholla Region (1504000)
 #under the rule of Korea in 1836
-#Kwangju (644000/161000 POPS)
+#african_minorngju (644000/161000 POPS)
 1635 = {
 	aristocrats = {
 		culture = korean

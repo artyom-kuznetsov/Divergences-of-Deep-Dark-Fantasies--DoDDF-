@@ -1,6 +1,5 @@
 capital = 1485
 primary_culture = nanfaren
-culture = beifaren
 culture = min
 religion = catholic
 government = prussian_constitutionalism

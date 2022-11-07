@@ -45,31 +45,31 @@
     }
 
     bureaucrats = {
-        culture = beifaren
+        culture = yue
         religion = catholic
         size = 125
     }
 
     clergymen = {
-        culture = beifaren
+        culture = yue
         religion = catholic
         size = 75
     }
 
     artisans = {
-        culture = beifaren
+        culture = yue
         religion = catholic
         size = 400
     }
 
     soldiers = {
-        culture = beifaren
+        culture = yue
         religion = catholic
         size = 100
     }
 
     farmers = {
-        culture = beifaren
+        culture = yue
         religion = catholic
         size = 3300
     }
@@ -159,43 +159,43 @@
 #Uliastai (140000/35000 POPS)   
 1468 = {
     aristocrats = {
-        culture = oirat
+        culture = mongol
         religion = catholic
         size = 8000
     }
 
     bureaucrats = {
-        culture = oirat
+        culture = mongol
         religion = catholic
         size = 100
     }
 
     officers = {
-        culture = oirat
+        culture = mongol
         religion = catholic
         size = 1000
     }
 
     clergymen = {
-        culture = oirat
+        culture = mongol
         religion = catholic
         size = 350
     }
 
     artisans = {
-        culture = oirat
+        culture = mongol
         religion = catholic
         size = 1750
     }
 
     soldiers = {
-        culture = oirat
+        culture = mongol
         religion = catholic
         size = 4000
     }
 
     farmers = {
-        culture = oirat
+        culture = mongol
         religion = catholic
         size = 31900
     }
@@ -224,19 +224,19 @@
 #Khatgal (152000/38000 POPS)   
 2608 = {
     clergymen = {
-        culture = oirat
+        culture = mongol
         religion = catholic
         size = 375
     }
 
     artisans = {
-        culture = oirat
+        culture = mongol
         religion = catholic
         size = 1500
     }
 
     farmers = {
-        culture = oirat
+        culture = mongol
         religion = catholic
         size = 35000
     }
@@ -244,19 +244,19 @@
 #Bulgan (84000/21000 POPS)   
 2678 = {
     clergymen = {
-        culture = oirat
+        culture = mongol
         religion = catholic
         size = 200
     }
 
     artisans = {
-        culture = oirat
+        culture = mongol
         religion = catholic
         size = 1050
     }
 
     farmers = {
-        culture = oirat
+        culture = mongol
         religion = catholic
         size = 17125
     }
@@ -264,19 +264,19 @@
 #Khovd (120000/30000 POPS)   
 2679 = {
     clergymen = {
-        culture = oirat
+        culture = mongol
         religion = catholic
         size = 175
     }
 
     artisans = {
-        culture = oirat
+        culture = mongol
         religion = catholic
         size = 900
     }
 
     farmers = {
-        culture = oirat
+        culture = mongol
         religion = catholic
         size = 16400
     }

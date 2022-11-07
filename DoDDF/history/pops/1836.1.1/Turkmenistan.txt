@@ -1,4 +1,4 @@
-#Khwarazm Region (40000) #see oiratistan.txt and Kazakhstan.txt for balance of region 
+#Khwarazm Region (40000) #see mongolistan.txt and Kazakhstan.txt for balance of region 
 #under the rule of Khiva in 1836  
 #Dashhowuz (40000/10000 POPS) #now part of Turkmenistan  
 1196 = {
@@ -214,31 +214,31 @@
 #Chardzhou (132000/33000 POPS)   
 1206 = {
 	aristocrats = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size = 225
 	}
 
 	clergymen = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size = 125
 	}
 
 	artisans = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size = 2025
 	}
 
 	farmers = {
-		culture = oirat
+		culture = mongol
 		religion = catholic
 		size = 11000
 	}

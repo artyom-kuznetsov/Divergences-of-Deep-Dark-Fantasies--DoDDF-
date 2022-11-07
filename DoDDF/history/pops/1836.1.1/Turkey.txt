@@ -501,7 +501,7 @@
 	}
 
 	slaves = {
-		culture = forest_bantu #african_minor
+		culture = african_minor #african_minor
 		religion = catholic
 		size = 3500
 	}
@@ -657,7 +657,7 @@
 	}
 
 	slaves = {
-		culture = forest_bantu #african_minor
+		culture = african_minor #african_minor
 		religion = catholic
 		size = 500
 	}
@@ -1548,7 +1548,7 @@
 	}
 	
 	slaves = {
-		culture = forest_bantu #african_minor
+		culture = african_minor #african_minor
 		religion = catholic
 		size = 2000
 	}
@@ -2284,19 +2284,19 @@
 	}
 
 	clergymen = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 120
 	}
 
 	artisans = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 850
 	}
 
 	farmers = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 14750
 	}
@@ -2708,19 +2708,19 @@
 	}
 
 	clergymen = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 410
 	}
 
 	artisans = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 1350
 	}
 
 	farmers = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 19750
 	}
@@ -2762,7 +2762,7 @@
 	}
 	
 	slaves = {
-		culture = georgian
+		culture = north_caucasuian
 		religion = catholic
 		size = 1500
 	}
@@ -3364,7 +3364,7 @@
 		size = 10000
 	}
 }
-#Hakkari (92000/23000 POPS)
+#nanfarenri (92000/23000 POPS)
 892 = {
 	aristocrats = {
 		culture = turkish

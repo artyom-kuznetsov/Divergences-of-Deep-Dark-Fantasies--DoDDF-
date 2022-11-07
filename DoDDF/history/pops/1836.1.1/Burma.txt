@@ -1133,32 +1133,32 @@
 	}
 
 	aristocrats = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 200
 	}
 
 	artisans = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 1250
 	}
 
 	soldiers = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size= 200
 
 	}
 
 	farmers = {
-		culture = thai
+		culture = khmer
 		religion = catholic
 		size = 17250
 	}

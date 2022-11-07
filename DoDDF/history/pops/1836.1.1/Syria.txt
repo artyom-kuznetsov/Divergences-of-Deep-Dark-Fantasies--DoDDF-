@@ -332,31 +332,31 @@
 2591 = {
 
     aristocrats = {
-        culture = tuareg
+        culture = african_minor
         religion = catholic
         size = 35
     }
 
     clergymen = {
-        culture = tuareg
+        culture = african_minor
         religion = catholic
         size = 30
     }
 
     artisans = {
-        culture = tuareg
+        culture = african_minor
         religion = catholic
         size = 75
     }
 
     soldiers = {
-        culture = tuareg
+        culture = african_minor
         religion = catholic
         size = 40
     }
 
     farmers = {
-        culture = tuareg
+        culture = african_minor
         religion = catholic
         size = 2820
     }
