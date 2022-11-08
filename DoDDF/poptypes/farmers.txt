@@ -1125,7 +1125,7 @@ promote_to = {
         }
         group = {
             modifier = {
-                factor = -3
+                factor = -300
                 clergymen = 0.004
             }
             modifier = {

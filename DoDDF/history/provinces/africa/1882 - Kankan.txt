@@ -2,5 +2,5 @@ owner = FJA
 controller = FJA
 add_core = FJA
 add_core = WTT
-trade_goods = fruit
+trade_goods = dye
 life_rating = 35

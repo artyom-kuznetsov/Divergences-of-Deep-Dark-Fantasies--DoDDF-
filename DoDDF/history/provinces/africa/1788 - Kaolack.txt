@@ -1,6 +1,6 @@
 owner = FJA
 controller = FJA
 add_core = FJA
-trade_goods = grain
+trade_goods = dye
 terrain = semidesert
 life_rating = 35
