@@ -1,4 +1,4 @@
-;x;
+;x
 jefferson_method_desc;Метод Джефферсона - это метод с наивысшим средним значением для распределения мест и, таким образом, тип пропорционального представительства по партийным спискам. Системы пропорционального представительства направлены на распределение мест между партиями примерно пропорционально количеству полученных голосов. Например, если партия набирает одну треть голосов, она должна получить примерно одну треть мест. В общем, точная пропорциональность невозможна, потому что эти деления дают дробное количество мест. В результате было разработано несколько методов, гарантирующих максимально пропорциональное распределение мест между партиями, которое, конечно же, является целым числом. По сравнению с методом Сент-Лага §Yметод Джефферсона несколько отдает предпочтение крупным партиям и коалициям, а не разрозненным небольшим партиям§W.;x
 precious_goods;Драгоценные товары;x
 precious_goods_RGO_SIZE;Объем рынка драгоценных камней;x
@@ -19,7 +19,7 @@ HAVE_LESS_TOTAL_PORTS_THAN;Имеют равные или меньшие порты, чем:;x
 HAVE_MORE_TOTAL_PORTS_THAN;Иметь равные или более порты, чем:;x
 TOTAL_AMOUNT_OF_SHIPS;Общее количество кораблей: §Y$COUNT$§W \n;x
 LESS_AMOUNT_OF_SHIPS;Меньше количества кораблей, чем: §Y$COUNT$§W \n;x
-ibadi;Ибади;x;
+ibadi;Ибади;x
 HAS_RECENTLY_LOST_WAR;Проиграли войну за последние пять лет.;x
 NOT_IN_ELECTION_CAMPAIGN;НЕ участвует в предвыборной кампании.;x
 PEACE_WE_DECLINE_2;Мы отклонили мирное предложение от;x
@@ -54,7 +54,7 @@ SATELLITE_OF_NOCOLOR;Спутник;x
 SUBSTATE_OF_NOCOLOR;Подсостояние;x
 HAVE_MORE_NATIONAL_PROVINCES_OCCUPIED_THAN;Процент оккупированных национальных провинций превышает:;x
 HAVE_LESS_NATIONAL_PROVINCES_OCCUPIED_THAN;Процент оккупированных национальных провинций составляет менее:;x
-yes_to_congo;Проголосовали за вопрос о Конго;x;
+yes_to_congo;Проголосовали за вопрос о Конго;x
 NEED_POSITIVE_WARSCORE;Война идет недостаточно хорошо. §В войнах, в которых вы не являетесь военачальником, вклад рассчитывается индивидуально. Несмотря на то, что общий военный счет может быть положительным, то, что позволяет вам добавлять или не добавлять военные цели, — это ваш индивидуальный военный счет — ваш личный вклад — в этой войне.§W;x
 WARGOAL_LACK_JINGO;Мы требуем $REQUIRED$ поддержки ура-патриотизма в нашей стране, но имеем только $VALUE$. Джингоизм представляет желание правителя или верхней палаты продлить войну. Чем выше ура-патриотизм, тем больше шансов, что у необходимых акторов будет воля и/или поддержка для продления войны.;x ;
 berlin_conference;Берлинская конференция;x
@@ -89,20 +89,20 @@ TERM_FOR_LIFE;Нет выборов в этой форме правления.;x
 HAVE_LESS_BADBOY_THAN;Иметь меньше позора, чем;x
 HAVE_AT_LEAST_ONE_OWNED_NEIGHBORING_PROVINCE;Иметь хотя бы одну соседнюю провинцию в собственности, такую, что:;x
 DONT_HAVE_THE_PROVINCE_MODIFIER;НЕ иметь модификатора провинции;x
-HAS_NO_NATIONAL_MINORITY;Имеет меньшинства;x;
-HAS_NOT_NATIONAL_MINORITY;Имеет меньшинства;x;
-HAS_NATIONAL_MINORITY;Имеет меньшинства;x;
-beifaren;Северная Хань;x;
-nanfaren;Южный Хан;x;
-control_1;Устаревшая поршневая паровая машина;x;
-control_1_desc;Устаревание — это состояние бытия, которое возникает, когда объект, услуга или практика больше не нужны, даже если они все еще находятся в хорошем рабочем состоянии. Получается, что поршневые паровые машины изрядно устарели и утратили часть своих преимуществ.;x;
-control_2;Устаревшая паровая машина высокого давления;x;
-control_2_desc;Устаревание — это состояние бытия, которое возникает, когда объект, услуга или практика больше не нужны, даже если они все еще находятся в хорошем рабочем состоянии. Получается, что паровые машины высокого давления изрядно устарели и утратили часть своих преимуществ.;x;
-control_3;Устаревшая составная паровая машина;x;
-control_3_desc;Устаревание — это состояние бытия, которое возникает, когда объект, услуга или практика больше не нужны, даже если они все еще находятся в хорошем рабочем состоянии. Получается, что составные паровые машины сильно устарели и потеряли часть своих преимуществ.;x;
-control_4;Устаревшие паровые турбины;x;
-control_4_desc;Устаревание — это состояние бытия, которое возникает, когда объект, услуга или практика больше не нужны, даже если они все еще находятся в хорошем рабочем состоянии. Получается, что паровые турбины изрядно устарели и утратили часть своих преимуществ.;x;
-acceptable_subsidies_l;Расширенные субсидии;x;
+HAS_NO_NATIONAL_MINORITY;Имеет меньшинства;x
+HAS_NOT_NATIONAL_MINORITY;Имеет меньшинства;x
+HAS_NATIONAL_MINORITY;Имеет меньшинства;x
+beifaren;Северная Хань;x
+nanfaren;Южный Хан;x
+control_1;Устаревшая поршневая паровая машина;x
+control_1_desc;Устаревание — это состояние бытия, которое возникает, когда объект, услуга или практика больше не нужны, даже если они все еще находятся в хорошем рабочем состоянии. Получается, что поршневые паровые машины изрядно устарели и утратили часть своих преимуществ.;x
+control_2;Устаревшая паровая машина высокого давления;x
+control_2_desc;Устаревание — это состояние бытия, которое возникает, когда объект, услуга или практика больше не нужны, даже если они все еще находятся в хорошем рабочем состоянии. Получается, что паровые машины высокого давления изрядно устарели и утратили часть своих преимуществ.;x
+control_3;Устаревшая составная паровая машина;x
+control_3_desc;Устаревание — это состояние бытия, которое возникает, когда объект, услуга или практика больше не нужны, даже если они все еще находятся в хорошем рабочем состоянии. Получается, что составные паровые машины сильно устарели и потеряли часть своих преимуществ.;x
+control_4;Устаревшие паровые турбины;x
+control_4_desc;Устаревание — это состояние бытия, которое возникает, когда объект, услуга или практика больше не нужны, даже если они все еще находятся в хорошем рабочем состоянии. Получается, что паровые турбины изрядно устарели и утратили часть своих преимуществ.;x
+acceptable_subsidies_l;Расширенные субсидии;x
 MONEY_IS_ATLEAST_TRIGGER;Сумма денег не менее §Y$VALUE$§W?\n;x
 EFFECT_BUILD_IN_CAPITAL_DESC;§Y$BLD$? строительство будет происходить в: §Y$PROVS$?\n;x
 ADD_WARGOAL_PRESTIGE;Если мы достигнем этой цели войны, мы получим $COST$ §Yпрестиж§W;x
@@ -118,9 +118,9 @@ COALITION_WIN;Коалиция §Y$IDE$§W получила $VAL$% мест и сформирует основу правит
 RULE_PRIMARY_CULTURE_VOTING;\nОсновная культура может голосовать;x
 RULE_CULTURE_VOTING;\nПринятые культуры могут голосовать;x
 RULE_ALL_VOTING;\nВсе культуры могут голосовать;x
-lacking_writing_system;Не хватает системы письма;x;
-clay_and_douglas_draft_enacted;Клэй и Дуглас подписали проект;x;
-wilmot_proviso_providing;Уилмот оговорка подписана;x;
+lacking_writing_system;Не хватает системы письма;x
+clay_and_douglas_draft_enacted;Клэй и Дуглас подписали проект;x
+wilmot_proviso_providing;Уилмот оговорка подписана;x
 timber;Древесин?;x
 timber_RGO_SIZE;Размер деревянного домика;
 aeroplane_factory_desc;Большинство самолетов той эпохи строились из дерева, с использованием металлических разъемов для соединительных элементов и с использованием фортепианной проволоки или многожильного стального троса для крепления. Деревянные конструкции обычно включали несколько различных типов древесины с тщательным использованием разных пород дерева в зависимости от их механических свойств, и они обычно покрывались различными тканями, включая прорезиненный хлопок и лакированный шелк. Первой конструкцией двигателя, которая широко использовалась для приведения в действие самолетов, был двигатель V8 Antoinette с водяным охлаждением, который считается самым первым восьмицилиндровым двигателем внутреннего сгорания V-образной формы, когда-либо запущенным в производство.;x
@@ -165,7 +165,7 @@ fertilizer_factory_desc;На этой фабрике удобрение создается из гуано, серы или к
 MODIFIER_CB_GENERATION_SPEED_MODIFIER;Casus Belli Скорость приобретения;x
 MODIFIER_MOBILIZATION_IMPACT;Мобилизационное воздействие;x
 GREAT_WARS_ENABLED_DESC;Обнаружены великие войны.\n;x
-GREAT_WARS_DISABLED_DESC;Великие войны еще не открыты.\n;x;
+GREAT_WARS_DISABLED_DESC;Великие войны еще не открыты.\n;x
 HAVE_NOT_A_PORT_IN;НЕ иметь порта в;x
 IN_SOCIAL_MOVEMENT;в общественном движении\n;x
 NOT_IN_SOCIAL_MOVEMENT;не в общественном движении\n;x
@@ -187,12 +187,12 @@ yazidi;езиды;x
 yazidi_group;Группа езидов;x
 islamic_law;Исламский закон;x
 EFFECT_CRISIS_INTEREST;$COUNTRY$ заявляет об интересе к текущему кризису\n;x
-NORMAL_WAR_NAME_FASCISM;$ORDER$$FIRST$-$SECOND$ Blackshirt Revolution;x;
-AGRESSION_WAR_NAME_FASCISM;$ORDER$$FIRST$-$SECOND$ Blackshirt Revolution;x;
-NORMAL_WAR_NAME_COMMUNISM;$ORDER$$ПЕРВАЯ$-$ВТОРАЯ$ Война за независимость;x;
-AGRESSION_WAR_NAME_COMMUNISM;$ORDER$$ПЕРВАЯ$-$ВТОРАЯ$ Война за независимость;x;
-NORMAL_WAR_NAME_DEMOCRACY;$ПОРЯДОК$$ПЕРВАЯ$-$ВТОРАЯ$ Контрреволюция;x;
-AGRESSION_WAR_NAME_DEMOCRACY;$ПОРЯДОК$$ПЕРВАЯ$-$ВТОРАЯ$ Контрреволюция;x;
+NORMAL_WAR_NAME_FASCISM;$ORDER$$FIRST$-$SECOND$ Blackshirt Revolution;x
+AGRESSION_WAR_NAME_FASCISM;$ORDER$$FIRST$-$SECOND$ Blackshirt Revolution;x
+NORMAL_WAR_NAME_COMMUNISM;$ORDER$$ПЕРВАЯ$-$ВТОРАЯ$ Война за независимость;x
+AGRESSION_WAR_NAME_COMMUNISM;$ORDER$$ПЕРВАЯ$-$ВТОРАЯ$ Война за независимость;x
+NORMAL_WAR_NAME_DEMOCRACY;$ПОРЯДОК$$ПЕРВАЯ$-$ВТОРАЯ$ Контрреволюция;x
+AGRESSION_WAR_NAME_DEMOCRACY;$ПОРЯДОК$$ПЕРВАЯ$-$ВТОРАЯ$ Контрреволюция;x
 aristocrats;????????????;x
 appointed_desc;Помещики или капиталисты были назначены в Верхней палате вождем страны.;x
 landed_voting_desc;Голосовать могут только землевладельцы и капиталисты.;x
@@ -206,7 +206,7 @@ IS_NOT_IN_A_SPHERE;Не в сфере влияния.;x
 HOLD_ELECTION_BUTTON;Провести выборы;x
 HOLD_ELECTION;Провести выборы\n;x
 NATIONALIZE_INDUSTRY_EFFECT;Выполнить национализацию\n;x
-2nd_caucasian_war;Вторая Кавказская война;x;
+2nd_caucasian_war;Вторая Кавказская война;x
 RELEASE;Освободить §Y$WHO$§W как независимое государство.\n;x
 modern_central_bank_system_invented;Изобретена современная центральная банковская система;x
 PEACE_WE_ACCEPT_2;Мы приняли мирное предложение от;x
@@ -243,24 +243,24 @@ absolute_monarchy_ruler;Король;x
 prussian_constitutionalism_ruler;Король;x
 hms_government_ruler;Король;x
 democracy_ruler;Президент;x
-islamic_fundamentalists_title;Исламские фундаменталисты;x;
-islamic_fundamentalists_name;Исламские фундаменталисты;x;
-islamic_fundamentalists_desc;Исламские фундаменталисты считают, что ислам основан на Коране, хадисах и сунне, и «критикуют традиции, комментарии, популярные религиозные практики (марабутизм, культ святых), отклонения и суеверия». Они стремятся вернуться к основополагающим текстам, избавиться от внешнего упадка, свергнуть правительство и установить фундаменталистское государство.;x;
-islamic_fundamentalists_army;Исламские фундаменталисты;x;
-theocracy;теократия;x;
-artillery_production_desc;Промышленная революция XIX века затронула практически все области человеческой деятельности, и артиллерийское производство не стало исключением. То, что раньше было длительным процессом литья бронзовых пушек, в руках светил индустрии, таких как Альфред Крупп или Хирам Максим, станет промышленно развитой и точной наукой.;x;
-australian;австралийский;x;
+islamic_fundamentalists_title;Исламские фундаменталисты;x
+islamic_fundamentalists_name;Исламские фундаменталисты;x
+islamic_fundamentalists_desc;Исламские фундаменталисты считают, что ислам основан на Коране, хадисах и сунне, и «критикуют традиции, комментарии, популярные религиозные практики (марабутизм, культ святых), отклонения и суеверия». Они стремятся вернуться к основополагающим текстам, избавиться от внешнего упадка, свергнуть правительство и установить фундаменталистское государство.;x
+islamic_fundamentalists_army;Исламские фундаменталисты;x
+theocracy;теократия;x
+artillery_production_desc;Промышленная революция XIX века затронула практически все области человеческой деятельности, и артиллерийское производство не стало исключением. То, что раньше было длительным процессом литья бронзовых пушек, в руках светил индустрии, таких как Альфред Крупп или Хирам Максим, станет промышленно развитой и точной наукой.;x
+australian;австралийский;x
 serfdom_not_abolished;Крепостное право не отменено;x
-theocratic_government;Теократическое правительство;x;
-communist_gov;Коммунистический режим;x;
-absolute_monarchy_gov;Абсолютная монархия;x;
-semi_constitutional_monarchy_gov;Полуконституционная монархия;x;
-constitutional_monarchy_gov;Конституционная монархия;x;
-democracy_gov;Демократия;x;
-presidential_dictatorship_gov;Президентская диктатура;x;
-fascist_gov;Фашистский режим;x;
-anarcho_liberal_gov;Анархо-либеральный режим;x;
-serfs;Крепостные;x;
+theocratic_government;Теократическое правительство;x
+communist_gov;Коммунистический режим;x
+absolute_monarchy_gov;Абсолютная монархия;x
+semi_constitutional_monarchy_gov;Полуконституционная монархия;x
+constitutional_monarchy_gov;Конституционная монархия;x
+democracy_gov;Демократия;x
+presidential_dictatorship_gov;Президентская диктатура;x
+fascist_gov;Фашистский режим;x
+anarcho_liberal_gov;Анархо-либеральный режим;x
+serfs;Крепостные;x
 TRIGGER_STATE;Состояние;x
 nv_autocracy;Самодержавие;x
 nv_tradition;Традиция;x
@@ -306,97 +306,97 @@ residency_desc;Эта партия поддерживает политику по ограничению гражданства и пол
 limited_citizenship_desc;Эта партия поддерживает политику по ограничению гражданства и политических прав людьми той же культурной группы этой нации.;x
 full_citizenship_desc;Эта партия поддерживает равенство всех голосов.;x
 movement_censored_press;Кампания за большую свободу прессы;x
-revolution_n_counter_researched;Революция и контрреволюция исследованы;x;
-crisis_begin_researched;Кризисное событие спровоцировано;x;
-medicine_invented;Исследованная медицина;x;
-germs_invented;Изобретенная микробная теория;x;
-gaslights_invented;Изобретенные газовые фонари;x;
-electricity_invented;Исследовано электричество;x;
-germ_theory;Микробная теория и экспериментальная патология;x;
-germ_theory_desc;Микробная теория болезней утверждает, что некоторые болезни вызываются микроорганизмами. Эти маленькие организмы, слишком маленькие, чтобы их можно было увидеть без увеличения, вторгаются в людей, животных и других живых существ. Их рост и размножение внутри хозяев могут вызвать заболевание. Теория микробов была предложена в середине 16 века и получила широкое признание, когда была подтверждена научными открытиями 17-го и конца 19-го веков. Она вытеснила более ранние объяснения болезней, такие как теория миазмов Галена.;x;
-prussian_constitutionalism;Полуконституционная монархия;x;
-hms_government;Конституционная монархия;x;
-market_structure;Структура?Рынк?;x;
-former_sphere_leader;Бывший лидер сферы;x;
-former_overlord;Бывший Повелитель;x;
-cisplatina_is_ours;Цисплатина наша;x;
-pessimist;пессимист;x;
-MOR_1696;Западная Сахара;x;
+revolution_n_counter_researched;Революция и контрреволюция исследованы;x
+crisis_begin_researched;Кризисное событие спровоцировано;x
+medicine_invented;Исследованная медицина;x
+germs_invented;Изобретенная микробная теория;x
+gaslights_invented;Изобретенные газовые фонари;x
+electricity_invented;Исследовано электричество;x
+germ_theory;Микробная теория и экспериментальная патология;x
+germ_theory_desc;Микробная теория болезней утверждает, что некоторые болезни вызываются микроорганизмами. Эти маленькие организмы, слишком маленькие, чтобы их можно было увидеть без увеличения, вторгаются в людей, животных и других живых существ. Их рост и размножение внутри хозяев могут вызвать заболевание. Теория микробов была предложена в середине 16 века и получила широкое признание, когда была подтверждена научными открытиями 17-го и конца 19-го веков. Она вытеснила более ранние объяснения болезней, такие как теория миазмов Галена.;x
+prussian_constitutionalism;Полуконституционная монархия;x
+hms_government;Конституционная монархия;x
+market_structure;Структура?Рынк?;x
+former_sphere_leader;Бывший лидер сферы;x
+former_overlord;Бывший Повелитель;x
+cisplatina_is_ours;Цисплатина наша;x
+pessimist;пессимист;x
+MOR_1696;Западная Сахара;x
 time_saving_measures;Эконом? Времен?;x
 time_saving_measures_desc;Меры по экономии времени;x
 FOCUS_OWNED_BY;Вы не можете размещать национальный фокус в чужой провинции, если только она не является потенциальной точкой воспламенения для ваших кор-героев. Поощрение напряженности в точке возгорания требует изучения Революции и Контрреволюции.;x
 residency_desc;Голосовать могут только представители основной культуры вашей страны.;x
-secularized_desc;Религия не является явно частью государственной политики, но государство приоткрывает шляпу перед традиционными религиозными ценностями.;x;
-dismantle_declared;Демонтирован;x;
-in_great_war;В Великой войне;x;
-THE_CAPITAL_IS;Столица;x;
-post_colonial_country;Постколониальная нация;x;
+secularized_desc;Религия не является явно частью государственной политики, но государство приоткрывает шляпу перед традиционными религиозными ценностями.;x
+dismantle_declared;Демонтирован;x
+in_great_war;В Великой войне;x
+THE_CAPITAL_IS;Столица;x
+post_colonial_country;Постколониальная нация;x
 mormon;Мормон;x
 gypsy;цыган;x
-eugen_von_bohm_bawerk;Ойген фон Бём-Баверк;x;
+eugen_von_bohm_bawerk;Ойген фон Бём-Баверк;x
 eugen_von_bohm_bawerk_desc;Карьера Бем-Баверка как ученого была прерывистой. Наиболее значительным периодом научной деятельности были годы его учебы в Инсбрукском университете (1881–1889). Именно в 1880-х годах он впервые опубликовал два из трех томов своего великого опуса «Капитал и проценты». В его последние годы преобладали обязанности министра финансов Австрии, должность, которую он занимал, хотя и не постоянно, на протяжении 1890-х годов и позже, и за что он заслуженно удостоен чести иметь свое изображение на австрийской банкноте в сто шиллингов. После службы в этом качестве и выполнения других государственных обязанностей он вернулся к преподаванию в 1904 году. Заняв кафедру в Венском университете, он стал коллегой Визера, преемником вышедшего на пенсию Менгера. Среди студентов, прошедших через университет в последнее десятилетие карьеры Бём-Баверка (и жизни: он умер в 1914 году), были Йозеф Шумпетер и Людвиг фон Мизес.;
-leon_walras;Леон Вальрас;x;
+leon_walras;Леон Вальрас;x
 leon_walras_desc;Французский экономист Леон Вальрас (произносится как «Вальрас») был провозглашен Йозефом Шумпетером как «величайший из всех экономистов». Вальрас был одним из трех лидеров маржиналистской революции, хотя его величайшая работа «Элементы чистой экономики» была опубликована в 1874 году, через три года после работ Уильяма Стэнли Джевонса и Карла Менгера. Тем не менее, единственный из трех революционеров Леон Вальрас изложил новую «маржиналистскую» или «неоклассическую» теорию в условиях формального общего равновесия. Таким образом, он наделил его многорыночными соображениями, которых Джевонс в значительной степени избегал, и математической точностью, которой избегал Менгер. Леон Вальрас широко и по праву считается отцом теории общего равновесия.;
-jean_jaures;Жан Жорис;x;
+jean_jaures;Жан Жорис;x
 jean_jaures_desc;Жорис был избран в Палату депутатов в 1885 году. Потерпев поражение на выборах 1889 года, он вернулся в Тулузский университет. Он становился все более радикальным в своих политических взглядах и после прочтения Карла Маркса начал выступать за социализм. Он не был революционером и поддерживал независимых социалистов. Находясь вне парламента, Жорис завершил свою гигантскую «Социалистическую историю Французской революции». Он также присоединился к Аристиду Бриану и Рене Вивиани в 1904 году, чтобы основать левую газету L'Humanit? в 1904 году. Новая Социалистическая партия под руководством Жореса быстро росла в начале века, но раскололась из-за правильного ответа немецкому милитаризму. Жорис выступал за политику международного арбитража, тогда как другие поддерживали Тройственное согласие.;
-johann_heinrich_von_thunen;Иоганн Генрих фон Тюнен;x;
+johann_heinrich_von_thunen;Иоганн Генрих фон Тюнен;x
 johann_heinrich_von_thunen_desc;Иоганн Генрих фон Тюнен был северогерманским землевладельцем из Мекленбурга. Несмотря на то, что он получил образование в Геттингене, большую часть своей жизни он провел, управляя своим сельским поместьем Теллоу. В первом томе своего трактата «Изолированное государство» (1826 г.) он изложил первую серьезную трактовку пространственной экономики, связанную с теорией ренты. Его второй том (1850 г.) математически точно развил сущность теории распределения предельной производительности, что сделало его одним из самых важных протомаржиналистов той эпохи. Перед смертью он попросил, чтобы его знаменитое уравнение для предельного продукта труда, или естественной заработной платы, было вырезано на его надгробии.;
-colorado_rebels_title;Колорадос;x;
-colorado_rebels_name;Колорадские повстанцы;x;
-colorado_rebels_desc;Колорадо стремятся свергнуть правительство Бланко и привести к власти свою партию.;x;
-colorado_rebels_army;Колорадские повстанцы;x;
-blanco_rebels_title;Бланко;x;
-blanco_rebels_name;Бланко Ребелс;x;
-blanco_rebels_desc;Бланко стремятся свергнуть правительство Колорадо и привести к власти свою партию.;x;
-blanco_rebels_army;Бланко Ребелс;x;
-separatist_rebels_title;Патриот;x;
-separatist_rebels_name;$КУЛЬТУРА$ Патриоты;x;
-separatist_rebels_desc;Повстанцы-патриоты мечтают об объединении со своими культурными родственниками под свободным знаменем, и любая провинция, которую они получат под свой контроль, в конечном итоге перейдет на сторону соседней страны их культуры.;x;
-separatist_rebels_army;$КУЛЬТУРА$ Патриоты;x;
+colorado_rebels_title;Колорадос;x
+colorado_rebels_name;Колорадские повстанцы;x
+colorado_rebels_desc;Колорадо стремятся свергнуть правительство Бланко и привести к власти свою партию.;x
+colorado_rebels_army;Колорадские повстанцы;x
+blanco_rebels_title;Бланко;x
+blanco_rebels_name;Бланко Ребелс;x
+blanco_rebels_desc;Бланко стремятся свергнуть правительство Колорадо и привести к власти свою партию.;x
+blanco_rebels_army;Бланко Ребелс;x
+separatist_rebels_title;Патриот;x
+separatist_rebels_name;$КУЛЬТУРА$ Патриоты;x
+separatist_rebels_desc;Повстанцы-патриоты мечтают об объединении со своими культурными родственниками под свободным знаменем, и любая провинция, которую они получат под свой контроль, в конечном итоге перейдет на сторону соседней страны их культуры.;x
+separatist_rebels_army;$КУЛЬТУРА$ Патриоты;x
 afro_caribeno;афро латиноамериканец;x
-NOT_STRONGER_ARMY_THAN;Не имеет более сильных вооруженных сил, чем;x;
-STRONGER_ARMY_THAN;Имеет более сильную армию, чем;x;
-beiyang_faction;Beiyang Faction;x;
-kuomintang_faction;Гоминьдан Фракция;x;
-neutral_faction;Часть не фракции;x;
-communist_faction;Коммунистическая фракция;x;
-mandatory_service;Обслуживание по требованию;x;
-mandatory_service_l;Обслуживание по требованию;x;
-mandatory_service_desc;Все взрослые мужчины должны служить в армии. Правительство может призывать призывников столько, сколько захочет.;x;
-movement_mandatory_service;Mandatory Service Movement.;x;
-four_year_draft;Four Year Draft;Four Year Draft;Four Year Draft;x;
-four_year_draft_l;Four Year Draft;Four Year Draft;Four Year Draft;x;
-four_year_draft_desc;Conscripts are drafted for four years.;Conscripts are drafted for four years.;Conscripts are drafted for four years.;x;
-movement_four_year_draft;Movement for Four Year Draft Implementation;x;
-two_year_draft;Two Year Draft;Two Year Draft;Two Year Draft;x;
-two_year_draft_l;Two Year Draft;Two Year Draft;Two Year Draft;x;
-two_year_draft_desc;Conscripts are drafted for two years.;Conscripts are drafted for two years.;Conscripts are drafted for two years.;x;
-movement_two_year_draft;Movement for Two Year Draft Implementation;x;
-one_year_draft;One Year Draft;One Year Draft;One Year Draft;x;
-one_year_draft_l;One Year Draft;One Year Draft;One Year Draft;x;
-one_year_draft_desc;Conscripts are drafted for one year.;Conscripts are drafted for one year.;Conscripts are drafted for one year.;x;
-movement_one_year_draft;Movement for One Year Draft Implementation;x;
-no_draft;No Draft;No Draft;No Draft;x;
-no_draft_l;No Draft;No Draft;No Draft;x;
-no_draft_desc;No conscription.;No conscription.;No conscription.;x;
-conscription;Conscription;Conscription;Conscription;x;
-movement_no_draft;Movement for the Abolition of the Conscription;x;
+NOT_STRONGER_ARMY_THAN;Не имеет более сильных вооруженных сил, чем;x
+STRONGER_ARMY_THAN;Имеет более сильную армию, чем;x
+beiyang_faction;Beiyang Faction;x
+kuomintang_faction;Гоминьдан Фракция;x
+neutral_faction;Часть не фракции;x
+communist_faction;Коммунистическая фракция;x
+mandatory_service;Обслуживание по требованию;x
+mandatory_service_l;Обслуживание по требованию;x
+mandatory_service_desc;Все взрослые мужчины должны служить в армии. Правительство может призывать призывников столько, сколько захочет.;x
+movement_mandatory_service;Mandatory Service Movement.;x
+four_year_draft;Four Year Draft;Four Year Draft;Four Year Draft;x
+four_year_draft_l;Four Year Draft;Four Year Draft;Four Year Draft;x
+four_year_draft_desc;Conscripts are drafted for four years.;Conscripts are drafted for four years.;Conscripts are drafted for four years.;x
+movement_four_year_draft;Movement for Four Year Draft Implementation;x
+two_year_draft;Two Year Draft;Two Year Draft;Two Year Draft;x
+two_year_draft_l;Two Year Draft;Two Year Draft;Two Year Draft;x
+two_year_draft_desc;Conscripts are drafted for two years.;Conscripts are drafted for two years.;Conscripts are drafted for two years.;x
+movement_two_year_draft;Movement for Two Year Draft Implementation;x
+one_year_draft;One Year Draft;One Year Draft;One Year Draft;x
+one_year_draft_l;One Year Draft;One Year Draft;One Year Draft;x
+one_year_draft_desc;Conscripts are drafted for one year.;Conscripts are drafted for one year.;Conscripts are drafted for one year.;x
+movement_one_year_draft;Movement for One Year Draft Implementation;x
+no_draft;No Draft;No Draft;No Draft;x
+no_draft_l;No Draft;No Draft;No Draft;x
+no_draft_desc;No conscription.;No conscription.;No conscription.;x
+conscription;Conscription;Conscription;Conscription;x
+movement_no_draft;Movement for the Abolition of the Conscription;x
 yes_slavery_desc;Slavery is allowed.\n§RThis reform affects POP promotion chance - promotion will be slower, both globally and even more in slave states.§W\n§YPops in Slave states will be more conservative and less liberal. Immigrants are less likely to choose slave states.§W\n§GThe slave population will grow.§W;x
 freedom_of_womb_desc;Slaves children are freed at birth and, in most cases, old slaves are also freed. The slave population stops growing. \n§RThis reform affects POP promotion chance - promotion will be slower, both globally and even more in slave states.§W\n§YPops in Slave states will be more conservative and less liberal. Immigrants are less likely to choose slave states.§W\n§RThe slave population will stop growing.§W;,;
-movement_freedom_of_womb;Freedom of Womb Campaign;x;,;
-no_slavery_desc;Slavery is forbidden.;x;
-no_slavery_l;Outlaw Slavery;x;
-primary_culture_only_l;Primary Culture Only Rights;x;
-primary_culture_only_desc;Only the first class citizens of the country are allowed to participate in the political life, all the other groups are segregated. Becoming a first class citizen is hard and extremely limited.;x;
-movement_primary_culture_only;Pro Citizens Movement;x;
-culture_voting_only_l;Accepted Cultures Rights;x;
-culture_voting_only_desc;Persons from the country's culture are allowed to participate in the political life of the country and citizenship is greatly facilitated for these people.;x;
-movement_culture_voting_only;Movement for Cultural Political Rights;x;
-all_voting_pops_l;All Allowed Rights;x;
-all_voting_pops_desc;All legal immigrants, regardless of the culture, are allowed to vote. Acquiring citizenship status is facilitated.;x;
-movement_all_voting_pops;The League for Universal Political Rights;x;
-movement_open_borders;Pro Immigration Movement;x;
-unemployment_subsidies;Unemployment;x;
+movement_freedom_of_womb;Freedom of Womb Campaign;x,;
+no_slavery_desc;Slavery is forbidden.;x
+no_slavery_l;Outlaw Slavery;x
+primary_culture_only_l;Primary Culture Only Rights;x
+primary_culture_only_desc;Only the first class citizens of the country are allowed to participate in the political life, all the other groups are segregated. Becoming a first class citizen is hard and extremely limited.;x
+movement_primary_culture_only;Pro Citizens Movement;x
+culture_voting_only_l;Accepted Cultures Rights;x
+culture_voting_only_desc;Persons from the country's culture are allowed to participate in the political life of the country and citizenship is greatly facilitated for these people.;x
+movement_culture_voting_only;Movement for Cultural Political Rights;x
+all_voting_pops_l;All Allowed Rights;x
+all_voting_pops_desc;All legal immigrants, regardless of the culture, are allowed to vote. Acquiring citizenship status is facilitated.;x
+movement_all_voting_pops;The League for Universal Political Rights;x
+movement_open_borders;Pro Immigration Movement;x
+unemployment_subsidies;Unemployment;x
 child_labor_illegal;Child Labor Illegal;x
 child_labor_illegal_l;Child Labor Illegal;x
 child_labor_illegal_desc;Child Labor is viewed as immoral and is illegal.;x
@@ -422,33 +422,33 @@ colonial_transportation_desc;Prisoners are sent to either far away or inhospitab
 movement_colonial_transportation;Campaign for the Abolition of Capital Punishment;x
 incarceration;Incarceration;x
 incarceration_l;Incarceration;x
-incarceration_desc;Convicts are imprisoned with the intent of removing undesirables from society, though they aren't used for hard manual labor most of the times.\n§YThis reform is neutral - no effects.§W;x;
+incarceration_desc;Convicts are imprisoned with the intent of removing undesirables from society, though they aren't used for hard manual labor most of the times.\n§YThis reform is neutral - no effects.§W;x
 movement_incarceration;Movement for the Abolition of Penal Colonies;x
 rehabilitation;Rehabilitation;x
 rehabilitation_l;Rehabilitation;x
 rehabilitation_desc;Convicts are imprisoned with the intent of reforming them and reintroducing them into society.;x
 movement_rehabilitation;Rehabilitation of Prisoners Campaign;x
-EVTNAME34608;Child Labour Law Passed;x;
-EVTDESC34608;Following Britain's lead, in $YEAR$ Prussia, under the influence of some religious and social figures, passed a law strictly regulating the amount of child labour that was possible during the year.  According to the new legislation, the Prussian government will lay down restrictions on child labor, with the following main points: children under the age of nine are banned from factory labor, children needed to have had at least three years of schooling before working, and children under the age of sixteen could work no more than ten hours per day. Other provisions included mandated rest times and a total ban on night work for children.;x;
-EVTOPTA34608;Those poor children!;x;
+EVTNAME34608;Child Labour Law Passed;x
+EVTDESC34608;Following Britain's lead, in $YEAR$ Prussia, under the influence of some religious and social figures, passed a law strictly regulating the amount of child labour that was possible during the year.  According to the new legislation, the Prussian government will lay down restrictions on child labor, with the following main points: children under the age of nine are banned from factory labor, children needed to have had at least three years of schooling before working, and children under the age of sixteen could work no more than ten hours per day. Other provisions included mandated rest times and a total ban on night work for children.;x
+EVTOPTA34608;Those poor children!;x
 EVTOPTB34608;This isn't really necessary. Revoke the law.;x
-EVTNAME3700;Chimney Sweepers;x;
-EVTDESC3700;'A young boy arose from the inside of a chimney and gently sat down on the roof. His face and clothes were blackened by the soot from the chimney and showed that this was not the first chimney he had swept this day. Tired, he climbed down the roof and trotted off after receiving a penny from the house matron.' \n \n The hard work that the city's young chimney sweepers perform has outraged many, and a committee has been formed to tackle the rough working conditions.;x;
-EVTOPTA3700;We should consider legislation to end this.;x;x
+EVTNAME3700;Chimney Sweepers;x
+EVTDESC3700;'A young boy arose from the inside of a chimney and gently sat down on the roof. His face and clothes were blackened by the soot from the chimney and showed that this was not the first chimney he had swept this day. Tired, he climbed down the roof and trotted off after receiving a penny from the house matron.' \n \n The hard work that the city's young chimney sweepers perform has outraged many, and a committee has been formed to tackle the rough working conditions.;x
+EVTOPTA3700;We should consider legislation to end this.;xx
 EVTOPTB3700;Hard work is the foundation of a good moral character.;x
 EVTNAME370000002;Long Work Hours;x
 EVTDESC370000002;'The factories extend their flanks of fouler brick one after another, bare, with shutterless windows, like economical and colossal prisons... and inside, lit by gas-jets and deafened by the uproar of their own labour, toil thousands of workmen, penned in, regimented, hands active, feet motionless, all day and every day, mechanically serving their machines...' \n The hard work that the city's workers perform has outraged many, and a committee has been formed to tackle the rough working conditions.;x
 EVTOPTA370000002;We should consider legislation to change this.;x
 EVTOPTB370000002;Hard work is the foundation of a good moral character.;x
-;x;
+;x
 NORMAL_WAR_TAKE_NAME_RUS_CIR;$ORDER$ Caucasian War;x
 NORMAL_WAR_TAKE_CORE_NAME_RUS_CIR;$ORDER$ Caucasian War;x
 NORMAL_WAR_TAKE_NAME_RUS_DAG;$ORDER$ Caucasian War;x
 NORMAL_WAR_TAKE_CORE_NAME_RUS_DAG;$ORDER$ Caucasian War;x
-secularized_desc;Religion is not explicitly part of state policy, but the state tips its hat to traditional religious values.;x;
-dismantle_declared;Dismantled;x;
-in_great_war;In a Great War;x;
-post_colonial_country;Post-Colonial Nation;x;
+secularized_desc;Religion is not explicitly part of state policy, but the state tips its hat to traditional religious values.;x
+dismantle_declared;Dismantled;x
+in_great_war;In a Great War;x
+post_colonial_country;Post-Colonial Nation;x
 school_reforms;School System;Schulsystem;x
 no_schools;No School System;Kein Schulsystem;x
 low_schools;Basic School System;Einfaches Schulsystem;x
@@ -476,34 +476,34 @@ jewish_cultures;Jewish Cultures;x
 itsekari;Ijaw;x
 kuba;Bakuba;x
 mormon;Mormon;x
-separatist_rebels_title;Patriot;x;
-separatist_rebels_name;$CULTURE$ Patriots;x;
-separatist_rebels_desc;Patriot rebels dream of unification with their cultural kin under a free banner, and any province they gain control of will eventually defect to a neighboring country of their culture.;x;
-separatist_rebels_army;$CULTURE$ Patriots;x;
-indian_nationalists_title;Indian Nationalist;Pan-Nationalisten;x;
-indian_nationalists_name;Indian Nationalists;$UNION_ADJ$ Pan-Nationalisten;x;
-indian_nationalists_desc;Indian nationalists seek to unify the sub-continent into a free and independent nation-state, by any means necessary. This includes breaking free from foreign oppressors and uniting with their cultural kin.;x;
-indian_nationalists_army;Indian Nationalists;Junge $UNION$ Brigaden;x;
-socialist_rebels_title;Militant Socialist;x;
-socialist_rebels_name;Militant Socialists;x;
+separatist_rebels_title;Patriot;x
+separatist_rebels_name;$CULTURE$ Patriots;x
+separatist_rebels_desc;Patriot rebels dream of unification with their cultural kin under a free banner, and any province they gain control of will eventually defect to a neighboring country of their culture.;x
+separatist_rebels_army;$CULTURE$ Patriots;x
+indian_nationalists_title;Indian Nationalist;Pan-Nationalisten;x
+indian_nationalists_name;Indian Nationalists;$UNION_ADJ$ Pan-Nationalisten;x
+indian_nationalists_desc;Indian nationalists seek to unify the sub-continent into a free and independent nation-state, by any means necessary. This includes breaking free from foreign oppressors and uniting with their cultural kin.;x
+indian_nationalists_army;Indian Nationalists;Junge $UNION$ Brigaden;x
+socialist_rebels_title;Militant Socialist;x
+socialist_rebels_name;Militant Socialists;x
 socialist_rebels_desc;In a democracy, militant socialists will seek to enforce a socialist government. In any other country, they will seek to establish a democracy with a socialist government.;x
-socialist_rebels_army;Militant Socialists;x;
-christino_rebels_title;Christino;x;
-christino_rebels_name;Christinos;x;
+socialist_rebels_army;Militant Socialists;x
+christino_rebels_title;Christino;x
+christino_rebels_name;Christinos;x
 christino_rebels_desc;These rebels support the royal line of Ferdinand VII, and consider the current king to be a pretender. They intend to reinstall the rightful queen, and restore the liberal reforms enacted by the previous royal line.;x
-christino_rebels_army;Christinos;x;
-independence_rebels_title;Independence;x;
-independence_rebels_name;Independence Rebels;x;
-independence_rebels_desc;These rebels seek to free the country from its vassal status.;x;
-independence_rebels_army;Independence Rebels;x;
-turkish_nationalist_rebels_title;Turkish Nationalist;x;
-turkish_nationalist_rebels_name;Turkish Nationalists;x;
-turkish_nationalist_rebels_desc;Turkish Nationalists seek to topple the Ottoman monarchy, replacing it with a liberal republic.;x;
-turkish_nationalist_rebels_army;Turkish Nationalists;x;
-native_rebels_title;Anti-Colonial;x;
-native_rebels_name;Anti-Colonial Rebels;x;
-native_rebels_desc;These rebels seek to restore rulership of the country to its proper native culture.;x;
-native_rebels_army;Anti-Colonial Rebels;x;
+christino_rebels_army;Christinos;x
+independence_rebels_title;Independence;x
+independence_rebels_name;Independence Rebels;x
+independence_rebels_desc;These rebels seek to free the country from its vassal status.;x
+independence_rebels_army;Independence Rebels;x
+turkish_nationalist_rebels_title;Turkish Nationalist;x
+turkish_nationalist_rebels_name;Turkish Nationalists;x
+turkish_nationalist_rebels_desc;Turkish Nationalists seek to topple the Ottoman monarchy, replacing it with a liberal republic.;x
+turkish_nationalist_rebels_army;Turkish Nationalists;x
+native_rebels_title;Anti-Colonial;x
+native_rebels_name;Anti-Colonial Rebels;x
+native_rebels_desc;These rebels seek to restore rulership of the country to its proper native culture.;x
+native_rebels_army;Anti-Colonial Rebels;x
 liberal_rebels_desc;In an absolute monarchy, Jacobins will seek to impose a constitutional monarchy. Otherwise, Jacobins will strive to create a democratic government with a liberal ideology and a focus on political reform.;x
 NORMAL_WAR_CONQUEST_ANY_NAME;$ORDER$Conquest of $SECOND$ War;x
 AGRESSION_WAR_CONQUEST_ANY_NAME;$ORDER$War of $FIRST$ Aggression against $SECOND_COUNTRY$;x
@@ -524,27 +524,27 @@ powerful_HRE_desc;The power of the Emperor in Prague hurts our diplomatic possib
 agrarianism;Agrarianism;
 agrarianism_l;Agrarianism;
 agrarianism_desc;A social philosophy which believes rural life is superior to urban life. Factories and industrialization of all kinds are to be discouraged.;
-mari;Mari;x;
-mordvin;Mordvin;x;
-chuvash;Chuvash;x;
-veps;Vepsian;x;
-udmurt;Udmurt;x;
-komi;Komi;x;
-bashkir;Bashkir;x;
-krymchak;Krymchak;x;
-lak;Lak;x;
+mari;Mari;x
+mordvin;Mordvin;x
+chuvash;Chuvash;x
+veps;Vepsian;x
+udmurt;Udmurt;x
+komi;Komi;x
+bashkir;Bashkir;x
+krymchak;Krymchak;x
+lak;Lak;x
 karachai;Karachay;x
 abkhaz;Abkhaz;x
-lezgin;Lezgin;x;
-avar;Avar;x;
-ingush;Ingush;x;
-kumyk;Kumyk;x;
-khalaj;Khalaj;x;
-tat;Tat;x;
-caspian;Caspian;x;
-lurish;Lur;x;
-nuristani;Nuristani;x;
-qashqai;Qashqai;x;
-arvanite;Arvanite;x;
-pamiri;Pamiri;x;
-fahlavi;Fahlavi;x;
+lezgin;Lezgin;x
+avar;Avar;x
+ingush;Ingush;x
+kumyk;Kumyk;x
+khalaj;Khalaj;x
+tat;Tat;x
+caspian;Caspian;x
+lurish;Lur;x
+nuristani;Nuristani;x
+qashqai;Qashqai;x
+arvanite;Arvanite;x
+pamiri;Pamiri;x
+fahlavi;Fahlavi;x
