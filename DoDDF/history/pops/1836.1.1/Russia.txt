@@ -2653,25 +2653,25 @@
 	}
 	
 	clergymen = {
-		culture = mari
+		culture = ugrian
 		religion = catholic
 		size = 250
 	}
 
 	artisans = {
-		culture = mari
+		culture = ugrian
 		religion = catholic
 		size = 250
 	}
 
 	soldiers = {
-		culture = mari
+		culture = ugrian
 		religion = catholic
 		size = 2225
 	}
 
 	farmers = {
-		culture = mari
+		culture = ugrian
 		religion = catholic
 		size = 60577
 	}	
@@ -3039,7 +3039,7 @@
 	}
 	
 	serfs = {
-		culture = mari
+		culture = ugrian
 		religion = catholic
 		size = 30655
 	}	
@@ -3115,13 +3115,13 @@
 	}	
 
 	serfs = {
-		culture = mari
+		culture = ugrian
 		religion = catholic
 		size = 58525
 	}
 	
 	serfs = {
-		culture = mari
+		culture = ugrian
 		religion = catholic
 		size = 3525
 	}	
@@ -3330,25 +3330,25 @@
 	}
 	
 	clergymen = {
-		culture = mari
+		culture = ugrian
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = mari
+		culture = ugrian
 		religion = catholic
 		size = 2200
 	}
 
 	soldiers = {
-		culture = mari
+		culture = ugrian
 		religion = catholic
 		size = 150
 	}
 
 	serfs = {
-		culture = mari
+		culture = ugrian
 		religion = catholic
 		size = 9550
 	}

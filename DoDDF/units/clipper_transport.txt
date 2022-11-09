@@ -27,7 +27,7 @@ clipper_transport = {
     supply_consumption_score = 0
 
     supply_consumption = 1.0
-    supply_cost = { clipper_convoy = 0.064 }
+    supply_cost = { clipper_convoy = 0.025 }
 
     #Naval Abilties
     hull = 1
