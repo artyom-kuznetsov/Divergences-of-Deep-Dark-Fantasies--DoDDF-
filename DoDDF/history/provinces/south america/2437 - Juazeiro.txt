@@ -1,6 +1,6 @@
 owner = AMA
 controller = AMA
 add_core = AMA
-trade_goods = tobacco
+trade_goods = tea
 terrain = new_world_semidesert
 life_rating = 25

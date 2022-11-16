@@ -761,12 +761,6 @@ coal_mine = {
     mine = yes
 }
 
-coffee_plantation = {
-    template = RGO_template_farmers
-    output_goods = coffee
-    value = 1.5 #1.5
-    farm = yes
-}
 
 cotton_plantation = {
     template = RGO_template_farmers
@@ -877,13 +871,6 @@ timber_lodge = {
     template = RGO_template_labourers
     output_goods = timber
     value = 8 #8
-    farm = yes
-}
-
-tobacco_plantation = {
-    template = RGO_template_farmers
-    output_goods = tobacco
-    value = 2 #2.5
     farm = yes
 }
 

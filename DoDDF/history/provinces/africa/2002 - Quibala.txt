@@ -1,6 +1,6 @@
 owner = SCA
 controller = SCA
 add_core = KON
-trade_goods = coffee
+trade_goods = tea
 life_rating = 10
 colonial = 1

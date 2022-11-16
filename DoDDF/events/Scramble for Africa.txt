@@ -47,21 +47,21 @@ country_event = {
         prestige = 25
         #Ivory Coast
         1895 = { trade_goods = precious_metal } #Bouake  (Kokumbo Mine)
-        1899 = { trade_goods = coffee } #Bondouku
-        1897 = { trade_goods = coffee } #Akoupe
-        1896 = { trade_goods = coffee } #Man
+        1899 = { trade_goods = tea } #Bondouku
+        1897 = { trade_goods = tea } #Akoupe
+        1896 = { trade_goods = tea } #Man
         1900 = { trade_goods = fruit } #Odienne
         #Ghana
         1909 = { trade_goods = precious_metal } #Sekondi (Tarkwa Mine)
         1910 = { trade_goods = precious_metal } #Kumai (Obuasi Mine)
-        1907 = { trade_goods = coffee } #Accra (cocoa)
+        1907 = { trade_goods = tea } #Accra (cocoa)
         1912 = { trade_goods = grain } #Wa
-        1911 = { trade_goods = coffee } #Kintampo (cocoa)
-        1915 = { trade_goods = coffee } #Ho (cocoa)
+        1911 = { trade_goods = tea } #Kintampo (cocoa)
+        1915 = { trade_goods = tea } #Ho (cocoa)
         1916 = { trade_goods = cotton } #Yendi
         #Togo
-        1914 = { trade_goods = coffee } #Lome
-        1917 = { trade_goods = coffee } #Atakpame
+        1914 = { trade_goods = tea } #Lome
+        1917 = { trade_goods = tea } #Atakpame
         1918 = { trade_goods = cotton } #Sokode
         #Nigeria
         1935 = { trade_goods = coal } #Aruchukwu (representing Enugu)

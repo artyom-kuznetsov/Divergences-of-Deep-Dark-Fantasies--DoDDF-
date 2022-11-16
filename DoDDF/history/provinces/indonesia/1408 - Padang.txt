@@ -3,5 +3,5 @@ controller = PLM
 add_core = ATJ
 add_core = PLM
 add_core = NUS
-trade_goods = tobacco
+trade_goods = tea
 life_rating = 32

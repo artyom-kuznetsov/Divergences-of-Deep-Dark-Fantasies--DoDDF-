@@ -3,5 +3,5 @@ controller = CLM
 add_core = UCA
 add_core = ELS
 add_core = CLM
-trade_goods = coffee
+trade_goods = tea
 life_rating = 32

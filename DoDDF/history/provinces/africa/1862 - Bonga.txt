@@ -3,5 +3,5 @@ controller = ETH
 add_core = ORO
 add_core = AMT
 add_core = ETH
-trade_goods = coffee
+trade_goods = tea
 life_rating = 35

@@ -1,7 +1,7 @@
 owner = SCA
 controller = SCA
 add_core = SFJ
-trade_goods = coffee
+trade_goods = tea
 naval_base = 1
 colonial = 2
 life_rating = 35

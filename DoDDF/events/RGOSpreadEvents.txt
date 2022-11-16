@@ -28,9 +28,8 @@ province_event = {
             terrain = mountain
         }
         OR = {
-            trade_goods = tobacco
+            
             trade_goods = tea
-            trade_goods = coffee
             trade_goods = grain
             trade_goods = opium
             trade_goods = cotton
@@ -180,9 +179,8 @@ province_event = {
                         terrain = mountain
                     }
                     OR = {
-                        trade_goods = tobacco
+                        
                         trade_goods = tea
-                        trade_goods = coffee
                         trade_goods = grain
                         trade_goods = opium
                         trade_goods = cotton
@@ -229,9 +227,8 @@ province_event = {
                         terrain = mountain
                     }
                     OR = {
-                        trade_goods = tobacco
+                        
                         trade_goods = tea
-                        trade_goods = coffee
                         trade_goods = grain
                         trade_goods = opium
                         trade_goods = cotton
@@ -271,9 +268,7 @@ province_event = {
                             terrain = mountain
                         }
                         OR = {
-                            trade_goods = tobacco
                             trade_goods = tea
-                            trade_goods = coffee
                             trade_goods = grain
                             trade_goods = opium
                             trade_goods = cotton
@@ -294,9 +289,9 @@ province_event = {
                                     terrain = mountain
                                 }
                                 OR = {
-                                    trade_goods = tobacco
+                                    
+									
                                     trade_goods = tea
-                                    trade_goods = coffee
                                     trade_goods = grain
                                     trade_goods = opium
                                     trade_goods = cotton
@@ -346,9 +341,8 @@ province_event = {
                         terrain = mountain
                     }
                     OR = {
-                        trade_goods = tobacco
+                        
                         trade_goods = tea
-                        trade_goods = coffee
                         trade_goods = grain
                         trade_goods = opium
                         trade_goods = cotton
@@ -388,9 +382,8 @@ province_event = {
                             terrain = mountain
                         }
                         OR = {
-                            trade_goods = tobacco
+                            
                             trade_goods = tea
-                            trade_goods = coffee
                             trade_goods = grain
                             trade_goods = opium
                             trade_goods = cotton
@@ -411,9 +404,8 @@ province_event = {
                                     terrain = mountain
                                 }
                                 OR = {
-                                    trade_goods = tobacco
+                                    
                                     trade_goods = tea
-                                    trade_goods = coffee
                                     trade_goods = grain
                                     trade_goods = opium
                                     trade_goods = cotton
@@ -463,9 +455,8 @@ province_event = {
                         terrain = mountain
                     }
                     OR = {
-                        trade_goods = tobacco
+                       
                         trade_goods = tea
-                        trade_goods = coffee
                         trade_goods = grain
                         trade_goods = opium
                         trade_goods = cotton
@@ -505,9 +496,8 @@ province_event = {
                             terrain = mountain
                         }
                         OR = {
-                            trade_goods = tobacco
+                            
                             trade_goods = tea
-                            trade_goods = coffee
                             trade_goods = grain
                             trade_goods = opium
                             trade_goods = cotton
@@ -528,9 +518,8 @@ province_event = {
                                     terrain = mountain
                                 }
                                 OR = {
-                                    trade_goods = tobacco
+                                    
                                     trade_goods = tea
-                                    trade_goods = coffee
                                     trade_goods = grain
                                     trade_goods = opium
                                     trade_goods = cotton
@@ -580,9 +569,8 @@ province_event = {
                         terrain = mountain
                     }
                     OR = {
-                        trade_goods = tobacco
+                        
                         trade_goods = tea
-                        trade_goods = coffee
                         trade_goods = grain
                         trade_goods = opium
                         trade_goods = cotton
@@ -622,9 +610,8 @@ province_event = {
                             terrain = mountain
                         }
                         OR = {
-                            trade_goods = tobacco
+                            
                             trade_goods = tea
-                            trade_goods = coffee
                             trade_goods = grain
                             trade_goods = opium
                             trade_goods = cotton
@@ -645,9 +632,8 @@ province_event = {
                                     terrain = mountain
                                 }
                                 OR = {
-                                    trade_goods = tobacco
+                                    
                                     trade_goods = tea
-                                    trade_goods = coffee
                                     trade_goods = grain
                                     trade_goods = opium
                                     trade_goods = cotton

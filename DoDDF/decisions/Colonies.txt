@@ -322,7 +322,7 @@ political_decisions = {
             1198 = { trade_goods = cotton }
             1195 = { trade_goods = silk }
             1199 = { trade_goods = silk }
-            1202 = { trade_goods = tobacco } #kokand
+            1202 = { trade_goods = tea } #kokand
         }
         ai_will_do = { factor = 1 }
     }
@@ -449,9 +449,9 @@ political_decisions = {
         effect = {
             set_global_flag = philippines_commodities
             treasury = -50000
-            2565 = { trade_goods = tobacco }
-            1457 = { trade_goods = coffee }
-            1458 = { trade_goods = coffee }
+            2565 = { trade_goods = tea }
+            1457 = { trade_goods = tea }
+            1458 = { trade_goods = tea }
         }
         ai_will_do = { factor = 1 }
     }
@@ -807,7 +807,7 @@ political_decisions = {
                         value = 0.2
                     }
                 }
-                trade_goods = coffee
+                trade_goods = tea
             }
             random_owned = {
                 limit = {
@@ -989,10 +989,9 @@ political_decisions = {
                     }
                 }
                 random_list = {
-                    25 = { trade_goods = coffee }
+                    25 = { trade_goods = tea }
                     25 = { trade_goods = cotton }
                     25 = { trade_goods = grain }
-                    25 = { trade_goods = tobacco }
                 }
             }
         }

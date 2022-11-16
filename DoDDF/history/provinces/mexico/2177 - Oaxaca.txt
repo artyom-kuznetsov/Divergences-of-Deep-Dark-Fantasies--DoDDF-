@@ -4,5 +4,5 @@ add_core = CLM
 add_core = AZT
 add_core = MEX
 add_core = ZAP
-trade_goods = coffee
+trade_goods = tea
 life_rating = 35

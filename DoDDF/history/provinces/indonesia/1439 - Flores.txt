@@ -2,6 +2,6 @@ owner = BAL
 controller = BAL
 add_core = BAL
 add_core = NUS
-trade_goods = coffee
+trade_goods = tea
 life_rating = 31
 

@@ -1,5 +1,5 @@
 owner = CHP
 controller = CHP
 add_core = CHP
-trade_goods = tobacco
+trade_goods = tea
 life_rating = 32

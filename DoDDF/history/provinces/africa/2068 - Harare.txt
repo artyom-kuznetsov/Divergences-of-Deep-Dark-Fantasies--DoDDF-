@@ -1,6 +1,6 @@
 owner = SHO
 controller = SHO
 add_core = SHO
-trade_goods = coffee
+trade_goods = tea
 terrain = savanna
 life_rating = 35

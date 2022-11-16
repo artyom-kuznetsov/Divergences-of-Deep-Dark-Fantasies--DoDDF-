@@ -243,22 +243,10 @@ consumer_goods = {
             219 157 36
         }
     }
-    tobacco = {
-        cost = 1.1
-        color = {
-            100 69 30
-        }
-    }
     tea = {
-        cost = 2.6
+        cost = 1.9
         color = {
             201 135 15
-        }
-    }
-    coffee = {
-        cost = 2.1
-        color = {
-            27 19 7
         }
     }
     opium = {

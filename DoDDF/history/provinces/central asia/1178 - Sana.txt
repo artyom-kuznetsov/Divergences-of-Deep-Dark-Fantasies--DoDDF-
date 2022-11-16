@@ -2,6 +2,6 @@ owner = YEM
 controller = YEM
 add_core = YEM
 add_core = NEJ
-trade_goods = coffee
+trade_goods = tea
 terrain = steppe
 life_rating = 35

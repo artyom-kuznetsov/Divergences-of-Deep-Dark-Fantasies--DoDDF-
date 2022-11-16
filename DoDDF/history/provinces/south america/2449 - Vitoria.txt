@@ -2,5 +2,5 @@ owner = AMA
 controller = AMA
 add_core = LOT
 add_core = ATL
-trade_goods = coffee
+trade_goods = tea
 life_rating = 35

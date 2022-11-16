@@ -159,13 +159,6 @@ political_decisions = {
 							owner = { vassal_of = THIS }
 						}
 					}
-					549 = {
-						OR = {
-							owned_by = THIS
-							owner = { in_sphere = THIS }
-							owner = { vassal_of = THIS }
-						}
-					}
 					534 = {
 						OR = {
 							owned_by = THIS
@@ -173,11 +166,20 @@ political_decisions = {
 							owner = { vassal_of = THIS }
 						}
 					}
-					547 = {
-						OR = {
-							owned_by = THIS
-							owner = { in_sphere = THIS }
-							owner = { vassal_of = THIS }
+					OR = {
+						547 = {
+							OR = {
+								owned_by = THIS
+								owner = { in_sphere = THIS }
+								owner = { vassal_of = THIS }
+							}
+						}
+						369 = {
+							OR = {
+								owned_by = THIS
+								owner = { in_sphere = THIS }
+								owner = { vassal_of = THIS }
+							}
 						}
 					}
 					536 = {
@@ -188,6 +190,13 @@ political_decisions = {
 						}
 					}
 					539 = {
+						OR = {
+							owned_by = THIS
+							owner = { in_sphere = THIS }
+							owner = { vassal_of = THIS }
+						}
+					}
+					540 = {
 						OR = {
 							owned_by = THIS
 							owner = { in_sphere = THIS }
