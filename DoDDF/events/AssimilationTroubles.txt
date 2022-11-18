@@ -1262,7 +1262,7 @@ country_event = {
                     is_primary_culture = no
                     is_accepted_culture = no
                 }
-                reduce_pop = 0.95
+                reduce_pop = 0.98
                 consciousness = 1
                 militancy = -1
             }

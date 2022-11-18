@@ -418,7 +418,7 @@ country_event = {
             }
         }
         capital_scope = {
-            any_pop = { reduce_pop = 0.95 }
+            any_pop = { reduce_pop = 0.98 }
         }
         ai_chance = { factor = 90 }
     }

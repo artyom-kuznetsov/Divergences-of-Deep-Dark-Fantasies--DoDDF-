@@ -2316,7 +2316,7 @@ province_event = {
         any_pop = {
             limit = { militancy = 3 }
             militancy = -2
-            reduce_pop = 0.95
+            reduce_pop = 0.98
         }
         any_pop = {
             ideology = {

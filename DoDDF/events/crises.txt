@@ -359,7 +359,7 @@ province_event = {
             flashpoint_tension = -75
             any_pop = {
                 limit = { is_culture_group = native_american }
-                reduce_pop = 0.95
+                reduce_pop = 0.98
                 militancy = -4
                 consciousness = -4
             }
