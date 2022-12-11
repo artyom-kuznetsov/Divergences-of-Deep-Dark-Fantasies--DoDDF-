@@ -33,7 +33,10 @@ country_event = {
 	title = "AI: Daily Cleanup Check"
 	desc = "AI: Daily Cleanup Check"
 	
-	is_triggered_only = yes
+	trigger = {
+		tag = CLN
+	}
+	fire_only_once = yes
 	
 	option = {
 		name = "Checking..."
@@ -186,7 +189,7 @@ country_event = {
 			change_variable = { which = owed_cash_money value = -10 }
 		}
 		
-		CLN = { country_event = { id = 477877787 days = 1 } }
+		CLN = { country_event = { id = 477877787 days = 3 } }
 	}
 }
 
@@ -195,7 +198,10 @@ country_event = {
 	title = "AI: Monthly Cleanup Check"
 	desc = "AI: Monthly Cleanup Check"
 	
-	is_triggered_only = yes
+	trigger = {
+		tag = CLN
+	}
+	fire_only_once = yes
 	
 	option = {
 		name = "Checking..."

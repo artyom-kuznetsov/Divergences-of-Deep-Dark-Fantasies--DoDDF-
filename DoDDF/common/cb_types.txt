@@ -3968,10 +3968,10 @@ demand_concession_casus_belli = {
         is_vassal = no
 
         OR = {
-            AND = {
-                THIS = { total_amount_of_ships = 5 }
-                num_of_ports = 1
-            }
+			AND = {
+				num_of_ports = 1
+				THIS = { num_of_ports = 1 }
+			}
             AND = {
                 war_with = THIS
                 ai = no
@@ -3983,10 +3983,6 @@ demand_concession_casus_belli = {
             NOT = { has_country_modifier = neutrality }
         }
         OR = {
-            war_with = THIS
-            THIS = { military_score = 1 }
-        }
-        OR = {
             THIS = {
                 NOT = { nationalism_n_imperialism = 1 }
             }
@@ -3994,17 +3990,17 @@ demand_concession_casus_belli = {
             civilization_progress = 0.6
             has_country_flag = post_colonial_country
         }
-        OR = {
-            THIS = {
-                NOT = { nationalism_n_imperialism = 1 }
-            }
-            AND = {
-                THIS = { nationalism_n_imperialism = 1 }
-                capital_scope = { continent = africa }
-            }
-            civilization_progress = 0.6
-            has_country_flag = post_colonial_country
-        }
+        #OR = {
+        #    THIS = {
+        #        NOT = { nationalism_n_imperialism = 1 }
+        #    }
+        #    AND = {
+        #        THIS = { nationalism_n_imperialism = 1 }
+        #        capital_scope = { continent = africa }
+        #    }
+        #    civilization_progress = 0.6
+        #    has_country_flag = post_colonial_country
+        #}
         OR = {
             war_with = THIS
             THIS = {
@@ -4014,10 +4010,6 @@ demand_concession_casus_belli = {
 
         OR = {
             THIS = { ai = no }
-            THIS = {
-                war_policy = jingoism
-                NOT = { government = democracy }
-            }
             NOT = {
                 THIS = {
                     OR = {
@@ -4030,7 +4022,6 @@ demand_concession_casus_belli = {
         }
 
         OR = {
-            THIS = { war_policy = jingoism }
             THIS = { civilized = no }
             war_with = THIS
             NOT = {
@@ -4086,83 +4077,83 @@ demand_concession_casus_belli = {
 		}
 		
         #Restrictions to non-African State conquering
-        OR = {
-            continent = africa
-
-            NOT = { total_pops = 500000 }
-
-            AND = {
-                NOT = { total_pops = 750000 }
-				OR = {
-					year = 1855
-					THIS = {
-						naval_plans = 1
-					}
-				}
-			}
-			
-            AND = {
-                NOT = { total_pops = 1000000 }
-				OR = {
-					year = 1860
-					THIS = {
-						naval_statistics = 1
-					}
-					THIS = {
-						raider_group_doctrine = 1
-					}
-				}
-            }
-			
-			
-            AND = {
-                NOT = { total_pops = 1500000 }
-				OR = {
-					year = 1865
-					THIS = {
-						naval_statistics = 1
-						raider_group_doctrine = 1
-					}
-				}
-            }
-
-            AND = {
-                NOT = { total_pops = 2000000 }
-				OR = {
-					year = 1870
-					THIS = {
-						naval_statistics = 1
-						raider_group_doctrine = 1
-						iron_steamers = 1
-					}
-				}
-            }
-			
-            AND = {
-                NOT = { total_pops = 2500000 }
-				OR = {
-					year = 1875
-					THIS = {
-						naval_logistics = 1
-					}
-				}
-            }
-			
-            AND = {
-                NOT = { total_pops = 3000000 }
-				OR = {
-					year = 1880
-					THIS = {
-						naval_logistics = 1
-						blue_and_brown_water_schools = 1
-					}
-				}
-            }
-            AND = {
-                total_pops = 3000000
-				year = 1885
-            }
-        } ###End of Non-African Restrictions
+        #OR = {
+        #    continent = africa
+		#
+        #    NOT = { total_pops = 500000 }
+		#
+        #    AND = {
+        #        NOT = { total_pops = 750000 }
+		#		OR = {
+		#			year = 1855
+		#			THIS = {
+		#				naval_plans = 1
+		#			}
+		#		}
+		#	}
+		#	
+        #    AND = {
+        #        NOT = { total_pops = 1000000 }
+		#		OR = {
+		#			year = 1860
+		#			THIS = {
+		#				naval_statistics = 1
+		#			}
+		#			THIS = {
+		#				raider_group_doctrine = 1
+		#			}
+		#		}
+        #    }
+		#	
+		#	
+        #    AND = {
+        #        NOT = { total_pops = 1500000 }
+		#		OR = {
+		#			year = 1865
+		#			THIS = {
+		#				naval_statistics = 1
+		#				raider_group_doctrine = 1
+		#			}
+		#		}
+        #    }
+		#
+        #    AND = {
+        #        NOT = { total_pops = 2000000 }
+		#		OR = {
+		#			year = 1870
+		#			THIS = {
+		#				naval_statistics = 1
+		#				raider_group_doctrine = 1
+		#				iron_steamers = 1
+		#			}
+		#		}
+        #    }
+		#	
+        #    AND = {
+        #        NOT = { total_pops = 2500000 }
+		#		OR = {
+		#			year = 1875
+		#			THIS = {
+		#				naval_logistics = 1
+		#			}
+		#		}
+        #    }
+		#	
+        #    AND = {
+        #        NOT = { total_pops = 3000000 }
+		#		OR = {
+		#			year = 1880
+		#			THIS = {
+		#				naval_logistics = 1
+		#				blue_and_brown_water_schools = 1
+		#			}
+		#		}
+        #    }
+        #    AND = {
+        #        total_pops = 3000000
+		#		year = 1885
+        #    }
+        #} ###End of Non-African Restrictions
     }
 
     po_demand_state = yes
@@ -4309,83 +4300,83 @@ demand_concession_NI_casus_belli = {
 		}
 		
         #Restrictions to non-African State conquering
-        OR = {
-            continent = africa
-
-            NOT = { total_pops = 500000 }
-
-            AND = {
-                NOT = { total_pops = 750000 }
-				OR = {
-					year = 1845
-					THIS = {
-						naval_plans = 1
-					}
-				}
-			}
-			
-            AND = {
-                NOT = { total_pops = 1000000 }
-				OR = {
-					year = 1850
-					THIS = {
-						naval_statistics = 1
-					}
-					THIS = {
-						raider_group_doctrine = 1
-					}
-				}
-            }
-			
-			
-            AND = {
-                NOT = { total_pops = 1500000 }
-				OR = {
-					year = 1855
-					THIS = {
-						naval_statistics = 1
-						raider_group_doctrine = 1
-					}
-				}
-            }
-
-            AND = {
-                NOT = { total_pops = 2000000 }
-				OR = {
-					year = 1860
-					THIS = {
-						naval_statistics = 1
-						raider_group_doctrine = 1
-						iron_steamers = 1
-					}
-				}
-            }
-			
-            AND = {
-                NOT = { total_pops = 2500000 }
-				OR = {
-					year = 1865
-					THIS = {
-						naval_logistics = 1
-					}
-				}
-            }
-			
-            AND = {
-                NOT = { total_pops = 3000000 }
-				OR = {
-					year = 1870
-					THIS = {
-						naval_logistics = 1
-						blue_and_brown_water_schools = 1
-					}
-				}
-            }
-            AND = {
-                total_pops = 3000000
-				year = 1875
-            }
-        } ###End of Non-African Restrictions
+        #OR = {
+        #    continent = africa
+		#
+        #    NOT = { total_pops = 500000 }
+		#
+        #    AND = {
+        #        NOT = { total_pops = 750000 }
+		#		OR = {
+		#			year = 1845
+		#			THIS = {
+		#				naval_plans = 1
+		#			}
+		#		}
+		#	}
+		#	
+        #    AND = {
+        #        NOT = { total_pops = 1000000 }
+		#		OR = {
+		#			year = 1850
+		#			THIS = {
+		#				naval_statistics = 1
+		#			}
+		#			THIS = {
+		#				raider_group_doctrine = 1
+		#			}
+		#		}
+        #    }
+		#	
+		#	
+        #    AND = {
+        #        NOT = { total_pops = 1500000 }
+		#		OR = {
+		#			year = 1855
+		#			THIS = {
+		#				naval_statistics = 1
+		#				raider_group_doctrine = 1
+		#			}
+		#		}
+        #    }
+		#
+        #    AND = {
+        #        NOT = { total_pops = 2000000 }
+		#		OR = {
+		#			year = 1860
+		#			THIS = {
+		#				naval_statistics = 1
+		#				raider_group_doctrine = 1
+		#				iron_steamers = 1
+		#			}
+		#		}
+        #    }
+		#	
+        #    AND = {
+        #        NOT = { total_pops = 2500000 }
+		#		OR = {
+		#			year = 1865
+		#			THIS = {
+		#				naval_logistics = 1
+		#			}
+		#		}
+        #    }
+		#	
+        #    AND = {
+        #        NOT = { total_pops = 3000000 }
+		#		OR = {
+		#			year = 1870
+		#			THIS = {
+		#				naval_logistics = 1
+		#				blue_and_brown_water_schools = 1
+		#			}
+		#		}
+        #    }
+        #    AND = {
+        #        total_pops = 3000000
+		#		year = 1875
+        #    }
+        #} ###End of Non-African Restrictions
     }
 
     po_demand_state = yes
@@ -4428,6 +4419,10 @@ demand_concession_BC_casus_belli = {
     always = no
 
     can_use = {
+		THIS = {
+			civilized = yes
+			nationalism_n_imperialism = 1
+		}
         OR = {
             AND = {
                 THIS = { total_amount_of_ships = 5 }
@@ -4529,83 +4524,83 @@ demand_concession_BC_casus_belli = {
 		}
 		
         #Restrictions to non-African State conquering
-        OR = {
-            continent = africa
-
-            NOT = { total_pops = 500000 }
-
-            AND = {
-                NOT = { total_pops = 750000 }
-				OR = {
-					year = 1845
-					THIS = {
-						naval_plans = 1
-					}
-				}
-			}
-			
-            AND = {
-                NOT = { total_pops = 1000000 }
-				OR = {
-					year = 1850
-					THIS = {
-						naval_statistics = 1
-					}
-					THIS = {
-						raider_group_doctrine = 1
-					}
-				}
-            }
-			
-			
-            AND = {
-                NOT = { total_pops = 1500000 }
-				OR = {
-					year = 1855
-					THIS = {
-						naval_statistics = 1
-						raider_group_doctrine = 1
-					}
-				}
-            }
-
-            AND = {
-                NOT = { total_pops = 2000000 }
-				OR = {
-					year = 1860
-					THIS = {
-						naval_statistics = 1
-						raider_group_doctrine = 1
-						iron_steamers = 1
-					}
-				}
-            }
-			
-            AND = {
-                NOT = { total_pops = 2500000 }
-				OR = {
-					year = 1865
-					THIS = {
-						naval_logistics = 1
-					}
-				}
-            }
-			
-            AND = {
-                NOT = { total_pops = 3000000 }
-				OR = {
-					year = 1870
-					THIS = {
-						naval_logistics = 1
-						blue_and_brown_water_schools = 1
-					}
-				}
-            }
-            AND = {
-                total_pops = 3000000
-				year = 1875
-            }
-        } ###End of Non-African Restrictions
+        #OR = {
+        #    continent = africa
+		#
+        #    NOT = { total_pops = 500000 }
+		#
+        #    AND = {
+        #        NOT = { total_pops = 750000 }
+		#		OR = {
+		#			year = 1845
+		#			THIS = {
+		#				naval_plans = 1
+		#			}
+		#		}
+		#	}
+		#	
+        #    AND = {
+        #        NOT = { total_pops = 1000000 }
+		#		OR = {
+		#			year = 1850
+		#			THIS = {
+		#				naval_statistics = 1
+		#			}
+		#			THIS = {
+		#				raider_group_doctrine = 1
+		#			}
+		#		}
+        #    }
+		#	
+		#	
+        #    AND = {
+        #        NOT = { total_pops = 1500000 }
+		#		OR = {
+		#			year = 1855
+		#			THIS = {
+		#				naval_statistics = 1
+		#				raider_group_doctrine = 1
+		#			}
+		#		}
+        #    }
+		#
+        #    AND = {
+        #        NOT = { total_pops = 2000000 }
+		#		OR = {
+		#			year = 1860
+		#			THIS = {
+		#				naval_statistics = 1
+		#				raider_group_doctrine = 1
+		#				iron_steamers = 1
+		#			}
+		#		}
+        #    }
+		#	
+        #    AND = {
+        #        NOT = { total_pops = 2500000 }
+		#		OR = {
+		#			year = 1865
+		#			THIS = {
+		#				naval_logistics = 1
+		#			}
+		#		}
+        #    }
+		#	
+        #    AND = {
+        #        NOT = { total_pops = 3000000 }
+		#		OR = {
+		#			year = 1870
+		#			THIS = {
+		#				naval_logistics = 1
+		#				blue_and_brown_water_schools = 1
+		#			}
+		#		}
+        #    }
+        #    AND = {
+        #        total_pops = 3000000
+		#		year = 1875
+        #    }
+        #} ###End of Non-African Restrictions
     }
 
     po_demand_state = yes
@@ -5142,9 +5137,14 @@ establish_protectorate_casus_belli = {
     always = no
 
     can_use = {
+		THIS = {
+			civilized = yes
+			nationalism_n_imperialism = 1
+		}
         civilized = no
         is_vassal = no
         OR = {
+		
             any_owned_province = {
                 any_neighbor_province = { owned_by = THIS }
             }
@@ -5238,83 +5238,83 @@ establish_protectorate_casus_belli = {
 		}
 		
         #Restrictions to non-African State conquering
-        OR = {
-            continent = africa
-
-            NOT = { total_pops = 500000 }
-
-            AND = {
-                NOT = { total_pops = 750000 }
-				OR = {
-					year = 1855
-					THIS = {
-						naval_plans = 1
-					}
-				}
-			}
-			
-            AND = {
-                NOT = { total_pops = 1000000 }
-				OR = {
-					year = 1860
-					THIS = {
-						naval_statistics = 1
-					}
-					THIS = {
-						raider_group_doctrine = 1
-					}
-				}
-            }
-			
-			
-            AND = {
-                NOT = { total_pops = 1500000 }
-				OR = {
-					year = 1865
-					THIS = {
-						naval_statistics = 1
-						raider_group_doctrine = 1
-					}
-				}
-            }
-
-            AND = {
-                NOT = { total_pops = 2000000 }
-				OR = {
-					year = 1870
-					THIS = {
-						naval_statistics = 1
-						raider_group_doctrine = 1
-						iron_steamers = 1
-					}
-				}
-            }
-			
-            AND = {
-                NOT = { total_pops = 2500000 }
-				OR = {
-					year = 1875
-					THIS = {
-						naval_logistics = 1
-					}
-				}
-            }
-			
-            AND = {
-                NOT = { total_pops = 3000000 }
-				OR = {
-					year = 1880
-					THIS = {
-						naval_logistics = 1
-						blue_and_brown_water_schools = 1
-					}
-				}
-            }
-            AND = {
-                total_pops = 3000000
-				year = 1885
-            }
-        } ###End of Non-African Restrictions
+        #OR = {
+        #    continent = africa
+		#
+        #    NOT = { total_pops = 500000 }
+		#
+        #    AND = {
+        #        NOT = { total_pops = 750000 }
+		#		OR = {
+		#			year = 1855
+		#			THIS = {
+		#				naval_plans = 1
+		#			}
+		#		}
+		#	}
+		#	
+        #    AND = {
+        #        NOT = { total_pops = 1000000 }
+		#		OR = {
+		#			year = 1860
+		#			THIS = {
+		#				naval_statistics = 1
+		#			}
+		#			THIS = {
+		#				raider_group_doctrine = 1
+		#			}
+		#		}
+        #    }
+		#	
+		#	
+        #    AND = {
+        #        NOT = { total_pops = 1500000 }
+		#		OR = {
+		#			year = 1865
+		#			THIS = {
+		#				naval_statistics = 1
+		#				raider_group_doctrine = 1
+		#			}
+		#		}
+        #    }
+		#
+        #    AND = {
+        #        NOT = { total_pops = 2000000 }
+		#		OR = {
+		#			year = 1870
+		#			THIS = {
+		#				naval_statistics = 1
+		#				raider_group_doctrine = 1
+		#				iron_steamers = 1
+		#			}
+		#		}
+        #    }
+		#	
+        #    AND = {
+        #        NOT = { total_pops = 2500000 }
+		#		OR = {
+		#			year = 1875
+		#			THIS = {
+		#				naval_logistics = 1
+		#			}
+		#		}
+        #    }
+		#	
+        #    AND = {
+        #        NOT = { total_pops = 3000000 }
+		#		OR = {
+		#			year = 1880
+		#			THIS = {
+		#				naval_logistics = 1
+		#				blue_and_brown_water_schools = 1
+		#			}
+		#		}
+        #    }
+        #    AND = {
+        #        total_pops = 3000000
+		#		year = 1885
+        #    }
+        #} ###End of Non-African Restrictions
     }
 
     po_annex = yes
@@ -5428,83 +5428,83 @@ establish_protectorate_NI_casus_belli = {
 		}
 
         #Restrictions to non-African State conquering
-        OR = {
-            continent = africa
-
-            NOT = { total_pops = 500000 }
-
-            AND = {
-                NOT = { total_pops = 750000 }
-				OR = {
-					year = 1845
-					THIS = {
-						naval_plans = 1
-					}
-				}
-			}
-			
-            AND = {
-                NOT = { total_pops = 1000000 }
-				OR = {
-					year = 1850
-					THIS = {
-						naval_statistics = 1
-					}
-					THIS = {
-						raider_group_doctrine = 1
-					}
-				}
-            }
-			
-			
-            AND = {
-                NOT = { total_pops = 1500000 }
-				OR = {
-					year = 1855
-					THIS = {
-						naval_statistics = 1
-						raider_group_doctrine = 1
-					}
-				}
-            }
-
-            AND = {
-                NOT = { total_pops = 2000000 }
-				OR = {
-					year = 1860
-					THIS = {
-						naval_statistics = 1
-						raider_group_doctrine = 1
-						iron_steamers = 1
-					}
-				}
-            }
-			
-            AND = {
-                NOT = { total_pops = 2500000 }
-				OR = {
-					year = 1865
-					THIS = {
-						naval_logistics = 1
-					}
-				}
-            }
-			
-            AND = {
-                NOT = { total_pops = 3000000 }
-				OR = {
-					year = 1870
-					THIS = {
-						naval_logistics = 1
-						blue_and_brown_water_schools = 1
-					}
-				}
-            }
-            AND = {
-                total_pops = 3000000
-				year = 1875
-            }
-        } ###End of Non-African Restrictions
+        #OR = {
+        #    continent = africa
+		#
+        #    NOT = { total_pops = 500000 }
+		#
+        #    AND = {
+        #        NOT = { total_pops = 750000 }
+		#		OR = {
+		#			year = 1845
+		#			THIS = {
+		#				naval_plans = 1
+		#			}
+		#		}
+		#	}
+		#	
+        #    AND = {
+        #        NOT = { total_pops = 1000000 }
+		#		OR = {
+		#			year = 1850
+		#			THIS = {
+		#				naval_statistics = 1
+		#			}
+		#			THIS = {
+		#				raider_group_doctrine = 1
+		#			}
+		#		}
+        #    }
+		#	
+		#	
+        #    AND = {
+        #        NOT = { total_pops = 1500000 }
+		#		OR = {
+		#			year = 1855
+		#			THIS = {
+		#				naval_statistics = 1
+		#				raider_group_doctrine = 1
+		#			}
+		#		}
+        #    }
+		#
+        #    AND = {
+        #        NOT = { total_pops = 2000000 }
+		#		OR = {
+		#			year = 1860
+		#			THIS = {
+		#				naval_statistics = 1
+		#				raider_group_doctrine = 1
+		#				iron_steamers = 1
+		#			}
+		#		}
+        #    }
+		#	
+        #    AND = {
+        #        NOT = { total_pops = 2500000 }
+		#		OR = {
+		#			year = 1865
+		#			THIS = {
+		#				naval_logistics = 1
+		#			}
+		#		}
+        #    }
+		#	
+        #    AND = {
+        #        NOT = { total_pops = 3000000 }
+		#		OR = {
+		#			year = 1870
+		#			THIS = {
+		#				naval_logistics = 1
+		#				blue_and_brown_water_schools = 1
+		#			}
+		#		}
+        #    }
+        #    AND = {
+        #        total_pops = 3000000
+		#		year = 1875
+        #    }
+        #} ###End of Non-African Restrictions
     }
 
     po_annex = yes
@@ -5618,83 +5618,83 @@ establish_protectorate_BC_casus_belli = {
 		}
 
         #Restrictions to non-African State conquering
-        OR = {
-            continent = africa
-
-            NOT = { total_pops = 500000 }
-
-            AND = {
-                NOT = { total_pops = 750000 }
-				OR = {
-					year = 1845
-					THIS = {
-						naval_plans = 1
-					}
-				}
-			}
-			
-            AND = {
-                NOT = { total_pops = 1000000 }
-				OR = {
-					year = 1850
-					THIS = {
-						naval_statistics = 1
-					}
-					THIS = {
-						raider_group_doctrine = 1
-					}
-				}
-            }
-			
-			
-            AND = {
-                NOT = { total_pops = 1500000 }
-				OR = {
-					year = 1855
-					THIS = {
-						naval_statistics = 1
-						raider_group_doctrine = 1
-					}
-				}
-            }
-
-            AND = {
-                NOT = { total_pops = 2000000 }
-				OR = {
-					year = 1860
-					THIS = {
-						naval_statistics = 1
-						raider_group_doctrine = 1
-						iron_steamers = 1
-					}
-				}
-            }
-			
-            AND = {
-                NOT = { total_pops = 2500000 }
-				OR = {
-					year = 1865
-					THIS = {
-						naval_logistics = 1
-					}
-				}
-            }
-			
-            AND = {
-                NOT = { total_pops = 3000000 }
-				OR = {
-					year = 1870
-					THIS = {
-						naval_logistics = 1
-						blue_and_brown_water_schools = 1
-					}
-				}
-            }
-            AND = {
-                total_pops = 3000000
-				year = 1875
-            }
-        } ###End of Non-African Restrictions
+        #OR = {
+        #    continent = africa
+		#
+        #    NOT = { total_pops = 500000 }
+		#
+        #    AND = {
+        #        NOT = { total_pops = 750000 }
+		#		OR = {
+		#			year = 1845
+		#			THIS = {
+		#				naval_plans = 1
+		#			}
+		#		}
+		#	}
+		#	
+        #    AND = {
+        #        NOT = { total_pops = 1000000 }
+		#		OR = {
+		#			year = 1850
+		#			THIS = {
+		#				naval_statistics = 1
+		#			}
+		#			THIS = {
+		#				raider_group_doctrine = 1
+		#			}
+		#		}
+        #    }
+		#	
+		#	
+        #    AND = {
+        #        NOT = { total_pops = 1500000 }
+		#		OR = {
+		#			year = 1855
+		#			THIS = {
+		#				naval_statistics = 1
+		#				raider_group_doctrine = 1
+		#			}
+		#		}
+        #    }
+		#
+        #    AND = {
+        #        NOT = { total_pops = 2000000 }
+		#		OR = {
+		#			year = 1860
+		#			THIS = {
+		#				naval_statistics = 1
+		#				raider_group_doctrine = 1
+		#				iron_steamers = 1
+		#			}
+		#		}
+        #    }
+		#	
+        #    AND = {
+        #        NOT = { total_pops = 2500000 }
+		#		OR = {
+		#			year = 1865
+		#			THIS = {
+		#				naval_logistics = 1
+		#			}
+		#		}
+        #    }
+		#	
+        #    AND = {
+        #        NOT = { total_pops = 3000000 }
+		#		OR = {
+		#			year = 1870
+		#			THIS = {
+		#				naval_logistics = 1
+		#				blue_and_brown_water_schools = 1
+		#			}
+		#		}
+        #    }
+        #    AND = {
+        #        total_pops = 3000000
+		#		year = 1875
+        #    }
+        #} ###End of Non-African Restrictions
     }
 
     po_annex = yes
@@ -7746,6 +7746,10 @@ demand_capital_concession = {
     good_relation_militancy_factor = 1
 
     can_use = {
+		THIS = {
+			civilized = yes
+			nationalism_n_imperialism = 1
+		}
         NOT = { is_our_vassal = THIS }
         number_of_states = 2 # annex if you want their last state
         any_owned_province = {
@@ -7815,125 +7819,125 @@ demand_capital_concession = {
 		}
 
         #Restrictions to non-African State conquering
-        OR = {
-            continent = africa
-
-            NOT = { total_pops = 500000 }
-
-            AND = {
-                NOT = { total_pops = 750000 }
-				OR = {
-					year = 1855
-					AND = {
-						year = 1845
-						THIS = {
-							nationalism_n_imperialism = 1
-						}
-					}
-					THIS = {
-						naval_plans = 1
-					}
-				}
-			}
-			
-            AND = {
-                NOT = { total_pops = 1000000 }
-				OR = {
-					year = 1860
-					AND = {
-						year = 1850
-						nationalism_n_imperialism = 1
-					}
-					THIS = {
-						naval_statistics = 1
-					}
-					THIS = {
-						raider_group_doctrine = 1
-					}
-				}
-            }
-			
-			
-            AND = {
-                NOT = { total_pops = 1500000 }
-				OR = {
-					year = 1865
-					AND = {
-						year = 1855
-						THIS = {
-							nationalism_n_imperialism = 1
-						}
-					}
-					THIS = {
-						naval_statistics = 1
-						raider_group_doctrine = 1
-					}
-				}
-            }
-
-            AND = {
-                NOT = { total_pops = 2000000 }
-				OR = {
-					year = 1870
-					AND = {
-						year = 1860
-						THIS = {
-							nationalism_n_imperialism = 1
-						}
-					}
-					THIS = {
-						naval_statistics = 1
-						raider_group_doctrine = 1
-						iron_steamers = 1
-					}
-				}
-            }
-			
-            AND = {
-                NOT = { total_pops = 2500000 }
-				OR = {
-					year = 1875
-					AND = {
-						year = 1865
-						THIS = {
-							nationalism_n_imperialism = 1
-						}
-					}
-					THIS = {
-						naval_logistics = 1
-					}
-				}
-            }
-			
-            AND = {
-                NOT = { total_pops = 3000000 }
-				OR = {
-					year = 1880
-					AND = {
-						year = 1870
-						THIS = {
-							nationalism_n_imperialism = 1
-						}
-					}
-					THIS = {
-						naval_logistics = 1
-						blue_and_brown_water_schools = 1
-					}
-				}
-            }
-            AND = {
-                total_pops = 3000000
-				OR = {
-					year = 1885
-					AND = {
-						year = 1875
-						THIS = {
-							nationalism_n_imperialism = 1
-						}
-					}
-				}
-            }
-        } ###End of Non-African Restrictions
+        #OR = {
+        #    continent = africa
+		#
+        #    NOT = { total_pops = 500000 }
+		#
+        #    AND = {
+        #        NOT = { total_pops = 750000 }
+		#		OR = {
+		#			year = 1855
+		#			AND = {
+		#				year = 1845
+		#				THIS = {
+		#					nationalism_n_imperialism = 1
+		#				}
+		#			}
+		#			THIS = {
+		#				naval_plans = 1
+		#			}
+		#		}
+		#	}
+		#	
+        #    AND = {
+        #        NOT = { total_pops = 1000000 }
+		#		OR = {
+		#			year = 1860
+		#			AND = {
+		#				year = 1850
+		#				nationalism_n_imperialism = 1
+		#			}
+		#			THIS = {
+		#				naval_statistics = 1
+		#			}
+		#			THIS = {
+		#				raider_group_doctrine = 1
+		#			}
+		#		}
+        #    }
+		#	
+		#	
+        #    AND = {
+        #        NOT = { total_pops = 1500000 }
+		#		OR = {
+		#			year = 1865
+		#			AND = {
+		#				year = 1855
+		#				THIS = {
+		#					nationalism_n_imperialism = 1
+		#				}
+		#			}
+		#			THIS = {
+		#				naval_statistics = 1
+		#				raider_group_doctrine = 1
+		#			}
+		#		}
+        #    }
+		#
+        #    AND = {
+        #        NOT = { total_pops = 2000000 }
+		#		OR = {
+		#			year = 1870
+		#			AND = {
+		#				year = 1860
+		#				THIS = {
+		#					nationalism_n_imperialism = 1
+		#				}
+		#			}
+		#			THIS = {
+		#				naval_statistics = 1
+		#				raider_group_doctrine = 1
+		#				iron_steamers = 1
+		#			}
+		#		}
+        #    }
+		#	
+        #    AND = {
+        #        NOT = { total_pops = 2500000 }
+		#		OR = {
+		#			year = 1875
+		#			AND = {
+		#				year = 1865
+		#				THIS = {
+		#					nationalism_n_imperialism = 1
+		#				}
+		#			}
+		#			THIS = {
+		#				naval_logistics = 1
+		#			}
+		#		}
+        #    }
+		#	
+        #    AND = {
+        #        NOT = { total_pops = 3000000 }
+		#		OR = {
+		#			year = 1880
+		#			AND = {
+		#				year = 1870
+		#				THIS = {
+		#					nationalism_n_imperialism = 1
+		#				}
+		#			}
+		#			THIS = {
+		#				naval_logistics = 1
+		#				blue_and_brown_water_schools = 1
+		#			}
+		#		}
+        #    }
+        #    AND = {
+        #        total_pops = 3000000
+		#		OR = {
+		#			year = 1885
+		#			AND = {
+		#				year = 1875
+		#				THIS = {
+		#					nationalism_n_imperialism = 1
+		#				}
+		#			}
+		#		}
+        #    }
+        #} ###End of Non-African Restrictions
     }
 
 
